@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2832,
+  "gloss": {
+    "english": [
+      "rabbit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rāpeti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rabbit.2832.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rabbit.2832.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        2832,
+        637,
+        856
+      ],
+      "translation": "I have a pet rabbit at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "rabbit-2832.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2159,
+  "gloss": {
+    "english": [
+      "trivial"
+    ],
+    "english_secondary": [
+      "babyish",
+      "child's play",
+      "easy",
+      "simple"
+    ],
+    "maori": [
+      "hauwarea"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "miserable.2159.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "miserable.2159.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2126,
+        579,
+        2159,
+        3684,
+        489
+      ],
+      "translation": "He was crying over something really trivial. It was better to leave him alone."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "trivial-2159.png"
+}

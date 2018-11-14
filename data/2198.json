@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2198,
+  "gloss": {
+    "english": [
+      "sweet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "reka"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "sweet.2198.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sweet.2198.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        3212,
+        762,
+        3727,
+        367,
+        2198
+      ],
+      "translation": "That ice cream is my favourite. It's lovely and sweet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "sweet-2198.png"
+}

@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 2864,
+  "gloss": {
+    "english": [
+      "die"
+    ],
+    "english_secondary": [
+      "dead",
+      "death",
+      "fatality",
+      "lifeless",
+      "pass away"
+    ],
+    "maori": [
+      "mate",
+      "hemo"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "dead.2864.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dead.2864.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3276,
+        3050,
+        2864,
+        2297,
+        5498,
+        5760,
+        845,
+        702,
+        3605
+      ],
+      "translation": "His wife died, so he decided to sell the house and move to Tauranga."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "die-2864.png"
+}

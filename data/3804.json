@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3804,
+  "gloss": {
+    "english": [
+      "bonnet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pōtae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bonnet.3804.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bonnet.3804.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        3338,
+        2297,
+        2481,
+        478,
+        3804,
+        1220,
+        1231,
+        872
+      ],
+      "translation": "My grandmother knitted a blue bonnet as a present for my baby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bonnet-3804.png"
+}

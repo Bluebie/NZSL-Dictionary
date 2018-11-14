@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2206,
+  "gloss": {
+    "english": [
+      "complain"
+    ],
+    "english_secondary": [
+      "complaint",
+      "moan",
+      "grizzle",
+      "grumble",
+      "whinge",
+      "whinger"
+    ],
+    "maori": [
+      "amuamu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "complain.2206.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "complain.2206.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        856,
+        5389,
+        2743,
+        3027,
+        2206
+      ],
+      "translation": "At home the children do nothing but complain!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "complain-2206.png"
+}

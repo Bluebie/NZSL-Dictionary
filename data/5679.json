@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5679,
+  "gloss": {
+    "english": [
+      "cervix"
+    ],
+    "english_secondary": [
+      "cervical"
+    ],
+    "maori": [
+      "waha whare tangata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cervix.5679.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cervix.5679.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4520,
+        1716,
+        5679,
+        2297,
+        1376,
+        4477
+      ],
+      "translation": "The doctor found evidence of cancer in the cervix."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cervix-5679.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4485,
+  "gloss": {
+    "english": [
+      "(use) computer mouse"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiore (whakamahi)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mouse.4485.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mouse.4485.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1915,
+        "cl:go-blank",
+        2556,
+        2096,
+        4485
+      ],
+      "translation": "The computer screen went blank so I couldn't use the computer mouse"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "use_computer_mouse-4485.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1823,
+  "gloss": {
+    "english": [
+      "sensitive"
+    ],
+    "english_secondary": [
+      "easily upset",
+      "feel hurt",
+      "touchy"
+    ],
+    "maori": [
+      "tere whakamā"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "sensitive.1823.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sensitive.1823.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1823,
+        2215,
+        1533,
+        2297
+      ],
+      "translation": "She's sensitive, easily upset."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "sensitive-1823.png"
+}

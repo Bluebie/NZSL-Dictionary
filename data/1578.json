@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1578,
+  "gloss": {
+    "english": [
+      "blueberry"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "purūpere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "blueberry.1578.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blueberry.1578.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3885,
+        1386,
+        3089,
+        1376,
+        1578,
+        1805,
+        2163
+      ],
+      "translation": "We're having blueberry muffins for afternoon tea. Yum!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "blueberry-1578.png"
+}

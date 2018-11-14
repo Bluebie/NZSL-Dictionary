@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5377,
+  "gloss": {
+    "english": [
+      "thesis"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuhinga whakapae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "thesis.5377.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thesis.5377.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3653,
+        3949,
+        5377,
+        523,
+        2543,
+        3261,
+        2761
+      ],
+      "translation": "She completed her thesis on NZSL linguistics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "thesis-5377.png"
+}

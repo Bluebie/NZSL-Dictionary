@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 313,
+  "gloss": {
+    "english": [
+      "head"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "upoko",
+      "mātenga",
+      "māhunga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "head.313.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "head.313.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        970,
+        3358,
+        3426,
+        1376,
+        313,
+        1561
+      ],
+      "translation": "The man had a head injury from a recent motorbike accident."
+    },
+    {
+      "video": "head.313.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        6033,
+        1571,
+        4383,
+        313,
+        3800,
+        797,
+        2583
+      ],
+      "translation": "I'll be transferring to Palmerston North soon to work at the head office."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "head-313.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 946,
+  "gloss": {
+    "english": [
+      "chop",
+      "slice"
+    ],
+    "english_secondary": [
+      "cut",
+      "sliced"
+    ],
+    "maori": [
+      "tātā",
+      "tapahi",
+      "tapatapahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "slice.946.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "slice.946.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4266,
+        3224,
+        1185,
+        5533,
+        946
+      ],
+      "translation": "Can I borrow an axe? I need to chop some wood."
+    },
+    {
+      "video": "slice.946.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        4258,
+        2556,
+        946,
+        4138,
+        1841
+      ],
+      "translation": "I sliced some cucumber to put in the salad."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chop-946.png"
+}

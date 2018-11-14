@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3152,
+  "gloss": {
+    "english": [
+      "swimming costume"
+    ],
+    "english_secondary": [
+      "swimming togs",
+      "swimwear",
+      "togs"
+    ],
+    "maori": [
+      "kahukau",
+      "kākahu kaukau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "swimming_costume.3152.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "swimming_costume.3152.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        2410,
+        783,
+        3369,
+        3222,
+        3152
+      ],
+      "translation": "We are going for a swim. Bring a towel and a swimming costume."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "swimming_costume-3152.png"
+}

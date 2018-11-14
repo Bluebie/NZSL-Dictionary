@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4207,
+  "gloss": {
+    "english": [
+      "choke"
+    ],
+    "english_secondary": [
+      "suffocate"
+    ],
+    "maori": [
+      "rāoa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "choke.4207.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "choke.4207.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4022,
+        4508,
+        6027,
+        3119,
+        2429,
+        4207
+      ],
+      "translation": "She was eating chicken. She swallowed a bone by mistake and choked."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "choke-4207.png"
+}

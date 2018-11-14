@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 335,
+  "gloss": {
+    "english": [
+      "hear",
+      "listen"
+    ],
+    "english_secondary": [
+      "sound"
+    ],
+    "maori": [
+      "rongo",
+      "whakarongo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hear.335.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hear.335.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        570,
+        3257,
+        2556,
+        335,
+        3027,
+        2556,
+        4656
+      ],
+      "translation": "When someone knocks on the door, I don't hear it because I'm Deaf."
+    },
+    {
+      "video": "hear.335.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1388,
+        2093,
+        335,
+        972,
+        2543,
+        585,
+        519
+      ],
+      "translation": "A large audience came to listen to the lecture about New Zealand history."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "hear-335.png"
+}

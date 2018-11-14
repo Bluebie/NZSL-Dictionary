@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 984,
+  "gloss": {
+    "english": [
+      "long hair"
+    ],
+    "english_secondary": [
+      "long-haired"
+    ],
+    "maori": [
+      "makawe roa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "long_haired.984.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "long_haired.984.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2135,
+        2297,
+        1376,
+        3201,
+        984,
+        367
+      ],
+      "translation": "The girl had lovely long black hair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "long_hair-984.png"
+}

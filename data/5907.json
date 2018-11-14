@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5907,
+  "gloss": {
+    "english": [
+      "influence"
+    ],
+    "english_secondary": [
+      "affect",
+      "effect"
+    ],
+    "maori": [
+      "kawenga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "influence.5907.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "influence.5907.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2382,
+        2297,
+        5155,
+        5907,
+        2095,
+        3428,
+        4981
+      ],
+      "translation": "Television has a huge influence on people and their behaviour."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "influence-5907.png"
+}

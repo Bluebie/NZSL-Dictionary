@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3585,
+  "gloss": {
+    "english": [
+      "job"
+    ],
+    "english_secondary": [
+      "work"
+    ],
+    "maori": [
+      "mahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "job.3585.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "job.3585.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1338,
+        2556,
+        3653,
+        1298,
+        2556,
+        1766,
+        3585,
+        5533,
+        3954,
+        834,
+        347,
+        4819,
+        2593
+      ],
+      "translation": "When I finished school, I got a job working with wood – building tables, beds, drawers and so on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "job-3585.png"
+}

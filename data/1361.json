@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1361,
+  "gloss": {
+    "english": [
+      "force"
+    ],
+    "english_secondary": [
+      "coerce",
+      "compel",
+      "make",
+      "pressure",
+      "pressurise",
+      "put pressure on"
+    ],
+    "maori": [
+      "whakahau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "force.1361.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "force.1361.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        2297,
+        1361,
+        2297,
+        1926,
+        3598,
+        2297,
+        3718,
+        1949
+      ],
+      "translation": "A friend forced him to play soccer though he'd rather play basketball."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "force-1361.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1293,
+  "gloss": {
+    "english": [
+      "chainsaw"
+    ],
+    "english_secondary": [
+      "use a chainsaw"
+    ],
+    "maori": [
+      "kani mīhini"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "chainsaw.1293.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chainsaw.1293.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2841,
+        1299,
+        2583,
+        721,
+        1293,
+        946,
+        "wood",
+        5448,
+        1923,
+        3420
+      ],
+      "translation": "I want to cut down the old tree out the back with a chainsaw and chop it up for firewood for the winter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chainsaw-1293.png"
+}

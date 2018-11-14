@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5754,
+  "gloss": {
+    "english": [
+      "get on"
+    ],
+    "english_secondary": [
+      "board",
+      "embark"
+    ],
+    "maori": [
+      "eke",
+      "piki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_on.5754.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_on.5754.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3587,
+        "cl:bus-stop",
+        2556,
+        5754,
+        "cl:bus-travel",
+        856
+      ],
+      "translation": "I got on the bus and travelled home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "get_on-5754.png"
+}

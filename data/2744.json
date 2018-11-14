@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2744,
+  "gloss": {
+    "english": [
+      "shirt"
+    ],
+    "english_secondary": [
+      "blouse",
+      "collar"
+    ],
+    "maori": [
+      "hāte"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "blouse.2744.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blouse.2744.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4454,
+        1185,
+        927,
+        4490,
+        3020,
+        2744,
+        903,
+        1298
+      ],
+      "translation": "My daughter needs green trousers and a white shirt for school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "shirt-2744.png"
+}

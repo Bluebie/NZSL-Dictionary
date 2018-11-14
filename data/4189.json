@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 4189,
+  "gloss": {
+    "english": [
+      "memory",
+      "remember"
+    ],
+    "english_secondary": [
+      "memorial",
+      "recall",
+      "recollect",
+      "recollection"
+    ],
+    "maori": [
+      "pūmahara",
+      "mahara"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "remember.4189.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "remember.4189.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3434,
+        2841,
+        845,
+        2556,
+        1553,
+        4189,
+        1279
+      ],
+      "translation": "When I visited my old house, it brought back many memories."
+    },
+    {
+      "video": "remember.4189.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2841,
+        4948,
+        2556,
+        2825,
+        4189,
+        2556,
+        954
+      ],
+      "translation": "Looking around the old building, I remembered when I was a child."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "memory-4189.png"
+}

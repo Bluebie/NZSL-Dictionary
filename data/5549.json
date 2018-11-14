@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5549,
+  "gloss": {
+    "english": [
+      "compound"
+    ],
+    "english_secondary": [
+      "conjunction"
+    ],
+    "maori": [
+      "kupu pūhui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "compound.5549.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "compound.5549.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1640,
+        4501,
+        5617,
+        5488,
+        5549,
+        5607,
+        5488,
+        2479,
+        2456
+      ],
+      "translation": "In sign language, two signs can become a compound to make one sign, just like an English compound word."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "compound-5549.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5864,
+  "gloss": {
+    "english": [
+      "centimetre"
+    ],
+    "english_secondary": [
+      "cm"
+    ],
+    "maori": [
+      "henemita"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "centimetre.5864.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "centimetre.5864.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        969,
+        5607,
+        5713,
+        5864
+      ],
+      "translation": "I'm one hundred and eighty centimetres tall."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "centimetre-5864.png"
+}

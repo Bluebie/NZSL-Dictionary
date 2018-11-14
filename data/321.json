@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 321,
+  "gloss": {
+    "english": [
+      "hello",
+      "salute"
+    ],
+    "english_secondary": [
+      "hi"
+    ],
+    "maori": [
+      "kia ora",
+      "tēnā koe",
+      "whakakōtua"
+    ],
+    "attributes": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "salute.321.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "salute.321.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        321,
+        4809,
+        2091,
+        5914
+      ],
+      "translation": "Hello, I haven't seen you in a long time."
+    },
+    {
+      "video": "salute.321.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5039,
+        "cl:raise-flag",
+        5818,
+        5849,
+        "cl:line-up",
+        321
+      ],
+      "translation": "When the flag was hoisted, all the soldiers lined up and saluted."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "salute-321.png"
+}

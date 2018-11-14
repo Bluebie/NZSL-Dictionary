@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2873,
+  "gloss": {
+    "english": [
+      "topic"
+    ],
+    "english_secondary": [
+      "issue",
+      "subject",
+      "theme"
+    ],
+    "maori": [
+      "kaupapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "topic.2873.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "topic.2873.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2607,
+        2297,
+        1211,
+        2873,
+        2543,
+        3261,
+        3063
+      ],
+      "translation": "The topic for discussion at the meeting was NZSL interpreters."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "topic-2873.png"
+}

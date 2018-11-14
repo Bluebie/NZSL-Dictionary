@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4453,
+  "gloss": {
+    "english": [
+      "December"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Hakihea",
+      "Tīhema"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_december.4453.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_december.4453.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5663,
+        4453,
+        3736,
+        5429,
+        1299,
+        6264
+      ],
+      "translation": "On the first of December, we set up the Christmas tree and decorated it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "december-4453.png"
+}

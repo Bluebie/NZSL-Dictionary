@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2707,
+  "gloss": {
+    "english": [
+      "dash",
+      "speed"
+    ],
+    "english_secondary": [
+      "go fast",
+      "hurry",
+      "race",
+      "sprint",
+      "zoom"
+    ],
+    "maori": [
+      "rere",
+      "tino tere"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "high_speed.2707.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "high_speed.2707.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1885,
+        2707,
+        3524,
+        908
+      ],
+      "translation": "I have to dash and make a booking straightaway."
+    },
+    {
+      "video": "high_speed.2707.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3707,
+        3462,
+        2297,
+        5155,
+        2707,
+        5155,
+        2297
+      ],
+      "translation": "Wow, that sports car sure can speed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dash-2707.png"
+}

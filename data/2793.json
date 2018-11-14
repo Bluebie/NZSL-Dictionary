@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2793,
+  "gloss": {
+    "english": [
+      "drug (illegal)"
+    ],
+    "english_secondary": [
+      "heroin",
+      "inject drug",
+      "shoot up"
+    ],
+    "maori": [
+      "whakapōauau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "drugs.2793.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drugs.2793.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5625,
+        2793,
+        2096,
+        4178
+      ],
+      "translation": "That man is addicted to drugs. He can't give them up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "drug_illegal-2793.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2702,
+  "gloss": {
+    "english": [
+      "skin"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "skin.2702.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "skin.2702.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1231,
+        1376,
+        367,
+        6032,
+        2702
+      ],
+      "translation": "Babies have beautiful soft skin."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "skin-2702.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1880,
+  "gloss": {
+    "english": [
+      "cotton wool"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wūru miro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cottonwool.1880.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cottonwool.1880.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2321,
+        2410,
+        5446,
+        5632,
+        1880
+      ],
+      "translation": "Can you go to the supermarket to buy some cotton wool?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cotton_wool-1880.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1562,
+  "gloss": {
+    "english": [
+      "hurt"
+    ],
+    "english_secondary": [
+      "ouch",
+      "ow",
+      "painful",
+      "sore"
+    ],
+    "maori": [
+      "mamae"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "ouch.1562.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ouch.1562.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        2883,
+        3027,
+        2091,
+        "cl:pole",
+        "cl:bump-into-pole",
+        1562,
+        6226
+      ],
+      "translation": "He was walking along and didn't see the pole. He bumped into it and hurt his head."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hurt-1562.png"
+}

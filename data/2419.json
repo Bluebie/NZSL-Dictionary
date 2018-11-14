@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2419,
+  "gloss": {
+    "english": [
+      "fifth"
+    ],
+    "english_secondary": [
+      "fifth (of a list)",
+      "fifthly"
+    ],
+    "maori": [
+      "tuarima"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "fifthly.2419.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fifthly.2419.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3513,
+        2419,
+        3811,
+        2099,
+        5615,
+        3885,
+        3355
+      ],
+      "translation": "My brother, who is fifth in the family, will be eighteen this Saturday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fifth-2419.png"
+}

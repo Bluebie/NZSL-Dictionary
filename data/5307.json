@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5307,
+  "gloss": {
+    "english": [
+      "negation"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakakāhore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "negation.5307.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "negation.5307.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3261,
+        5552,
+        2297,
+        1287,
+        1885,
+        "cl:point-head-move-head",
+        2479,
+        5784,
+        5488
+      ],
+      "translation": "For NZSL negation, you must shake your head at the same time as producing the sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "negation-5307.png"
+}

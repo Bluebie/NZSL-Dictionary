@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5926,
+  "gloss": {
+    "english": [
+      "misinterpret"
+    ],
+    "english_secondary": [
+      "misconstrue",
+      "misunderstand"
+    ],
+    "maori": [
+      "kāore i mau tika",
+      "hē te whakamārama"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "misinterpret.5926.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "misinterpret.5926.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        5736,
+        2297,
+        5926,
+        2050,
+        5211
+      ],
+      "translation": "I've told him that he misinterpreted it. His thinking was way off track."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "misinterpret-5926.png"
+}

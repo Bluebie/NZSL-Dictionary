@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6175,
+  "gloss": {
+    "english": [
+      "tui"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tūī"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tui.6175.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tui.6175.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1071,
+        5526,
+        6175,
+        1299,
+        5526
+      ],
+      "translation": "She got my attention and said, 'Look there's a tui in the tree, look!'."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "tui-6175.png"
+}

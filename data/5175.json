@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 5175,
+  "gloss": {
+    "english": [
+      "humiliated"
+    ],
+    "english_secondary": [
+      "deflated",
+      "eat humble pie",
+      "feel small",
+      "humbled",
+      "lose face",
+      "shamed"
+    ],
+    "maori": [
+      "noho whakamā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "humiliated.5175.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "humiliated.5175.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        570,
+        2556,
+        5785,
+        "cl:try-open-door",
+        3220,
+        "cl:person-come",
+        5505,
+        2556,
+        5175
+      ],
+      "translation": "I was trying to pull the door open but a man came along and casually pushed it open - I felt humiliated."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "humiliated-5175.png"
+}

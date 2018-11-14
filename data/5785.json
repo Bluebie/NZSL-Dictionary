@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5785,
+  "gloss": {
+    "english": [
+      "try"
+    ],
+    "english_secondary": [
+      "aim to",
+      "attempt",
+      "endeavour",
+      "have a go",
+      "make an effort"
+    ],
+    "maori": [
+      "whakamātau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "try.5785.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "try.5785.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2953,
+        3086,
+        721,
+        1636,
+        5785,
+        5620,
+        4763,
+        5732,
+        3656
+      ],
+      "translation": "They made plans to begin a family and tried for four months before they were successful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "try-5785.png"
+}

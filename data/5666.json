@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5666,
+  "gloss": {
+    "english": [
+      "plate"
+    ],
+    "english_secondary": [
+      "dish",
+      "saucer"
+    ],
+    "maori": [
+      "pereti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "plate.5666.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plate.5666.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3460,
+        3653,
+        2556,
+        3534,
+        5666,
+        4183,
+        2450,
+        4769
+      ],
+      "translation": "After dinner, I washed the plates, cups, knives and forks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "plate-5666.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2383,
+  "gloss": {
+    "english": [
+      "sole (foot)"
+    ],
+    "english_secondary": [
+      "heel"
+    ],
+    "maori": [
+      "takahanga",
+      "tapuwae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "foot.2383.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "foot.2383.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2383,
+        1562,
+        1771,
+        1505,
+        2883,
+        850,
+        264
+      ],
+      "translation": "His sole was sore and aching from walking all day."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "sole_foot-2383.png"
+}

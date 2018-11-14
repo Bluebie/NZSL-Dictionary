@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3095,
+  "gloss": {
+    "english": [
+      "nothing"
+    ],
+    "english_secondary": [
+      "no",
+      "none",
+      "not a thing",
+      "nothing at all",
+      "not have"
+    ],
+    "maori": [
+      "kore",
+      "kāore he aha"
+    ],
+    "attributes": [
+      "negator",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "nothing.3095.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nothing.3095.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3513,
+        1080,
+        335,
+        3095,
+        1107
+      ],
+      "translation": "My brother is overseas. I've heard nothing from him for a long time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nothing-3095.png"
+}

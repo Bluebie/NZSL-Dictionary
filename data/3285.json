@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3285,
+  "gloss": {
+    "english": [
+      "counselling"
+    ],
+    "english_secondary": [
+      "counsellor",
+      "guidance"
+    ],
+    "maori": [
+      "tohutohu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "counselling.3285.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "counselling.3285.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1533,
+        2410,
+        3285,
+        1211,
+        5536,
+        3684
+      ],
+      "translation": "She was upset. She went and consulted a counsellor. Then she felt better."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "counselling-3285.png"
+}

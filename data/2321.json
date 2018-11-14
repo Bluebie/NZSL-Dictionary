@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2321,
+  "gloss": {
+    "english": [
+      "you"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "koe"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "you.2321.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "you.2321.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3542,
+        4656,
+        5506,
+        4766,
+        5450,
+        2321,
+        4656
+      ],
+      "translation": "You were born deaf, but how old were you when your parents found out you were deaf?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "you-2321.png"
+}

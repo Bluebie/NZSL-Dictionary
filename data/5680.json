@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5680,
+  "gloss": {
+    "english": [
+      "consonant"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūkati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "consonant.5680.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "consonant.5680.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4051,
+        5680,
+        3741,
+        4293,
+        4130,
+        2404,
+        5680
+      ],
+      "translation": "Some consonants are harder to say than other consonants."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "consonant-5680.png"
+}

@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4271,
+  "gloss": {
+    "english": [
+      "catch up"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "me pukumahi tonu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "catch_up.4271.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "catch_up.4271.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        450,
+        3130,
+        496,
+        1185,
+        4271,
+        4858,
+        6246,
+        2556,
+        798
+      ],
+      "translation": "I'm behind with my science studies and I need to catch up. I'm fed up with all the interruptions."
+    },
+    {
+      "video": "catch_up.4271.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        3486,
+        1107,
+        3720,
+        2879,
+        4271
+      ],
+      "translation": "We have both been busy, but at last managed to catch up with each other."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "catch_up-4271.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3469,
+  "gloss": {
+    "english": [
+      "(my) own"
+    ],
+    "english_secondary": [
+      "mine"
+    ],
+    "maori": [
+      "tōku"
+    ],
+    "attributes": [
+      "adjective",
+      "pronoun"
+    ]
+  },
+  "video": "own.3469.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "own.3469.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3862,
+        3462,
+        3677,
+        3720,
+        3469
+      ],
+      "translation": "I finished paying off my car. I finally own it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "my_own-3469.png"
+}

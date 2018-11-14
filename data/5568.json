@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5568,
+  "gloss": {
+    "english": [
+      "social worker"
+    ],
+    "english_secondary": [
+      "social work",
+      "welfare"
+    ],
+    "maori": [
+      "kaitauwhiro hapori"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "social_worker.5568.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "social_worker.5568.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        5568,
+        1123,
+        2095
+      ],
+      "translation": "She works as a social worker, helping people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "social_worker-5568.png"
+}

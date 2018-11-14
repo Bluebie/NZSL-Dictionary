@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4092,
+  "gloss": {
+    "english": [
+      "medical"
+    ],
+    "english_secondary": [
+      "doctor",
+      "physician"
+    ],
+    "maori": [
+      "oranga tinana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "doctor.4092.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "doctor.4092.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1376,
+        4092,
+        5398,
+        4501,
+        924,
+        5402,
+        2914
+      ],
+      "translation": "If you have medical insurance you can go to a private hospital."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "medical-4092.png"
+}

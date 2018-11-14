@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1968,
+  "gloss": {
+    "english": [
+      "annoyed"
+    ],
+    "english_secondary": [
+      "annoyance",
+      "get on nerves",
+      "irritate",
+      "irritation"
+    ],
+    "maori": [
+      "whakatakariri",
+      "hōhā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "annoyed.1968.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "annoyed.1968.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        4581,
+        3462,
+        2556,
+        1968,
+        514,
+        2844
+      ],
+      "translation": "The man in front of me was a bad driver. I got annoyed, so I overtook his car and gave him a look."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "annoyed-1968.png"
+}

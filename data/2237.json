@@ -1,0 +1,78 @@
+{
+  "nzsl_id": 2237,
+  "gloss": {
+    "english": [
+      "dead",
+      "die",
+      "kill"
+    ],
+    "english_secondary": [
+      "death",
+      "fatality",
+      "lifeless",
+      "murder",
+      "murderer"
+    ],
+    "maori": [
+      "mate",
+      "hemo",
+      "patu"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "dead.2237.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dead.2237.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4547,
+        5513,
+        2237,
+        3978
+      ],
+      "translation": "My cellphone is dead, it's not working."
+    },
+    {
+      "video": "dead.2237.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        3337,
+        2297,
+        540,
+        4096,
+        1376,
+        4513,
+        2237,
+        1952,
+        5784,
+        484
+      ],
+      "translation": "My grandfather has a heart problem and he could possibly die any time now."
+    },
+    {
+      "video": "dead.2237.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        4503,
+        2237,
+        2421,
+        730,
+        1152,
+        845
+      ],
+      "translation": "The cat killed a mouse and brought it inside the house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "dead-2237.png"
+}

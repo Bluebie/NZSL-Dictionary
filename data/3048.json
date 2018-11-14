@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3048,
+  "gloss": {
+    "english": [
+      "wedding"
+    ],
+    "english_secondary": [
+      "get married",
+      "marry"
+    ],
+    "maori": [
+      "mārena"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wedding.3048.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wedding.3048.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        6020,
+        2879,
+        2410,
+        3276,
+        3048
+      ],
+      "translation": "They invited us to go to their wedding."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "wedding-3048.png"
+}

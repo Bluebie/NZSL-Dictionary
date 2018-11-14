@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4448,
+  "gloss": {
+    "english": [
+      "thick"
+    ],
+    "english_secondary": [
+      "thickness"
+    ],
+    "maori": [
+      "mātotoru"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "thick.4448.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thick.4448.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4113,
+        4448,
+        3658,
+        3194,
+        2215,
+        5420
+      ],
+      "translation": "The duvet was thick, so it was nice and warm. I slept easily with it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "thick-4448.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2621,
+  "gloss": {
+    "english": [
+      "August"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Hereturikōkā",
+      "Ākuhata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_august.2621.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_august.2621.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2621,
+        5789,
+        1490,
+        2410,
+        2982,
+        3591,
+        707
+      ],
+      "translation": "In August, a group of friends are going skiing for a weekend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "August-2621.png"
+}

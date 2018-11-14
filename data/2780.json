@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2780,
+  "gloss": {
+    "english": [
+      "boss"
+    ],
+    "english_secondary": [
+      "director",
+      "foreman",
+      "leader",
+      "manager",
+      "supervisor"
+    ],
+    "maori": [
+      "rangatira",
+      "pāhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "boss.2780.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "boss.2780.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5607,
+        3513,
+        2297,
+        2780,
+        2583,
+        3686,
+        5403,
+        2583
+      ],
+      "translation": "One of my brothers is a boss at the factory. He's still there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "boss-2780.png"
+}

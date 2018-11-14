@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5485,
+  "gloss": {
+    "english": [
+      "oil",
+      "petrol"
+    ],
+    "english_secondary": [
+      "fill up (car)",
+      "fuel",
+      "gasoline"
+    ],
+    "maori": [
+      "hinu",
+      "penehīni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "oil.5485.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oil.5485.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2844,
+        3463,
+        2583,
+        5485,
+        4801
+      ],
+      "translation": "The man looked under the car bonnet and discovered the oil had run out."
+    },
+    {
+      "video": "oil.5485.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        2905,
+        2883,
+        5485,
+        5731,
+        3518,
+        2184,
+        2303
+      ],
+      "translation": "I got out of my car, walked into the petrol station and waited for the boy to come to the counter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "oil-5485.png"
+}

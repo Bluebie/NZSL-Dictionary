@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6188,
+  "gloss": {
+    "english": [
+      "trilingual"
+    ],
+    "english_secondary": [
+      "trilingualism"
+    ],
+    "maori": [
+      "reotoru"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "trilingual.6188.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trilingual.6188.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        6188,
+        3063,
+        4501,
+        4293,
+        3204,
+        2456,
+        3261
+      ],
+      "translation": "She's a a trilingual interpreter. She can speak Māori, English and NZSL."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.2-843ef3d2c44a26f7af3ba3edda8231e298748b24b06e908667a2ebe0006662cb.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "trilingual-6188.png"
+}

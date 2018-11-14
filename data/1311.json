@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1311,
+  "gloss": {
+    "english": [
+      "air"
+    ],
+    "english_secondary": [
+      "cool",
+      "fresh air"
+    ],
+    "maori": [
+      "hau takiwā"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "air.1311.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "air.1311.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1114,
+        2115,
+        721,
+        1072,
+        1757,
+        1311
+      ],
+      "translation": "It's smelly inside. I want to go outside to get some fresh air."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "air-1311.png"
+}

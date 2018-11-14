@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6377,
+  "gloss": {
+    "english": [
+      "cage"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whare herehere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cage.6377.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cage.6377.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        1238,
+        2145,
+        4508,
+        6377,
+        2583
+      ],
+      "translation": "Let's have a look at the birds in the cage over there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cage-6377.png"
+}

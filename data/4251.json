@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 4251,
+  "gloss": {
+    "english": [
+      "comfortable"
+    ],
+    "english_secondary": [
+      "(be) at ease",
+      "cosy",
+      "relaxed"
+    ],
+    "maori": [
+      "pai noa iho",
+      "hāneanea",
+      "āhuru"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "comfortable.4251.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "comfortable.4251.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5995,
+        2556,
+        3414,
+        2844,
+        2382,
+        2556,
+        4251,
+        2844
+      ],
+      "translation": "I was comfortable sitting at home, watching the telly."
+    },
+    {
+      "video": "comfortable.4251.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1897,
+        4251,
+        6180,
+        4656,
+        1490
+      ],
+      "translation": "I'm more comfortable with Deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "comfortable-4251.png"
+}

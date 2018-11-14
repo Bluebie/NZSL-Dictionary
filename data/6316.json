@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6316,
+  "gloss": {
+    "english": [
+      "import"
+    ],
+    "english_secondary": [
+      "imported"
+    ],
+    "maori": [
+      "hoko ki uta"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "import.6316.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "import.6316.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        585,
+        6316,
+        3462,
+        1505,
+        2767
+      ],
+      "translation": "New Zealand imports cars from Japan"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "import-6316.png"
+}

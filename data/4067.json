@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4067,
+  "gloss": {
+    "english": [
+      "public"
+    ],
+    "english_secondary": [
+      "in front of",
+      "in public",
+      "publicly"
+    ],
+    "maori": [
+      "ao tūmatanui",
+      "iwi nui tonu"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "public.4067.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "public.4067.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3261,
+        1465,
+        2204,
+        4067,
+        2543,
+        5285,
+        3261
+      ],
+      "translation": "NZSL Week promotes Deaf culture and NZSL to the public."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "public-4067.png"
+}

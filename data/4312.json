@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4312,
+  "gloss": {
+    "english": [
+      "wool"
+    ],
+    "english_secondary": [
+      "woollen"
+    ],
+    "maori": [
+      "wūru"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "wool.4312.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wool.4312.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3369,
+        2412,
+        3977,
+        4312,
+        2416,
+        3844,
+        2417,
+        487
+      ],
+      "translation": "Bring wool socks, a coat and a beanie."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wool-4312.png"
+}

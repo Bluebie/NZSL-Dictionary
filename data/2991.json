@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2991,
+  "gloss": {
+    "english": [
+      "faith"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakapono"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "faith.2991.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "faith.2991.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        323,
+        1298,
+        4054,
+        5389,
+        1376,
+        2991,
+        2521,
+        2316
+      ],
+      "translation": "Catholic schools teach children to have faith and follow God."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "faith-2991.png"
+}

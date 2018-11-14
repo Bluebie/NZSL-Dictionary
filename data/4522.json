@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4522,
+  "gloss": {
+    "english": [
+      "frame"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taitapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "facing.4522.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "facing.4522.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        3220,
+        970,
+        3656,
+        1766,
+        797,
+        3375,
+        5832,
+        4522
+      ],
+      "translation": "A deaf man recently was successful getting a job, making window frames."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "frame-4522.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2622,
+  "gloss": {
+    "english": [
+      "Anzac Day"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rā Whakamahara ki nga Hōia o Ahitereiria me Aotearoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "anzac_day.2622.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "anzac_day.2622.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2622,
+        5818,
+        5731,
+        607,
+        3111,
+        5129
+      ],
+      "translation": "On Anzac day, all shops must be closed for the morning."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "anzac_day-2622.png"
+}

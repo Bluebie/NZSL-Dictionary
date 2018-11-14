@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4899,
+  "gloss": {
+    "english": [
+      "oh good"
+    ],
+    "english_secondary": [
+      "looking forward to",
+      "yay"
+    ],
+    "maori": [
+      "ka pai"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase"
+    ]
+  },
+  "video": "oh_good.4899.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oh_good.4899.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5915,
+        5389,
+        931,
+        4899,
+        2556,
+        4501,
+        2410,
+        4657
+      ],
+      "translation": "I dropped the children off at the babysitter and thought: oh good, now I can go to the Deaf Club!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "oh_good-4899.png"
+}

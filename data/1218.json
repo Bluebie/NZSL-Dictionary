@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1218,
+  "gloss": {
+    "english": [
+      "lungs"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūkahukahu",
+      "pukapuka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lungs.1218.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lungs.1218.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        4096,
+        1218,
+        2556,
+        6246,
+        2646,
+        2846
+      ],
+      "translation": "I have problems with my lungs because I was a smoker for many years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "lungs-1218.png"
+}

@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 5243,
+  "gloss": {
+    "english": [
+      "goodbye",
+      "hello"
+    ],
+    "english_secondary": [
+      "bye",
+      "farewell",
+      "gidday",
+      "hi"
+    ],
+    "maori": [
+      "poroporoaki",
+      "haere rā",
+      "e noho rā",
+      "kia ora"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "hello.5243.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hello.5243.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3684,
+        2556,
+        924,
+        5243,
+        2297,
+        2902,
+        5682,
+        5405
+      ],
+      "translation": "I said it would be better for me to say goodbye and leave. He knelt and pleaded for me to stay."
+    },
+    {
+      "video": "hello.5243.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        1095,
+        6087,
+        2556,
+        3346,
+        5243,
+        2321,
+        1544,
+        1505,
+        1300
+      ],
+      "translation": "I met a stranger and shook hands with him, saying,  \"Hello, where are you from?\" and then we had a chat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hello-5243.png"
+}

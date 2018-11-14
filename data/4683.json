@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4683,
+  "gloss": {
+    "english": [
+      "Indonesia"
+    ],
+    "english_secondary": [
+      "Indonesian"
+    ],
+    "maori": [
+      "Initonīhia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Indonesia.4683.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Indonesia.4683.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        "fs:bali",
+        1544,
+        2583,
+        4683,
+        408,
+        4790
+      ],
+      "translation": "Bali is in Indonesia, near Australia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Indonesia-4683.png"
+}

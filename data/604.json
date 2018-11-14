@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 604,
+  "gloss": {
+    "english": [
+      "barbecue"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rorerore"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "barbecue.604.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "barbecue.604.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3642,
+        367,
+        1324,
+        604,
+        4022,
+        1072
+      ],
+      "translation": "If the weather is nice, we'll have a barbecue and eat outside."
+    },
+    {
+      "video": "barbecue.604.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        604,
+        1376,
+        2321
+      ],
+      "translation": "Do you have a barbecue?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "barbecue-604.png"
+}

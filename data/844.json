@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 844,
+  "gloss": {
+    "english": [
+      "diet",
+      "figure"
+    ],
+    "english_secondary": [
+      "lose weight",
+      "slim"
+    ],
+    "maori": [
+      "nohopuku",
+      "ropi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "diet.844.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "diet.844.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1673,
+        2297,
+        5785,
+        844
+      ],
+      "translation": "He's fat so he's trying to diet."
+    },
+    {
+      "video": "diet.844.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        6271,
+        3302,
+        2297,
+        367,
+        844
+      ],
+      "translation": "That dress suits her. She has a lovely figure."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "diet-844.png"
+}

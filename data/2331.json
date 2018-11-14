@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2331,
+  "gloss": {
+    "english": [
+      "be attracted to"
+    ],
+    "english_secondary": [
+      "fancy",
+      "like"
+    ],
+    "maori": [
+      "pai",
+      "hiahia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "attracted.2331.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attracted.2331.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        1522,
+        2556,
+        1447,
+        5121,
+        2331,
+        4030,
+        2297
+      ],
+      "translation": "I liked that woman. I eyed her up. I was attracted to her - she was beautiful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "be_attracted_to-2331.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6067,
+  "gloss": {
+    "english": [
+      "Canberra"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Kanapera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "canberra.6067.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "canberra.6067.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        4790,
+        2297,
+        6005,
+        2406,
+        1544,
+        6067
+      ],
+      "translation": "Australia's capital city is Canberra."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Canberra-6067.png"
+}

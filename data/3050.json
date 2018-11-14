@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 3050,
+  "gloss": {
+    "english": [
+      "marry",
+      "spouse"
+    ],
+    "english_secondary": [
+      "husband",
+      "ring",
+      "wife"
+    ],
+    "maori": [
+      "moe",
+      "mārena",
+      "hoa rangatira"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "husband.3050.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "husband.3050.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3050,
+        2556,
+        1376,
+        5619,
+        5389,
+        5405,
+        856,
+        3981
+      ],
+      "translation": "I'm married and I have three children. I stay at home and raise them."
+    },
+    {
+      "video": "husband.3050.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3050,
+        3585,
+        3658,
+        1902,
+        2556,
+        3027,
+        797
+      ],
+      "translation": "My wife has a job with good wages. I have no work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "marry-3050.png"
+}

@@ -1,0 +1,66 @@
+{
+  "nzsl_id": 5474,
+  "gloss": {
+    "english": [
+      "relate (to)"
+    ],
+    "english_secondary": [
+      "be a member of",
+      "belong",
+      "connection",
+      "link",
+      "related",
+      "relevant"
+    ],
+    "maori": [
+      "e taunga ana",
+      "e waia ana"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "relate.5474.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "relate.5474.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1897,
+        4251,
+        4656,
+        5474,
+        2117,
+        1501
+      ],
+      "translation": "I am more comfortable with Deaf people because I can relate to them. My ties with hearing people are getting weaker."
+    },
+    {
+      "video": "relate.5474.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2314,
+        2466,
+        3885,
+        2873,
+        2543,
+        4656,
+        519,
+        3885,
+        523,
+        5474,
+        2297
+      ],
+      "translation": "The book is relevant to our discussion about deaf history."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "relate_to-5474.png"
+}

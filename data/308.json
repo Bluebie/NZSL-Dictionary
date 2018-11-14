@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 308,
+  "gloss": {
+    "english": [
+      "not mind"
+    ],
+    "english_secondary": [
+      "have no objection"
+    ],
+    "maori": [
+      "e pai ana"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "not_mind.308.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_mind.308.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3009,
+        2321,
+        308,
+        2556,
+        5789,
+        "come",
+        5607,
+        5391,
+        5420
+      ],
+      "translation": "I asked my parents if they wouldn't mind if my friend came to stay for one night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "not_mind-308.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1335,
+  "gloss": {
+    "english": [
+      "marvellous"
+    ],
+    "english_secondary": [
+      "amazing",
+      "brilliant",
+      "fabulous",
+      "fantastic"
+    ],
+    "maori": [
+      "whakamīharo"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "brilliant.1335.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brilliant.1335.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        859,
+        2605,
+        2508,
+        2297,
+        1335,
+        2297
+      ],
+      "translation": "He sailed around the world solo. He's marvellous!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "marvellous-1335.png"
+}

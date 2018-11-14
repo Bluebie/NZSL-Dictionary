@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5321,
+  "gloss": {
+    "english": [
+      "sequence"
+    ],
+    "english_secondary": [
+      "in order",
+      "step by step"
+    ],
+    "maori": [
+      "raupapa"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "sequence.5321.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sequence.5321.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        771,
+        1805,
+        2463,
+        523,
+        5321
+      ],
+      "translation": "When I bake a cake, I follow the sequence in the recipe book."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sequence-5321.png"
+}

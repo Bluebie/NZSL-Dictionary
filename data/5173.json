@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5173,
+  "gloss": {
+    "english": [
+      "exasperated"
+    ],
+    "english_secondary": [
+      "incensed",
+      "infuriated"
+    ],
+    "maori": [
+      "whakatakariri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "exasperated.5173.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exasperated.5173.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4446,
+        2297,
+        2533,
+        2758,
+        2556,
+        5173
+      ],
+      "translation": "That guy always comes late and I get exasperated by it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "exasperated-5173.png"
+}

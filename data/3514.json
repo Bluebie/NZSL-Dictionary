@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3514,
+  "gloss": {
+    "english": [
+      "after"
+    ],
+    "english_secondary": [
+      "afterwards",
+      "subsequently"
+    ],
+    "maori": [
+      "i muri iho"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "after.3514.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "after.3514.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        1090,
+        2308,
+        2461,
+        6007,
+        3514,
+        1298
+      ],
+      "translation": "The boy was naughty and he had to meet the principal after school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.4.1-77cbe9ce0adab9b18d57407de6ae7732ccd859372283c41c18b06c253a03e2f3.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "after-3514.png"
+}

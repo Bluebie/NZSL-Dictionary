@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4501,
+  "gloss": {
+    "english": [
+      "can"
+    ],
+    "english_secondary": [
+      "able to",
+      "allowed to",
+      "know how to"
+    ],
+    "maori": [
+      "ka taea"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "can.4501.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "can.4501.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4501,
+        4266,
+        3599,
+        903,
+        6017
+      ],
+      "translation": "Can I borrow a corkscrew for the wine?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "can-4501.png"
+}

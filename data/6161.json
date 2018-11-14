@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6161,
+  "gloss": {
+    "english": [
+      "Taiwan"
+    ],
+    "english_secondary": [
+      "Taiwanese"
+    ],
+    "maori": [
+      "Taiwana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "taiwan.6161.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "taiwan.6161.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        3677,
+        1152,
+        5289,
+        2583,
+        6161
+      ],
+      "translation": "He was in the Deaflympics in Taiwan."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Taiwan-6161.png"
+}

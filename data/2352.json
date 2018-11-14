@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2352,
+  "gloss": {
+    "english": [
+      "clock"
+    ],
+    "english_secondary": [
+      "ticking"
+    ],
+    "maori": [
+      "matawā",
+      "karaka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "clock.2352.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clock.2352.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        771,
+        2352,
+        3978,
+        2841,
+        2297
+      ],
+      "translation": "The kitchen clock up there isn't working - it's old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "clock-2352.png"
+}

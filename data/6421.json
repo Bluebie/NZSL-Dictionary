@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6421,
+  "gloss": {
+    "english": [
+      "kite"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "manu tuktuku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kite.6421.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kite.6421.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3636,
+        1314,
+        785,
+        3242,
+        2095,
+        3369,
+        6421
+      ],
+      "translation": "It was windy yesterday. Many people brought kites to the park."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "kite-6421.png"
+}

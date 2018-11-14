@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5795,
+  "gloss": {
+    "english": [
+      "purple"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waiporoporo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "purple.5795.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "purple.5795.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        2583,
+        5795,
+        906,
+        "cl:plaid-pattern"
+      ],
+      "translation": "The school there has purple skirts with a plaid pattern."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "purple-5795.png"
+}

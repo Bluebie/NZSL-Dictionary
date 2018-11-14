@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 2756,
+  "gloss": {
+    "english": [
+      "time"
+    ],
+    "english_secondary": [
+      "minute"
+    ],
+    "maori": [
+      "wā",
+      "tāima"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "time.2756.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "time.2756.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2756,
+        6207,
+        2266
+      ],
+      "translation": "What's the time now?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "time-2756.png"
+}

@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 4581,
+  "gloss": {
+    "english": [
+      "bad",
+      "wrong"
+    ],
+    "english_secondary": [
+      "at fault",
+      "awful",
+      "badly",
+      "harmful",
+      "immoral",
+      "incorrect",
+      "make a mistake",
+      "mistake",
+      "mistaken",
+      "not right",
+      "poor quality",
+      "severe",
+      "unpleasant"
+    ],
+    "maori": [
+      "kino",
+      "hē"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "bad.4581.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bad.4581.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4214,
+        4581,
+        1324,
+        4731,
+        5732
+      ],
+      "translation": "Christchurch had bad weather so the plane was delayed."
+    },
+    {
+      "video": "bad.4581.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5736,
+        4581,
+        2617,
+        2308,
+        3949,
+        2921
+      ],
+      "translation": "She told me the wrong answer so I had to write it again."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bad-4581.png"
+}

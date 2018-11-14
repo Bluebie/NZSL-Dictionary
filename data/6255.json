@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6255,
+  "gloss": {
+    "english": [
+      "(language) acquisition"
+    ],
+    "english_secondary": [
+      "acquire (language)"
+    ],
+    "maori": [
+      "ako"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "language_acquisition.6255.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "language_acquisition.6255.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2789,
+        6255,
+        5968,
+        3542,
+        959
+      ],
+      "translation": "Language acquisition starts from birth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "language_acquisition-6255.png"
+}

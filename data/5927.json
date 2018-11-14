@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5927,
+  "gloss": {
+    "english": [
+      "necklace"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāhei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "necklace.5927.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "necklace.5927.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4128,
+        5927,
+        3720,
+        1716,
+        1141,
+        4819
+      ],
+      "translation": "I lost my necklace but finally found it behind the chest of drawers."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "necklace-5927.png"
+}

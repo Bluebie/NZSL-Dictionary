@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 5841,
+  "gloss": {
+    "english": [
+      "(go) downstairs",
+      "stairs"
+    ],
+    "english_secondary": [
+      "descend"
+    ],
+    "maori": [
+      "heke ki raro",
+      "tepe"
+    ],
+    "attributes": [
+      "noun",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "stairs.5841.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stairs.5841.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        5841,
+        1766,
+        3892
+      ],
+      "translation": "The man went downstairs to get the key."
+    },
+    {
+      "video": "stairs.5841.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5903,
+        3533,
+        2583,
+        1376,
+        5841
+      ],
+      "translation": "At the end of the hall there are stairs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "go_downstairs-5841.png"
+}

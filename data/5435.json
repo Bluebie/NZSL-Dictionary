@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5435,
+  "gloss": {
+    "english": [
+      "association"
+    ],
+    "english_secondary": [
+      "agency",
+      "body",
+      "institution",
+      "organisation"
+    ],
+    "maori": [
+      "rōpū",
+      "tōpūtanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "association.5435.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "association.5435.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        5435,
+        908,
+        2173,
+        3919,
+        2297,
+        5792
+      ],
+      "translation": "The Deaf Association have now changed their name to Deaf Aotearoa."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "association-5435.png"
+}

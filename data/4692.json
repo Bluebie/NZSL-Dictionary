@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4692,
+  "gloss": {
+    "english": [
+      "foster"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whāngai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "foster.4692.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "foster.4692.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        4766,
+        483,
+        2297,
+        4138,
+        4692,
+        845
+      ],
+      "translation": "When his parents died he was put in a foster home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "foster-4692.png"
+}

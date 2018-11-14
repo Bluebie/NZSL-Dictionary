@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1834,
+  "gloss": {
+    "english": [
+      "fawn over"
+    ],
+    "english_secondary": [
+      "crawl"
+    ],
+    "maori": [
+      "mirimiri waewae",
+      "mirimiri raho"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fawn.1834.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fawn.1834.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1834,
+        2780,
+        4728,
+        797,
+        5787
+      ],
+      "translation": "He fawns over his boss, hoping for a job promotion."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fawn_over-1834.png"
+}

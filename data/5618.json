@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5618,
+  "gloss": {
+    "english": [
+      "twenty"
+    ],
+    "english_secondary": [
+      "20"
+    ],
+    "maori": [
+      "rua tekau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "twenty.5618.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twenty.5618.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4249,
+        2556,
+        1376,
+        1083,
+        3242,
+        1463,
+        5618,
+        1083
+      ],
+      "translation": "I have lots of friends in my class, about twenty."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twenty-5618.png"
+}

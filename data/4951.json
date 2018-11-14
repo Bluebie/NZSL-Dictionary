@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4951,
+  "gloss": {
+    "english": [
+      "cap"
+    ],
+    "english_secondary": [
+      "hat",
+      "put on cap"
+    ],
+    "maori": [
+      "pōtae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cap.4951.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cap.4951.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4689,
+        2736,
+        872,
+        "cl:open-present",
+        1095,
+        3602,
+        4951,
+        606,
+        2297
+      ],
+      "translation": "My father-in-law opened his present and it was a new golf cap. He was really pleased."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "cap-4951.png"
+}

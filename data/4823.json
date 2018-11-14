@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4823,
+  "gloss": {
+    "english": [
+      "identify",
+      "recognise"
+    ],
+    "english_secondary": [
+      "acknowledge",
+      "recognition"
+    ],
+    "maori": [
+      "tautuhi",
+      "whakaae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "identify.4823.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "identify.4823.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        "cl:line-up",
+        2556,
+        2825,
+        4823,
+        2297,
+        1901,
+        3462
+      ],
+      "translation": "I looked at the line-up and identified the man who stole the car."
+    },
+    {
+      "video": "identify.4823.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1772,
+        2297,
+        4823,
+        3261,
+        3084,
+        2789
+      ],
+      "translation": "The government recognised NZSL as an official language."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "identify-4823.png"
+}

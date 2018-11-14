@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3176,
+  "gloss": {
+    "english": [
+      "sweat"
+    ],
+    "english_secondary": [
+      "perspiration",
+      "perspire",
+      "sweaty"
+    ],
+    "maori": [
+      "werawera"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "sweat.3176.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sweat.3176.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        893,
+        2253,
+        3751,
+        5654,
+        5818,
+        1926,
+        3176
+      ],
+      "translation": "The rugby game was hard. Everyone played hard and sweated intensely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "sweat-3176.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4017,
+  "gloss": {
+    "english": [
+      "hearing"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rongo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "hearing.4017.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hearing.4017.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        4017,
+        3796,
+        3912,
+        1553,
+        2646
+      ],
+      "translation": "I have played in a hearing badminton club for many years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "hearing-4017.png"
+}

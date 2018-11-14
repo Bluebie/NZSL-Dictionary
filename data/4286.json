@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4286,
+  "gloss": {
+    "english": [
+      "burglar"
+    ],
+    "english_secondary": [
+      "break and enter",
+      "break-in",
+      "burglary",
+      "burgle",
+      "thief",
+      "thieve"
+    ],
+    "maori": [
+      "whānako",
+      "tāhae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "burglar.4286.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "burglar.4286.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2943,
+        2831,
+        4286,
+        2645,
+        3220,
+        1463,
+        2099,
+        5716
+      ],
+      "translation": "The police are looking for a burglar - a young man aged around twenty-five."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "burglar-4286.png"
+}

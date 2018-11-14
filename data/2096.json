@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2096,
+  "gloss": {
+    "english": [
+      "can't"
+    ],
+    "english_secondary": [
+      "cannot",
+      "don't know how",
+      "not allowed to",
+      "unable to"
+    ],
+    "maori": [
+      "kāore e taea"
+    ],
+    "attributes": [
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "cant.2096.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cant.2096.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        3027,
+        3063,
+        2556,
+        2096,
+        398,
+        2193
+      ],
+      "translation": "I can't access information if there's no interpreter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "can_t-2096.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5276,
+  "gloss": {
+    "english": [
+      "codeswitch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "reo rere rua"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "codeswitch.5276.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "codeswitch.5276.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2461,
+        2117,
+        4527,
+        5488,
+        2556,
+        5276,
+        1457,
+        5488
+      ],
+      "translation": "When I meet a hearing person who only signs a little bit, I code-switch and slow down my signing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "codeswitch-5276.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 867,
+  "gloss": {
+    "english": [
+      "crawl"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngōki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "crawl.867.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "crawl.867.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1231,
+        2903,
+        825,
+        1050,
+        5968,
+        867
+      ],
+      "translation": "The baby would just lie on the floor but now he has started to crawl."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "crawl-867.png"
+}

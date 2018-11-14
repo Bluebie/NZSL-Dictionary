@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3703,
+  "gloss": {
+    "english": [
+      "like"
+    ],
+    "english_secondary": [
+      "be attracted to",
+      "fancy"
+    ],
+    "maori": [
+      "pai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "like_someone.3703.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "like_someone.3703.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        3703,
+        5607,
+        1217,
+        2297,
+        5455,
+        4249,
+        2297,
+        4969
+      ],
+      "translation": "She liked one boy in drama class. He was handsome."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "like-3703.png"
+}

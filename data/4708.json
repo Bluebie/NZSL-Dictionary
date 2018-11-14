@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 4708,
+  "gloss": {
+    "english": [
+      "joke"
+    ],
+    "english_secondary": [
+      "humour",
+      "kid",
+      "kidding"
+    ],
+    "maori": [
+      "kōrero ngahau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "joke.4708.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "joke.4708.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        "cl:big-belly",
+        5573,
+        "cl:act-macho",
+        1747,
+        1432,
+        4708
+      ],
+      "translation": "That man with the big belly and the beard who's acting macho is always teasing and joking."
+    },
+    {
+      "video": "joke.4708.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        5285,
+        1376,
+        3276,
+        4708,
+        5474,
+        4656,
+        4808
+      ],
+      "translation": "Deaf culture has its own jokes relating to Deaf people's lives."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "joke-4708.png"
+}

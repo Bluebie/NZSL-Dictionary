@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 600,
+  "gloss": {
+    "english": [
+      "long time"
+    ],
+    "english_secondary": [
+      "ages",
+      "time went by"
+    ],
+    "maori": [
+      "auroa"
+    ],
+    "attributes": [
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "long_time.600.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "long_time.600.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3518,
+        3587,
+        600,
+        3720,
+        1031
+      ],
+      "translation": "I waited for the bus for a long time. Finally, it arrived!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "long_time-600.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3579,
+  "gloss": {
+    "english": [
+      "marbles"
+    ],
+    "english_secondary": [
+      "marble"
+    ],
+    "maori": [
+      "māpere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "marbles.3579.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "marbles.3579.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2583,
+        1298,
+        5401,
+        1926,
+        3579
+      ],
+      "translation": "This boy at school was really keen on playing marbles."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.4.1-77cbe9ce0adab9b18d57407de6ae7732ccd859372283c41c18b06c253a03e2f3.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "marbles-3579.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5900,
+  "gloss": {
+    "english": [
+      "feel hurt"
+    ],
+    "english_secondary": [
+      "grief",
+      "heartache",
+      "heartbroken",
+      "hurt"
+    ],
+    "maori": [
+      "pāmamae"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "feel_hurt.5900.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "feel_hurt.5900.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5900,
+        2297,
+        459,
+        2297
+      ],
+      "translation": "He felt hurt because she was rude to him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "feel_hurt-5900.png"
+}

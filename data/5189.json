@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5189,
+  "gloss": {
+    "english": [
+      "sick of it"
+    ],
+    "english_secondary": [
+      "driving me crazy",
+      "get on one's nerves",
+      "irritating"
+    ],
+    "maori": [
+      "hōhā"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "sick_of_it.5189.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sick_of_it.5189.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5818,
+        5389,
+        5140,
+        1090,
+        2297,
+        5189,
+        5173
+      ],
+      "translation": "All the children were restless and getting into trouble. She was sick of it and became exasperated."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "sick_of_it-5189.png"
+}

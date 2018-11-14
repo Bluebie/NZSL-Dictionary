@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 637,
+  "gloss": {
+    "english": [
+      "cat",
+      "pet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngeru",
+      "mōkai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cat.637.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cat.637.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3775,
+        1178,
+        5617,
+        1465,
+        2556,
+        "look-after",
+        637
+      ],
+      "translation": "The neighbour is away for two weeks, so I'm looking after the cat."
+    },
+    {
+      "video": "cat.637.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        952,
+        2583,
+        3108,
+        637,
+        2583
+      ],
+      "translation": "The hotel doesn't allow pets."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "cat-637.png"
+}

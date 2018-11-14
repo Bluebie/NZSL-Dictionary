@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1844,
+  "gloss": {
+    "english": [
+      "score"
+    ],
+    "english_secondary": [
+      "result"
+    ],
+    "maori": [
+      "kaute",
+      "piro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "score.1844.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "score.1844.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        399,
+        1844,
+        2619,
+        5621,
+        5466,
+        5704
+      ],
+      "translation": "The score at half time was Auckland five, Otago twenty-two."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "score-1844.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 324,
+  "gloss": {
+    "english": [
+      "stay"
+    ],
+    "english_secondary": [
+      "accommodation",
+      "board",
+      "boarder",
+      "hostel",
+      "live with",
+      "stay with"
+    ],
+    "maori": [
+      "noho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "stay.324.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stay.324.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        324,
+        1832,
+        3687,
+        2215,
+        2531,
+        4222
+      ],
+      "translation": "She stayed with her aunt as it was easy to commute to the course."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "stay-324.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3345,
+  "gloss": {
+    "english": [
+      "pilot"
+    ],
+    "english_secondary": [
+      "fly a plane"
+    ],
+    "maori": [
+      "kaiurungi rererangi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pilot.3345.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pilot.3345.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3276,
+        4689,
+        797,
+        3345,
+        1311,
+        585,
+        1747,
+        1178
+      ],
+      "translation": "His father works as a pilot for Air New Zealand. He's always away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pilot-3345.png"
+}

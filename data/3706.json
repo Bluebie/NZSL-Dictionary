@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 3706,
+  "gloss": {
+    "english": [
+      "show off"
+    ],
+    "english_secondary": [
+      "boast",
+      "brag",
+      "conceited",
+      "ego",
+      "full of oneself",
+      "self-satisfied",
+      "show-off",
+      "smug",
+      "think one is smart",
+      "vain"
+    ],
+    "maori": [
+      "whakamenemene",
+      "whakahīhī"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "show_off.3706.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "show_off.3706.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        3706,
+        5463,
+        1949,
+        4965
+      ],
+      "translation": "He was showing off with a basketball, dribbling the ball and shooting a hoop."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "show_off-3706.png"
+}

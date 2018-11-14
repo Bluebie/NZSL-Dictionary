@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5161,
+  "gloss": {
+    "english": [
+      "try to get (something) done"
+    ],
+    "english_secondary": [
+      "try to finish off",
+      "work flat out",
+      "work intensely on"
+    ],
+    "maori": [
+      "whakapau kaha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "try_to_get_something_done.5161.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "try_to_get_something_done.5161.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3823,
+        2314,
+        5161,
+        6244,
+        3885,
+        4757,
+        2235
+      ],
+      "translation": "We were trying to get the report done before this Monday's deadline."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "try_to_get_something_done-5161.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2764,
+  "gloss": {
+    "english": [
+      "what is it?"
+    ],
+    "english_secondary": [
+      "what are you doing?",
+      "what is it for?",
+      "what purpose?",
+      "what's that?"
+    ],
+    "maori": [
+      "he aha"
+    ],
+    "attributes": [
+      "interrogative"
+    ]
+  },
+  "video": "what_for.2764.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "what_for.2764.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        564,
+        2583,
+        3009,
+        2764,
+        721,
+        3618,
+        2297
+      ],
+      "translation": "She asked me about the box next to me and wanted to know what it was."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "what_is_it-2764.png"
+}

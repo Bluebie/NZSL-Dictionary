@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1139,
+  "gloss": {
+    "english": [
+      "traffic jam"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mātotorutanga o te waka"
+    ],
+    "attributes": [
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "traffic_jam.1139.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "traffic_jam.1139.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3462,
+        3426,
+        2583,
+        1139,
+        1031,
+        5617,
+        2569,
+        6034
+      ],
+      "translation": "There was a car accident that caused a traffic jam, so I arrived  two hours later."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "traffic_jam-1139.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3020,
+  "gloss": {
+    "english": [
+      "white"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mā"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "white.3020.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "white.3020.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        2410,
+        740,
+        2583,
+        2982,
+        3020,
+        5562
+      ],
+      "translation": "We went to the mountain. The snow was brilliantly white."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "white-3020.png"
+}

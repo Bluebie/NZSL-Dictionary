@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2143,
+  "gloss": {
+    "english": [
+      "review"
+    ],
+    "english_secondary": [
+      "evaluate",
+      "monitor",
+      "reconsider"
+    ],
+    "maori": [
+      "arotake"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "review.2143.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "review.2143.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2491,
+        2297,
+        2143,
+        2556,
+        797,
+        "thumb-up-down",
+        2297,
+        672
+      ],
+      "translation": "The boss reviewed whether my work was going well or not. He was happy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "review-2143.png"
+}

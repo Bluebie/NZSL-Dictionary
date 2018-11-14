@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6133,
+  "gloss": {
+    "english": [
+      "pollution"
+    ],
+    "english_secondary": [
+      "smog"
+    ],
+    "maori": [
+      "parahanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pollution.6133.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pollution.6133.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4275,
+        2406,
+        2583,
+        4591,
+        6133,
+        1553,
+        3462,
+        "cl:exhaust-fumes"
+      ],
+      "translation": "The pollution in Mexico city is terrible, because of the exhaust fumes from so many cars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pollution-6133.png"
+}

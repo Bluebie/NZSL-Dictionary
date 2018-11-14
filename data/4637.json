@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4637,
+  "gloss": {
+    "english": [
+      "Jehovah's Witness"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Ihowa Mataara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jehovah_s_witness.4637.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jehovah_s_witness.4637.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        2470,
+        2960,
+        4637,
+        3027,
+        3824,
+        5429
+      ],
+      "translation": "Her ex-partner was a Jehovah's Witness, so they didn't celebrate Christmas."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "jehovah_s_witness-4637.png"
+}

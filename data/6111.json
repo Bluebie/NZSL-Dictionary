@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6111,
+  "gloss": {
+    "english": [
+      "pants"
+    ],
+    "english_secondary": [
+      "jeans",
+      "long pants",
+      "longs",
+      "slacks",
+      "trousers"
+    ],
+    "maori": [
+      "tarau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pants.6111.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pants.6111.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4317,
+        6053,
+        2913,
+        723,
+        6111
+      ],
+      "translation": "I was wet all over so I changed my top and pants."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "pants-6111.png"
+}

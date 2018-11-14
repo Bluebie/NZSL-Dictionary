@@ -1,0 +1,75 @@
+{
+  "nzsl_id": 1112,
+  "gloss": {
+    "english": [
+      "list",
+      "programme",
+      "rules"
+    ],
+    "english_secondary": [
+      "agenda",
+      "menu",
+      "order",
+      "recipe",
+      "schedule",
+      "sequence"
+    ],
+    "maori": [
+      "rārangi",
+      "akoranga",
+      "ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "list.1112.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "list.1112.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3642,
+        2321,
+        1865,
+        2173,
+        "cl:put-on",
+        1112
+      ],
+      "translation": "If you are interested, put your name on the list."
+    },
+    {
+      "video": "list.1112.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        5981,
+        1112,
+        2556,
+        3974,
+        2600,
+        2895
+      ],
+      "translation": "I am handing out the workshop programme. Please read it."
+    },
+    {
+      "video": "list.1112.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2021,
+        1637,
+        2287,
+        1112,
+        1287,
+        1926,
+        5654
+      ],
+      "translation": "The teacher explained the rules on how to play the game to them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "list-1112.png"
+}

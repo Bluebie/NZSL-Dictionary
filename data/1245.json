@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1245,
+  "gloss": {
+    "english": [
+      "withdraw"
+    ],
+    "english_secondary": [
+      "back off",
+      "hold back",
+      "pull out",
+      "stay out of",
+      "uninvolved"
+    ],
+    "maori": [
+      "kounu"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "hold_off.1245.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hold_off.1245.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2953,
+        1831,
+        2556,
+        721,
+        "involve",
+        2556,
+        1245
+      ],
+      "translation": "The two of them were arguing. I didn't want to get involved, so I backed off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "withdraw-1245.png"
+}

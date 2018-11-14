@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4628,
+  "gloss": {
+    "english": [
+      "social work"
+    ],
+    "english_secondary": [
+      "social worker"
+    ],
+    "maori": [
+      "tauwhiro hapori"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "social_worker.4628.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "social_worker.4628.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4222,
+        3700,
+        3653,
+        2556,
+        1766,
+        3585,
+        4628
+      ],
+      "translation": "When I complete my course training, I will get a job in social work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "social_work-4628.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4741,
+  "gloss": {
+    "english": [
+      "dream"
+    ],
+    "english_secondary": [
+      "daydream",
+      "vision"
+    ],
+    "maori": [
+      "wawata ana"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dream.4741.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dream.4741.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4741,
+        1070,
+        4316,
+        5289,
+        3848,
+        "medal"
+      ],
+      "translation": "I dream of one day being involved in the Deaflympics and winning a medal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dream-4741.png"
+}

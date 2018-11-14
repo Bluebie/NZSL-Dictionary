@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 793,
+  "gloss": {
+    "english": [
+      "work hard"
+    ],
+    "english_secondary": [
+      "hard work"
+    ],
+    "maori": [
+      "pukumahi"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "work_hard.793.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "work_hard.793.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        796,
+        6033,
+        5429,
+        793
+      ],
+      "translation": "Christmas is coming up and I have been working hard, doing overtime."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "work_hard-793.png"
+}

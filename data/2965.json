@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2965,
+  "gloss": {
+    "english": [
+      "stand one's ground"
+    ],
+    "english_secondary": [
+      "resist",
+      "stand up for",
+      "stand up to",
+      "take a stand"
+    ],
+    "maori": [
+      "tū māro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "stand_up_to.2965.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stand_up_to.2965.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2287,
+        2965,
+        3227,
+        "won't",
+        4178
+      ],
+      "translation": "They stood their ground in the protest and wouldn't give up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "stand_one_s_ground-2965.png"
+}

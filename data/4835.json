@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4835,
+  "gloss": {
+    "english": [
+      "meaning"
+    ],
+    "english_secondary": [
+      "define",
+      "definition",
+      "mean"
+    ],
+    "maori": [
+      "tikanga",
+      "aronga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "meaning.4835.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meaning.4835.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4421,
+        2297,
+        2556,
+        307,
+        4835,
+        2844,
+        688
+      ],
+      "translation": "I didn't know the meaning of that word so I looked it up in the dictionary."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "meaning-4835.png"
+}

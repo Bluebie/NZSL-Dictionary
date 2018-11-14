@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6531,
+  "gloss": {
+    "english": [
+      "satellite dish"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      ""
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "satellite_dish.6531.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "satellite_dish.6531.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        721,
+        2844,
+        5831,
+        1185,
+        "satellite",
+        6531,
+        378,
+        2583
+      ],
+      "translation": "If you want to watch TV, you need to set up a satellite dish on the roof."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "satellite_dish-6531.png"
+}

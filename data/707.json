@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 707,
+  "gloss": {
+    "english": [
+      "weekend"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "paunga rāwhitu",
+      "mutunga wiki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "weekend.707.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "weekend.707.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        4573,
+        5405,
+        3300,
+        5995,
+        707
+      ],
+      "translation": "My parents flew over and stayed at my house for the weekend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "weekend-707.png"
+}

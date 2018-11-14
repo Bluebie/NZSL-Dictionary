@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6064,
+  "gloss": {
+    "english": [
+      "Brazil"
+    ],
+    "english_secondary": [
+      "Brazilian"
+    ],
+    "maori": [
+      "Parīhi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "brazil.6064.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brazil.6064.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        6064,
+        2583,
+        1494,
+        4187,
+        4635,
+        1482
+      ],
+      "translation": "Brazil is a large country in South America."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Brazil-6064.png"
+}

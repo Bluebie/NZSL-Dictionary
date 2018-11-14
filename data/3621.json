@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3621,
+  "gloss": {
+    "english": [
+      "expert"
+    ],
+    "english_secondary": [
+      "experienced",
+      "knowledgeable",
+      "well-informed",
+      "skill",
+      "skilled"
+    ],
+    "maori": [
+      "rehe",
+      "tohunga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "expert.3621.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expert.3621.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        2782,
+        625,
+        3658,
+        797,
+        2297,
+        3621
+      ],
+      "translation": "The man spraypainted the car with a smooth finish. He did a good job - he's an expert."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "expert-3621.png"
+}

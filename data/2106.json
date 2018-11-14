@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2106,
+  "gloss": {
+    "english": [
+      "believe"
+    ],
+    "english_secondary": [
+      "consider"
+    ],
+    "maori": [
+      "whakapono"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "believe.2106.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "believe.2106.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2106,
+        2297,
+        1038,
+        440
+      ],
+      "translation": "I believe that the story is true."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "believe-2106.png"
+}

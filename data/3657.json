@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3657,
+  "gloss": {
+    "english": [
+      "best man"
+    ],
+    "english_secondary": [
+      "groomsman"
+    ],
+    "maori": [
+      "taituarā",
+      "kaihāpai"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "best_man.3657.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "best_man.3657.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        2645,
+        3513,
+        2297,
+        3657,
+        762,
+        291,
+        2297
+      ],
+      "translation": "My younger brother was the best man at my wedding."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "best_man-3657.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5482,
+  "gloss": {
+    "english": [
+      "sperm"
+    ],
+    "english_secondary": [
+      "spermatozoa"
+    ],
+    "maori": [
+      "wai tātea",
+      "tātea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spermatozoa.5482.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spermatozoa.5482.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3375,
+        1231,
+        1287,
+        5482,
+        "fs:egg",
+        "cl:sperm-go-to-egg"
+      ],
+      "translation": "A baby is made when a sperm reaches the egg."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sperm-5482.png"
+}

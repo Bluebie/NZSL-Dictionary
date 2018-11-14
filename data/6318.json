@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6318,
+  "gloss": {
+    "english": [
+      "jewellery"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jewellery.6318.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jewellery.6318.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1338,
+        1403,
+        6318,
+        4138,
+        564,
+        3893
+      ],
+      "translation": "When you go on a holiday, put any jewellery in a box and lock it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "jewellery-6318.png"
+}

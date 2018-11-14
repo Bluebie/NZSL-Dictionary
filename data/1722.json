@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1722,
+  "gloss": {
+    "english": [
+      "freckles"
+    ],
+    "english_secondary": [
+      "freckled"
+    ],
+    "maori": [
+      "ira",
+      "iraira"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "freckles.1722.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "freckles.1722.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        1722,
+        2479,
+        4765
+      ],
+      "translation": "The boy has freckles, like his mother."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "freckles-1722.png"
+}

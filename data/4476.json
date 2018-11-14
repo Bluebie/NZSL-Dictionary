@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4476,
+  "gloss": {
+    "english": [
+      "wharf"
+    ],
+    "english_secondary": [
+      "jetty"
+    ],
+    "maori": [
+      "wāpu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "wharf.4476.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wharf.4476.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2931,
+        2583,
+        3430,
+        "cl:drive-uphill-downhill",
+        4476,
+        2583,
+        3462,
+        603,
+        3561
+      ],
+      "translation": "At Sumner I drove over the hills to the wharf. There, I parked my car and went fishing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wharf-4476.png"
+}

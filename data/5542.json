@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5542,
+  "gloss": {
+    "english": [
+      "chemical"
+    ],
+    "english_secondary": [
+      "chemistry"
+    ],
+    "maori": [
+      "matū"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "chemical.5542.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chemical.5542.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3517,
+        4183,
+        2297,
+        1376,
+        1553,
+        5542,
+        "cl:inside-bottle"
+      ],
+      "translation": "Cleaning products have lots of chemicals in them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chemical-5542.png"
+}

@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1733,
+  "gloss": {
+    "english": [
+      "helmet",
+      "wig"
+    ],
+    "english_secondary": [
+      "crash helmet",
+      "cricket helmet",
+      "cycle helmet",
+      "put on a helmet",
+      "safety helmet"
+    ],
+    "maori": [
+      "pōtae mārō",
+      "makawe kēhua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wig.1733.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wig.1733.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        3521,
+        1885,
+        1733,
+        2463,
+        5468
+      ],
+      "translation": "If you ride a bike, you must wear a helmet according to the law."
+    },
+    {
+      "video": "wig.1733.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1733,
+        "cl:wig-fall-off",
+        5818,
+        3435,
+        4288
+      ],
+      "translation": "Everyone was shocked and gossiped about him after his wig fell off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "helmet-1733.png"
+}

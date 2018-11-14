@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3914,
+  "gloss": {
+    "english": [
+      "bra"
+    ],
+    "english_secondary": [
+      "bikini",
+      "brassiere"
+    ],
+    "maori": [
+      "pari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bra.3914.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bra.3914.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        4454,
+        2297,
+        1071,
+        721,
+        1095,
+        3914,
+        2297,
+        908,
+        "cl:breast-grow"
+      ],
+      "translation": "Her daughter asked for a new bra. Her breasts are getting bigger."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "bra-3914.png"
+}

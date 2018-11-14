@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 881,
+  "gloss": {
+    "english": [
+      "cervical smear"
+    ],
+    "english_secondary": [
+      "smear test"
+    ],
+    "maori": [
+      "okoi waha whare tangata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cervical_smear.881.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cervical_smear.881.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        6287,
+        5865,
+        2297,
+        881,
+        3898
+      ],
+      "translation": "She went for a check-up and had a cervical smear."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "cervical_smear-881.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4255,
+  "gloss": {
+    "english": [
+      "burp"
+    ],
+    "english_secondary": [
+      "belch"
+    ],
+    "maori": [
+      "tokopuaha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "burp.4255.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "burp.4255.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1231,
+        2126,
+        2556,
+        451,
+        4255,
+        2297,
+        5255,
+        5971,
+        5536,
+        3684
+      ],
+      "translation": "The baby was crying, so I burped her. She burped and stopped crying because she felt better."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "burp-4255.png"
+}

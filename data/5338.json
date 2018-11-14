@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5338,
+  "gloss": {
+    "english": [
+      "accounting"
+    ],
+    "english_secondary": [
+      "accountant",
+      "accounts",
+      "accountancy"
+    ],
+    "maori": [
+      "mahi kaute"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "accounting.5338.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accounting.5338.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        5937,
+        1513,
+        1897,
+        2543,
+        5338
+      ],
+      "translation": "I'm going to polytech to learn more about accounting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "accounting-5338.png"
+}

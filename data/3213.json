@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3213,
+  "gloss": {
+    "english": [
+      "sick"
+    ],
+    "english_secondary": [
+      "be sick",
+      "ill",
+      "unwell"
+    ],
+    "maori": [
+      "māuiui"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "sick.3213.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sick.3213.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        3213,
+        4614,
+        "well",
+        5796,
+        2844,
+        4520
+      ],
+      "translation": "If you are sick and it's getting  worse, you should see a doctor."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "sick-3213.png"
+}

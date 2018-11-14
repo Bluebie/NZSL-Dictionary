@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3023,
+  "gloss": {
+    "english": [
+      "dance"
+    ],
+    "english_secondary": [
+      "ball"
+    ],
+    "maori": [
+      "kanikani"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "ball.3023.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ball.3023.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1279,
+        2556,
+        2645,
+        4657,
+        1376,
+        1388,
+        3023
+      ],
+      "translation": "In the past, when I was young, many people came to dances at the Deaf Club."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dance-3023.png"
+}

@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3632,
+  "gloss": {
+    "english": [
+      "letter",
+      "stamp"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "reta",
+      "pane kuīni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "letter.3632.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "letter.3632.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1959,
+        3632,
+        1505,
+        2408,
+        2297,
+        5736,
+        1769,
+        2621,
+        4097,
+        898
+      ],
+      "translation": "I received a letter from the electricity company. It said that at the end of August, prices will increase."
+    },
+    {
+      "video": "letter.3632.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        5731,
+        5632,
+        3632,
+        3250,
+        5481
+      ],
+      "translation": "I went to the shop to buy a stamp and post the letter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "letter-3632.png"
+}

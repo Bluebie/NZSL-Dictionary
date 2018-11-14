@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2234,
+  "gloss": {
+    "english": [
+      "meat"
+    ],
+    "english_secondary": [
+      "beef",
+      "steak"
+    ],
+    "maori": [
+      "mīti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "meat.2234.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meat.2234.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        3460,
+        1832,
+        2234,
+        1821,
+        2888
+      ],
+      "translation": "Last night's dinner was meat, potato and vegetables."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "meat-2234.png"
+}

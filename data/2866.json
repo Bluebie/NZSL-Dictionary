@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2866,
+  "gloss": {
+    "english": [
+      "cut"
+    ],
+    "english_secondary": [
+      "cut down",
+      "cut off",
+      "reduce",
+      "shorten"
+    ],
+    "maori": [
+      "tapahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cut_off.2866.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cut_off.2866.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4088,
+        2244,
+        4051,
+        2219,
+        2866,
+        1110
+      ],
+      "translation": "When the business went bankrupt they had to make cuts and some staff were made redundant."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cut-2866.png"
+}

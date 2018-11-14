@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 2425,
+  "gloss": {
+    "english": [
+      "allow",
+      "permission"
+    ],
+    "english_secondary": [
+      "let",
+      "permit"
+    ],
+    "maori": [
+      "whakaae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "permission.2425.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "permission.2425.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3701,
+        2425,
+        2556,
+        3521,
+        423,
+        3276,
+        6000
+      ],
+      "translation": "I am allowed to ride my bike across that farm's land."
+    },
+    {
+      "video": "permission.2425.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        3009,
+        2556,
+        2425,
+        2706,
+        2556,
+        3725
+      ],
+      "translation": "He asked for my permission to film me. I said alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "allow-2425.png"
+}

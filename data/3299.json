@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3299,
+  "gloss": {
+    "english": [
+      "mate",
+      "partner"
+    ],
+    "english_secondary": [
+      "close friend",
+      "company"
+    ],
+    "maori": [
+      "hoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mate.3299.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mate.3299.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2879,
+        3299,
+        2583,
+        797,
+        3089,
+        5387,
+        1747,
+        1300
+      ],
+      "translation": "We're mates. At work, during the tea break, we're always chatting."
+    },
+    {
+      "video": "mate.3299.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        3299,
+        2879,
+        "cl:together",
+        5618,
+        2646,
+        640
+      ],
+      "translation": "My partner and I have been together for twenty years so far."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "mate-3299.png"
+}

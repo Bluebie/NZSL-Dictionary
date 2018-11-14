@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2742,
+  "gloss": {
+    "english": [
+      "safety pin"
+    ],
+    "english_secondary": [
+      "pin"
+    ],
+    "maori": [
+      "pine"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "safety_pin.2742.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "safety_pin.2742.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2173,
+        "badge",
+        1185,
+        2742
+      ],
+      "translation": "She needed a safety pin for her name badge."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "safety_pin-2742.png"
+}

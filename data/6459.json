@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 6459,
+  "gloss": {
+    "english": [
+      "download",
+      "record (to record)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuku mai",
+      "tiki ake"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "download.6459.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "download.6459.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        5510,
+        4501,
+        5632,
+        1421,
+        6459,
+        2844
+      ],
+      "translation": "You can buy movies on the internet to download and watch."
+    },
+    {
+      "video": "download.6459.finalexample2.dh.r480x360.mp4",
+      "signs": [
+        1421,
+        2556,
+        6459,
+        4501,
+        2844,
+        6034
+      ],
+      "translation": "I recorded the movie so I can watch it later."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "download-6459.png"
+}

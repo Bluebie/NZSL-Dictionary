@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3990,
+  "gloss": {
+    "english": [
+      "punk"
+    ],
+    "english_secondary": [
+      "mohawk (hairstyle)"
+    ],
+    "maori": [
+      "mōihiihi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "punk.3990.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "punk.3990.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        3990,
+        1376,
+        "cl:ring-on-nose",
+        4411,
+        "act-macho"
+      ],
+      "translation": "The man was a punk with a pierced nose and tattoos, acting all macho."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "punk-3990.png"
+}

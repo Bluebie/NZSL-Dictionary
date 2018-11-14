@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2806,
+  "gloss": {
+    "english": [
+      "oil"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hinu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "oil.2806.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oil.2806.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        2145,
+        3584,
+        2297,
+        2806,
+        4801
+      ],
+      "translation": "The man looked under the car bonnet and discovered the oil was empty."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "oil-2806.png"
+}

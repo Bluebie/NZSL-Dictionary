@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3892,
+  "gloss": {
+    "english": [
+      "key"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kī"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "key.3892.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "key.3892.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        1178,
+        1403,
+        3974,
+        3892,
+        845,
+        2583
+      ],
+      "translation": "When my friend went away on holiday, she gave me the key to her house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "key-3892.png"
+}

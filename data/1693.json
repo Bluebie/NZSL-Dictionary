@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1693,
+  "gloss": {
+    "english": [
+      "underwear"
+    ],
+    "english_secondary": [
+      "briefs",
+      "knickers",
+      "pants",
+      "underpants",
+      "undies"
+    ],
+    "maori": [
+      "kōpū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pants.1693.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pants.1693.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1693,
+        895,
+        4138,
+        1826
+      ],
+      "translation": "My underwear was dirty so I put it in the washing machine."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "underwear-1693.png"
+}

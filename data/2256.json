@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2256,
+  "gloss": {
+    "english": [
+      "fast"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tere"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "fast.2256.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fast.2256.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3425,
+        797,
+        2256,
+        2552,
+        5662,
+        5620,
+        5150
+      ],
+      "translation": "I was so busy at work that time went fast, and suddenly it was 4pm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fast-2256.png"
+}

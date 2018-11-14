@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6054,
+  "gloss": {
+    "english": [
+      "Argentina"
+    ],
+    "english_secondary": [
+      "Argentine",
+      "Argentinian"
+    ],
+    "maori": [
+      "Āketina"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "argentina.6054.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "argentina.6054.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        6054,
+        2095,
+        2287,
+        5401,
+        3598
+      ],
+      "translation": "People in Argentina are mad on soccer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Argentina-6054.png"
+}

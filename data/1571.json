@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 1571,
+  "gloss": {
+    "english": [
+      "transfer"
+    ],
+    "english_secondary": [
+      "change",
+      "move"
+    ],
+    "maori": [
+      "whakawhiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "transfer.1571.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "transfer.1571.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3193,
+        4656,
+        1298,
+        5624,
+        2646,
+        2556,
+        2099,
+        5570,
+        4765,
+        2297,
+        5498,
+        1571,
+        1584,
+        1298
+      ],
+      "translation": "I boarded at the Deaf school for eight years. When I was thirteen, my mother decided to transfer me to a mainstream school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "transfer-1571.png"
+}

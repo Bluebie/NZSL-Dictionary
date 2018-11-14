@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4536,
+  "gloss": {
+    "english": [
+      "safety pin"
+    ],
+    "english_secondary": [
+      "brooch",
+      "clip"
+    ],
+    "maori": [
+      "pine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "safety_pin.4536.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "safety_pin.4536.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        723,
+        "cl:strap",
+        "cl:fall-apart",
+        1185,
+        4536
+      ],
+      "translation": "The strap on my dress became detached and I needed a safety pin."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "safety_pin-4536.png"
+}

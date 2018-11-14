@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5821,
+  "gloss": {
+    "english": [
+      "similar"
+    ],
+    "english_secondary": [
+      "almost the same",
+      "similarity"
+    ],
+    "maori": [
+      "āhua rite"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "similar.5821.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "similar.5821.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2091,
+        3462,
+        2297,
+        3300,
+        3462,
+        5821,
+        2297
+      ],
+      "translation": "See that car? My car is similar."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "similar-5821.png"
+}

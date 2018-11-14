@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2025,
+  "gloss": {
+    "english": [
+      "graduate"
+    ],
+    "english_secondary": [
+      "graduation"
+    ],
+    "maori": [
+      "paetahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "graduate.2025.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "graduate.2025.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2025,
+        1766,
+        5644,
+        1636,
+        1323
+      ],
+      "translation": "When I graduated and got my degree my family applauded."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "graduate-2025.png"
+}

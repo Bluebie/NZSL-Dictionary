@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1877,
+  "gloss": {
+    "english": [
+      "Governor-General"
+    ],
+    "english_secondary": [
+      "Governor General"
+    ],
+    "maori": [
+      "Kāwana Tianara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Governor_General.1877.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Governor_General.1877.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2173,
+        "fs:tizard",
+        2297,
+        2281,
+        1522,
+        1877,
+        5426,
+        585
+      ],
+      "translation": "A woman by the name of Tizard was the first female Governor-General in New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "governor_general-1877.png"
+}

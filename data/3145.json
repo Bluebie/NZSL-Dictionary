@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3145,
+  "gloss": {
+    "english": [
+      "apron"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ārai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "apron.3145.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "apron.3145.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2583,
+        1298,
+        515,
+        3375,
+        3145
+      ],
+      "translation": "I sewed an apron at school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "apron-3145.png"
+}

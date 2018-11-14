@@ -1,0 +1,70 @@
+{
+  "nzsl_id": 3878,
+  "gloss": {
+    "english": [
+      "breakfast",
+      "pudding"
+    ],
+    "english_secondary": [
+      "cereal",
+      "cornflakes",
+      "dessert",
+      "eat (from a bowl)",
+      "oatmeal",
+      "porridge",
+      "sweet",
+      "soup"
+    ],
+    "maori": [
+      "parakuihi",
+      "purini"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "porridge.3878.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "porridge.3878.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5816,
+        3111,
+        2556,
+        5129,
+        3878,
+        499,
+        797,
+        2556,
+        2096,
+        1269
+      ],
+      "translation": "I must eat breakfast every morning before work as I can't go without."
+    },
+    {
+      "video": "porridge.3878.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        3460,
+        3677,
+        1376,
+        3878,
+        3212,
+        1832,
+        4432,
+        2805,
+        923
+      ],
+      "translation": "After dinner, we will have pudding - ice cream with chocolate sauce. Delicious!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "breakfast-3878.png"
+}

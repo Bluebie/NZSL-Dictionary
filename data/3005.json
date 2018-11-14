@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3005,
+  "gloss": {
+    "english": [
+      "marijuana"
+    ],
+    "english_secondary": [
+      "cannabis",
+      "dope",
+      "grass",
+      "pot",
+      "smoke dope",
+      "weed"
+    ],
+    "maori": [
+      "tarutaru",
+      "taru kino"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "grass.3005.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grass.3005.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3266,
+        3005,
+        2297
+      ],
+      "translation": "She's really into marijuana."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "marijuana-3005.png"
+}

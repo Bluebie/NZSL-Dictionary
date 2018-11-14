@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 2456,
+  "gloss": {
+    "english": [
+      "England",
+      "English"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Ingarangi",
+      "Ingarihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "english.2456.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "english.2456.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        2404,
+        3513,
+        2583,
+        2456,
+        565,
+        2036,
+        797,
+        2912
+      ],
+      "translation": "My other brother is in England. He lives in London and works as a mechanic."
+    },
+    {
+      "video": "english.2456.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4581,
+        2456,
+        2556,
+        4370,
+        2895,
+        2266,
+        1638,
+        2297
+      ],
+      "translation": "My English is poor, I can't read and understand what this means."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Engand-2456.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5798,
+  "gloss": {
+    "english": [
+      "forest"
+    ],
+    "english_secondary": [
+      "trees"
+    ],
+    "maori": [
+      "ngahere",
+      "nehenehe",
+      "wao nui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "forest.5798.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forest.5798.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2540,
+        3654,
+        5619,
+        264,
+        2583,
+        5798,
+        4030
+      ],
+      "translation": "We went tramping for three days in the forest - it was beautiful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "forest-5798.png"
+}

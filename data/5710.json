@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5710,
+  "gloss": {
+    "english": [
+      "one hundred"
+    ],
+    "english_secondary": [
+      "100",
+      "a hundred"
+    ],
+    "maori": [
+      "kotahi rau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "one_hundred.5710.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_100.5710.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        5632,
+        4307,
+        4163,
+        5710,
+        4224
+      ],
+      "translation": "She bought a pair of shoes that were worth one hundred dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "one_hundred-5710.png"
+}

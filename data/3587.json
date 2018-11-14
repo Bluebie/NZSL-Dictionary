@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 3587,
+  "gloss": {
+    "english": [
+      "bus",
+      "truck"
+    ],
+    "english_secondary": [
+      "bus driver",
+      "drive (a bus or truck)",
+      "lorry",
+      "tractor"
+    ],
+    "maori": [
+      "pahi",
+      "taraka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bus.3587.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bus.3587.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        "every",
+        3111,
+        2297,
+        1178,
+        488,
+        1298,
+        "catch",
+        3587,
+        2531
+      ],
+      "translation": "Every morning he catches the bus to go to intermediate school."
+    },
+    {
+      "video": "bus.3587.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5448,
+        3587,
+        4093,
+        3414,
+        702,
+        845
+      ],
+      "translation": "I put my furniture into a truck to move house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bus-3587.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4348,
+  "gloss": {
+    "english": [
+      "lipstick"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pani ngutu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lipstick.4348.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lipstick.4348.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1526,
+        3300,
+        2165,
+        1394,
+        1185,
+        4348
+      ],
+      "translation": "It was windy so my lips were dry. I needed lipstick."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "lipstick-4348.png"
+}

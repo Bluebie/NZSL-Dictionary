@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1861,
+  "gloss": {
+    "english": [
+      "animal"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kararehe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "animal.1861.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "animal.1861.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4616,
+        797,
+        3701,
+        3721,
+        1861
+      ],
+      "translation": "My uncle works on the farm with lots of animals."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "animal-1861.png"
+}

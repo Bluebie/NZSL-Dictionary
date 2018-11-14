@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 710,
+  "gloss": {
+    "english": [
+      "side"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taha"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "beside.710.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beside.710.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4689,
+        710,
+        1544,
+        784,
+        5738
+      ],
+      "translation": "My father's side of the family is from the north."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "side-710.png"
+}

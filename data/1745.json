@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1745,
+  "gloss": {
+    "english": [
+      "measles"
+    ],
+    "english_secondary": [
+      "chicken pox",
+      "rubella"
+    ],
+    "maori": [
+      "karawaka",
+      "mītara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "measles.1745.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "measles.1745.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1298,
+        2583,
+        1745,
+        3437,
+        1553,
+        5389,
+        856
+      ],
+      "translation": "At school measles was spreading. Many children were at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "measles-1745.png"
+}

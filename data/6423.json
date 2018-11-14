@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 6423,
+  "gloss": {
+    "english": [
+      "laces",
+      "tie laces"
+    ],
+    "english_secondary": [
+      "shoelaces"
+    ],
+    "maori": [
+      "ngā here"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "laces.6423.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "laces.6423.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4307,
+        2297,
+        3027,
+        6423,
+        2215,
+        4307
+      ],
+      "translation": "The shoes didn't have laces so they were easy to put on."
+    },
+    {
+      "video": "laces.6423.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        954,
+        4307,
+        2556,
+        1123,
+        6423
+      ],
+      "translation": "The child put her shoes on and I helped her tie the laces."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "laces-6423.png"
+}

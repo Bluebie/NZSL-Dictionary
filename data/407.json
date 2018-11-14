@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 407,
+  "gloss": {
+    "english": [
+      "top"
+    ],
+    "english_secondary": [
+      "on top"
+    ],
+    "maori": [
+      "tihi"
+    ],
+    "attributes": [
+      "noun",
+      "preposition"
+    ]
+  },
+  "video": "top.407.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "top.407.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        "cl:walk-up",
+        2583,
+        407,
+        4030,
+        2838,
+        1565
+      ],
+      "translation": "We walked to the top and wow, the view was just beautiful."
+    },
+    {
+      "video": "top.407.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        2645,
+        3513,
+        2297,
+        1565,
+        2297,
+        407,
+        2456,
+        4249,
+        2297
+      ],
+      "translation": "My younger brother is amazing - he's at the top of his English class."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "top-407.png"
+}

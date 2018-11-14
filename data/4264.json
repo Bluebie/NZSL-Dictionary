@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 4264,
+  "gloss": {
+    "english": [
+      "drink"
+    ],
+    "english_secondary": [
+      "beer",
+      "drinking",
+      "have a drink",
+      "milk",
+      "wine"
+    ],
+    "maori": [
+      "inu",
+      "unu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "drink.4264.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drink.4264.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        2314,
+        1300,
+        4264,
+        1300,
+        3653,
+        6230,
+        5608
+      ],
+      "translation": "A group of us friends were having some drinks and chatting - we finished up at half-past eleven."
+    },
+    {
+      "video": "drink.4264.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3518,
+        903,
+        5789,
+        2297,
+        1766,
+        4264,
+        2556,
+        1085,
+        2825
+      ],
+      "translation": "I sat down and had a look around while I waited for my friend to get the drinks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "drink-4264.png"
+}

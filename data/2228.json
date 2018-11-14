@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2228,
+  "gloss": {
+    "english": [
+      "tutor"
+    ],
+    "english_secondary": [
+      "instructor",
+      "instruction",
+      "teacher",
+      "tuition",
+      "tutor",
+      "tutorial"
+    ],
+    "maori": [
+      "pouako",
+      "kaiako"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tutor.2228.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tutor.2228.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3261,
+        2228,
+        1388,
+        5981
+      ],
+      "translation": "The NZSL tutors attended a workshop."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "tutor-2228.png"
+}

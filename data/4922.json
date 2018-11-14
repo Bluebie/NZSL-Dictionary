@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 4922,
+  "gloss": {
+    "english": [
+      "my turn"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kei a au"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "my_turn.4922.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "my_turn.4922.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2552,
+        2321,
+        5089,
+        4922
+      ],
+      "translation": "Your time is up. It's my turn."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "my_turn-4922.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4827,
+  "gloss": {
+    "english": [
+      "Beehive"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Whare Miere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Beehive.4827.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Beehive.4827.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5941,
+        3276,
+        3800,
+        2583,
+        4827,
+        723
+      ],
+      "translation": "The Prime Minister's office is at the top of the Beehive."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Beehive-4827.png"
+}

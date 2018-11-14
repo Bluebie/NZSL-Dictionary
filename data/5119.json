@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 5119,
+  "gloss": {
+    "english": [
+      "mislead"
+    ],
+    "english_secondary": [
+      "cover up",
+      "deceive",
+      "fool",
+      "hoodwink",
+      "tell a lie"
+    ],
+    "maori": [
+      "whakahē",
+      "whakakotiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "mislead.5119.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mislead.5119.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5119,
+        2556,
+        1071,
+        1238,
+        2583,
+        3460,
+        579,
+        1767,
+        2410,
+        4141,
+        4546
+      ],
+      "translation": "I misled her by saying 'why don't we go to a restaurant', when really I was taking her to her surprise party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "mislead-5119.png"
+}

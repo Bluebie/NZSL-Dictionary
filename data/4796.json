@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4796,
+  "gloss": {
+    "english": [
+      "Jesus"
+    ],
+    "english_secondary": [
+      "Jesus Christ"
+    ],
+    "maori": [
+      "Ihu Karaiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jesus.4796.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jesus.4796.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4226,
+        2095,
+        3824,
+        4796,
+        233,
+        5429,
+        264
+      ],
+      "translation": "Christians celebrate the birth of Jesus on Christmas Day."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "Jesus-4796.png"
+}

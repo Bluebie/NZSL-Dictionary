@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5936,
+  "gloss": {
+    "english": [
+      "oldest"
+    ],
+    "english_secondary": [
+      "elder",
+      "eldest",
+      "more mature",
+      "older"
+    ],
+    "maori": [
+      "mātāmua",
+      "mea pakeke"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "older.5936.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "older.5936.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5936,
+        2416,
+        2111,
+        2417,
+        3513
+      ],
+      "translation": "I'm the oldest child. My sister is second and my brother is third."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "oldest-5936.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2335,
+  "gloss": {
+    "english": [
+      "eleven"
+    ],
+    "english_secondary": [
+      "11"
+    ],
+    "maori": [
+      "tekau mā tahi"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "eleven.2335.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eleven.2335.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        1938,
+        1553,
+        2095,
+        2583,
+        234,
+        2190,
+        1885,
+        4977,
+        2335
+      ],
+      "translation": "The man was angry because there were too many people in the lift. He said we had to stick to the limit of eleven."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eleven-2335.png"
+}

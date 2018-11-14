@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 961,
+  "gloss": {
+    "english": [
+      "Yugoslavia"
+    ],
+    "english_secondary": [
+      "Yugoslavian"
+    ],
+    "maori": [
+      "Whenua Tararā"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Yugoslavia.961.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Yugoslavia.961.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        1636,
+        1505,
+        961,
+        2297,
+        702,
+        585,
+        1338,
+        2297,
+        954
+      ],
+      "translation": "Her family's from Yugoslavia. She moved to New Zealand when she was a child."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Yugoslavia-961.png"
+}

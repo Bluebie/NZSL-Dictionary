@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4496,
+  "gloss": {
+    "english": [
+      "rat"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rat.4496.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rat.4496.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1376,
+        4496,
+        1176,
+        845,
+        2583,
+        5632,
+        1830
+      ],
+      "translation": "I had a rat under the house and bought a trap."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "rat-4496.png"
+}

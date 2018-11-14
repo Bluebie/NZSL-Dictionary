@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3146,
+  "gloss": {
+    "english": [
+      "ovaries"
+    ],
+    "english_secondary": [
+      "ovarian",
+      "ovary"
+    ],
+    "maori": [
+      "kiato kākano"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ovaries.3146.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ovaries.3146.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        3146,
+        3978,
+        2096,
+        1376,
+        1231
+      ],
+      "translation": "Her ovaries are not functioning so she can't have a baby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "ovaries-3146.png"
+}

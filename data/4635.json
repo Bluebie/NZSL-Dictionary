@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4635,
+  "gloss": {
+    "english": [
+      "south"
+    ],
+    "english_secondary": [
+      "down south",
+      "southern"
+    ],
+    "maori": [
+      "tonga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "south.4635.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "south.4635.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4689,
+        "think-about",
+        3086,
+        1832,
+        1636,
+        2410,
+        1403,
+        4635,
+        3140
+      ],
+      "translation": "My father thought about taking the family for a holiday in the South Island."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "south-4635.png"
+}

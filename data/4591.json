@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 4591,
+  "gloss": {
+    "english": [
+      "terrible"
+    ],
+    "english_secondary": [
+      "awful",
+      "horrible",
+      "serious",
+      "shocking",
+      "very bad"
+    ],
+    "maori": [
+      "kino",
+      "weriweri",
+      "anuanu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "terrible.4591.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "terrible.4591.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1562,
+        4510,
+        2556,
+        2844,
+        "cl:inside-mouth",
+        2297,
+        4591,
+        2174
+      ],
+      "translation": "She had a sore throat so I had a look inside her mouth. It looked terrible, all red."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "terrible-4591.png"
+}

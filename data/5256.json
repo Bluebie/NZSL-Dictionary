@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5256,
+  "gloss": {
+    "english": [
+      "taonga"
+    ],
+    "english_secondary": [
+      "thing of value",
+      "treasure"
+    ],
+    "maori": [
+      "taonga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "taonga.5256.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "taonga.5256.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3300,
+        1636,
+        6000,
+        2297,
+        5256,
+        5536,
+        5474
+      ],
+      "translation": "The land of my whanau is a taonga. We feel we belong there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "taonga-5256.png"
+}

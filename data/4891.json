@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4891,
+  "gloss": {
+    "english": [
+      "senior citizens"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaumātua"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "senior_citizen.4891.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "senior_citizen.4891.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1165,
+        1444,
+        4891,
+        1388,
+        4657,
+        1300,
+        3089
+      ],
+      "translation": "Every Wednesday, senior citizens gather at the Deaf club to chat and drink tea."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "senior_citizens-4891.png"
+}

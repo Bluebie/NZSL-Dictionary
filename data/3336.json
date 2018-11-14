@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3336,
+  "gloss": {
+    "english": [
+      "granddaughter"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mokopuna"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "granddaughter.3336.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "granddaughter.3336.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5816,
+        3355,
+        2556,
+        3336,
+        2410,
+        6059,
+        3700
+      ],
+      "translation": "My granddaughter goes to ballet practice every Saturday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "granddaughter-3336.png"
+}

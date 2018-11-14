@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2012,
+  "gloss": {
+    "english": [
+      "meningitis"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiriuhi ua kakā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "meningitis.2012.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meningitis.2012.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3890,
+        4656,
+        669,
+        2012,
+        2297,
+        2099,
+        5621,
+        2297
+      ],
+      "translation": "She became deaf through meningitis when she was five years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "meningitis-2012.png"
+}

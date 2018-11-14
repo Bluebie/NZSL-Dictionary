@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2646,
+  "gloss": {
+    "english": [
+      "year"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "year.2646.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "year.2646.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4214,
+        2583,
+        565,
+        1107,
+        2865,
+        2646
+      ],
+      "translation": "I have lived in Christchurch for twelve years now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "year-2646.png"
+}

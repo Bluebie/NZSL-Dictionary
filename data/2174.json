@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2174,
+  "gloss": {
+    "english": [
+      "red"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whero"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "red.2174.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "red.2174.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4765,
+        549,
+        2174,
+        4348,
+        3276
+      ],
+      "translation": "My mother loves red lipstick. She always wears it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "red-2174.png"
+}

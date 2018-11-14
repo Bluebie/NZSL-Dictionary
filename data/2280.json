@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2280,
+  "gloss": {
+    "english": [
+      "not know about"
+    ],
+    "english_secondary": [
+      "don't know anything",
+      "ignorant",
+      "know nothing about",
+      "unaware",
+      "unknown"
+    ],
+    "maori": [
+      "kūare"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "not_know_about.2280.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_know_about.2280.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        1217,
+        2583,
+        2280
+      ],
+      "translation": "That boy over there, I don't know anything about him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "not_know_about-2280.png"
+}

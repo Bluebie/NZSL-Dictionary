@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3196,
+  "gloss": {
+    "english": [
+      "proof"
+    ],
+    "english_secondary": [
+      "evidence",
+      "prove"
+    ],
+    "maori": [
+      "tohu",
+      "tohu whakaū"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "proof.3196.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "proof.3196.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4092,
+        5398,
+        3949,
+        1885,
+        3196,
+        4472,
+        "cl:include-paper"
+      ],
+      "translation": "You must include receipts as proof for a medical insurance claim."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "proof-3196.png"
+}

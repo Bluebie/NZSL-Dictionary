@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3297,
+  "gloss": {
+    "english": [
+      "Canada"
+    ],
+    "english_secondary": [
+      "Canadian"
+    ],
+    "maori": [
+      "Kānata"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "canada.3297.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "canada.3297.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4765,
+        1505,
+        3297,
+        2297,
+        702,
+        499,
+        2556,
+        3542
+      ],
+      "translation": "My mother is from Canada. She moved here before I was born."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Canada-3297.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2810,
+  "gloss": {
+    "english": [
+      "kidney"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tākihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kidney.2810.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kidney.2810.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3677,
+        3864,
+        2810,
+        5607,
+        2583,
+        "cl:take-kidney-out"
+      ],
+      "translation": "She's had a kidney operation. The one on the right was taken out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "kidney-2810.png"
+}

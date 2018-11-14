@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2188,
+  "gloss": {
+    "english": [
+      "comment"
+    ],
+    "english_secondary": [
+      "give feedback",
+      "give opinion",
+      "telltale"
+    ],
+    "maori": [
+      "whakahoki kōrero"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "comment.2188.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "comment.2188.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1095,
+        6022,
+        "cl:point-policy",
+        655,
+        3274,
+        2188,
+        2266,
+        2050,
+        "cl:point-policy"
+      ],
+      "translation": "We welcome your comments and thoughts about the new policy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "comment-2188.png"
+}

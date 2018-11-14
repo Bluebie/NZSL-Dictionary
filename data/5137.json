@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5137,
+  "gloss": {
+    "english": [
+      "forget it"
+    ],
+    "english_secondary": [
+      "can't be bothered",
+      "don't want to know",
+      "had enough",
+      "nah",
+      "never mind",
+      "stuff it"
+    ],
+    "maori": [
+      "hei aha"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "stuff_it.5137.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stuff_it.5137.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3009,
+        721,
+        2556,
+        4316,
+        1860,
+        797,
+        5137
+      ],
+      "translation": "He asked if I wanted to be involved, but it was too much work, forget it!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "forget_it-5137.png"
+}

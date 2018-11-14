@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 834,
+  "gloss": {
+    "english": [
+      "table"
+    ],
+    "english_secondary": [
+      "desk"
+    ],
+    "maori": [
+      "tēpu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "table.834.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "table.834.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        3585,
+        "wood",
+        3954,
+        3375,
+        347,
+        4819,
+        834
+      ],
+      "translation": "He works with wood, making beds, drawers and tables."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "table-834.png"
+}

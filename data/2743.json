@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2743,
+  "gloss": {
+    "english": [
+      "do"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "do.2743.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "do.2743.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1775,
+        5389,
+        856,
+        1643,
+        2743,
+        3027
+      ],
+      "translation": "It was raining and the children sat at home twiddling their thumbs, not doing anything."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "do-2743.png"
+}

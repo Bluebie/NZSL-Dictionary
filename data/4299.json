@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 4299,
+  "gloss": {
+    "english": [
+      "lead",
+      "leader"
+    ],
+    "english_secondary": [
+      "chief",
+      "guide",
+      "head",
+      "show"
+    ],
+    "maori": [
+      "ārahi",
+      "kaiārahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "leader.4299.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "leader.4299.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4821,
+        566,
+        4299,
+        4656,
+        2645,
+        5861
+      ],
+      "translation": "I'm responsible for organising and leading deaf youth camps."
+    },
+    {
+      "video": "leader.4299.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        3658,
+        4299,
+        4316,
+        4657,
+        5621,
+        2646,
+        1107
+      ],
+      "translation": "He's a good leader. He's been involved in the Deaf Club for five years so far."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "lead-4299.png"
+}

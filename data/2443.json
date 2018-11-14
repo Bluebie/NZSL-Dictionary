@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2443,
+  "gloss": {
+    "english": [
+      "watch"
+    ],
+    "english_secondary": [
+      "wristwatch"
+    ],
+    "maori": [
+      "wati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "watch.2443.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "watch.2443.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5129,
+        2443,
+        "cl:watch-off",
+        499,
+        779,
+        783
+      ],
+      "translation": "You must take your watch off before diving in and swimming."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "watch-2443.png"
+}

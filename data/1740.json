@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1740,
+  "gloss": {
+    "english": [
+      "sweat"
+    ],
+    "english_secondary": [
+      "perspiration",
+      "perspire",
+      "sweaty"
+    ],
+    "maori": [
+      "werawera"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "sweat.1740.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sweat.1740.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1926,
+        1949,
+        1732,
+        1740
+      ],
+      "translation": "I was playing basketball. It was sunny and I was sweating."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "sweat-1740.png"
+}

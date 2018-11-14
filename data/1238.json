@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1238,
+  "gloss": {
+    "english": [
+      "let's"
+    ],
+    "english_secondary": [
+      "come on",
+      "hurry up",
+      "why don't we"
+    ],
+    "maori": [
+      "me"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lets.1238.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lets.1238.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1238,
+        2321,
+        2556,
+        2466,
+        5402,
+        2583
+      ],
+      "translation": "Let's go over there and talk in private."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "let_s-1238.png"
+}

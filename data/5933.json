@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5933,
+  "gloss": {
+    "english": [
+      "pass"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "puta"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "passed.5933.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "passed.5933.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3462,
+        2775,
+        3898,
+        2556,
+        5933
+      ],
+      "translation": "I passed the driver licence test."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pass-5933.png"
+}

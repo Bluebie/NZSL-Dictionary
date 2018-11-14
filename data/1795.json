@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1795,
+  "gloss": {
+    "english": [
+      "host"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaiwhakahaere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "host.1795.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "host.1795.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        970,
+        4383,
+        1795,
+        585,
+        4656,
+        3707
+      ],
+      "translation": "Palmerston North recently hosted the New Zealand Deaf Games."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "host-1795.png"
+}

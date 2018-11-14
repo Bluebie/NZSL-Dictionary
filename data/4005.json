@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4005,
+  "gloss": {
+    "english": [
+      "lamp"
+    ],
+    "english_secondary": [
+      "bedside lamp",
+      "desk lamp",
+      "table lamp"
+    ],
+    "maori": [
+      "rama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lamp.4005.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lamp.4005.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        347,
+        "cl:bed",
+        3775,
+        4005,
+        2215,
+        2895
+      ],
+      "translation": "Next to my bed is a lamp so it's easier to read."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "lamp-4005.png"
+}

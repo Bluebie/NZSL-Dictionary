@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6304,
+  "gloss": {
+    "english": [
+      "skin"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "skin.6304.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "skin.6304.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4001,
+        2297,
+        4581,
+        5601,
+        4501,
+        6304,
+        4477
+      ],
+      "translation": "The sun has bad radiation which causes skin cancer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "skin-6304.png"
+}

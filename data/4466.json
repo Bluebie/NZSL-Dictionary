@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4466,
+  "gloss": {
+    "english": [
+      "reception"
+    ],
+    "english_secondary": [
+      "reception desk",
+      "receptionist"
+    ],
+    "maori": [
+      "taupaepae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "receptionist.4466.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "receptionist.4466.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1522,
+        2583,
+        4466,
+        2556,
+        3009,
+        2556,
+        721,
+        2461,
+        4550
+      ],
+      "translation": "I told the woman at the reception that I wanted to meet with the lawyer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "reception-4466.png"
+}

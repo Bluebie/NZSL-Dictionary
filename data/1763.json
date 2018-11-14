@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1763,
+  "gloss": {
+    "english": [
+      "bottle"
+    ],
+    "english_secondary": [
+      "jar"
+    ],
+    "maori": [
+      "pātara",
+      "pounamu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bottle.1763.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bottle.1763.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        4264,
+        3653,
+        1763,
+        4138,
+        564,
+        385,
+        2583
+      ],
+      "translation": "When you've finished your drink, put the bottle in that box please."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "bottle-1763.png"
+}

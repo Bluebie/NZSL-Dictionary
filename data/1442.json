@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1442,
+  "gloss": {
+    "english": [
+      "breathless"
+    ],
+    "english_secondary": [
+      "gasp",
+      "out of breath",
+      "pant",
+      "puffed"
+    ],
+    "maori": [
+      "pau te hau",
+      "kihakiha te manawa",
+      "hēmanawa"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "breathless.1442.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breathless.1442.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        970,
+        783,
+        5607,
+        3547,
+        2297,
+        1442
+      ],
+      "translation": "She just swam one kilometre and now she is breathless."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "breathless-1442.png"
+}

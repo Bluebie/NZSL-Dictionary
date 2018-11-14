@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1533,
+  "gloss": {
+    "english": [
+      "upset"
+    ],
+    "english_secondary": [
+      "distressed",
+      "unhappy"
+    ],
+    "maori": [
+      "hē ngā whakaaro",
+      "raru ngā whakaaro"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "upset.1533.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "upset.1533.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4520,
+        3898,
+        2297,
+        5450,
+        2297,
+        4656,
+        4766,
+        1533
+      ],
+      "translation": "The doctor tested her and found she was deaf. Her parents were upset."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "upset-1533.png"
+}

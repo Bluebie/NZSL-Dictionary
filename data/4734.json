@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4734,
+  "gloss": {
+    "english": [
+      "devil",
+      "evil"
+    ],
+    "english_secondary": [
+      "devilish",
+      "Satan",
+      "wicked"
+    ],
+    "maori": [
+      "rēwera",
+      "kino"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "devil.4734.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "devil.4734.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4051,
+        2095,
+        1317,
+        4734,
+        440
+      ],
+      "translation": "Some people believe the devil exists."
+    },
+    {
+      "video": "devil.4734.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4734,
+        3220,
+        3653,
+        1309,
+        1522
+      ],
+      "translation": "That evil man raped a woman."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.2-ad45324ae7ca03a302b2ad28c533f636d4a946c9e2afaf9f338dd97f3fcd52f4.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "devil-4734.png"
+}

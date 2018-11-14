@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4135,
+  "gloss": {
+    "english": [
+      "beat"
+    ],
+    "english_secondary": [
+      "better than",
+      "defeat",
+      "outdo",
+      "surpass"
+    ],
+    "maori": [
+      "mīere",
+      "hinga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "better_than.4135.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "better_than.4135.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4158,
+        2556,
+        4135,
+        4689
+      ],
+      "translation": "I beat my father in chess."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "beat-4135.png"
+}

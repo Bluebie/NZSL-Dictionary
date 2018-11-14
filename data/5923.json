@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5923,
+  "gloss": {
+    "english": [
+      "May"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Haratua",
+      "Mei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_may.5923.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_may.5923.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3434,
+        1403,
+        3885,
+        5923
+      ],
+      "translation": "He's visiting for a holiday this May."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "May-5923.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3763,
+  "gloss": {
+    "english": [
+      "blunt"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūhuki"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "blunt.3763.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blunt.3763.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        3819,
+        5043,
+        5022,
+        2450,
+        3763
+      ],
+      "translation": "It was hard to carve the meat because the knife was blunt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "blunt-3763.png"
+}

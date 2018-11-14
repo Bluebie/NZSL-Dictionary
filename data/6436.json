@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6436,
+  "gloss": {
+    "english": [
+      "North Island"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Ika-a-Māui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "North_Island.6436.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "North_Island.6436.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6436,
+        1897,
+        2095,
+        565,
+        2583
+      ],
+      "translation": "More people live in the North Island."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "North_Island-6436.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1688,
+  "gloss": {
+    "english": [
+      "swimming togs"
+    ],
+    "english_secondary": [
+      "briefs",
+      "swimming trunks",
+      "togs"
+    ],
+    "maori": [
+      "kahu kaukau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "togs.1688.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "togs.1688.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2540,
+        2410,
+        783,
+        6191,
+        1688,
+        2416,
+        3222
+      ],
+      "translation": "We are going for a swim. Bring swimming togs and a towel."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "swimming_togs-1688.png"
+}

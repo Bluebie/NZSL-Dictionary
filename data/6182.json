@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6182,
+  "gloss": {
+    "english": [
+      "shirt"
+    ],
+    "english_secondary": [
+      "blouse"
+    ],
+    "maori": [
+      "hāte"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shirt.6182.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shirt.6182.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        3375,
+        6182,
+        515
+      ],
+      "translation": "he makes shirts on a sewing-machine."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "shirt-6182.png"
+}

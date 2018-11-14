@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5887,
+  "gloss": {
+    "english": [
+      "federation"
+    ],
+    "english_secondary": [
+      "foundation"
+    ],
+    "maori": [
+      "tōpūtanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "federation.5887.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "federation.5887.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4656,
+        3707,
+        5887,
+        1376,
+        5799,
+        3885,
+        4572
+      ],
+      "translation": "The Deaf Sports Federation has its AGM this June."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "federation-5887.png"
+}

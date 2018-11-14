@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 1692,
+  "gloss": {
+    "english": [
+      "waist"
+    ],
+    "english_secondary": [
+      "hip"
+    ],
+    "maori": [
+      "hope"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hip.1692.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hip.1692.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        1692,
+        6203,
+        2266
+      ],
+      "translation": "What's his waist size?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "waist-1692.png"
+}

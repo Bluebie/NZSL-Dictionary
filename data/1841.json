@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1841,
+  "gloss": {
+    "english": [
+      "salad"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huamata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "salad.1841.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "salad.1841.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        604,
+        2321,
+        6191,
+        1841,
+        580
+      ],
+      "translation": "Can you please bring a salad to share at the barbecue."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "salad-1841.png"
+}

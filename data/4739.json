@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4739,
+  "gloss": {
+    "english": [
+      "Wales"
+    ],
+    "english_secondary": [
+      "Welsh"
+    ],
+    "maori": [
+      "Wēra"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Wales.4739.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Wales.4739.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2865,
+        2646,
+        1107,
+        2297,
+        565,
+        2583,
+        4739,
+        2297,
+        606,
+        565,
+        2583
+      ],
+      "translation": "For the last twelve years, he has lived in Wales and he's happy there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.2-843ef3d2c44a26f7af3ba3edda8231e298748b24b06e908667a2ebe0006662cb.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Wales-4739.png"
+}

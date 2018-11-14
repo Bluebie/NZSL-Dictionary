@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5380,
+  "gloss": {
+    "english": [
+      "website"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pae tukutuku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "website.5380.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "website.5380.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5380,
+        1376,
+        889,
+        2193,
+        2321,
+        2895
+      ],
+      "translation": "The full information is on the website. You can read it there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "website-5380.png"
+}

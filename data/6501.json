@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6501,
+  "gloss": {
+    "english": [
+      "yoghurt"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "miraka tepe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "yoghurt.6501.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "yoghurt.6501.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6501,
+        2297,
+        3420,
+        2297
+      ],
+      "translation": "The yoghurt was cold."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "yoghurt-6501.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5983,
+  "gloss": {
+    "english": [
+      "transport"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "transport.5983.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "transport.5983.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3027,
+        5983,
+        4501,
+        2556,
+        1832
+      ],
+      "translation": "I don't have any transport. Can I go with you?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "transport-5983.png"
+}

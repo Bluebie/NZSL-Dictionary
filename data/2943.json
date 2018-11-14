@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2943,
+  "gloss": {
+    "english": [
+      "police"
+    ],
+    "english_secondary": [
+      "cop",
+      "police officer",
+      "policeman",
+      "policewoman"
+    ],
+    "maori": [
+      "pirihimana",
+      "ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "police.2943.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "police.2943.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        845,
+        1813,
+        4736,
+        2943,
+        2145,
+        2825
+      ],
+      "translation": "My house was robbed, so I rang the police to come and look around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "police-2943.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1790,
+  "gloss": {
+    "english": [
+      "catch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hopu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "catch.1790.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "catch.1790.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5496,
+        3560,
+        "cl:ball-fly",
+        2297,
+        3656,
+        1790,
+        2297,
+        3690
+      ],
+      "translation": "If he bats the ball and she manages to catch it, he's out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "catch-1790.png"
+}

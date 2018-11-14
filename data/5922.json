@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5922,
+  "gloss": {
+    "english": [
+      "maths"
+    ],
+    "english_secondary": [
+      "mathematics"
+    ],
+    "maori": [
+      "pāngarau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "maths.5922.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "maths.5922.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4656,
+        2184,
+        954,
+        2556,
+        6326,
+        4054,
+        5922
+      ],
+      "translation": "I teach maths one-to-one to a young deaf boy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "maths-5922.png"
+}

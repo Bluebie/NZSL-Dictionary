@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4727,
+  "gloss": {
+    "english": [
+      "for"
+    ],
+    "english_secondary": [
+      "in order to",
+      "purpose",
+      "so that",
+      "to"
+    ],
+    "maori": [
+      "mō"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "for.4727.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "for.4727.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        954,
+        3250,
+        4689,
+        4727,
+        707,
+        2297,
+        5523
+      ],
+      "translation": "I sent my child to her father for the weekend so he could look after her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.2-505b07826bdae6053dfc3e3102dc758f539407019509d7b1fc68baaa2ae41842.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "for-4727.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 2607,
+  "gloss": {
+    "english": [
+      "conference",
+      "meeting"
+    ],
+    "english_secondary": [
+      "hui"
+    ],
+    "maori": [
+      "hui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "meeting.2607.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meeting.2607.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4372,
+        2583,
+        1795,
+        4656,
+        4054,
+        2607
+      ],
+      "translation": "Sydney hosted a conference on Deaf education."
+    },
+    {
+      "video": "meeting.2607.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3355,
+        2607,
+        850,
+        264,
+        3653,
+        5662,
+        5621
+      ],
+      "translation": "The meeting on Saturday took all day and finished at five o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "conference-2607.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2367,
+  "gloss": {
+    "english": [
+      "aerial"
+    ],
+    "english_secondary": [
+      "antenna"
+    ],
+    "maori": [
+      "pūhihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "aerial.2367.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "aerial.2367.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        845,
+        3027,
+        2382,
+        2367
+      ],
+      "translation": "My house doesn't have a television aerial."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "aerial-2367.png"
+}

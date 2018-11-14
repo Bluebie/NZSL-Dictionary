@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2131,
+  "gloss": {
+    "english": [
+      "girlfriend"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whaiāipo"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "girlfriend.2131.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "girlfriend.2131.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3513,
+        2117,
+        2131,
+        2297,
+        1865,
+        1513,
+        3261,
+        2556,
+        1220,
+        523,
+        2297,
+        3700
+      ],
+      "translation": "My brother's hearing girlfriend is interested in learning NZSL. I gave her a book to practice with."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "girlfriend-2131.png"
+}

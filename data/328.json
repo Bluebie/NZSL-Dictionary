@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 328,
+  "gloss": {
+    "english": [
+      "shame on you",
+      "what a shame"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "me whakamā koe"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "what_a_shame.328.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "what_a_shame.328.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        328,
+        2321,
+        4006,
+        465,
+        2515
+      ],
+      "translation": "Shame on you that you forgot her birthday."
+    },
+    {
+      "video": "what_a_shame.328.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        2096,
+        2328,
+        4546,
+        328
+      ],
+      "translation": "You can't come to the party? What a shame!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "shame_on_you-328.png"
+}

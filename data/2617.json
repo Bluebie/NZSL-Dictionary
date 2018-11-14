@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 2617,
+  "gloss": {
+    "english": [
+      "answer"
+    ],
+    "english_secondary": [
+      "reply",
+      "respond",
+      "response"
+    ],
+    "maori": [
+      "whakautu",
+      "whakaō"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "answer.2617.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "answer.2617.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        6010,
+        3751,
+        5082,
+        2556,
+        3811,
+        5785,
+        2617
+      ],
+      "translation": "That question is hard, but I'll try to answer."
+    },
+    {
+      "video": "answer.2617.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        3009,
+        908,
+        3518,
+        3276,
+        2617,
+        2266
+      ],
+      "translation": "I've already asked her. I'm now waiting for her answer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "answer-2617.png"
+}

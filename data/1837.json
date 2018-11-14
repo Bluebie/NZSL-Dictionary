@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1837,
+  "gloss": {
+    "english": [
+      "possum"
+    ],
+    "english_secondary": [
+      "opossum"
+    ],
+    "maori": [
+      "paihamu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "possum.1837.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "possum.1837.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4689,
+        4616,
+        4756,
+        2410,
+        5798,
+        2250,
+        3650,
+        1837
+      ],
+      "translation": "The three of us - my father, my uncle and me - went to the forest. We shot and killed a possum."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "possum-1837.png"
+}

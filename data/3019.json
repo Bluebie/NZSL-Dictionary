@@ -1,0 +1,68 @@
+{
+  "nzsl_id": 3019,
+  "gloss": {
+    "english": [
+      "risky",
+      "take a chance"
+    ],
+    "english_secondary": [
+      "apprehensive",
+      "dare",
+      "pluck up courage",
+      "risk"
+    ],
+    "maori": [
+      "kimi mate",
+      "whakamātau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "risky.3019.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "risky.3019.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5619,
+        4763,
+        5643,
+        5403,
+        1926,
+        3560,
+        2297,
+        2050,
+        3684,
+        5971,
+        3019
+      ],
+      "translation": "She was still playing cricket when she was three months pregnant. Then she thought she'd better stop as it was risky."
+    },
+    {
+      "video": "risky.3019.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2461,
+        2128,
+        3019,
+        1071,
+        721,
+        2879,
+        2410,
+        3460
+      ],
+      "translation": "I met a girl and I took a chance and asked her to go to a restaurant with me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "risky-3019.png"
+}

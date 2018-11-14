@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5957,
+  "gloss": {
+    "english": [
+      "separate"
+    ],
+    "english_secondary": [
+      "apart",
+      "break up",
+      "separation",
+      "split (up)"
+    ],
+    "maori": [
+      "wehe"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "separate.5957.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "separate.5957.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3055,
+        3978,
+        2879,
+        5498,
+        5957
+      ],
+      "translation": "The marriage did not work out and we both decided to separate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "separate-5957.png"
+}

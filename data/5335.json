@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 5335,
+  "gloss": {
+    "english": [
+      "vary"
+    ],
+    "english_secondary": [
+      "changeable",
+      "diverse",
+      "inconsistent",
+      "variable",
+      "variation"
+    ],
+    "maori": [
+      "rerekē anō"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "vary.5335.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "vary.5335.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2021,
+        5488,
+        5335,
+        5106,
+        5488,
+        3658,
+        5106,
+        5488,
+        4527
+      ],
+      "translation": "Teachers' signing skills vary. Some can sign well and some can only sign a little."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "vary-5335.png"
+}

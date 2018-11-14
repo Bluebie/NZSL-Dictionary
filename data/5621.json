@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5621,
+  "gloss": {
+    "english": [
+      "five"
+    ],
+    "english_secondary": [
+      "5"
+    ],
+    "maori": [
+      "rima"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "five.5621.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "five.5621.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5621,
+        2464,
+        5621,
+        2874,
+        4065
+      ],
+      "translation": "Five plus five equals ten."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "five-5621.png"
+}

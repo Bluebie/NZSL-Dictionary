@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5063,
+  "gloss": {
+    "english": [
+      "rosary"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rōhari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rosary.5063.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rosary.5063.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2841,
+        323,
+        3220,
+        763,
+        5448,
+        5063
+      ],
+      "translation": "The old Catholic man prayed using his rosary."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rosary-5063.png"
+}

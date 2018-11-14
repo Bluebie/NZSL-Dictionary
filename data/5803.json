@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5803,
+  "gloss": {
+    "english": [
+      "power"
+    ],
+    "english_secondary": [
+      "authority",
+      "powerful"
+    ],
+    "maori": [
+      "kaha"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "power.5803.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "power.5803.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5581,
+        4147,
+        6036,
+        1185,
+        5803,
+        1997
+      ],
+      "translation": "The mobile battery is low on power and needs to be charged."
+    },
+    {
+      "video": "power.5803.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3684,
+        3009,
+        2491,
+        2297,
+        5803,
+        5736,
+        5337
+      ],
+      "translation": "It's better to ask the boss as he has the power to say yes or no."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "power-5803.png"
+}

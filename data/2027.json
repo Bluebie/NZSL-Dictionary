@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2027,
+  "gloss": {
+    "english": [
+      "triangle"
+    ],
+    "english_secondary": [
+      "triangular"
+    ],
+    "maori": [
+      "tapatoru"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "triangle.2027.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "triangle.2027.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        2844,
+        2174,
+        2027,
+        4835,
+        2088,
+        1457
+      ],
+      "translation": "If you see a red triangle, it means be careful and slow down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "triangle-2027.png"
+}

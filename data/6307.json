@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6307,
+  "gloss": {
+    "english": [
+      "week"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wiki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "week.6307.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "week.6307.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1640,
+        6307,
+        4472,
+        2556,
+        3462,
+        5832,
+        2556,
+        439
+      ],
+      "translation": "I stuck a sign language week card on the windscreen of the car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "week-6307.png"
+}

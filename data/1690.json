@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1690,
+  "gloss": {
+    "english": [
+      "masturbate (female)"
+    ],
+    "english_secondary": [
+      "masturbation",
+      "play with oneself"
+    ],
+    "maori": [
+      "pītoretore (wahine)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "masturbate.1690.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "masturbate.1690.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2570,
+        3027,
+        3220,
+        2297,
+        1690,
+        5536,
+        1545
+      ],
+      "translation": "She's single and hasn't got a man. She masturbates and it feels great."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "masturbate_female-1690.png"
+}

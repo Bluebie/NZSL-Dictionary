@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2942,
+  "gloss": {
+    "english": [
+      "walk across"
+    ],
+    "english_secondary": [
+      "cross over",
+      "walk over"
+    ],
+    "maori": [
+      "whakawhiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "across.2942.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "across.2942.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2804,
+        2556,
+        "cl:look-left-right",
+        2942
+      ],
+      "translation": "I looked both ways before walking across the road."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "walk_across-2942.png"
+}

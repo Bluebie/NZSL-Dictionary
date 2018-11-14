@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4346,
+  "gloss": {
+    "english": [
+      "cry"
+    ],
+    "english_secondary": [
+      "bawl",
+      "cry-baby",
+      "feel sorry for oneself"
+    ],
+    "maori": [
+      "tangi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cry.4346.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cry.4346.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4731,
+        4600,
+        2556,
+        2844,
+        4346
+      ],
+      "translation": "As I watched the plane take off, I cried."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cry-4346.png"
+}

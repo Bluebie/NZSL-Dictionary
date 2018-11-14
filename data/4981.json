@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4981,
+  "gloss": {
+    "english": [
+      "behave",
+      "calm down"
+    ],
+    "english_secondary": [
+      "be patient",
+      "behaviour"
+    ],
+    "maori": [
+      "kia tau",
+      "āta tau",
+      "whakamōwai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "behave.4981.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "behave.4981.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5389,
+        2287,
+        4981,
+        3658,
+        4096,
+        3027
+      ],
+      "translation": "The children were well behaved and there were no problems."
+    },
+    {
+      "video": "behave.4981.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3618,
+        2321,
+        1904,
+        404,
+        4981
+      ],
+      "translation": "I know you're angry. Hold on and calm down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "behave-4981.png"
+}

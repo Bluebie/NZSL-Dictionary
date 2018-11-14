@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2816,
+  "gloss": {
+    "english": [
+      "remote control"
+    ],
+    "english_secondary": [
+      "use remote control"
+    ],
+    "maori": [
+      "rou mamao"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "remote.2816.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "remote.2816.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1569,
+        5831,
+        2816,
+        3571
+      ],
+      "translation": "I was disappointed when the TV remote control broke."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "remote_control-2816.png"
+}

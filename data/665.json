@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 665,
+  "gloss": {
+    "english": [
+      "first"
+    ],
+    "english_secondary": [
+      "at first",
+      "for a start",
+      "initial",
+      "initially",
+      "original",
+      "primary",
+      "to begin with"
+    ],
+    "maori": [
+      "tuatahi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "first.665.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "first.665.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        665,
+        2556,
+        1447,
+        1168,
+        5250,
+        972,
+        5250
+      ],
+      "translation": "First I'd like to introduce the speaker."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "first-665.png"
+}

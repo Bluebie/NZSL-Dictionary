@@ -1,0 +1,38 @@
+{
+  "nzsl_id": 3902,
+  "gloss": {
+    "english": [
+      "afternoon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ahiahi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "afternoon.3902.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "afternoon.3902.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3902,
+        3089,
+        4271
+      ],
+      "translation": "We'll catch up during afternoon tea."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.4.1-77cbe9ce0adab9b18d57407de6ae7732ccd859372283c41c18b06c253a03e2f3.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "afternoon-3902.png"
+}

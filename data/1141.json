@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1141,
+  "gloss": {
+    "english": [
+      "behind"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "muri"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "behind.1141.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "behind.1141.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1766,
+        5496,
+        834,
+        2583,
+        1141,
+        2583
+      ],
+      "translation": "You get the ball from behind the table over there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "behind-1141.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2409,
+  "gloss": {
+    "english": [
+      "flirt (with me)"
+    ],
+    "english_secondary": [
+      "come on to"
+    ],
+    "maori": [
+      "hemahema",
+      "nangā"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "flirt.2409.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flirt.2409.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        5471,
+        2583,
+        2906,
+        5607,
+        3220,
+        2409
+      ],
+      "translation": "I was at a bar, dancing, and a guy flirted with me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "flirt_with_me-2409.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5054,
+  "gloss": {
+    "english": [
+      "owl"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ruru"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "owl.5054.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "owl.5054.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        2883,
+        2801,
+        2297,
+        1071,
+        4501,
+        335,
+        5054,
+        3206
+      ],
+      "translation": "We were walking with a torch. He tapped me on the shoulder and told me he could hear an owl calling."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "owl-5054.png"
+}

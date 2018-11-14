@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1228,
+  "gloss": {
+    "english": [
+      "Earth",
+      "planet"
+    ],
+    "english_secondary": [
+      "world"
+    ],
+    "maori": [
+      "Papatūānuku",
+      "aorangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "earth.1228.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "earth.1228.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1228,
+        1324,
+        3970,
+        6207,
+        1897,
+        3194,
+        4130,
+        967
+      ],
+      "translation": "Earth's weather has changed and it's now warmer than before."
+    },
+    {
+      "video": "earth.1228.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        5391,
+        4501,
+        "see",
+        1228,
+        2173,
+        "fs:venus",
+        "cl:round"
+      ],
+      "translation": "At night you can see the planet Venus in the night sky."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "earth-1228.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 307,
+  "gloss": {
+    "english": [
+      "don't know"
+    ],
+    "english_secondary": [
+      "don't know anything",
+      "not know about",
+      "unaware",
+      "unknown"
+    ],
+    "maori": [
+      "kāore e mōhio",
+      "kāore i mōhio"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "dont_know.307.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dont_know.307.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        1733,
+        2556,
+        3435,
+        2556,
+        307,
+        2556
+      ],
+      "translation": "He wears a wig! I was really surprised because I didn't know."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "don_t_know-307.png"
+}

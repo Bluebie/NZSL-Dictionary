@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 5942,
+  "gloss": {
+    "english": [
+      "professional"
+    ],
+    "english_secondary": [
+      "ethical",
+      "expert",
+      "masterful"
+    ],
+    "maori": [
+      "ngaio"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "professional.5942.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "professional.5942.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5942,
+        5455,
+        1565,
+        2297
+      ],
+      "translation": "He is a professional actor. He's amazing!"
+    },
+    {
+      "video": "professional.5942.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3063,
+        2297,
+        5942,
+        1182,
+        2463,
+        4842
+      ],
+      "translation": "The interpreter is professional and remains neutral because she follows a Code of Ethics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "professional-5942.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2594,
+  "gloss": {
+    "english": [
+      "various"
+    ],
+    "english_secondary": [
+      "all kinds of",
+      "assortment",
+      "diversity",
+      "mixture",
+      "variation",
+      "variety"
+    ],
+    "maori": [
+      "momo",
+      "tūmomo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "various.2594.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "various.2594.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        856,
+        4176,
+        2594,
+        4356,
+        1376,
+        2297
+      ],
+      "translation": "He  has various flowers in his garden at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "various-2594.png"
+}

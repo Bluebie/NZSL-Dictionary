@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3092,
+  "gloss": {
+    "english": [
+      "tubular"
+    ],
+    "english_secondary": [
+      "cane",
+      "pipe",
+      "rod",
+      "stick",
+      "tube"
+    ],
+    "maori": [
+      "pū"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "tubular.3092.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tubular.3092.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4189,
+        2021,
+        3092,
+        "cl:slap-hands",
+        2293,
+        5488
+      ],
+      "translation": "He remembers that a teacher would slap their hands with a cane because they weren't allowed to sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tubular-3092.png"
+}

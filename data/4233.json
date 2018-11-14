@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4233,
+  "gloss": {
+    "english": [
+      "crab"
+    ],
+    "english_secondary": [
+      "crayfish",
+      "lobster"
+    ],
+    "maori": [
+      "pāpaka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "crab.4233.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "crab.4233.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        1549,
+        "cl:lift-rock",
+        2844,
+        2583,
+        4233,
+        2583
+      ],
+      "translation": "The boy lifted a rock and saw a crab underneath."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "crab-4233.png"
+}

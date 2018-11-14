@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3160,
+  "gloss": {
+    "english": [
+      "throw",
+      "throw away"
+    ],
+    "english_secondary": [
+      "discard",
+      "dispose of",
+      "get rid of",
+      "reject",
+      "throw out"
+    ],
+    "maori": [
+      "makaia",
+      "whiua"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "throw_away.3160.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "throw_away.3160.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4689,
+        5429,
+        2297,
+        3160,
+        2124,
+        5389,
+        1864,
+        "cl:pick-up-floor"
+      ],
+      "translation": "Father Christmas threw lollies and the excited children grabbed them off the floor."
+    },
+    {
+      "video": "throw_away.3160.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2677,
+        2297,
+        2841,
+        3160,
+        1454
+      ],
+      "translation": "The camera was old so I threw it away in the rubbish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "throw-3160.png"
+}

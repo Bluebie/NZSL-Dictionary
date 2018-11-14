@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2405,
+  "gloss": {
+    "english": [
+      "assertive"
+    ],
+    "english_secondary": [
+      "assert oneself"
+    ],
+    "maori": [
+      "kaha",
+      "taikaha"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "assertive.2405.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "assertive.2405.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        4479,
+        2405,
+        3027,
+        2532
+      ],
+      "translation": "The boy is confident and assertive. He isn't nervous at all."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "assertive-2405.png"
+}

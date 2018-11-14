@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1331,
+  "gloss": {
+    "english": [
+      "fool"
+    ],
+    "english_secondary": [
+      "deceive",
+      "silly",
+      "stupid",
+      "trick"
+    ],
+    "maori": [
+      "tinihanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fool.1331.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fool.1331.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1331,
+        2297,
+        2297,
+        5187,
+        1317,
+        2297
+      ],
+      "translation": "He fooled her and she fell for it and believed him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "fool-1331.png"
+}

@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 282,
+  "gloss": {
+    "english": [
+      "concentrate",
+      "pay attention"
+    ],
+    "english_secondary": [
+      "concentration",
+      "focus",
+      "keep your mind on",
+      "watch out for"
+    ],
+    "maori": [
+      "arotahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "attention.282.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attention.282.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5981,
+        2540,
+        282,
+        5274,
+        2893,
+        3867
+      ],
+      "translation": "At the workshop we concentrated on brainstorming, planning and writing."
+    },
+    {
+      "video": "attention.282.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        407,
+        4249,
+        2556,
+        282,
+        450
+      ],
+      "translation": "I'm the top of the class. I pay attention and study."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "concentrate-282.png"
+}

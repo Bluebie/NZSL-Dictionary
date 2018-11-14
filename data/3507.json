@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3507,
+  "gloss": {
+    "english": [
+      "hopeless"
+    ],
+    "english_secondary": [
+      "futile",
+      "inept",
+      "no hope",
+      "useless",
+      "waste of time"
+    ],
+    "maori": [
+      "koretake"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "hopeless.3507.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hopeless.3507.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2445,
+        2583,
+        1298,
+        2556,
+        3507
+      ],
+      "translation": "I was hopeless in maths at school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hopeless-3507.png"
+}

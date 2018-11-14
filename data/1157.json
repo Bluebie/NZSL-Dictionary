@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1157,
+  "gloss": {
+    "english": [
+      "keep inside oneself"
+    ],
+    "english_secondary": [
+      "bottle up",
+      "keep it to oneself",
+      "live with",
+      "suppress"
+    ],
+    "maori": [
+      "nohopuku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "keep_inside_oneself.1157.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "keep_inside_oneself.1157.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3788,
+        3700,
+        1165,
+        1157,
+        2556,
+        1292,
+        5802
+      ],
+      "translation": "I did speech training. I practiced and practiced. I hated the speech practice, but I kept that inside myself."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "keep_inside_oneself-1157.png"
+}

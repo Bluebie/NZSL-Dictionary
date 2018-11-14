@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5930,
+  "gloss": {
+    "english": [
+      "nut"
+    ],
+    "english_secondary": [
+      "peanut"
+    ],
+    "maori": [
+      "nati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nut.5930.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nut.5930.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5930,
+        6195,
+        "cl:pour-nuts-in-bowl"
+      ],
+      "translation": "I put the nuts in a bowl."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "nut-5930.png"
+}

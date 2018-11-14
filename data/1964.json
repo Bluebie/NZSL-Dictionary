@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1964,
+  "gloss": {
+    "english": [
+      "nauseous"
+    ],
+    "english_secondary": [
+      "feel sick",
+      "nausea"
+    ],
+    "maori": [
+      "whakapai ruaki"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "nausea.1964.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nausea.1964.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        859,
+        1314,
+        5155,
+        "cl:ferry-rock-around",
+        2556,
+        1964
+      ],
+      "translation": "It was incredibly windy. The ferry was rocking and it made me feel nauseous."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "nauseous-1964.png"
+}

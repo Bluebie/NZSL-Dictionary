@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5213,
+  "gloss": {
+    "english": [
+      "disconnect",
+      "out of contact"
+    ],
+    "english_secondary": [
+      "lose contact",
+      "lose touch",
+      "out of touch"
+    ],
+    "maori": [
+      "poroa",
+      "tapahia",
+      "kore e kōrero e kitekite"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "out_of_contact.5213.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "out_of_contact.5213.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        856,
+        5510,
+        5213,
+        1505,
+        768,
+        536
+      ],
+      "translation": "The internet at home has been disconnected since last Sunday."
+    },
+    {
+      "video": "out_of_contact.5213.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3027,
+        3276,
+        5348,
+        2416,
+        5513,
+        "well",
+        2879,
+        5213
+      ],
+      "translation": "I no longer get her emails or texts. We're out of contact."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "disconnect-5213.png"
+}

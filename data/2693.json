@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2693,
+  "gloss": {
+    "english": [
+      "Gallaudet (University)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Gallaudet (Te Whare Wānanga)"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gallaudet.2693.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gallaudet.2693.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2693,
+        1849,
+        2362,
+        4656,
+        1849,
+        280,
+        2583,
+        1482
+      ],
+      "translation": "Gallaudet University in America is the only Deaf university in the world."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "gallaudet_university-2693.png"
+}

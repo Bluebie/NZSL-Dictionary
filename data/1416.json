@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1416,
+  "gloss": {
+    "english": [
+      "influence"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kawekawe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "influence.1416.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "influence.1416.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        4581,
+        1416,
+        5389,
+        3974,
+        2846
+      ],
+      "translation": "The boy was a bad influence on the children. He gave out cigarettes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "influence-1416.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1676,
+  "gloss": {
+    "english": [
+      "overwhelmed"
+    ],
+    "english_secondary": [
+      "bogged down",
+      "overburdened",
+      "overworked"
+    ],
+    "maori": [
+      "pokea"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "overwhelmed.1676.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "overwhelmed.1676.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2219,
+        2287,
+        793,
+        1676,
+        5536,
+        1233
+      ],
+      "translation": "The staff there worked hard.  They were overwhelmed and felt it was too much."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "overwhelmed-1676.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2983,
+  "gloss": {
+    "english": [
+      "moon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "marama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "moon.2983.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "moon.2983.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5391,
+        4188,
+        2844,
+        1553,
+        1731,
+        2983,
+        4188
+      ],
+      "translation": "At night I looked through a telescope and saw many stars and the moon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "moon-2983.png"
+}

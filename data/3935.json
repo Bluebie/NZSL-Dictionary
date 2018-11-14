@@ -1,0 +1,81 @@
+{
+  "nzsl_id": 3935,
+  "gloss": {
+    "english": [
+      "court",
+      "judge",
+      "lawyer"
+    ],
+    "english_secondary": [
+      "justice",
+      "legal"
+    ],
+    "maori": [
+      "kōti",
+      "kaiwhakawā",
+      "rōia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "court.3935.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "court.3935.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2491,
+        1430,
+        2556,
+        3851,
+        2410,
+        3935,
+        2556,
+        3848,
+        1323
+      ],
+      "translation": "My boss discriminated against me, so I sued him. I took him to court and I won. Yay!"
+    },
+    {
+      "video": "court.3935.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3935,
+        2190,
+        2556,
+        1885,
+        3850,
+        954,
+        3523,
+        1165,
+        4763
+      ],
+      "translation": "The judge said I have to pay child support every month."
+    },
+    {
+      "video": "court.3935.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1959,
+        2901,
+        3935,
+        2297,
+        3375,
+        892,
+        2895,
+        5571,
+        499,
+        5815
+      ],
+      "translation": "I received a contract. My lawyer read it through to make sure it was alright before I signed it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "court-3935.png"
+}

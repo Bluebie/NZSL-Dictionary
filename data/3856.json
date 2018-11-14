@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3856,
+  "gloss": {
+    "english": [
+      "fix"
+    ],
+    "english_secondary": [
+      "adjust",
+      "fix up",
+      "mend",
+      "repair"
+    ],
+    "maori": [
+      "whakatika"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fix.3856.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fix.3856.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        471,
+        3571,
+        3250,
+        3856
+      ],
+      "translation": "My car's clutch broke so I sent it to be fixed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "fix-3856.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3960,
+  "gloss": {
+    "english": [
+      "eftpos"
+    ],
+    "english_secondary": [
+      "swipe card"
+    ],
+    "maori": [
+      "kāri moni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "eftpos.3960.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eftpos.3960.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        892,
+        1338,
+        415,
+        5448,
+        3960,
+        1319
+      ],
+      "translation": "I'm not sure when I last used EFTPOS. I've forgotten."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eftpos-3960.png"
+}

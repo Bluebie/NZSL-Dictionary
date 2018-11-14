@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2893,
+  "gloss": {
+    "english": [
+      "plan"
+    ],
+    "english_secondary": [
+      "arrange",
+      "intend",
+      "intention",
+      "organise"
+    ],
+    "maori": [
+      "whai whakaaro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "plan.2893.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plan.2893.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2893,
+        5607,
+        4763,
+        484,
+        282,
+        3243
+      ],
+      "translation": "I plan to focus on the gym in the coming month."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "plan-2893.png"
+}

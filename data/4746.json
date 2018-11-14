@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4746,
+  "gloss": {
+    "english": [
+      "marae"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "marae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "marae.4746.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "marae.4746.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        1636,
+        3266,
+        "involve",
+        4746
+      ],
+      "translation": "His family are closely involved with the marae."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "marae-4746.png"
+}

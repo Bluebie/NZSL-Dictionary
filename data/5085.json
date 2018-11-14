@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5085,
+  "gloss": {
+    "english": [
+      "depend on"
+    ],
+    "english_secondary": [
+      "depend upon",
+      "rely on"
+    ],
+    "maori": [
+      "whakawhirinaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "depend_on.5085.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "depend_on.5085.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3027,
+        797,
+        5085,
+        4766,
+        1220,
+        4022,
+        347
+      ],
+      "translation": "She doesn't have a job and depends on her parents for food and a place to sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "depend_on-5085.png"
+}

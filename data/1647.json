@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1647,
+  "gloss": {
+    "english": [
+      "war"
+    ],
+    "english_secondary": [
+      "battle",
+      "conflict"
+    ],
+    "maori": [
+      "pakanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "war.1647.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "war.1647.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1073,
+        1647,
+        3276,
+        4766,
+        3055,
+        1376,
+        5389
+      ],
+      "translation": "After the war, her parents married and had children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "war-1647.png"
+}

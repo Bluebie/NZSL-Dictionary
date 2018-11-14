@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3816,
+  "gloss": {
+    "english": [
+      "corn"
+    ],
+    "english_secondary": [
+      "maize",
+      "sweetcorn"
+    ],
+    "maori": [
+      "kānga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cornflakes.3816.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cornflakes.3816.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5391,
+        2556,
+        771,
+        3816,
+        3400,
+        1821
+      ],
+      "translation": "I'll cook sweetcorn, sausages and potatoes tonight."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "corn-3816.png"
+}

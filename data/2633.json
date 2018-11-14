@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2633,
+  "gloss": {
+    "english": [
+      "infection"
+    ],
+    "english_secondary": [
+      "infected"
+    ],
+    "maori": [
+      "mate"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "infection.2633.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "infection.2633.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        954,
+        1376,
+        5741,
+        2633,
+        1562,
+        5741,
+        2126
+      ],
+      "translation": "My child has an ear infection. She has a sore ear and is crying a lot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "infection-2633.png"
+}

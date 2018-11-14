@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1045,
+  "gloss": {
+    "english": [
+      "rich"
+    ],
+    "english_secondary": [
+      "affluent",
+      "prosperous",
+      "wealthy",
+      "well-off"
+    ],
+    "maori": [
+      "hunga whai rawa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "rich.1045.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rich.1045.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3276,
+        1636,
+        1045,
+        1376,
+        1494,
+        590
+      ],
+      "translation": "His family is rich and they have a big yacht."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "rich-1045.png"
+}

@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 4343,
+  "gloss": {
+    "english": [
+      "kiwi"
+    ],
+    "english_secondary": [
+      "Kiwi",
+      "New Zealander"
+    ],
+    "maori": [
+      "kiwi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kiwi.4343.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kiwi.4343.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2579,
+        585,
+        4343,
+        3218,
+        249
+      ],
+      "translation": "Here in New Zealand the number of kiwis is decreasing."
+    },
+    {
+      "video": "kiwi.4343.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4765,
+        4343,
+        4689,
+        3478
+      ],
+      "translation": "My mother is a Kiwi and my father is Scottish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "kiwi-4343.png"
+}

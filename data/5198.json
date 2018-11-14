@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5198,
+  "gloss": {
+    "english": [
+      "feel let-down"
+    ],
+    "english_secondary": [
+      "anticlimax",
+      "disappointed",
+      "flop",
+      "gutted",
+      "let down"
+    ],
+    "maori": [
+      "matekiri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "flop.5198.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flop.5198.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4581,
+        1324,
+        3561,
+        2246,
+        850,
+        5198,
+        5405,
+        1114
+      ],
+      "translation": "It was bad weather so the fishing was cancelled. We all felt let-down, and stayed inside."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "feel_let_down-5198.png"
+}

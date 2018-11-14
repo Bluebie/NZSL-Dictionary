@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2875,
+  "gloss": {
+    "english": [
+      "stuck"
+    ],
+    "english_secondary": [
+      "stranded"
+    ],
+    "maori": [
+      "mau"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "stuck.2875.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stuck.2875.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5617,
+        2767,
+        1796,
+        740,
+        2875,
+        1427,
+        2812
+      ],
+      "translation": "Two Japanese climbers got stuck on the mountain. A helicopter came to pick them up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "stuck-2875.png"
+}

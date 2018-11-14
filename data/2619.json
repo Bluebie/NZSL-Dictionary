@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2619,
+  "gloss": {
+    "english": [
+      "Auckland"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Tāmakimakaurau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Auckland.2619.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Auckland.2619.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2619,
+        1494,
+        2406,
+        5426,
+        585
+      ],
+      "translation": "Auckland's a big city here in New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Auckland-2619.png"
+}

@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 2453,
+  "gloss": {
+    "english": [
+      "most",
+      "most of the time"
+    ],
+    "english_secondary": [
+      "generally",
+      "mainly",
+      "mostly",
+      "nearly all",
+      "on the whole",
+      "predominantly",
+      "the main part",
+      "the majority of"
+    ],
+    "maori": [
+      "nuinga",
+      "nuinga o te wā"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "most.2453.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "most.2453.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2461,
+        2287,
+        2453,
+        3618,
+        2287
+      ],
+      "translation": "When I met them, I already knew most of them."
+    },
+    {
+      "video": "most.2453.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2453,
+        4808,
+        959,
+        2117,
+        1306,
+        2556
+      ],
+      "translation": "Most of my life growing up, I was at a hearing school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "most-2453.png"
+}

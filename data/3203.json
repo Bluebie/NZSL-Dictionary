@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3203,
+  "gloss": {
+    "english": [
+      "(it's) not fair"
+    ],
+    "english_secondary": [
+      "unfair"
+    ],
+    "maori": [
+      "kāore i tika"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase"
+    ]
+  },
+  "video": "unfair.3203.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unfair.3203.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3203,
+        2287,
+        1747,
+        2774,
+        1069,
+        2774
+      ],
+      "translation": "It's not fair. They always pick others but never pick me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "it_s_not_fair-3203.png"
+}

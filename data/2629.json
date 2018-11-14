@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2629,
+  "gloss": {
+    "english": [
+      "January"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Kohitātea",
+      "Hānuere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_january.2629.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_january.2629.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        768,
+        2629,
+        762,
+        1636,
+        2410,
+        3605,
+        3462,
+        423
+      ],
+      "translation": "Last January, my family went to Tauranga. They drove there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "January-2629.png"
+}

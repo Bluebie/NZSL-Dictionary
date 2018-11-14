@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1638,
+  "gloss": {
+    "english": [
+      "mean"
+    ],
+    "english_secondary": [
+      "define",
+      "definition",
+      "imply",
+      "meaning"
+    ],
+    "maori": [
+      "tikanga",
+      "aronga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mean.1638.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mean.1638.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        3618,
+        4421,
+        2297,
+        2266,
+        1638,
+        2297
+      ],
+      "translation": "You know that word? What does it mean?"
+    },
+    {
+      "video": "mean.1638.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3426,
+        1638,
+        2556,
+        555,
+        797,
+        5617,
+        1465
+      ],
+      "translation": "The accident means I'm off work for two weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "mean-1638.png"
+}

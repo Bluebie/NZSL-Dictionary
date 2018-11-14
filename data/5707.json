@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5707,
+  "gloss": {
+    "english": [
+      "forty"
+    ],
+    "english_secondary": [
+      "40"
+    ],
+    "maori": [
+      "whā tekau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "forty.5707.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forty.5707.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5812,
+        1545,
+        5707,
+        2858
+      ],
+      "translation": "That computer screen is huge - it's forty inches."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "forty-5707.png"
+}

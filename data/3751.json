@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3751,
+  "gloss": {
+    "english": [
+      "tough"
+    ],
+    "english_secondary": [
+      "firm",
+      "hard",
+      "strict"
+    ],
+    "maori": [
+      "pākaha"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "tough.3751.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tough.3751.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        893,
+        744,
+        2297,
+        3751,
+        1885,
+        2533,
+        3700,
+        2293,
+        2455
+      ],
+      "translation": "The rugby coach is tough and says we must come to training, no excuses."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "tough-3751.png"
+}

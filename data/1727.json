@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1727,
+  "gloss": {
+    "english": [
+      "king / queen"
+    ],
+    "english_secondary": [
+      "royal"
+    ],
+    "maori": [
+      "kīngi",
+      "kuini"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "king.1727.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "king.1727.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        3653,
+        3434,
+        1727,
+        5863,
+        1565,
+        1494
+      ],
+      "translation": "We have visited the Queen's castle. Wow, it was huge!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "king_queen-1727.png"
+}

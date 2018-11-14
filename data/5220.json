@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 5220,
+  "gloss": {
+    "english": [
+      "defecate",
+      "faeces"
+    ],
+    "english_secondary": [
+      "bowel movement",
+      "excrement",
+      "number two",
+      "poo",
+      "shit"
+    ],
+    "maori": [
+      "tiko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "defecate.5220.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "defecate.5220.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4213,
+        2455,
+        2556,
+        2410,
+        5220
+      ],
+      "translation": "Hold on for a minute -  I just need to go do number two."
+    },
+    {
+      "video": "defecate.5220.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1124,
+        2297,
+        5220,
+        2556,
+        3406,
+        "cl:pick-up-dog-poo-with-bag"
+      ],
+      "translation": "I used a bag to pick up the dog faeces."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "defecate-5220.png"
+}

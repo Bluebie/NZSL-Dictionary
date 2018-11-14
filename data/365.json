@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 365,
+  "gloss": {
+    "english": [
+      "lonely"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mokemoke"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "lonely.365.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lonely.365.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4656,
+        3220,
+        797,
+        2583,
+        2297,
+        5607,
+        4656,
+        2297,
+        365,
+        2297
+      ],
+      "translation": "A deaf man worked there. He was the only deaf person there so he was lonely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "lonely-365.png"
+}

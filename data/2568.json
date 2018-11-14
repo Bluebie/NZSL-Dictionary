@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2568,
+  "gloss": {
+    "english": [
+      "live together"
+    ],
+    "english_secondary": [
+      "de facto",
+      "sleep together",
+      "sleep with"
+    ],
+    "maori": [
+      "noho tahi"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "live_together.2568.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "live_together.2568.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2953,
+        2568,
+        721,
+        3055,
+        2953
+      ],
+      "translation": "They both live together and do not want to get married."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "live_together-2568.png"
+}

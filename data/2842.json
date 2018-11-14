@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2842,
+  "gloss": {
+    "english": [
+      "recognise"
+    ],
+    "english_secondary": [
+      "accept",
+      "acknowledge",
+      "realise"
+    ],
+    "maori": [
+      "mōhio"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "recognize.2842.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "recognize.2842.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1772,
+        2842,
+        4656,
+        2095,
+        1185,
+        1897,
+        3063
+      ],
+      "translation": "The government recognises that more interpreters are needed for deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "recognise-2842.png"
+}

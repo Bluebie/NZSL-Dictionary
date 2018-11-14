@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 340,
+  "gloss": {
+    "english": [
+      "Pākehā"
+    ],
+    "english_secondary": [
+      "of European descent",
+      "white-skinned"
+    ],
+    "maori": [
+      "Pākehā"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "pakeha.340.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pakeha.340.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        959,
+        340,
+        1967,
+        1289,
+        2556,
+        2422,
+        "taha-maori",
+        3230
+      ],
+      "translation": "I grew up the Pākehā way. Later on I came to understand taha Māori."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "pakeha-340.png"
+}

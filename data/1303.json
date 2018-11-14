@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 1303,
+  "gloss": {
+    "english": [
+      "count"
+    ],
+    "english_secondary": [
+      "account",
+      "accounting",
+      "calculate",
+      "calculation",
+      "figure out",
+      "score",
+      "statistics",
+      "tally",
+      "total up",
+      "work out"
+    ],
+    "maori": [
+      "kaute",
+      "tatau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "count.1303.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "count.1303.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        604,
+        3653,
+        2879,
+        "cl:two-people-sit-down",
+        1303,
+        4097,
+        1426
+      ],
+      "translation": "After the barbecue fundraiser we sat down and counted how much profit we made."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "count-1303.png"
+}

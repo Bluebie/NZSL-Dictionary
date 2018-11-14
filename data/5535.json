@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 5535,
+  "gloss": {
+    "english": [
+      "reply"
+    ],
+    "english_secondary": [
+      "answer",
+      "react",
+      "reaction",
+      "respond",
+      "response"
+    ],
+    "maori": [
+      "whakautu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "reply.5535.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "reply.5535.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        3677,
+        5535,
+        2297,
+        3618,
+        2556,
+        2410
+      ],
+      "translation": "I have replied, so she knows I'm coming"
+    },
+    {
+      "video": "reply.5535.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        1885,
+        5624,
+        5535,
+        3705,
+        886,
+        3898
+      ],
+      "translation": "You must have eight correct responses to pass the test."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "reply-5535.png"
+}

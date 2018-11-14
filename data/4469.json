@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4469,
+  "gloss": {
+    "english": [
+      "reserve"
+    ],
+    "english_secondary": [
+      "back-up",
+      "spare"
+    ],
+    "maori": [
+      "kairīwhi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "reserve.4469.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "reserve.4469.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        893,
+        3910,
+        1376,
+        5612,
+        1926,
+        5622,
+        4469
+      ],
+      "translation": "My rugby team has fifteen players and six reserves."
+    },
+    {
+      "video": "reserve.4469.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3642,
+        1298,
+        "fund",
+        4801,
+        1376,
+        4097,
+        4469
+      ],
+      "translation": "If the school depletes its funding, there is money in reserve."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "reserve-4469.png"
+}

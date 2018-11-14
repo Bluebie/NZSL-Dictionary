@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 6061,
+  "gloss": {
+    "english": [
+      "big-headed"
+    ],
+    "english_secondary": [
+      "arrogant",
+      "conceited",
+      "know-all",
+      "skite"
+    ],
+    "maori": [
+      "whakahīhī"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "big_headed.6061.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "big_headed.6061.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        6061,
+        2297,
+        5736,
+        2297,
+        5873,
+        2894,
+        4135
+      ],
+      "translation": "He is big-headed. He claims he can dive much deeper than me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "big_headed-6061.png"
+}

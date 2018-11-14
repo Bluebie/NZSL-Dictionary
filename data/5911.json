@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 5911,
+  "gloss": {
+    "english": [
+      "idea",
+      "invent"
+    ],
+    "english_secondary": [
+      "create"
+    ],
+    "maori": [
+      "whakaaro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "idea.5911.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "idea.5911.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1447,
+        2297,
+        3658,
+        5911,
+        1126
+      ],
+      "translation": "He likes it and thinks it's a good idea, so go ahead!"
+    },
+    {
+      "video": "idea.5911.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5911,
+        2281,
+        4547,
+        2297,
+        3276,
+        3050,
+        4656
+      ],
+      "translation": "The man who invented the first telephone had a deaf wife."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "idea-5911.png"
+}

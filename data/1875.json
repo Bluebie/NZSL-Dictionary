@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1875,
+  "gloss": {
+    "english": [
+      "assemble"
+    ],
+    "english_secondary": [
+      "put together"
+    ],
+    "maori": [
+      "whakahiato"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "assemble.1875.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "assemble.1875.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3707,
+        3462,
+        2297,
+        3846,
+        1875,
+        2861,
+        "satisfy"
+      ],
+      "translation": "He repaired and assembled a sports car. When he checked it over, he was satisfied with his work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "assemble-1875.png"
+}

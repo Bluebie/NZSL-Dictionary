@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 644,
+  "gloss": {
+    "english": [
+      "breadcrumbs"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kongakonga parāoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "breadcrumbs.644.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breadcrumbs.644.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2234,
+        2297,
+        644,
+        2297,
+        855
+      ],
+      "translation": "She covered the meat in breadcrumbs and fried it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "breadcrumbs-644.png"
+}

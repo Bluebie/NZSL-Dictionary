@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 924,
+  "gloss": {
+    "english": [
+      "go"
+    ],
+    "english_secondary": [
+      "go out",
+      "leave"
+    ],
+    "maori": [
+      "haere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "go.924.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go.924.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        924,
+        4790,
+        5607,
+        2646,
+        797,
+        1403
+      ],
+      "translation": "I'm going to Australia for a one year working holiday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "go-924.png"
+}

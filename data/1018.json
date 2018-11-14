@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1018,
+  "gloss": {
+    "english": [
+      "serves you right"
+    ],
+    "english_secondary": [
+      "deserve it",
+      "had it coming",
+      "serve one right"
+    ],
+    "maori": [
+      "e koe",
+      "kaitoa"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "serves_you_right.1018.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "serves_you_right.1018.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1226,
+        3635,
+        4680,
+        3571,
+        520,
+        1018
+      ],
+      "translation": "You had too much to drink. It serves you right that you fell and broke your arm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "serves_you_right-1018.png"
+}

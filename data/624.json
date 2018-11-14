@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 624,
+  "gloss": {
+    "english": [
+      "open"
+    ],
+    "english_secondary": [
+      "open door"
+    ],
+    "maori": [
+      "tuwhera",
+      "huaki",
+      "puare"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "open.624.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "open.624.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1031,
+        805,
+        3368,
+        2457,
+        624
+      ],
+      "translation": "I arrived at the bank and was relieved that it was still open"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "open-624.png"
+}

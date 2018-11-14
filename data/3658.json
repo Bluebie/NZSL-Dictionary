@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 3658,
+  "gloss": {
+    "english": [
+      "good"
+    ],
+    "english_secondary": [
+      "alright",
+      "best",
+      "competent",
+      "enjoyable",
+      "fine",
+      "kind",
+      "satisfactory",
+      "well"
+    ],
+    "maori": [
+      "pai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "good.3658.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "good.3658.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        4656,
+        1949,
+        744,
+        2297,
+        3658,
+        2556,
+        1513
+      ],
+      "translation": "I play deaf basketball. The coach is good and I've learnt lots."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "good-3658.png"
+}

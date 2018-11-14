@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6481,
+  "gloss": {
+    "english": [
+      "sushi"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hūhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sushi.6481.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sushi.6481.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        2709,
+        6481,
+        4604,
+        4508,
+        751
+      ],
+      "translation": "I was thinking about which kind of sushi to have, chicken or salmon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "sushi-6481.png"
+}

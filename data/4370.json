@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4370,
+  "gloss": {
+    "english": [
+      "can't understand"
+    ],
+    "english_secondary": [
+      "don't get it",
+      "incomprehensible",
+      "not understand",
+      "over my head",
+      "unintelligible"
+    ],
+    "maori": [
+      "kāore e mārama"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cant_understand.4370.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cant_understand.4370.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        4351,
+        4293,
+        2556,
+        4370
+      ],
+      "translation": "That man has a heavy moustache and when he speaks I can't understand a thing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "can_t_understand-4370.png"
+}

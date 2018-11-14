@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 2935,
+  "gloss": {
+    "english": [
+      "dinner",
+      "restaurant"
+    ],
+    "english_secondary": [
+      "dine",
+      "(eat) meal",
+      "tea"
+    ],
+    "maori": [
+      "hapa",
+      "wharekai"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dinner.2935.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dinner.2935.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1636,
+        2935,
+        5087,
+        5662,
+        5622
+      ],
+      "translation": "The family has dinner every day at 6pm."
+    },
+    {
+      "video": "dinner.2935.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5126,
+        3524,
+        1558,
+        2935,
+        2145
+      ],
+      "translation": "I went for it and booked an expensive restaurant just to see what it was like."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dinner-2935.png"
+}

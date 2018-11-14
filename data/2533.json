@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2533,
+  "gloss": {
+    "english": [
+      "come"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "haere mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "come.2533.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come.2533.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        721,
+        2533,
+        3300,
+        845,
+        3460,
+        721,
+        2321
+      ],
+      "translation": "Do you want to come to my house for dinner?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "come-2533.png"
+}

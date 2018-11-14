@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4552,
+  "gloss": {
+    "english": [
+      "wicked"
+    ],
+    "english_secondary": [
+      "dangerous",
+      "malicious",
+      "nasty",
+      "naughty",
+      "troublemaker",
+      "vicious"
+    ],
+    "maori": [
+      "kino"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "wicked.4552.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wicked.4552.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        485,
+        463,
+        4552,
+        2297,
+        1124,
+        2215,
+        1895,
+        2297
+      ],
+      "translation": "Be careful, that dog's wicked. It bites easily."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wicked-4552.png"
+}

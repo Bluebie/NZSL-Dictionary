@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 521,
+  "gloss": {
+    "english": [
+      "bay"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bay.521.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bay.521.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        "with",
+        4656,
+        1083,
+        1490,
+        924,
+        1403,
+        3565,
+        521,
+        6000
+      ],
+      "translation": "I went on a holiday to Golden Bay Beach with a group of Deaf friends."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bay-521.png"
+}

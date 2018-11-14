@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5204,
+  "gloss": {
+    "english": [
+      "silly me"
+    ],
+    "english_secondary": [
+      "doh",
+      "kick oneself",
+      "oops"
+    ],
+    "maori": [
+      "nōku te heahea"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "silly_me.5204.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "silly_me.5204.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5532,
+        2556,
+        5532,
+        5204,
+        1805,
+        2297,
+        "cl:cake-flat",
+        353
+      ],
+      "translation": "I opened the oven door. Silly me! The cake sunk. Oops!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "silly_me-5204.png"
+}

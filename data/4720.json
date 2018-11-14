@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4720,
+  "gloss": {
+    "english": [
+      "nappy"
+    ],
+    "english_secondary": [
+      "diaper",
+      "nappy pin"
+    ],
+    "maori": [
+      "kope"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "safety_pin.4720.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "safety_pin.4720.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1338,
+        1231,
+        4347,
+        2556,
+        3919,
+        4720
+      ],
+      "translation": "When the baby woke up, I changed his nappy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "nappy-4720.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1426,
+  "gloss": {
+    "english": [
+      "profit"
+    ],
+    "english_secondary": [
+      "gain"
+    ],
+    "maori": [
+      "painga",
+      "hua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "profit.1426.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "profit.1426.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        4163,
+        898,
+        5760,
+        1426,
+        3685
+      ],
+      "translation": "The value of my house went up and it was sold at a profit, which was great."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "profit-1426.png"
+}

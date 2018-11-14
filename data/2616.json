@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2616,
+  "gloss": {
+    "english": [
+      "annual"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ā-tau"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "annual.2616.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "annual.2616.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5799,
+        2287,
+        6199,
+        2616,
+        3823,
+        4097
+      ],
+      "translation": "At the AGM they distributed the annual finance report."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "annual-2616.png"
+}

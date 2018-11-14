@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 928,
+  "gloss": {
+    "english": [
+      "period"
+    ],
+    "english_secondary": [
+      "menstruation"
+    ],
+    "maori": [
+      "mate wahine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "period.928.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "period.928.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        928,
+        5968,
+        768,
+        4757
+      ],
+      "translation": "My period started last Monday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "period-928.png"
+}

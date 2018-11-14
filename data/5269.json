@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5269,
+  "gloss": {
+    "english": [
+      "attitude"
+    ],
+    "english_secondary": [
+      "outlook",
+      "way of thinking"
+    ],
+    "maori": [
+      "āhua",
+      "waiaro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "attitude.5269.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attitude.5269.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3741,
+        5495,
+        5982,
+        4051,
+        2287,
+        5269,
+        4656,
+        919
+      ],
+      "translation": "It's hard to relate to my workmates. Some of them have an attitude that excludes Deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "attitude-5269.png"
+}

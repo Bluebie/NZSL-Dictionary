@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2032,
+  "gloss": {
+    "english": [
+      "warn"
+    ],
+    "english_secondary": [
+      "caution",
+      "warning"
+    ],
+    "maori": [
+      "whakatūpato"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "warning.2032.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "warning.2032.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2216,
+        2032,
+        2917,
+        3430,
+        2707,
+        1464
+      ],
+      "translation": "The father warned his son not to drive fast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "warn-2032.png"
+}

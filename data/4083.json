@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4083,
+  "gloss": {
+    "english": [
+      "diamond"
+    ],
+    "english_secondary": [
+      "sparkle (ring)"
+    ],
+    "maori": [
+      "taimana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "diamond.4083.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "diamond.4083.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5155,
+        2297,
+        3050,
+        4083,
+        2297,
+        5397,
+        5622,
+        2290,
+        4224
+      ],
+      "translation": "Wow, that diamond ring costs six thousand dollars!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "diamond-4083.png"
+}

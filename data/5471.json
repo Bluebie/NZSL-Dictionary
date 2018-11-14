@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5471,
+  "gloss": {
+    "english": [
+      "pub"
+    ],
+    "english_secondary": [
+      "bar",
+      "tavern"
+    ],
+    "maori": [
+      "pāparakāuta"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pub.5471.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pub.5471.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        4656,
+        1388,
+        5471,
+        1300
+      ],
+      "translation": "All the Deaf people met up at the pub and had a chat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "pub-5471.png"
+}

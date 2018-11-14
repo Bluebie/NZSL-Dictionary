@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 494,
+  "gloss": {
+    "english": [
+      "midwife"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaiwhakawhānau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "midwife.494.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "midwife.494.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        494,
+        3952,
+        2127,
+        5736,
+        4809,
+        4785,
+        2410,
+        2914,
+        3542
+      ],
+      "translation": "The midwife came to do a check. She said we weren't ready yet to go to the hospital for the birth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "midwife-494.png"
+}

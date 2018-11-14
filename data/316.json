@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 316,
+  "gloss": {
+    "english": [
+      "obsessed"
+    ],
+    "english_secondary": [
+      "crazy about",
+      "fixated",
+      "obsession",
+      "passionate about",
+      "single-minded"
+    ],
+    "maori": [
+      "pau ngā whakaaro ki",
+      "koromaki"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "obsession.316.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "obsession.316.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        316,
+        2841,
+        3462,
+        2297,
+        549,
+        2297
+      ],
+      "translation": "He's obsessed with old cars. He loves them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "obsessed-316.png"
+}

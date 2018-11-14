@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5741,
+  "gloss": {
+    "english": [
+      "ear"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ear.5741.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ear.5741.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5741,
+        1644,
+        2286,
+        1070,
+        887
+      ],
+      "translation": "I had an ear infection. One week later I was completely deaf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "ear-5741.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4258,
+  "gloss": {
+    "english": [
+      "cucumber"
+    ],
+    "english_secondary": [
+      "courgette",
+      "leek",
+      "zucchini"
+    ],
+    "maori": [
+      "kūkama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cucumber.4258.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cucumber.4258.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5995,
+        4176,
+        2556,
+        1376,
+        4258,
+        1698,
+        1908
+      ],
+      "translation": "In my garden at home, I have cucumber, tomatoes and cabbage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cucumber-4258.png"
+}

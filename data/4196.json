@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4196,
+  "gloss": {
+    "english": [
+      "lemon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rēmana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lemon.4196.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lemon.4196.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        751,
+        946,
+        4196,
+        "cl:squeeze-lemon-over-fish"
+      ],
+      "translation": "He cut up the fish and squeezed some lemon over it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "lemon-4196.png"
+}

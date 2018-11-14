@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5554,
+  "gloss": {
+    "english": [
+      "paragraph"
+    ],
+    "english_secondary": [
+      "part (text)",
+      "section (text)"
+    ],
+    "maori": [
+      "kōwae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "paragraph.5554.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "paragraph.5554.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2281,
+        5554,
+        5796,
+        1168,
+        2873,
+        1637,
+        2266,
+        6167
+      ],
+      "translation": "The first paragraph should introduce the topic and explain what will be in the text."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "paragraph-5554.png"
+}

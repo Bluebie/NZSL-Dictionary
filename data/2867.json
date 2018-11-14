@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 2867,
+  "gloss": {
+    "english": [
+      "April",
+      "August"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Paengawhāwhā",
+      "Hereturikōkā",
+      "Āperira",
+      "Ākuhata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_august.2867.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_august.2867.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2867,
+        1298,
+        1403,
+        2556,
+        5915,
+        5389,
+        4689,
+        2933
+      ],
+      "translation": "In the April school holidays, I'll drop the children off at their father's place for a fortnight."
+    },
+    {
+      "video": "month_august.2867.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1885,
+        3653,
+        4394,
+        2235,
+        1769,
+        2867
+      ],
+      "translation": "We must finish this project. The deadline is end of August."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "April-2867.png"
+}

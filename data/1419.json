@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1419,
+  "gloss": {
+    "english": [
+      "poor"
+    ],
+    "english_secondary": [
+      "hard up",
+      "impoverished",
+      "needy",
+      "poverty",
+      "short of money"
+    ],
+    "maori": [
+      "rawa kore",
+      "pōhara"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "poor.1419.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "poor.1419.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        "family",
+        1419,
+        4409,
+        1095,
+        3462
+      ],
+      "translation": "The family is poor and can't afford a new car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "poor-1419.png"
+}

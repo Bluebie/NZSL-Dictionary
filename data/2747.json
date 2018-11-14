@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 2747,
+  "gloss": {
+    "english": [
+      "toast",
+      "weetbix"
+    ],
+    "english_secondary": [
+      "sandwich"
+    ],
+    "maori": [
+      "tōhi",
+      "witipiki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "toast.2747.main_glosses.rp.TWO.r480x360.mp4",
+  "usage": [
+    {
+      "video": "toast.2747.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1447,
+        641,
+        6180,
+        2747
+      ],
+      "translation": "I like jam on my toast."
+    },
+    {
+      "video": "toast.2747.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        3885,
+        3111,
+        2556,
+        5617,
+        2747,
+        3878
+      ],
+      "translation": "This morning I ate two weetbix for breakfast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "toast-2747.png"
+}

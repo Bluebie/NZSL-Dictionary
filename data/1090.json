@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1090,
+  "gloss": {
+    "english": [
+      "trouble"
+    ],
+    "english_secondary": [
+      "be in trouble",
+      "make trouble",
+      "mischief"
+    ],
+    "maori": [
+      "raruraru"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "trouble.1090.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trouble.1090.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1090,
+        2015,
+        2297,
+        1298,
+        3783
+      ],
+      "translation": "He got into serious trouble at school and was expelled."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "trouble-1090.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5301,
+  "gloss": {
+    "english": [
+      "language proficiency"
+    ],
+    "english_secondary": [
+      "language skill"
+    ],
+    "maori": [
+      "matatau"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "language_proficiency.5301.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "language_proficiency.5301.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        721,
+        3890,
+        3063,
+        5509,
+        1376,
+        964,
+        5301
+      ],
+      "translation": "If you want to become an interpreter, it is important that you have a high language proficiency."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "language_proficiency-5301.png"
+}

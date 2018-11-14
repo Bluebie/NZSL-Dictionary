@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4918,
+  "gloss": {
+    "english": [
+      "man"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāne"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "man.4918.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "man.4918.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        4918,
+        "australia",
+        "come",
+        "me",
+        2461,
+        2466
+      ],
+      "translation": "I met a man who had come over from Australia and we had a chat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "man-4918.png"
+}

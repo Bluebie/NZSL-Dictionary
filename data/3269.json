@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3269,
+  "gloss": {
+    "english": [
+      "our"
+    ],
+    "english_secondary": [
+      "ours"
+    ],
+    "maori": [
+      "māua",
+      "mātou"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "our.3269.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "our.3269.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        3269,
+        2879,
+        5632
+      ],
+      "translation": "It's our car - we bought it together."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "our-3269.png"
+}

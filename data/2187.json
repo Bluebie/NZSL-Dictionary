@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2187,
+  "gloss": {
+    "english": [
+      "swear"
+    ],
+    "english_secondary": [
+      "bad language",
+      "curse",
+      "obscenity"
+    ],
+    "maori": [
+      "kanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "swear.2187.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "swear.2187.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        1095,
+        3462,
+        "cl:scratch-on-car",
+        2297,
+        2690,
+        2187
+      ],
+      "translation": "The man had his new car scratched. He lost his temper and swore."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "swear-2187.png"
+}

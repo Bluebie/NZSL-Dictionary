@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4008,
+  "gloss": {
+    "english": [
+      "cow"
+    ],
+    "english_secondary": [
+      "cattle",
+      "horns"
+    ],
+    "maori": [
+      "kau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cow.4008.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cow.4008.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1338,
+        1298,
+        1403,
+        2556,
+        1123,
+        4689,
+        4231,
+        4008
+      ],
+      "translation": "During school holidays I helped my father milk the cows."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "cow-4008.png"
+}

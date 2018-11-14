@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 1547,
+  "gloss": {
+    "english": [
+      "variable"
+    ],
+    "english_secondary": [
+      "changeable",
+      "inconsistent",
+      "keep changing",
+      "uneven",
+      "up and down",
+      "vary"
+    ],
+    "maori": [
+      "huri kē",
+      "tāupe"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "inconsistent.1547.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inconsistent.1547.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        "fed",
+        798,
+        1324,
+        1547,
+        3741,
+        3705,
+        5784,
+        1274,
+        845
+      ],
+      "translation": "I'm fed up with the weather being so changeable! It makes it hard to find the right time to paint the house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "variable-1547.png"
+}

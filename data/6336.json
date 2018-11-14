@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6336,
+  "gloss": {
+    "english": [
+      "X-ray"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakaata roto"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "x_ray.6336.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "x_ray.6336.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3513,
+        1926,
+        893,
+        3571,
+        815,
+        2582,
+        1806,
+        6336
+      ],
+      "translation": "My brother broke his hand playing rugby. He went to the hospital for an x-ray."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "x_ray-6336.png"
+}

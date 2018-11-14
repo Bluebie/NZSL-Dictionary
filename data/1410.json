@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1410,
+  "gloss": {
+    "english": [
+      "claim"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kerēme"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "claim.1410.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "claim.1410.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1185,
+        3867,
+        "tax",
+        4097,
+        1410,
+        5945
+      ],
+      "translation": "You need to fill in a tax form to claim your money back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "claim-1410.png"
+}

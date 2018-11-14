@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2704,
+  "gloss": {
+    "english": [
+      "lesbian"
+    ],
+    "english_secondary": [
+      "lesbianism"
+    ],
+    "maori": [
+      "wahine moe wahine",
+      "takatāpui"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "lesbian.2704.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lesbian.2704.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        585,
+        2579,
+        3108,
+        6225,
+        2704,
+        4781,
+        2095
+      ],
+      "translation": "In New Zealand you are not allowed to discriminate against lesbian and gay people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "lesbian-2704.png"
+}

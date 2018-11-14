@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5563,
+  "gloss": {
+    "english": [
+      "disconnect"
+    ],
+    "english_secondary": [
+      "disaffiliate",
+      "disassociate",
+      "log off",
+      "lose contact",
+      "lose touch",
+      "out of touch",
+      "sign out"
+    ],
+    "maori": [
+      "whakaweto"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "disconnect.5563.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disconnect.5563.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3027,
+        3863,
+        "fs:bill",
+        3276,
+        4547,
+        5563
+      ],
+      "translation": "She didn't pay the bill so the phone was disconnected."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "disconnect-5563.png"
+}

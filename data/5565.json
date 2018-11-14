@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5565,
+  "gloss": {
+    "english": [
+      "stapler"
+    ],
+    "english_secondary": [
+      "staple"
+    ],
+    "maori": [
+      "tēpara"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "stapler.5565.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stapler.5565.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1422,
+        6014,
+        2583,
+        1376,
+        5565,
+        2583
+      ],
+      "translation": "There's a stapler in the photocopy room."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stapler-5565.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2446,
+  "gloss": {
+    "english": [
+      "multiply"
+    ],
+    "english_secondary": [
+      "multiplication",
+      "times"
+    ],
+    "maori": [
+      "whakarea"
+    ],
+    "attributes": [
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "multiply.2446.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "multiply.2446.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5624,
+        2446,
+        5619,
+        2266,
+        5715
+      ],
+      "translation": "Eight multiplied by three equals twenty-four"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "multiply-2446.png"
+}

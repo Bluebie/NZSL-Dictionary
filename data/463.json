@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 463,
+  "gloss": {
+    "english": [
+      "beware",
+      "(be) careful"
+    ],
+    "english_secondary": [
+      "back off",
+      "caution",
+      "handle with care",
+      "keep away from",
+      "take care",
+      "watch out for"
+    ],
+    "maori": [
+      "kia tūpato"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "careful.463.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "careful.463.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5526,
+        1124,
+        2583,
+        463
+      ],
+      "translation": "Look, there's a dog - beware!"
+    },
+    {
+      "video": "careful.463.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1886,
+        1135,
+        2556,
+        463,
+        2844,
+        2942
+      ],
+      "translation": "I was confused which way the cars were going. I was careful and looked both ways before I crossed the road."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "beware-463.png"
+}

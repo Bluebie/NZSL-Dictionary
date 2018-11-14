@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 363,
+  "gloss": {
+    "english": [
+      "traffic officer"
+    ],
+    "english_secondary": [
+      "pointsman",
+      "traffic cop"
+    ],
+    "maori": [
+      "āpiha waka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "traffic_cops.363.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "traffic_cops.363.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        1715,
+        2556,
+        954,
+        2091,
+        1553,
+        363,
+        5426,
+        1501
+      ],
+      "translation": "A long time ago, when I was small, you would see a lot of traffic officers.  Now, they've more or less disappeared."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "traffic_officer-363.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1624,
+  "gloss": {
+    "english": [
+      "emotional"
+    ],
+    "english_secondary": [
+      "emotion",
+      "feelings",
+      "hormones"
+    ],
+    "maori": [
+      "pupū ake te aroha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "emotional.1624.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "emotional.1624.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        1421,
+        332,
+        1038,
+        2556,
+        1624,
+        2126
+      ],
+      "translation": "I watched a movie and it was a sad story. I felt quite emotional and cried."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "emotional-1624.png"
+}

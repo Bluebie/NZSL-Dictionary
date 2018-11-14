@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3284,
+  "gloss": {
+    "english": [
+      "hard"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mārō"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "hard.3284.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hard.3284.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        347,
+        4251,
+        3284,
+        2297,
+        2899,
+        5420
+      ],
+      "translation": "The bed wasn't comfortable. It was hard and I couldn't sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "hard-3284.png"
+}

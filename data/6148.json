@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6148,
+  "gloss": {
+    "english": [
+      "shot put"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "panga matā"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "shotput.6148.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shotput.6148.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        6148,
+        2729,
+        3848,
+        5895,
+        3081,
+        2297
+      ],
+      "translation": "Her shot put went very far. She won a gold medal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shot_put-6148.png"
+}

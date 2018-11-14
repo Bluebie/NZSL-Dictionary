@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4394,
+  "gloss": {
+    "english": [
+      "project"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaupapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "project.4394.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "project.4394.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        282,
+        4394,
+        3677,
+        499,
+        5429
+      ],
+      "translation": "I am concentrating on the project, to be finished before Christmas."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "project-4394.png"
+}

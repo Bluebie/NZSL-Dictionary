@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6530,
+  "gloss": {
+    "english": [
+      "rocking chair"
+    ],
+    "english_secondary": [
+      "rock (chair)"
+    ],
+    "maori": [
+      "tūru poipoi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rocking_chair.6530.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rocking_chair.6530.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        535,
+        2583,
+        1376,
+        6530
+      ],
+      "translation": "There was a rocking chair in the corner"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "rocking_chair-6530.png"
+}

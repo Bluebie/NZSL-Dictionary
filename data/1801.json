@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 1801,
+  "gloss": {
+    "english": [
+      "animal",
+      "lion",
+      "tiger"
+    ],
+    "english_secondary": [
+      "dinosaur"
+    ],
+    "maori": [
+      "karareha",
+      "raiona",
+      "taika"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "animal.1801.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "animal.1801.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5389,
+        1864,
+        924,
+        2091,
+        1801
+      ],
+      "translation": "The children are excited about going to the zoo to see the animals."
+    },
+    {
+      "video": "animal.1801.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4309,
+        2583,
+        1801,
+        3218,
+        249
+      ],
+      "translation": "The number of lions in Africa is decreasing."
+    },
+    {
+      "video": "animal.1801.finalexample3.jo.r480x360.mp4",
+      "signs": [
+        1801,
+        2453,
+        1544,
+        2046,
+        5626,
+        5738
+      ],
+      "translation": "Most tigers are found in India and around Asia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "animal-1801.png"
+}

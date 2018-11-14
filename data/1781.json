@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1781,
+  "gloss": {
+    "english": [
+      "bush",
+      "tree"
+    ],
+    "english_secondary": [
+      "native forest",
+      "shrub"
+    ],
+    "maori": [
+      "ngahere",
+      "wao",
+      "rākau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "forest.1781.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forest.1781.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        "tramping",
+        669,
+        1781,
+        5852,
+        3091,
+        1854
+      ],
+      "translation": "When I was tramping through the bush, I got a lot of insect bites that were very itchy."
+    },
+    {
+      "video": "forest.1781.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        845,
+        1376,
+        1553,
+        2841,
+        1781
+      ],
+      "translation": "There are many old trees at my parents' house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bush-1781.png"
+}

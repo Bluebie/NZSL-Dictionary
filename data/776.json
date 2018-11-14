@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 776,
+  "gloss": {
+    "english": [
+      "stay still"
+    ],
+    "english_secondary": [
+      "immobile",
+      "motionless",
+      "still"
+    ],
+    "maori": [
+      "āta tau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "still.776.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "still.776.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2829,
+        1071,
+        385,
+        776,
+        "cl:don't-move"
+      ],
+      "translation": "The hairdresser asked her to not to move and to stay still."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stay_still-776.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1879,
+  "gloss": {
+    "english": [
+      "altogether"
+    ],
+    "english_secondary": [
+      "amount",
+      "in all",
+      "in total",
+      "sum",
+      "total",
+      "total amount"
+    ],
+    "maori": [
+      "hui katoa",
+      "tapeke"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "altogether.1879.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "altogether.1879.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        5760,
+        4432,
+        564,
+        1879,
+        5623,
+        5621,
+        4224
+      ],
+      "translation": "I sold boxes of chocolate and made 75 dollars altogether."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "altogether-1879.png"
+}

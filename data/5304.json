@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5304,
+  "gloss": {
+    "english": [
+      "medical view"
+    ],
+    "english_secondary": [
+      "pathological model"
+    ],
+    "maori": [
+      "tā te rata tirohanga"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "medical_view.5304.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "medical_view.5304.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1553,
+        5270,
+        1376,
+        5304,
+        2287,
+        5785,
+        4919,
+        5741,
+        919,
+        1640
+      ],
+      "translation": "Many audiologists have a medical view. They try and fix the ears and disregard sign language."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "medical_view-5304.png"
+}

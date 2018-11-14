@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4616,
+  "gloss": {
+    "english": [
+      "uncle"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "matua kēkē",
+      "pāpā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "uncle.4616.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "uncle.4616.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        1178,
+        1403,
+        2556,
+        5405,
+        4616,
+        3687,
+        5995
+      ],
+      "translation": "With my parents away on holiday, I stayed at my uncle and aunt's house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "uncle-4616.png"
+}

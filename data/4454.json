@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4454,
+  "gloss": {
+    "english": [
+      "daughter"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tamāhine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "daughter.4454.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "daughter.4454.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        5617,
+        5389,
+        2412,
+        2184,
+        2099,
+        2865,
+        2416,
+        4454,
+        2099,
+        5624
+      ],
+      "translation": "I have two children. The first one is a boy who's twelve, and the second is my daughter, who's eight."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "daughter-4454.png"
+}

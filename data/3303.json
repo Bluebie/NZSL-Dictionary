@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3303,
+  "gloss": {
+    "english": [
+      "super-"
+    ],
+    "english_secondary": [
+      "supermarket"
+    ],
+    "maori": [
+      "kapa hiranga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "super.3303.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "super.3303.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        893,
+        3303,
+        5612,
+        6033,
+        5968,
+        3885,
+        3407
+      ],
+      "translation": "The Super 15 rugby starts soon, in March."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "super-3303.png"
+}

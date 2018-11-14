@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6268,
+  "gloss": {
+    "english": [
+      "expose (to)"
+    ],
+    "english_secondary": [
+      "exposure"
+    ],
+    "maori": [
+      "whakaatu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "exposed_to.6268.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exposed_to.6268.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        1231,
+        1185,
+        6268,
+        1640,
+        3046,
+        4261
+      ],
+      "translation": "A deaf baby needs to be exposed to sign language to improve communication."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "expose_to-6268.png"
+}

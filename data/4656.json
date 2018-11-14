@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4656,
+  "gloss": {
+    "english": [
+      "Deaf"
+    ],
+    "english_secondary": [
+      "deaf",
+      "deaf person",
+      "deafness"
+    ],
+    "maori": [
+      "turi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "deaf.4656.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf.4656.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        5617,
+        3513,
+        5607,
+        4656,
+        5607,
+        2117
+      ],
+      "translation": "I have two brothers - one is Deaf and one is hearing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf-4656.png"
+}

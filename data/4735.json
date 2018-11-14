@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 4735,
+  "gloss": {
+    "english": [
+      "bad luck"
+    ],
+    "english_secondary": [
+      "misfortune",
+      "shame",
+      "too bad",
+      "unfortunate",
+      "unfortunately",
+      "unlucky"
+    ],
+    "maori": [
+      "kaupapa whiti",
+      "aituā"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "bad_luck.4735.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bad_luck.4735.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3042,
+        2883,
+        4735,
+        4565,
+        4307,
+        3571,
+        "cl:heel-break",
+        "fall-over"
+      ],
+      "translation": "The model was walking when she had some bad luck - the heel of her shoe broke and she fell over."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.2-ad45324ae7ca03a302b2ad28c533f636d4a946c9e2afaf9f338dd97f3fcd52f4.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "bad_luck-4735.png"
+}

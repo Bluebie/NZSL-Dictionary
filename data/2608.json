@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2608,
+  "gloss": {
+    "english": [
+      "independent"
+    ],
+    "english_secondary": [
+      "independence",
+      "independently",
+      "self-reliant"
+    ],
+    "maori": [
+      "kuhu i a ... anō"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "independent.2608.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "independent.2608.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3658,
+        3620,
+        2583,
+        2556,
+        1513,
+        1897,
+        2608,
+        4130,
+        4766,
+        1123
+      ],
+      "translation": "My experience there was good. I learned to be more independent, rather than having my parents help me all the time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "independent-2608.png"
+}

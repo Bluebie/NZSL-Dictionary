@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 473,
+  "gloss": {
+    "english": [
+      "keep to the point"
+    ],
+    "english_secondary": [
+      "stick to the point"
+    ],
+    "maori": [
+      "kia ū ki te kaupapa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "keep_to_the_point.473.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "keep_to_the_point.473.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        385,
+        2466,
+        5211,
+        1464,
+        473
+      ],
+      "translation": "Please don't talk off task. Keep to the point."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "keep_to_the_point-473.png"
+}

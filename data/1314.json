@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1314,
+  "gloss": {
+    "english": [
+      "wind"
+    ],
+    "english_secondary": [
+      "gale",
+      "gust",
+      "gusty",
+      "storm",
+      "windy"
+    ],
+    "maori": [
+      "hau"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "wind.1314.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wind.1314.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4738,
+        3623,
+        1314
+      ],
+      "translation": "Wellington is famous for its wind."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "wind-1314.png"
+}

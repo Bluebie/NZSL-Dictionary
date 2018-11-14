@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 259,
+  "gloss": {
+    "english": [
+      "girl"
+    ],
+    "english_secondary": [
+      "female",
+      "feminine",
+      "woman",
+      "young woman"
+    ],
+    "maori": [
+      "kōtiro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "girl.259.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "girl.259.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        259,
+        2297,
+        3618,
+        4527,
+        5488,
+        2297
+      ],
+      "translation": "The girl knows very little sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "girl-259.png"
+}

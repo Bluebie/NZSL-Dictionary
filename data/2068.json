@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 2068,
+  "gloss": {
+    "english": [
+      "worry"
+    ],
+    "english_secondary": [
+      "anxiety",
+      "anxious",
+      "concern",
+      "concerned",
+      "worried"
+    ],
+    "maori": [
+      "māharahara"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "worry.2068.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "worry.2068.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        3462,
+        "fs:wof",
+        3863,
+        4809,
+        5617,
+        4763,
+        2297,
+        2068,
+        719,
+        4991,
+        6210,
+        1976
+      ],
+      "translation": "He hadn't paid for the WOF on his car yet and it was two months overdue. He worried that the car might be towed away or that he would get a fine."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "worry-2068.png"
+}

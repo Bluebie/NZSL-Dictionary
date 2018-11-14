@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1270,
+  "gloss": {
+    "english": [
+      "relax"
+    ],
+    "english_secondary": [
+      "at ease",
+      "easy life",
+      "laid-back"
+    ],
+    "maori": [
+      "parohe"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "relax.1270.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "relax.1270.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3089,
+        1123,
+        1270,
+        6244,
+        924,
+        347
+      ],
+      "translation": "Tea helps me relax before I go to bed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "relax-1270.png"
+}

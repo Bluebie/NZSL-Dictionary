@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5310,
+  "gloss": {
+    "english": [
+      "(palm) orientation"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "anga o te kapunga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "palm_orientation.5310.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "palm_orientation.5310.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1338,
+        3261,
+        3409,
+        1513,
+        1095,
+        5488,
+        2287,
+        1885,
+        2844,
+        5310,
+        1287,
+        5488
+      ],
+      "translation": "When an NZSL student learns a new sign they have to pay attention to the palm orientation to figure out how to sign it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "palm_orientation-5310.png"
+}

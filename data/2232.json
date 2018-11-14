@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2232,
+  "gloss": {
+    "english": [
+      "promiscuous"
+    ],
+    "english_secondary": [
+      "promiscuity",
+      "sleep around"
+    ],
+    "maori": [
+      "ure paratī (tāne)",
+      "tarau makere",
+      "wahine tīweka (wahine)"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "promiscuous.2232.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "promiscuous.2232.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        2480,
+        1522,
+        2232
+      ],
+      "translation": "That man goes with many women - he's promiscuous."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "promiscuous-2232.png"
+}

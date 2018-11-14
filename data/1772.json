@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1772,
+  "gloss": {
+    "english": [
+      "government"
+    ],
+    "english_secondary": [
+      "state"
+    ],
+    "maori": [
+      "kāwanatanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "government.1772.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "government.1772.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1772,
+        2204,
+        3885,
+        2494,
+        3811,
+        4168
+      ],
+      "translation": "The government announced the election will be this November."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "government-1772.png"
+}

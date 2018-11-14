@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3720,
+  "gloss": {
+    "english": [
+      "finally"
+    ],
+    "english_secondary": [
+      "at last",
+      "eventually",
+      "final",
+      "in the end",
+      "ultimately"
+    ],
+    "maori": [
+      "i te mutunga"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "finally.3720.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "finally.3720.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        3425,
+        2940,
+        3720,
+        3638,
+        5391,
+        1300
+      ],
+      "translation": "We've been so busy we've not seen each other.  Last night we could finally talk."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "finally-3720.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1587,
+  "gloss": {
+    "english": [
+      "cupboard"
+    ],
+    "english_secondary": [
+      "cupboard doors"
+    ],
+    "maori": [
+      "kāpata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cupboard.1587.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cupboard.1587.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        771,
+        5009,
+        2556,
+        1531,
+        4061,
+        1531,
+        1587
+      ],
+      "translation": "I cleaned up the kitchen bench and put the spices away in the cupboard."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cupboard-1587.png"
+}

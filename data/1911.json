@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1911,
+  "gloss": {
+    "english": [
+      "massage"
+    ],
+    "english_secondary": [
+      "physiotherapist",
+      "physiotherapy"
+    ],
+    "maori": [
+      "mirimiri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "massage.1911.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "massage.1911.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3050,
+        1561,
+        406,
+        2297,
+        1911
+      ],
+      "translation": "My husband had a pain in his back. She massaged it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "massage-1911.png"
+}

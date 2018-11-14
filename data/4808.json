@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4808,
+  "gloss": {
+    "english": [
+      "life"
+    ],
+    "english_secondary": [
+      "lifetime",
+      "live"
+    ],
+    "maori": [
+      "ōna rā katoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "life.4808.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "life.4808.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        565,
+        2619,
+        959,
+        3276,
+        4808,
+        1069,
+        702
+      ],
+      "translation": "She's lived in Auckland all her life. She never moved."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "life-4808.png"
+}

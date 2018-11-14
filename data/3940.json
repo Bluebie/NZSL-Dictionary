@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3940,
+  "gloss": {
+    "english": [
+      "poi"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "poi.3940.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "poi.3940.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2287,
+        3700,
+        3940,
+        903,
+        5919,
+        366
+      ],
+      "translation": "They practised with the poi for a show at the marae."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "poi-3940.png"
+}

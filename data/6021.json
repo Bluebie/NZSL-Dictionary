@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6021,
+  "gloss": {
+    "english": [
+      "energy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaha"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "energy.6021.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "energy.6021.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4729,
+        5420,
+        1205,
+        6021,
+        2142
+      ],
+      "translation": "He is resting, having a sleep, to save his energy for tomorrow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "energy-6021.png"
+}

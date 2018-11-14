@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1478,
+  "gloss": {
+    "english": [
+      "Coca-Cola"
+    ],
+    "english_secondary": [
+      "Coke"
+    ],
+    "maori": [
+      "waireka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "coca_cola.1478.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "coca_cola.1478.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        2879,
+        2410,
+        4201,
+        4022,
+        2776,
+        "coca-cola",
+        4264,
+        1300
+      ],
+      "translation": "I had lunch with a friend - we chatted, ate chips and drank Coca-Cola."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "coca_cola-1478.png"
+}

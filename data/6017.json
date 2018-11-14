@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6017,
+  "gloss": {
+    "english": [
+      "wine"
+    ],
+    "english_secondary": [
+      "drink (wine)"
+    ],
+    "maori": [
+      "wāina"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wine.6017.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wine.6017.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        6017,
+        2583,
+        5446
+      ],
+      "translation": "I bought wine at the supermarket."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wine-6017.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5931,
+  "gloss": {
+    "english": [
+      "pee (male)"
+    ],
+    "english_secondary": [
+      "pass water",
+      "piss",
+      "urinate",
+      "urine",
+      "wee"
+    ],
+    "maori": [
+      "mimi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pee.5931.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pee.5931.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2410,
+        5467,
+        5931
+      ],
+      "translation": "The man went to the toilet to pee."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "pee_male-5931.png"
+}

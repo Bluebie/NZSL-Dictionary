@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1421,
+  "gloss": {
+    "english": [
+      "movie"
+    ],
+    "english_secondary": [
+      "cinema",
+      "film",
+      "the pictures"
+    ],
+    "maori": [
+      "pikitia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pictures.1421.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pictures.1421.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5389,
+        362,
+        1052,
+        4689,
+        721,
+        1178,
+        1421
+      ],
+      "translation": "The children were bored and pestered their father to go to the movies."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "movie-1421.png"
+}

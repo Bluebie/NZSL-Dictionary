@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4190,
+  "gloss": {
+    "english": [
+      "goggles"
+    ],
+    "english_secondary": [
+      "mask"
+    ],
+    "maori": [
+      "mōwhiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mask.4190.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mask.4190.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        3591,
+        4680,
+        4128,
+        4190,
+        2583,
+        2982
+      ],
+      "translation": "The woman was skiing when she fell over and lost her goggles in the snow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "goggles-4190.png"
+}

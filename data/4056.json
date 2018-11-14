@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4056,
+  "gloss": {
+    "english": [
+      "zero"
+    ],
+    "english_secondary": [
+      "0",
+      "nil",
+      "none",
+      "nothing",
+      "nought"
+    ],
+    "maori": [
+      "kore"
+    ],
+    "attributes": [
+      "noun",
+      "numeral"
+    ]
+  },
+  "video": "zero.4056.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "zero.4056.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        3848,
+        5719,
+        4056
+      ],
+      "translation": "New Zealand won, twenty eight to zero."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "zero-4056.png"
+}

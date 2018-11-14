@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 4181,
+  "gloss": {
+    "english": [
+      "masturbate",
+      "wanker"
+    ],
+    "english_secondary": [
+      "masturbation",
+      "play with oneself",
+      "tosser",
+      "wank"
+    ],
+    "maori": [
+      "tītoi (tāne)",
+      "pītoretore (wahine)",
+      "pokotiwha"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "masturbate.4181.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "masturbate.4181.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4423,
+        3009,
+        2297,
+        4181,
+        4164,
+        "cl:into-cup",
+        2297,
+        4727,
+        3898
+      ],
+      "translation": "The nurse asked him to masturbate and ejaculate in to a cup, for testing."
+    },
+    {
+      "video": "masturbate.4181.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        "cl:scratch-car",
+        2556,
+        3462,
+        4181,
+        2297
+      ],
+      "translation": "That man scratched my car. He's a wanker!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "masturbate-4181.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6273,
+  "gloss": {
+    "english": [
+      "buy"
+    ],
+    "english_secondary": [
+      "purchase"
+    ],
+    "maori": [
+      "hoko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "buy.6273.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "buy.6273.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        908,
+        2410,
+        5731,
+        6273,
+        5019,
+        903,
+        4201
+      ],
+      "translation": "He's going to the shop to buy a bun for lunch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "buy-6273.png"
+}

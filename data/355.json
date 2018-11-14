@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 355,
+  "gloss": {
+    "english": [
+      "bottom"
+    ],
+    "english_secondary": [
+      "last",
+      "last in rank",
+      "least",
+      "lowest"
+    ],
+    "maori": [
+      "raro rawa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "bottom.355.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bottom.355.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        1490,
+        1926,
+        1391,
+        2556,
+        1303,
+        355
+      ],
+      "translation": "A group of us played ten pin bowling and I had the bottom score."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "bottom-355.png"
+}

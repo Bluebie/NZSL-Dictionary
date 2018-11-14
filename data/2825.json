@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2825,
+  "gloss": {
+    "english": [
+      "look around"
+    ],
+    "english_secondary": [
+      "have a look"
+    ],
+    "maori": [
+      "tirotiro haere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "look.2825.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "look.2825.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2943,
+        648,
+        845,
+        2825,
+        3027,
+        1901,
+        1364
+      ],
+      "translation": "The police entered the house and looked around. Nothing was stolen or damaged."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "look_around-2825.png"
+}

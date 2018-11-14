@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2720,
+  "gloss": {
+    "english": [
+      "Labour Weekend"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mutunga wiki whakatā mō te hunga mahi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "Labour_weekend.2720.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Labour_weekend.2720.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1165,
+        2646,
+        2720,
+        4656,
+        3707,
+        6173
+      ],
+      "translation": "Every year during Labour Weekend, there are Deaf sports competitions."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "labour_weekend-2720.png"
+}

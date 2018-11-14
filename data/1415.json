@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1415,
+  "gloss": {
+    "english": [
+      "jury"
+    ],
+    "english_secondary": [
+      "panel"
+    ],
+    "maori": [
+      "hunga whakawā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jury.1415.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jury.1415.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3935,
+        2583,
+        2865,
+        6129,
+        1415,
+        335,
+        1211,
+        3676,
+        3220,
+        2297,
+        4636,
+        3172
+      ],
+      "translation": "In court,the twelve people on the jury listened to the case and discussed it. They agreed that the man was guilty of murder."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "jury-1415.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5289,
+  "gloss": {
+    "english": [
+      "Deaflympics"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Taumāhekeheke Turi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "deaflympics.5289.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaflympics.5289.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1585,
+        2645,
+        3700,
+        3707,
+        2410,
+        5289
+      ],
+      "translation": "I encourage young people to practice hard in their sport so that they can go to the Deaflympics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "Deaflympics-5289.png"
+}

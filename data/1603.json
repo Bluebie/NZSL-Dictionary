@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1603,
+  "gloss": {
+    "english": [
+      "health"
+    ],
+    "english_secondary": [
+      "fit",
+      "healthy"
+    ],
+    "maori": [
+      "hauora"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "health.1603.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "health.1603.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1021,
+        2410,
+        4520,
+        2556,
+        4022,
+        3658,
+        2556,
+        1603,
+        3658
+      ],
+      "translation": "I don't go to the doctor's much. I eat well and my health is good."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "health-1603.png"
+}

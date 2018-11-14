@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 1494,
+  "gloss": {
+    "english": [
+      "huge"
+    ],
+    "english_secondary": [
+      "big",
+      "enormous",
+      "gigantic",
+      "large",
+      "large majority",
+      "lots",
+      "massive",
+      "most",
+      "the greater part",
+      "tremendous"
+    ],
+    "maori": [
+      "tino nui",
+      "tino rahi",
+      "inā te nui",
+      "inā te rahi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "huge.1494.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "huge.1494.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        3775,
+        5632,
+        1494,
+        3462,
+        2807,
+        "use-up",
+        2215
+      ],
+      "translation": "The man next door has bought a huge car which uses up a lot of petrol."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "huge-1494.png"
+}

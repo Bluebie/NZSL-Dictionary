@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6024,
+  "gloss": {
+    "english": [
+      "dad"
+    ],
+    "english_secondary": [
+      "daddy"
+    ],
+    "maori": [
+      "matua",
+      "pāpā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dad.6024.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dad.6024.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3636,
+        6024,
+        2879,
+        1926,
+        4158
+      ],
+      "translation": "Yesterday Dad and I played chess."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dad-6024.png"
+}

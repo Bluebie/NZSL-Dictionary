@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 3274,
+  "gloss": {
+    "english": [
+      "your"
+    ],
+    "english_secondary": [
+      "yours"
+    ],
+    "maori": [
+      "tō"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "your.3274.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "your.3274.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3274,
+        3050,
+        2297
+      ],
+      "translation": "Is he your husband?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "your-3274.png"
+}

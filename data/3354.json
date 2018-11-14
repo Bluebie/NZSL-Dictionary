@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3354,
+  "gloss": {
+    "english": [
+      "can't be bothered",
+      "disregard"
+    ],
+    "english_secondary": [
+      "couldn't care less",
+      "don't want to know",
+      "indifferent",
+      "take no notice",
+      "uninterested"
+    ],
+    "maori": [
+      "hei aha",
+      "aua atu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bother.3354.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bother.3354.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        771,
+        5648,
+        3354,
+        626,
+        1070
+      ],
+      "translation": "The kitchen's a mess, but I can't be bothered to clean it up. I'll do it later."
+    },
+    {
+      "video": "bother.3354.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        "tease",
+        3354,
+        557,
+        3276,
+        1967
+      ],
+      "translation": "Take no notice if he teases you. Just carry on doing your own thing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "can_t_be_bothered-3354.png"
+}

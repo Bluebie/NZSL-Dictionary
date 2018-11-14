@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4500,
+  "gloss": {
+    "english": [
+      "witch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "witi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "witch.4500.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "witch.4500.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        1686,
+        2556,
+        6271,
+        4500
+      ],
+      "translation": "For Halloween, I dressed up as a witch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "witch-4500.png"
+}

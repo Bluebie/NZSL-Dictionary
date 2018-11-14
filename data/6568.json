@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6568,
+  "gloss": {
+    "english": [
+      "pierce (ears)"
+    ],
+    "english_secondary": [
+      "piercing"
+    ],
+    "maori": [
+      "wero (taringa)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pierce.6568.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pierce.6568.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        1338,
+        2556,
+        2099,
+        5613,
+        2556,
+        3720,
+        6568
+      ],
+      "translation": "When I was sixteen I finally got my ears pierced."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "pierce_ears-6568.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3833,
+  "gloss": {
+    "english": [
+      "turn voice off"
+    ],
+    "english_secondary": [
+      "not use voice"
+    ],
+    "maori": [
+      "whakangū"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "voice_off.3833.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "voice_off.3833.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4054,
+        3261,
+        4249,
+        5818,
+        3409,
+        3833
+      ],
+      "translation": "When I teach an NZSL class, all my students have to turn their voices off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "turn_voice_off-3833.png"
+}

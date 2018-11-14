@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2827,
+  "gloss": {
+    "english": [
+      "train"
+    ],
+    "english_secondary": [
+      "electric locomotive",
+      "railway"
+    ],
+    "maori": [
+      "tereina"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "train.2827.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "train.2827.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1165,
+        3111,
+        2297,
+        1894,
+        2827,
+        2299,
+        797
+      ],
+      "translation": "She catches a train to work every morning."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "train-2827.png"
+}

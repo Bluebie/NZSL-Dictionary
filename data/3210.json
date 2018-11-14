@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3210,
+  "gloss": {
+    "english": [
+      "flower"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "putiputi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "flowers.3210.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flowers.3210.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        291,
+        3824,
+        2556,
+        5632,
+        3210,
+        "cl:give-flower",
+        2556,
+        3050
+      ],
+      "translation": "For my wedding anniversary I bought flowers and gave them to my wife."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "flower-3210.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2411,
+  "gloss": {
+    "english": [
+      "half an hour"
+    ],
+    "english_secondary": [
+      "thirty minutes"
+    ],
+    "maori": [
+      "hāwhe hāora",
+      "toru tekau meneti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "half_an_hour.2411.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "half_an_hour.2411.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4383,
+        5426,
+        3430,
+        2583,
+        2411
+      ],
+      "translation": "It's half an hour's drive away from Palmerston North."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "half_an_hour-2411.png"
+}

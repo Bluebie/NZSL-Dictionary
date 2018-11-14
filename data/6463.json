@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6463,
+  "gloss": {
+    "english": [
+      "rooster"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tame heihei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rooster.6463.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rooster.6463.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4109,
+        2556,
+        3944,
+        6463,
+        6414
+      ],
+      "translation": "I threw some seeds and the rooster ate them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "rooster-6463.png"
+}

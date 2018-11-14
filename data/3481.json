@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3481,
+  "gloss": {
+    "english": [
+      "cylinder",
+      "engine"
+    ],
+    "english_secondary": [
+      "engine running",
+      "machine",
+      "motor",
+      "piston"
+    ],
+    "maori": [
+      "puoto",
+      "pūkaha"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cylinder.3481.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cylinder.3481.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3707,
+        3462,
+        2297,
+        1565,
+        335,
+        "cylinder",
+        1565
+      ],
+      "translation": "That sports car is amazing! Just listen to the cylinders. Very impressive!"
+    },
+    {
+      "video": "cylinder.3481.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        3892,
+        3481,
+        2297,
+        2273,
+        2266,
+        "well"
+      ],
+      "translation": "When I turned the car key, the engine wouldn't start - I don't know what's wrong with it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cylinder-3481.png"
+}

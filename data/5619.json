@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5619,
+  "gloss": {
+    "english": [
+      "three"
+    ],
+    "english_secondary": [
+      "3"
+    ],
+    "maori": [
+      "toru",
+      "tokotoru"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "three.5619.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "three.5619.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2931,
+        1376,
+        5619,
+        4656,
+        4543,
+        1152,
+        831
+      ],
+      "translation": "Van Asch has three Deaf representatives on its board of trustees."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.2-843ef3d2c44a26f7af3ba3edda8231e298748b24b06e908667a2ebe0006662cb.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "three-5619.png"
+}

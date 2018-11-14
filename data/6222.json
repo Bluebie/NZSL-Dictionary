@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6222,
+  "gloss": {
+    "english": [
+      "next (time)"
+    ],
+    "english_secondary": [
+      "coming",
+      "following",
+      "next month",
+      "next week",
+      "next year",
+      "subsequent"
+    ],
+    "maori": [
+      "whai muri"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "next.6222.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "next.6222.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3300,
+        1231,
+        2099,
+        6222
+      ],
+      "translation": "My baby will be one year old next week."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "next_time-6222.png"
+}

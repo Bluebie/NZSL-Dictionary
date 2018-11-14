@@ -1,0 +1,77 @@
+{
+  "nzsl_id": 4798,
+  "gloss": {
+    "english": [
+      "centre",
+      "Central (zone)",
+      "middle"
+    ],
+    "english_secondary": [
+      "central"
+    ],
+    "maori": [
+      "pokapū",
+      "waenganui"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "centre.4798.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "centre.4798.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3684,
+        5663,
+        3434,
+        2193,
+        4798,
+        3375,
+        892,
+        2804,
+        748,
+        669,
+        4501
+      ],
+      "translation": "It's better to visit the information centre first, to make sure the road is open so we can drive through."
+    },
+    {
+      "video": "centre.4798.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4798,
+        2583,
+        3811,
+        1795,
+        3775,
+        585,
+        4656,
+        "game"
+      ],
+      "translation": "Central will host the next New Zealand Deaf Games."
+    },
+    {
+      "video": "centre.4798.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2259,
+        2583,
+        4738,
+        2583,
+        3787,
+        4798,
+        2583
+      ],
+      "translation": "Taupo's in the middle, between Auckland and Wellington."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "centre-4798.png"
+}

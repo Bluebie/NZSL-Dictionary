@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3261,
+  "gloss": {
+    "english": [
+      "NZSL"
+    ],
+    "english_secondary": [
+      "NZ Sign Language",
+      "New Zealand Sign Language"
+    ],
+    "maori": [
+      "Te Reo Turi o Aotearoa",
+      "Te Reo Rotarota o Aotearoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "NZSL.3261.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "NZSL.3261.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1083,
+        2297,
+        2482,
+        3261,
+        2583,
+        5391,
+        4249
+      ],
+      "translation": "My friend learned NZSL at night classes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "NZSL-3261.png"
+}

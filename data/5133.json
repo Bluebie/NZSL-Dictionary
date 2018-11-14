@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5133,
+  "gloss": {
+    "english": [
+      "no good"
+    ],
+    "english_secondary": [
+      "lousy",
+      "useless"
+    ],
+    "maori": [
+      "kore he take",
+      "kāre i pai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "no_good.5133.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "no_good.5133.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2456,
+        2895,
+        5133,
+        2297
+      ],
+      "translation": "She's no good at reading English."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "no_good-5133.png"
+}

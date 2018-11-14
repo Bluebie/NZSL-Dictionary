@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6135,
+  "gloss": {
+    "english": [
+      "prepare"
+    ],
+    "english_secondary": [
+      "get ready",
+      "preparation"
+    ],
+    "maori": [
+      "whakarite"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "prepare.6135.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "prepare.6135.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        6135,
+        4160,
+        702,
+        5499
+      ],
+      "translation": "He packed his things to prepare for his move to Dunedin."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.3-d2f6b4479b54d7e81441bd18f1532dc859f2f0f50f55527a50c624428f5b2434.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "prepare-6135.png"
+}

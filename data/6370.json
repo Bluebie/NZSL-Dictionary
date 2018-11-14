@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6370,
+  "gloss": {
+    "english": [
+      "blink"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kimo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "blink.6370.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blink.6370.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2982,
+        3020,
+        6000,
+        295,
+        2556,
+        6370
+      ],
+      "translation": "The snow was so white and glary, it made me blink."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "blink-6370.png"
+}

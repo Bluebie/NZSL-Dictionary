@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4344,
+  "gloss": {
+    "english": [
+      "hearing aid"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hearing_aid.4344.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hearing_aid.4344.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4344,
+        3978,
+        2556,
+        4178,
+        3447
+      ],
+      "translation": "My hearing aid didn't work. I gave up and threw it out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "hearing_aid-4344.png"
+}

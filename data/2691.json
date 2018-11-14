@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2691,
+  "gloss": {
+    "english": [
+      "Turkey"
+    ],
+    "english_secondary": [
+      "Turkish"
+    ],
+    "maori": [
+      "Whenua Korukoru"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Turkey.2691.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Turkey.2691.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2691,
+        2583,
+        4798,
+        2583,
+        4813,
+        5738,
+        5626,
+        5738
+      ],
+      "translation": "Turkey is in the middle between Europe and Asia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Turkey-2691.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2723,
+  "gloss": {
+    "english": [
+      "why"
+    ],
+    "english_secondary": [
+      "reason",
+      "what for"
+    ],
+    "maori": [
+      "he aha"
+    ],
+    "attributes": [
+      "interrogative"
+    ]
+  },
+  "video": "why.2723.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "why.2723.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        3009,
+        3276,
+        5488,
+        2173,
+        2723,
+        2297,
+        1637
+      ],
+      "translation": "If you ask him why that's his name sign, he'll explain it to you."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "why-2723.png"
+}

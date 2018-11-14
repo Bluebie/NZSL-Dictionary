@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5481,
+  "gloss": {
+    "english": [
+      "letter"
+    ],
+    "english_secondary": [
+      "card",
+      "envelope",
+      "postcard"
+    ],
+    "maori": [
+      "reta"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "letter.5481.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "letter.5481.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        2841,
+        1298,
+        5789,
+        285,
+        3867,
+        2556,
+        5481
+      ],
+      "translation": "My old school friend still writes me letters."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "letter-5481.png"
+}

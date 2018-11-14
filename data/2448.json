@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2448,
+  "gloss": {
+    "english": [
+      "selfish"
+    ],
+    "english_secondary": [
+      "selfishness"
+    ],
+    "maori": [
+      "kaiapo",
+      "mahuki"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "selfish.2448.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "selfish.2448.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2448,
+        3027,
+        1123,
+        2567,
+        793
+      ],
+      "translation": "He was selfish and didn't help at all, leaving us to work hard."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "selfish-2448.png"
+}

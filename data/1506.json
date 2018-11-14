@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1506,
+  "gloss": {
+    "english": [
+      "reserve"
+    ],
+    "english_secondary": [
+      "book",
+      "hold",
+      "make a booking",
+      "reservation",
+      "save"
+    ],
+    "maori": [
+      "whakaritea",
+      "rāhuitia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "reserve.1506.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "reserve.1506.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4736,
+        4661,
+        3009,
+        1506,
+        834,
+        810,
+        5832
+      ],
+      "translation": "He telephoned the restaurant and asked for a table to be reserved near the window."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "reserve-1506.png"
+}

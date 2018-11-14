@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5148,
+  "gloss": {
+    "english": [
+      "trying to decide"
+    ],
+    "english_secondary": [
+      "uncertain",
+      "wavering"
+    ],
+    "maori": [
+      "ngākaurua"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "trying_to_decide.5148.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trying_to_decide.5148.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5148,
+        3642,
+        1832,
+        4602,
+        2587,
+        856
+      ],
+      "translation": "He tried to decide whether if he would go with us or stay at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "trying_to_decide-5148.png"
+}

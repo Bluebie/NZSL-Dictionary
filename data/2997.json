@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2997,
+  "gloss": {
+    "english": [
+      "cavity (dental)"
+    ],
+    "english_secondary": [
+      "hole in tooth"
+    ],
+    "maori": [
+      "niho tunga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hole_teeth_cavity.2997.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hole_teeth_cavity.2997.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5650,
+        1376,
+        2997,
+        1561,
+        2410,
+        3814,
+        2556
+      ],
+      "translation": "I had a cavity in my tooth. It was sore, so I had went to the dentist."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cavity_dental-2997.png"
+}

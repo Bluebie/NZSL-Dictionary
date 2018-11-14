@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6399,
+  "gloss": {
+    "english": [
+      "elbow"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whatīanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "elbow.6399.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "elbow.6399.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2321,
+        6399,
+        "cl:put-elbows-on-table",
+        834,
+        1464
+      ],
+      "translation": "Don't put your elbows on the table."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "elbow-6399.png"
+}

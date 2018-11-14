@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3115,
+  "gloss": {
+    "english": [
+      "stone"
+    ],
+    "english_secondary": [
+      "pebble",
+      "small rock"
+    ],
+    "maori": [
+      "kōhatu",
+      "pōhatu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "stone.3115.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stone.3115.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        601,
+        3115,
+        3447,
+        3571,
+        6308
+      ],
+      "translation": "The boy was naughty. He threw a stone and broke a window."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stone-3115.png"
+}

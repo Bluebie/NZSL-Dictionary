@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3933,
+  "gloss": {
+    "english": [
+      "detective"
+    ],
+    "english_secondary": [
+      "investigator"
+    ],
+    "maori": [
+      "kaikimihara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "detective.3933.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "detective.3933.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5617,
+        3933,
+        5785,
+        2929,
+        1620,
+        1813,
+        4097
+      ],
+      "translation": "Two detectives are investigating who stole the money."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "detective-3933.png"
+}

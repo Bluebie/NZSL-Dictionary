@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2757,
+  "gloss": {
+    "english": [
+      "late"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tōmuri"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "late.2757.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "late.2757.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3220,
+        2297,
+        4736,
+        3300,
+        3050,
+        2297,
+        1031,
+        2757
+      ],
+      "translation": "The man called my husband to say he'd arrive late."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "late-2757.png"
+}

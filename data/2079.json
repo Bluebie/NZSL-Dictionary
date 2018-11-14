@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2079,
+  "gloss": {
+    "english": [
+      "alien"
+    ],
+    "english_secondary": [
+      "Martian"
+    ],
+    "maori": [
+      "manene",
+      "tipua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "alien.2079.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "alien.2079.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2844,
+        "movie",
+        1865,
+        2543,
+        2079,
+        1488,
+        280
+      ],
+      "translation": "I watched an interesting movie about aliens taking over the world."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "alien-2079.png"
+}

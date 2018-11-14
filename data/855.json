@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 855,
+  "gloss": {
+    "english": [
+      "fry"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "parai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fry.855.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fry.855.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2398,
+        4482,
+        2556,
+        855
+      ],
+      "translation": "I fried some eggs and bacon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fry-855.png"
+}

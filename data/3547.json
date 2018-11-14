@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3547,
+  "gloss": {
+    "english": [
+      "kilometre"
+    ],
+    "english_secondary": [
+      "km"
+    ],
+    "maori": [
+      "kiromita"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kilometre.3547.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kilometre.3547.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        2259,
+        2299,
+        3278,
+        5607,
+        386,
+        5716,
+        3547
+      ],
+      "translation": "I drove from Auckland to Hamilton. It's a hundred and twenty-five kilometres."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "kilometre-3547.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5271,
+  "gloss": {
+    "english": [
+      "assume"
+    ],
+    "english_secondary": [
+      "assumption",
+      "guess"
+    ],
+    "maori": [
+      "whakataruna",
+      "pōhēhē"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "assume.5271.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "assume.5271.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        5271,
+        2297,
+        3676,
+        1464,
+        3684,
+        3009,
+        2297,
+        2050,
+        2266,
+        2297
+      ],
+      "translation": "You assume he'll agree?  No, it's better to ask what he thinks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "assume-5271.png"
+}

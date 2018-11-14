@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6439,
+  "gloss": {
+    "english": [
+      "oesophagus"
+    ],
+    "english_secondary": [
+      "food pipe"
+    ],
+    "maori": [
+      "pūkai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "oesophagus.6439.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oesophagus.6439.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6439,
+        6215,
+        2321,
+        4022,
+        2429
+      ],
+      "translation": "When you swallow food, it goes down the oesophagus."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "oesophagus-6439.png"
+}

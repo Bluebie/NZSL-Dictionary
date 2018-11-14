@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 3216,
+  "gloss": {
+    "english": [
+      "date",
+      "day"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "day.3216.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "day.3216.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3274,
+        937,
+        3216,
+        2266,
+        2321
+      ],
+      "translation": "What date is your birthday?"
+    },
+    {
+      "video": "day.3216.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1490,
+        2540,
+        5861,
+        5619,
+        264
+      ],
+      "translation": "A group of us went tramping for three days."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "date-3216.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6562,
+  "gloss": {
+    "english": [
+      "burqa"
+    ],
+    "english_secondary": [
+      "burka",
+      "niqab"
+    ],
+    "maori": [
+      "kōpare"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "burqa.6562.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "burqa.6562.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4051,
+        279,
+        1522,
+        1376,
+        6562
+      ],
+      "translation": "Some Muslim women wear a burqa."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "burqa-6562.png"
+}

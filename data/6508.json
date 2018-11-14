@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6508,
+  "gloss": {
+    "english": [
+      "cherry"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tiere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cherry.6508.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cherry.6508.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        1299,
+        2583,
+        6508,
+        2556,
+        "cl:pluck"
+      ],
+      "translation": "I took some cherries from the tree."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "cherry-6508.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1729,
+  "gloss": {
+    "english": [
+      "king / queen"
+    ],
+    "english_secondary": [
+      "royal"
+    ],
+    "maori": [
+      "kīngi",
+      "kuini"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "king.1729.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "king.1729.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4051,
+        4187,
+        1376,
+        1729,
+        2479,
+        3915,
+        3350,
+        2113
+      ],
+      "translation": "Some countries have a king, like Spain, Tonga and Thailand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "king_queen-1729.png"
+}

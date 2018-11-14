@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5071,
+  "gloss": {
+    "english": [
+      "that's the one"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "koia tēna"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "thats_the_one.5071.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thats_the_one.5071.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        2111,
+        2321,
+        3618,
+        1522,
+        4495,
+        2583,
+        5071
+      ],
+      "translation": "Do you know the woman over there with the crew cut? That's the one! That's my sister."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "that_s_the_one-5071.png"
+}

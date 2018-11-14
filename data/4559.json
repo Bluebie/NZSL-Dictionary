@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4559,
+  "gloss": {
+    "english": [
+      "sour"
+    ],
+    "english_secondary": [
+      "bitter"
+    ],
+    "maori": [
+      "kawa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "sour.4559.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sour.4559.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4292,
+        4264,
+        2556,
+        2226,
+        4559
+      ],
+      "translation": "I tasted the lemon drink. It was sour."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "sour-4559.png"
+}

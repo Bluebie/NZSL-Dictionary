@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 3251,
+  "gloss": {
+    "english": [
+      "assault"
+    ],
+    "english_secondary": [
+      "abuse",
+      "attack",
+      "beat up",
+      "hit",
+      "physical abuse",
+      "violent"
+    ],
+    "maori": [
+      "patu",
+      "karawhiu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "beat_up.3251.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beat_up.3251.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5736,
+        1279,
+        2297,
+        6287,
+        3241,
+        1553,
+        3220,
+        3251
+      ],
+      "translation": "He told me when he was in prison, many men beat him up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "assault-3251.png"
+}

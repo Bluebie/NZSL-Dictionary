@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5358,
+  "gloss": {
+    "english": [
+      "invest"
+    ],
+    "english_secondary": [
+      "investment"
+    ],
+    "maori": [
+      "haumi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "invest.5358.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "invest.5358.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5622,
+        2290,
+        4224,
+        2879,
+        4138,
+        3368,
+        5358
+      ],
+      "translation": "We invested six thousand dollars in the bank."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "invest-5358.png"
+}

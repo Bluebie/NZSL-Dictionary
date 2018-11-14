@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4740,
+  "gloss": {
+    "english": [
+      "member"
+    ],
+    "english_secondary": [
+      "membership"
+    ],
+    "maori": [
+      "mema"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "member.4740.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "member.4740.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        4740,
+        4214,
+        4657,
+        5716,
+        2646,
+        640
+      ],
+      "translation": "He has been a member of the Christchurch Deaf Club for twenty-five years so far."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "member-4740.png"
+}

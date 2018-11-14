@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 6291,
+  "gloss": {
+    "english": [
+      "give"
+    ],
+    "english_secondary": [
+      "contribute",
+      "give notice",
+      "hand in",
+      "hand out",
+      "hand over",
+      "present",
+      "provide"
+    ],
+    "maori": [
+      "hoatu",
+      "homai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "give.6291.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "give.6291.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5617,
+        2917,
+        2556,
+        6291,
+        2124,
+        2323,
+        1202
+      ],
+      "translation": "I gave my two sons a lolly each, to be fair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "give-6291.png"
+}

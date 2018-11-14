@@ -1,0 +1,71 @@
+{
+  "nzsl_id": 3305,
+  "gloss": {
+    "english": [
+      "jail",
+      "police"
+    ],
+    "english_secondary": [
+      "arrest",
+      "cop",
+      "in custody",
+      "in gaol",
+      "in jail",
+      "in the cells",
+      "on remand",
+      "police officer"
+    ],
+    "maori": [
+      "whare herehere",
+      "pirihimana",
+      "ture"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "jail.3305.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jail.3305.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        3430,
+        5500,
+        2297,
+        2582,
+        3305,
+        5607,
+        5391
+      ],
+      "translation": "He drove drunk and was sent to jail for a night."
+    },
+    {
+      "video": "jail.3305.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3235,
+        3775,
+        1071,
+        4736,
+        3305,
+        2583,
+        4286,
+        3653,
+        3571,
+        1152
+      ],
+      "translation": "She ran next door and asked them to ring the police. A burglar had broken into her place."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "jail-3305.png"
+}

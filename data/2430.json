@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 2430,
+  "gloss": {
+    "english": [
+      "for ages",
+      "time-consuming"
+    ],
+    "english_secondary": [
+      "lengthy",
+      "take a long time"
+    ],
+    "maori": [
+      "auroa"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "time_consuming.2430.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "time_consuming.2430.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4731,
+        4600,
+        5662,
+        5624,
+        5391,
+        2540,
+        445,
+        3518,
+        2430
+      ],
+      "translation": "The plane departed at eight o'clock at night. We had to be patient and wait for ages."
+    },
+    {
+      "video": "time_consuming.2430.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3517,
+        5995,
+        2430,
+        2556,
+        4809,
+        2743,
+        5106,
+        2593
+      ],
+      "translation": "Cleaning the house was time-consuming and I haven't done the other things yet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "for_ages-2430.png"
+}

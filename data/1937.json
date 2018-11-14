@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1937,
+  "gloss": {
+    "english": [
+      "frustrated"
+    ],
+    "english_secondary": [
+      "frustrating",
+      "resentful"
+    ],
+    "maori": [
+      "whakatakariri",
+      "kōhukihuki"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "frustrated.1937.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "frustrated.1937.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1937,
+        1021,
+        4261,
+        4370
+      ],
+      "translation": "She is frustrated because there isn't enough communication and she doesn't understand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "frustrated-1937.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5177,
+  "gloss": {
+    "english": [
+      "humiliated"
+    ],
+    "english_secondary": [
+      "deflated",
+      "feel small",
+      "humbled"
+    ],
+    "maori": [
+      "whakamā"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "humiliated.5177.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "humiliated.5177.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2050,
+        2297,
+        3618,
+        2617,
+        4581,
+        5177,
+        2297
+      ],
+      "translation": "He thought he knew the answer but he was wrong. He felt humiliated."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "humiliated-5177.png"
+}

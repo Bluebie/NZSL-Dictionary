@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5005,
+  "gloss": {
+    "english": [
+      "bear"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bear.5005.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bear.5005.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3677,
+        2091,
+        5005,
+        2583,
+        3297
+      ],
+      "translation": "I've seen a bear in Canada."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bear-5005.png"
+}

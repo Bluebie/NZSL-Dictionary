@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3439,
+  "gloss": {
+    "english": [
+      "brave"
+    ],
+    "english_secondary": [
+      "bravery",
+      "courage",
+      "courageous",
+      "daring"
+    ],
+    "maori": [
+      "māia",
+      "toa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "brave.3439.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brave.3439.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3439,
+        2297,
+        779,
+        783,
+        5738,
+        3618,
+        1376,
+        448,
+        5738
+      ],
+      "translation": "He's brave. He swam in an area known to have sharks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "brave-3439.png"
+}

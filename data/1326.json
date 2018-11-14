@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1326,
+  "gloss": {
+    "english": [
+      "crown",
+      "king"
+    ],
+    "english_secondary": [
+      "queen",
+      "royal"
+    ],
+    "maori": [
+      "karauna",
+      "kīngi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "king.1326.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "king.1326.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        3848,
+        "fs:miss",
+        280,
+        1326
+      ],
+      "translation": "She won the Miss World crown."
+    },
+    {
+      "video": "king.1326.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        3642,
+        1326,
+        483,
+        3811,
+        "pass",
+        1148,
+        980,
+        2917
+      ],
+      "translation": "If the king dies, the title will pass to the oldest son."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "crown-1326.png"
+}

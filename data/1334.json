@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1334,
+  "gloss": {
+    "english": [
+      "smell (something)"
+    ],
+    "english_secondary": [
+      "aroma",
+      "aromatic",
+      "scent"
+    ],
+    "maori": [
+      "rongo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "smell.1334.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "smell.1334.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1334,
+        1805,
+        5472,
+        3658
+      ],
+      "translation": "I could smell the cake. It smelled good."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "smell_something-1334.png"
+}

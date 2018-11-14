@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1761,
+  "gloss": {
+    "english": [
+      "mumps"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "repe pupuhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mumps.1761.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mumps.1761.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2099,
+        5619,
+        3213,
+        1761
+      ],
+      "translation": "When I was three I became sick with mumps."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "mumps-1761.png"
+}

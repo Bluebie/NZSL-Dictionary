@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5112,
+  "gloss": {
+    "english": [
+      "athletics"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaipara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "athletics.5112.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "athletics.5112.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        967,
+        954,
+        2556,
+        3658,
+        5112,
+        3235,
+        5663
+      ],
+      "translation": "As a child I was good at athletics. I came first in running."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "athletics-5112.png"
+}

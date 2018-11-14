@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 270,
+  "gloss": {
+    "english": [
+      "safe"
+    ],
+    "english_secondary": [
+      "be safe",
+      "safely",
+      "thank goodness",
+      "what a relief"
+    ],
+    "maori": [
+      "haumaru"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "interjection"
+    ]
+  },
+  "video": "safe.270.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "safe.270.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        5334,
+        5340,
+        4092,
+        5398,
+        3684,
+        681
+      ],
+      "translation": "I think it is worth joining a medical insurance scheme to be safe."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "safe-270.png"
+}

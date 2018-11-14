@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5403,
+  "gloss": {
+    "english": [
+      "still"
+    ],
+    "english_secondary": [
+      "continue to be"
+    ],
+    "maori": [
+      "tonu"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "still.5403.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "still.5403.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        959,
+        5403,
+        3658,
+        3299
+      ],
+      "translation": "They grew up together and are still good mates."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "still-5403.png"
+}

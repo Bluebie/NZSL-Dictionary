@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2699,
+  "gloss": {
+    "english": [
+      "stinky"
+    ],
+    "english_secondary": [
+      "poo",
+      "smelly"
+    ],
+    "maori": [
+      "haunga",
+      "keha"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "smell.2699.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "smell.2699.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1231,
+        4720,
+        2699,
+        2556,
+        3919,
+        1095
+      ],
+      "translation": "The baby's nappy was rather stinky, so I changed her into a new one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "stinky-2699.png"
+}

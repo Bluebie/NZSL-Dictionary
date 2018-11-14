@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2801,
+  "gloss": {
+    "english": [
+      "torch"
+    ],
+    "english_secondary": [
+      "flashlight",
+      "shine (torch)"
+    ],
+    "maori": [
+      "rama",
+      "tōti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "torch.2801.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "torch.2801.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        402,
+        5391,
+        4347,
+        5467,
+        2883,
+        2801
+      ],
+      "translation": "At camp, I woke up during the night and used a torch to walk to the toilet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "torch-2801.png"
+}

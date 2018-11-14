@@ -1,0 +1,74 @@
+{
+  "nzsl_id": 2677,
+  "gloss": {
+    "english": [
+      "camera",
+      "photo",
+      "take a photo"
+    ],
+    "english_secondary": [
+      "photograph",
+      "photography",
+      "picture"
+    ],
+    "maori": [
+      "kāmera",
+      "whakaahua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "camera.2677.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "camera.2677.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2677,
+        4788,
+        2477,
+        "cl:focus",
+        696
+      ],
+      "translation": "The camera automatically focuses to get a clear image."
+    },
+    {
+      "video": "camera.2677.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2677,
+        2556,
+        2844,
+        2076,
+        967,
+        4689,
+        2645,
+        908,
+        2841
+      ],
+      "translation": "I looked at the photo and thought about how young my father was back then, and how old he is now."
+    },
+    {
+      "video": "camera.2677.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        308,
+        2321,
+        2677,
+        2540,
+        1490,
+        2677
+      ],
+      "translation": "Would you mind taking a photo of us as a group?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "camera-2677.png"
+}

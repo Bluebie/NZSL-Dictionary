@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6146,
+  "gloss": {
+    "english": [
+      "shield"
+    ],
+    "english_secondary": [
+      "shield-shaped trophy"
+    ],
+    "maori": [
+      "pākai",
+      "hīra"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shield.6146.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shield.6146.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4798,
+        3848,
+        893,
+        6146,
+        3228
+      ],
+      "translation": "Central district won the rugby shield, hooray!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shield-6146.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6554,
+  "gloss": {
+    "english": [
+      "Croatia"
+    ],
+    "english_secondary": [
+      "Croatian"
+    ],
+    "maori": [
+      "Koroātia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Croatia.6554.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Croatia.6554.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3300,
+        1438,
+        1505,
+        6554
+      ],
+      "translation": "My ancestors were from Croatia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "Croatia-6554.png"
+}

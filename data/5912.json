@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5912,
+  "gloss": {
+    "english": [
+      "jump for joy"
+    ],
+    "english_secondary": [
+      "delighted",
+      "ecstatic",
+      "elated",
+      "over the moon",
+      "very happy"
+    ],
+    "maori": [
+      "wehe ana i te rekareka"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "jump_for_joy.5912.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jump_for_joy.5912.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2314,
+        1490,
+        3848,
+        5912,
+        3228
+      ],
+      "translation": "When our team won, we jumped for joy. Yay!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "jump_for_joy-5912.png"
+}

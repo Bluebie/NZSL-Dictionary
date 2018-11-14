@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3321,
+  "gloss": {
+    "english": [
+      "wash"
+    ],
+    "english_secondary": [
+      "clean",
+      "do the dishes",
+      "laundry",
+      "wash up",
+      "washing"
+    ],
+    "maori": [
+      "horoi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "wash.3321.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wash.3321.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        3775,
+        2297,
+        1069,
+        3321,
+        465,
+        1523,
+        2297,
+        2115,
+        2297
+      ],
+      "translation": "The man next door never washes his clothes and smells really bad."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "wash-3321.png"
+}

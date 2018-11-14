@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2293,
+  "gloss": {
+    "english": [
+      "not allowed"
+    ],
+    "english_secondary": [
+      "don't",
+      "not permitted"
+    ],
+    "maori": [
+      "kāore e whakaaehia"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "not_allowed.2293.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_allowed.2293.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1306,
+        2583,
+        1840,
+        "cl:untucked-shirt",
+        2293,
+        5129,
+        "cl:tucked-shirt"
+      ],
+      "translation": "At school, the uniform is not allowed to be draping out.  It must be tucked in."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_allowed-2293.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1084,
+  "gloss": {
+    "english": [
+      "clean up"
+    ],
+    "english_secondary": [
+      "clear out",
+      "clear up",
+      "tidy up"
+    ],
+    "maori": [
+      "whakapaipai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "clean_up.1084.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clean_up.1084.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        946,
+        2888,
+        4138,
+        3926,
+        3375,
+        3878,
+        3653,
+        2556,
+        1084
+      ],
+      "translation": "I chopped the vegetables and put them in a pan to make soup, and then I cleaned up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "clean_up-1084.png"
+}

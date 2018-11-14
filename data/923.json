@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 923,
+  "gloss": {
+    "english": [
+      "yummy"
+    ],
+    "english_secondary": [
+      "beautiful meal",
+      "delicious",
+      "tasty"
+    ],
+    "maori": [
+      "tino reka"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "yummy.923.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "yummy.923.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3338,
+        3375,
+        771,
+        4508,
+        923,
+        1636,
+        3727
+      ],
+      "translation": "My grandmother's roasted chicken is a family favourite. It's yummy!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "yummy-923.png"
+}

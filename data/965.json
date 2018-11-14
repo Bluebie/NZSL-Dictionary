@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 965,
+  "gloss": {
+    "english": [
+      "judge"
+    ],
+    "english_secondary": [
+      "justice",
+      "magistrate"
+    ],
+    "maori": [
+      "kaiwhakawā",
+      "tiati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "judge.965.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "judge.965.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        965,
+        2297,
+        5736,
+        3885,
+        3220,
+        3127,
+        3352,
+        1048,
+        3013
+      ],
+      "translation": "The judge said the man was not guilty and acquitted him. He was  freed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "judge-965.png"
+}

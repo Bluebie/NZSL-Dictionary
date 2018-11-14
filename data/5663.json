@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 5663,
+  "gloss": {
+    "english": [
+      "first"
+    ],
+    "english_secondary": [
+      "1st",
+      "firstly"
+    ],
+    "maori": [
+      "mātāmua",
+      "tuatahi"
+    ],
+    "attributes": [
+      "adverb",
+      "determiner",
+      "numeral"
+    ]
+  },
+  "video": "first.5663.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "first.5663.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        5617,
+        5389,
+        2281,
+        2099,
+        5622,
+        2412,
+        2416,
+        2099,
+        5621
+      ],
+      "translation": "They have two children. The first one is six and the second one is five."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "first-5663.png"
+}

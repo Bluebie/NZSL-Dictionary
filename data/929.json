@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 929,
+  "gloss": {
+    "english": [
+      "sanitary pad"
+    ],
+    "english_secondary": [
+      "pad"
+    ],
+    "maori": [
+      "kope"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sanitary_pads.929.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sanitary_pads.929.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        4982,
+        2297,
+        721,
+        929
+      ],
+      "translation": "She has her period and needs a sanitary pad."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sanitary_pad-929.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1186,
+  "gloss": {
+    "english": [
+      "level"
+    ],
+    "english_secondary": [
+      "even"
+    ],
+    "maori": [
+      "papatairite"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "level.1186.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "level.1186.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3954,
+        797,
+        825,
+        5785,
+        1186,
+        3375,
+        687
+      ],
+      "translation": "He's a builder. He works on floors trying to level them to make them flat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "level-1186.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 6202,
+  "gloss": {
+    "english": [
+      "not allowed"
+    ],
+    "english_secondary": [
+      "banned",
+      "don't",
+      "forbid",
+      "not permitted",
+      "outlawed",
+      "prohibited"
+    ],
+    "maori": [
+      "kāore e whakaaehia"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "not_allowed.6202.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_allowed.6202.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        967,
+        3300,
+        1298,
+        5488,
+        6202,
+        5129,
+        5802
+      ],
+      "translation": "In the past, signing was not allowed at my school. We had to communicate through speech."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_allowed-6202.png"
+}

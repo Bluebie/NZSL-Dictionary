@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 4006,
+  "gloss": {
+    "english": [
+      "forget",
+      "forget it"
+    ],
+    "english_secondary": [
+      "don't bother"
+    ],
+    "maori": [
+      "wareware",
+      "hei aha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "forgot.4006.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forgot.4006.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4006,
+        4472,
+        856,
+        4006
+      ],
+      "translation": "I forgot the card and left it at home."
+    },
+    {
+      "video": "forgot.4006.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2068,
+        5137,
+        4006,
+        1126
+      ],
+      "translation": "Don't worry about it. Just forget it and move on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "forget-4006.png"
+}

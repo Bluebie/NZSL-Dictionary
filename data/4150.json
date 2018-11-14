@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4150,
+  "gloss": {
+    "english": [
+      "qualification"
+    ],
+    "english_secondary": [
+      "diploma",
+      "qualified"
+    ],
+    "maori": [
+      "tohu"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "qualification.4150.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "qualification.4150.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5663,
+        2556,
+        3677,
+        5465,
+        5970,
+        2556,
+        1766,
+        2384,
+        4150
+      ],
+      "translation": "First of all, I want to finish my apprenticeship and get a tradesman qualification."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "qualification-4150.png"
+}

@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 5315,
+  "gloss": {
+    "english": [
+      "handy",
+      "practical"
+    ],
+    "english_secondary": [
+      "practicum"
+    ],
+    "maori": [
+      "whai tikanga",
+      "kakama"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "practical.5315.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "practical.5315.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3658,
+        5315,
+        1565,
+        2297,
+        3618,
+        1287,
+        3954,
+        3381,
+        834,
+        3166,
+        1952
+      ],
+      "translation": "Wow, he is so handy - he knows how to build a coffee table, cupboards and everything."
+    },
+    {
+      "video": "practical.5315.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4222,
+        3658,
+        1376,
+        1553,
+        5315,
+        2464,
+        972
+      ],
+      "translation": "The course is good - it has lot of practicum, as well as lectures."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "handy-5315.png"
+}

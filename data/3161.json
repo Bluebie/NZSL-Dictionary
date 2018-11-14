@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3161,
+  "gloss": {
+    "english": [
+      "whale"
+    ],
+    "english_secondary": [
+      "whale spout"
+    ],
+    "maori": [
+      "tohorā",
+      "ika moana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "whale.3161.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "whale.3161.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4635,
+        3140,
+        2583,
+        859,
+        4501,
+        2844,
+        3161
+      ],
+      "translation": "In the South Island, you can see whales from the boat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "whale-3161.png"
+}

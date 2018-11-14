@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6088,
+  "gloss": {
+    "english": [
+      "put money in (machine)"
+    ],
+    "english_secondary": [
+      "coin operated machine",
+      "parking meter"
+    ],
+    "maori": [
+      "meatia",
+      "rau(a)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "put_money_in.6088.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "put_money_in.6088.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        "cl:park-meter",
+        2556,
+        4097,
+        6088,
+        603,
+        5425
+      ],
+      "translation": "I put money in the parking meter for one hour's parking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "put_money_in_machine-6088.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 2945,
+  "gloss": {
+    "english": [
+      "climb stairs",
+      "steps"
+    ],
+    "english_secondary": [
+      "stairs",
+      "upstairs"
+    ],
+    "maori": [
+      "piki i ngā tepe",
+      "tepe"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "steps.2945.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "steps.2945.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        234,
+        3978,
+        2297,
+        2945,
+        5767
+      ],
+      "translation": "The lift wasn't working, so he climbed the stairs."
+    },
+    {
+      "video": "steps.2945.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4948,
+        1376,
+        2945,
+        3027,
+        234
+      ],
+      "translation": "That building has stairs and no lift."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "climb_stairs-2945.png"
+}

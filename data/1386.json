@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1386,
+  "gloss": {
+    "english": [
+      "afternoon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ahiahi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "afternoon.1386.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "afternoon.1386.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        "every",
+        4757,
+        1386,
+        762,
+        2917,
+        1178,
+        3598,
+        3700
+      ],
+      "translation": "Every Monday afternoon my son goes to soccer practice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "afternoon-1386.png"
+}

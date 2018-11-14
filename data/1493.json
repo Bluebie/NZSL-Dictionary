@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1493,
+  "gloss": {
+    "english": [
+      "holiday"
+    ],
+    "english_secondary": [
+      "vacation"
+    ],
+    "maori": [
+      "hararei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "holiday.1493.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "holiday.1493.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5429,
+        1493,
+        2556,
+        856,
+        1832,
+        1636
+      ],
+      "translation": "I was home with my family during the Christmas holiday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "holiday-1493.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2171,
+  "gloss": {
+    "english": [
+      "bitter"
+    ],
+    "english_secondary": [
+      "bitter taste",
+      "sour"
+    ],
+    "maori": [
+      "kawa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bitter_taste.2171.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bitter_taste.2171.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        3050,
+        "eat",
+        4292,
+        2171,
+        3277,
+        2297,
+        1447
+      ],
+      "translation": "My husband ate a lemon, but the taste was bitter and very strong. He didn't like it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "bitter-2171.png"
+}

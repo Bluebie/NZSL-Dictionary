@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 916,
+  "gloss": {
+    "english": [
+      "outsider"
+    ],
+    "english_secondary": [
+      "outside (of)"
+    ],
+    "maori": [
+      "rāwaho"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "outsider.916.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "outsider.916.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        "involve",
+        2607,
+        1464,
+        2297,
+        916,
+        2844
+      ],
+      "translation": "He is not involved in the meeting, but is observing as an outsider."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "outsider-916.png"
+}

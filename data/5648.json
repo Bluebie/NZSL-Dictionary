@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 5648,
+  "gloss": {
+    "english": [
+      "chaos",
+      "disrupted"
+    ],
+    "english_secondary": [
+      "gone wrong",
+      "in ruins",
+      "mess",
+      "messed up",
+      "turned upside down",
+      "untidy",
+      "upheaval",
+      "wrecked"
+    ],
+    "maori": [
+      "pōkīkī",
+      "hē"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mess.5648.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mess.5648.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5389,
+        1926,
+        2583,
+        3414,
+        5648
+      ],
+      "translation": "It was chaos in the lounge where the children were playing."
+    },
+    {
+      "video": "mess.5648.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4581,
+        1324,
+        4731,
+        2246,
+        762,
+        3086,
+        5648
+      ],
+      "translation": "Due to bad weather, my flight was cancelled which disrupted my plans."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chaos-5648.png"
+}

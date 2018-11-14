@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5601,
+  "gloss": {
+    "english": [
+      "radiation"
+    ],
+    "english_secondary": [
+      "radiate"
+    ],
+    "maori": [
+      "hihinga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "radiation.5601.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "radiation.5601.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4001,
+        2297,
+        4581,
+        5601,
+        4501,
+        6304,
+        4477
+      ],
+      "translation": "The sun has bad radiation which causes skin cancer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "radiation-5601.png"
+}

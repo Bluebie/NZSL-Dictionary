@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 519,
+  "gloss": {
+    "english": [
+      "history"
+    ],
+    "english_secondary": [
+      "in the past"
+    ],
+    "maori": [
+      "kōrero o mua",
+      "kōrero nehe",
+      "hītori",
+      "whakapapa"
+    ],
+    "attributes": [
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "history.519.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "history.519.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        910,
+        2556,
+        1513,
+        1897,
+        2543,
+        3338,
+        3276,
+        1636,
+        519
+      ],
+      "translation": "At the funeral, I learnt more about my grandmother's family history."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "history-519.png"
+}

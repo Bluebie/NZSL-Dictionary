@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4405,
+  "gloss": {
+    "english": [
+      "examine (medical)"
+    ],
+    "english_secondary": [
+      "check-up",
+      "examination"
+    ],
+    "maori": [
+      "āta titiro(hia)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "check_up.4405.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "check_up.4405.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4765,
+        964,
+        4080,
+        2410,
+        "fs:gp",
+        4405
+      ],
+      "translation": "My mother has high blood pressure, so she went to the GP to be examined."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "examine_medical-4405.png"
+}

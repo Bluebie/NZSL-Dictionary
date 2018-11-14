@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1915,
+  "gloss": {
+    "english": [
+      "computer screen"
+    ],
+    "english_secondary": [
+      "computer monitor",
+      "monitor",
+      "screen"
+    ],
+    "maori": [
+      "mata rorohiko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "monitor.1915.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "monitor.1915.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1376,
+        2273,
+        1915
+      ],
+      "translation": "There's something wrong with the computer screen."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "computer_screen-1915.png"
+}

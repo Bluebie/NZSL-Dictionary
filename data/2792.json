@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2792,
+  "gloss": {
+    "english": [
+      "radio"
+    ],
+    "english_secondary": [
+      "stereo"
+    ],
+    "maori": [
+      "reo irirangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "radio.2792.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "radio.2792.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3337,
+        2297,
+        1747,
+        2123,
+        2792,
+        2123,
+        2297
+      ],
+      "translation": "My grandfather always listens to the radio."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "radio-2792.png"
+}

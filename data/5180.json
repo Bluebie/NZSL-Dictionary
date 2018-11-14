@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5180,
+  "gloss": {
+    "english": [
+      "fuck (that)"
+    ],
+    "english_secondary": [
+      "defy",
+      "detest"
+    ],
+    "maori": [
+      "engari mō tēnā",
+      "wana hamuti!"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "fuck_that.5180.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fuck_that.5180.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4446,
+        2879,
+        1279,
+        1083,
+        6207,
+        5180,
+        3812,
+        2466
+      ],
+      "translation": "We used to be friends, but fuck him, I won't talk to him now."
+    },
+    {
+      "video": "fuck_that.5180.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2190,
+        2556,
+        1885,
+        5405,
+        5995,
+        2556,
+        5180,
+        2162,
+        1175
+      ],
+      "translation": "He said I had to stay at home, but fuck that, I'm secretly going to sneak out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.4.1-d1266e4b4f9c0d1e6e3262249b42092d15d64f806556b76b77afa3e5d65858f5.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fuck_that-5180.png"
+}

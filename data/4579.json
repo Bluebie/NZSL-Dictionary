@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4579,
+  "gloss": {
+    "english": [
+      "poison"
+    ],
+    "english_secondary": [
+      "poisoning",
+      "poisonous",
+      "toxic"
+    ],
+    "maori": [
+      "paitini",
+      "paihana",
+      "tāoke"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "poisoning.4579.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "poisoning.4579.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1964,
+        4623,
+        2050,
+        1505,
+        2297,
+        4022,
+        4579
+      ],
+      "translation": "I felt nauseous and threw up. I think it was food poisoning."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "poison-4579.png"
+}

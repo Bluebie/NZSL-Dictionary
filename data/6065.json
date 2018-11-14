@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6065,
+  "gloss": {
+    "english": [
+      "breast(s)"
+    ],
+    "english_secondary": [
+      "bust"
+    ],
+    "maori": [
+      "ū"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "breasts.6065.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breasts.6065.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        2297,
+        679,
+        2483,
+        1178,
+        2299,
+        4520,
+        2127,
+        6065
+      ],
+      "translation": "She felt a lump so she went to the doctor to check her breast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "breasts-6065.png"
+}

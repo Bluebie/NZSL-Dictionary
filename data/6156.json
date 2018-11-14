@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6156,
+  "gloss": {
+    "english": [
+      "shabby"
+    ],
+    "english_secondary": [
+      "poor quality",
+      "shoddy"
+    ],
+    "maori": [
+      "kanukanu",
+      "hakurara"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "shabby.6156.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shabby.6156.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        6053,
+        6156,
+        5796,
+        3618,
+        3684,
+        3084
+      ],
+      "translation": "He looked shabby! He should have known better and dressed formally."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shabby-6156.png"
+}

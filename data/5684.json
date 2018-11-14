@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5684,
+  "gloss": {
+    "english": [
+      "background"
+    ],
+    "english_secondary": [
+      "backdrop"
+    ],
+    "maori": [
+      "muri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "background.5684.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "background.5684.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3618,
+        4088,
+        2297,
+        1376,
+        1078,
+        5684,
+        2297
+      ],
+      "translation": "He knows business - he has the skills and the background."
+    },
+    {
+      "video": "background.5684.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        "film",
+        1185,
+        266,
+        5684,
+        2215,
+        2844,
+        5488
+      ],
+      "translation": "Filming requires a plain background so it's easy to see the signing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "background-5684.png"
+}

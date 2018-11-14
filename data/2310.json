@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2310,
+  "gloss": {
+    "english": [
+      "but"
+    ],
+    "english_secondary": [
+      "although",
+      "except",
+      "however"
+    ],
+    "maori": [
+      "engari"
+    ],
+    "attributes": [
+      "conjunction"
+    ]
+  },
+  "video": "but.2310.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "but.2310.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        721,
+        924,
+        2310,
+        5607,
+        4096,
+        3027,
+        5984
+      ],
+      "translation": "He wants to go but there's one problem - he doesn't have transport."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "but-2310.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5469,
+  "gloss": {
+    "english": [
+      "son"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "son.5469.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "son.5469.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        3775,
+        2583,
+        3276,
+        5469,
+        1747,
+        2533,
+        1926,
+        1832,
+        3300,
+        5389
+      ],
+      "translation": "My neighbour's son continually comes over to play with my children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "son-5469.png"
+}

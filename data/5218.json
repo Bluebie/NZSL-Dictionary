@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5218,
+  "gloss": {
+    "english": [
+      "recovered"
+    ],
+    "english_secondary": [
+      "back to normal",
+      "energised",
+      "feel better",
+      "raring to go"
+    ],
+    "maori": [
+      "ora anō",
+      "pai ake"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "recovered.5218.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "recovered.5218.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4349,
+        3775,
+        3111,
+        5218,
+        6242
+      ],
+      "translation": "I took a tablet and felt completely recovered the next morning."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "recovered-5218.png"
+}

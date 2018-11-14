@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2013,
+  "gloss": {
+    "english": [
+      "orgasm"
+    ],
+    "english_secondary": [
+      "come (sexual excitement)",
+      "climax"
+    ],
+    "maori": [
+      "tokomauri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "orgasm.2013.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "orgasm.2013.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3638,
+        "night",
+        2879,
+        4015,
+        1565,
+        2013
+      ],
+      "translation": "Last night we had sex and I had an amazing orgasm!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "orgasm-2013.png"
+}

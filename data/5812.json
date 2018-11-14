@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5812,
+  "gloss": {
+    "english": [
+      "computer screen"
+    ],
+    "english_secondary": [
+      "computer monitor",
+      "monitor",
+      "screen"
+    ],
+    "maori": [
+      "mata rorohiko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "computer_screen.5812.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "computer_screen.5812.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5812,
+        1545,
+        5707,
+        2858
+      ],
+      "translation": "That computer screen is huge - it's forty inches."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "computer_screen-5812.png"
+}

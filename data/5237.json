@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5237,
+  "gloss": {
+    "english": [
+      "oops"
+    ],
+    "english_secondary": [
+      "I'm wrong",
+      "my mistake",
+      "naughty me",
+      "uh-oh",
+      "woops"
+    ],
+    "maori": [
+      "auē"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "oops.5237.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oops.5237.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        373,
+        2607,
+        5237,
+        4006,
+        5736,
+        5784,
+        3919
+      ],
+      "translation": "She missed the meeting. Oops, I forgot to tell her about the change in time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "oops-5237.png"
+}

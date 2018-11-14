@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2303,
+  "gloss": {
+    "english": [
+      "approach"
+    ],
+    "english_secondary": [
+      "come up to"
+    ],
+    "maori": [
+      "whakapā",
+      "whakatata"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "come_up_to.2303.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come_up_to.2303.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5607,
+        3409,
+        2303,
+        1071,
+        721,
+        924,
+        4249,
+        1543,
+        2297,
+        3213
+      ],
+      "translation": "One student approached me and asked to leave early. He was sick."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "approach-2303.png"
+}

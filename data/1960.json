@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1960,
+  "gloss": {
+    "english": [
+      "rake"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rakuraku"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rake.1960.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rake.1960.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4176,
+        2781,
+        1436,
+        3050,
+        2297,
+        1960
+      ],
+      "translation": "There were leaves all over our garden. My husband used the rake."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rake-1960.png"
+}

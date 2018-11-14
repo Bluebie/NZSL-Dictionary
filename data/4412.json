@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4412,
+  "gloss": {
+    "english": [
+      "suddenly"
+    ],
+    "english_secondary": [
+      "sudden",
+      "unexpected"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "sudden.4412.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sudden.4412.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3430,
+        4412,
+        2832,
+        "cl:hop-across",
+        "cl:car-run-over"
+      ],
+      "translation": "I was driving and suddenly a rabbit ran onto the road. I ran over it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "suddenly-4412.png"
+}

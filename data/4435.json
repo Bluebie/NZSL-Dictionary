@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4435,
+  "gloss": {
+    "english": [
+      "sad"
+    ],
+    "english_secondary": [
+      "depressed",
+      "grief",
+      "miserable",
+      "misery",
+      "tragic",
+      "unhappy"
+    ],
+    "maori": [
+      "pōuri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "miserable.4435.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "miserable.4435.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        4435,
+        2297,
+        2216,
+        2864,
+        970
+      ],
+      "translation": "She was sad. Her father died recently."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "sad-4435.png"
+}

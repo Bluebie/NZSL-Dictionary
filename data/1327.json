@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1327,
+  "gloss": {
+    "english": [
+      "rain",
+      "snow"
+    ],
+    "english_secondary": [
+      "downpour",
+      "precipitation",
+      "shower"
+    ],
+    "maori": [
+      "ua",
+      "hukarere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rain.1327.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rain.1327.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1327,
+        2314,
+        2587,
+        1114,
+        552,
+        1643
+      ],
+      "translation": "It was raining, so we stayed inside the motel with nothing to do."
+    },
+    {
+      "video": "rain.1327.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2583,
+        2804,
+        607,
+        908,
+        1327
+      ],
+      "translation": "That road is closed because it's snowing at the moment."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rain-1327.png"
+}

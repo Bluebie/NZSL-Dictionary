@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4185,
+  "gloss": {
+    "english": [
+      "bald"
+    ],
+    "english_secondary": [
+      "bald spot"
+    ],
+    "maori": [
+      "hewa",
+      "pākira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bald.4185.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bald.4185.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3337,
+        2297,
+        908,
+        4185
+      ],
+      "translation": "My grandfather is now bald."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bald-4185.png"
+}

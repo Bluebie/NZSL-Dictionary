@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5458,
+  "gloss": {
+    "english": [
+      "unfortunately"
+    ],
+    "english_secondary": [
+      "too bad"
+    ],
+    "maori": [
+      "ko te mate",
+      "ko te mate kē"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "unfortunately.5458.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unfortunately.5458.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5458,
+        2556,
+        1601,
+        4006,
+        3369,
+        4201
+      ],
+      "translation": "Unfortunately, I was rushing and forgot to bring lunch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "unfortunately-5458.png"
+}

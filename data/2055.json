@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2055,
+  "gloss": {
+    "english": [
+      "customs"
+    ],
+    "english_secondary": [
+      "customs duty",
+      "customs officer"
+    ],
+    "maori": [
+      "mana ārai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "customs.2055.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "customs.2055.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4731,
+        1031,
+        5129,
+        1367,
+        5129,
+        669,
+        2055
+      ],
+      "translation": "When you arrive at the airport, you must line up and go through customs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "customs-2055.png"
+}

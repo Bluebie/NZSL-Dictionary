@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3461,
+  "gloss": {
+    "english": [
+      "champagne"
+    ],
+    "english_secondary": [
+      "pop (cork)",
+      "sparkling wine"
+    ],
+    "maori": [
+      "wāina piari"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "champagne.3461.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "champagne.3461.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        585,
+        3848,
+        1482,
+        3566,
+        590,
+        2540,
+        1490,
+        3824,
+        3461,
+        4264
+      ],
+      "translation": "New Zealand won the America's Cup yacht race! Our group celebrated by drinking champagne."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.4.1-77cbe9ce0adab9b18d57407de6ae7732ccd859372283c41c18b06c253a03e2f3.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "champagne-3461.png"
+}

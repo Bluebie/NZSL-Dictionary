@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5564,
+  "gloss": {
+    "english": [
+      "foreplay"
+    ],
+    "english_secondary": [
+      "fooling around",
+      "necking",
+      "petting",
+      "snogging"
+    ],
+    "maori": [
+      "whāwhā tahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "foreplay.5564.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "foreplay.5564.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        5564,
+        4785,
+        4015
+      ],
+      "translation": "We were having a bit of foreplay, getting ready to have sex."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "foreplay-5564.png"
+}

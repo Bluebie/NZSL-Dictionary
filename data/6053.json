@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6053,
+  "gloss": {
+    "english": [
+      "appearance"
+    ],
+    "english_secondary": [
+      "all over (body)",
+      "looks"
+    ],
+    "maori": [
+      "āhua"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "appearance.6053.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "appearance.6053.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        6053,
+        5537,
+        "cl:shaggy-hair",
+        5430,
+        "cl:hole-jumper"
+      ],
+      "translation": "His appearance was awful - a beard, shaggy hair and holes in his clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "appearance-6053.png"
+}

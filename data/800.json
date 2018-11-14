@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 800,
+  "gloss": {
+    "english": [
+      "draw"
+    ],
+    "english_secondary": [
+      "tie"
+    ],
+    "maori": [
+      "haupārua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "draw.800.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "draw.800.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        893,
+        5466,
+        5860,
+        800
+      ],
+      "translation": "I watched Otago versus Canterbury in rugby - it was a draw."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "draw-800.png"
+}

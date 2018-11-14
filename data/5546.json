@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5546,
+  "gloss": {
+    "english": [
+      "paragraphs"
+    ],
+    "english_secondary": [
+      "parts (text)",
+      "sections (text)"
+    ],
+    "maori": [
+      "kōwae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "paragraphs.5546.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "paragraphs.5546.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2193,
+        6167,
+        1185,
+        5546,
+        1123,
+        2215,
+        2895,
+        696
+      ],
+      "translation": "The information in this text needs to be divided into paragraphs to help make it clear and easy to read."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "paragraphs-5546.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5020,
+  "gloss": {
+    "english": [
+      "buttons"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pātene"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "buttons.5020.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "buttons.5020.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1065,
+        5020,
+        "cl:button-fall",
+        1185,
+        3021
+      ],
+      "translation": "Coat buttons that fall off need to be sewn back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "buttons-5020.png"
+}

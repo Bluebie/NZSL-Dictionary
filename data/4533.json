@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4533,
+  "gloss": {
+    "english": [
+      "charge (a battery)"
+    ],
+    "english_secondary": [
+      "jump leads",
+      "jumper leads"
+    ],
+    "maori": [
+      "whakakaha"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "charge_a_battery.4533.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "charge_a_battery.4533.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3462,
+        716,
+        "flat",
+        2556,
+        510,
+        2339,
+        "fs:aa",
+        4533
+      ],
+      "translation": "The car battery was flat, so I called the AA to come and charge it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "charge_a_battery-4533.png"
+}

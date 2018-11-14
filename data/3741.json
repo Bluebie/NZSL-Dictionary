@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3741,
+  "gloss": {
+    "english": [
+      "difficult"
+    ],
+    "english_secondary": [
+      "difficulty",
+      "hard",
+      "problem"
+    ],
+    "maori": [
+      "uaua",
+      "pakeke"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "problem.3741.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "problem.3741.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3230,
+        3261,
+        3741,
+        4261
+      ],
+      "translation": "She doesn't understand NZSL which makes communication difficult."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "difficult-3741.png"
+}

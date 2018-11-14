@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4180,
+  "gloss": {
+    "english": [
+      "fart"
+    ],
+    "english_secondary": [
+      "blow off",
+      "break wind"
+    ],
+    "maori": [
+      "patero"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fart.4180.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fart.4180.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1300,
+        353,
+        4180,
+        353
+      ],
+      "translation": "I was chatting away and accidentally farted - oops!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "fart-4180.png"
+}

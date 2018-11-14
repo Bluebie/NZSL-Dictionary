@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6532,
+  "gloss": {
+    "english": [
+      "skull"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "angaanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "skull.6532.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "skull.6532.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6543,
+        5039,
+        2583,
+        2844,
+        1376,
+        6532
+      ],
+      "translation": "Look at the pirate's flag. It has a skull on it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "skull-6532.png"
+}

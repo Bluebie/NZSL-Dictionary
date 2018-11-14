@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6157,
+  "gloss": {
+    "english": [
+      "swap (person)"
+    ],
+    "english_secondary": [
+      "substitute",
+      "switch"
+    ],
+    "maori": [
+      "whakawhiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "swap_person.6157.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "swap_person.6157.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        3063,
+        5618,
+        2440,
+        3677,
+        2668,
+        3063,
+        6157
+      ],
+      "translation": "She interpreted for twenty minutes, then swapped with another interpreter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "swap_person-6157.png"
+}

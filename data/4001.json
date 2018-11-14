@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4001,
+  "gloss": {
+    "english": [
+      "sun",
+      "sunny"
+    ],
+    "english_secondary": [
+      "solar",
+      "sunlight",
+      "sunshine"
+    ],
+    "maori": [
+      "rā",
+      "paki"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "sun.4001.main_glosses.vs.r480x360.TWO.mp4",
+  "usage": [
+    {
+      "video": "sun.4001.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2879,
+        2844,
+        4001,
+        5439,
+        4030
+      ],
+      "translation": "We watched the sun setting. It was beautiful."
+    },
+    {
+      "video": "sun.4001.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        845,
+        1274,
+        5084,
+        2463,
+        2297,
+        1324,
+        4001
+      ],
+      "translation": "Painting the house depends on the weather being sunny."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sun-4001.png"
+}

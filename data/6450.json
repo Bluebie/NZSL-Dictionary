@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6450,
+  "gloss": {
+    "english": [
+      "poem"
+    ],
+    "english_secondary": [
+      "poetry"
+    ],
+    "maori": [
+      "ruri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "poem.6450.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "poem.6450.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6450,
+        2297,
+        5488,
+        4030,
+        2297
+      ],
+      "translation": "She signed the poem beautifully."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "poem-6450.png"
+}

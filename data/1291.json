@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1291,
+  "gloss": {
+    "english": [
+      "contact"
+    ],
+    "english_secondary": [
+      "get in touch"
+    ],
+    "maori": [
+      "whakapā atu",
+      "whakapā mai"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "contact.1291.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "contact.1291.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        1306,
+        1083,
+        1501,
+        3720,
+        1291,
+        5617,
+        4763,
+        1279
+      ],
+      "translation": "My school friend who I'd lost touch with finally made contact two months ago."
+    },
+    {
+      "video": "contact.1291.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        5561,
+        2297,
+        1376,
+        1291,
+        2193
+      ],
+      "translation": "The website has the contact information."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "contact-1291.png"
+}

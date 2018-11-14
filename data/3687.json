@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3687,
+  "gloss": {
+    "english": [
+      "aunt"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whaea kēkē",
+      "whaea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "aunt.3687.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "aunt.3687.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1298,
+        1403,
+        2556,
+        3434,
+        3687,
+        3701,
+        1123,
+        4231
+      ],
+      "translation": "In the school holidays, I visited my aunt's farm and helped with the milking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "aunt-3687.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4987,
+  "gloss": {
+    "english": [
+      "shawl"
+    ],
+    "english_secondary": [
+      "wrap"
+    ],
+    "maori": [
+      "hōro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shawl.4987.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shawl.4987.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1220,
+        872,
+        367,
+        4987,
+        3194
+      ],
+      "translation": "She gave me a lovely shawl as a present. It is warm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "shawl-4987.png"
+}

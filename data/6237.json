@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6237,
+  "gloss": {
+    "english": [
+      "ten thousand"
+    ],
+    "english_secondary": [
+      "10000"
+    ],
+    "maori": [
+      "tekau mano"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "ten_thousand.6237.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ten_thousand.6237.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6237,
+        6129,
+        1388,
+        2844,
+        893,
+        5801,
+        2253,
+        4739
+      ],
+      "translation": "Ten thousand people gathered to watch the All Blacks versus Wales rugby match."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ten_thousand-6237.png"
+}

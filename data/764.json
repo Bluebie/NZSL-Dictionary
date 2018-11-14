@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 764,
+  "gloss": {
+    "english": [
+      "pōwhiri",
+      "welcome"
+    ],
+    "english_secondary": [
+      "come in",
+      "greet"
+    ],
+    "maori": [
+      "pōwhiri",
+      "pōhiri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "powhiri.764.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "powhiri.764.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        648,
+        5919,
+        1885,
+        764,
+        972,
+        4022,
+        2194
+      ],
+      "translation": "Upon entering a marae, there must be a pōwhiri with speeches, food and singing."
+    },
+    {
+      "video": "powhiri.764.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        4766,
+        2190,
+        3658,
+        764,
+        5405,
+        3276,
+        845
+      ],
+      "translation": "Her parents said I was welcome to stay at her house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "powhiri-764.png"
+}

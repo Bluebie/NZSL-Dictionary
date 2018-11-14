@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4493,
+  "gloss": {
+    "english": [
+      "sleepy"
+    ],
+    "english_secondary": [
+      "drowsy",
+      "half asleep",
+      "tired"
+    ],
+    "maori": [
+      "hiamoe"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "sleepy.4493.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleepy.4493.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5662,
+        3111,
+        856,
+        2556,
+        4493,
+        924,
+        347
+      ],
+      "translation": "I got home at one o'clock in the morning. I was sleepy and went to bed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "sleepy-4493.png"
+}

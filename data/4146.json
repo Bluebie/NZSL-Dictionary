@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 4146,
+  "gloss": {
+    "english": [
+      "blow up",
+      "bomb"
+    ],
+    "english_secondary": [
+      "blast",
+      "burst",
+      "erupt",
+      "explode",
+      "explosion",
+      "explosive",
+      "go off"
+    ],
+    "maori": [
+      "pahū"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bomb.4146.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bomb.4146.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2841,
+        4948,
+        3811,
+        254,
+        1287,
+        4146
+      ],
+      "translation": "The old building will be demolished by blowing it up."
+    },
+    {
+      "video": "bomb.4146.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4731,
+        607,
+        4513,
+        3583,
+        2297,
+        1376,
+        4146
+      ],
+      "translation": "The airport is closed because there might be a bomb in that bag."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "blow_up-4146.png"
+}

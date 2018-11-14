@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4307,
+  "gloss": {
+    "english": [
+      "shoe"
+    ],
+    "english_secondary": [
+      "put on shoe",
+      "shoes",
+      "slipper",
+      "slippers"
+    ],
+    "maori": [
+      "hū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shoe.4307.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shoe.4307.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        3050,
+        5401,
+        4307,
+        1747,
+        5632,
+        4171
+      ],
+      "translation": "His wife is mad on shoes and constantly spends money on them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "shoe-4307.png"
+}

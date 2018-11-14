@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1372,
+  "gloss": {
+    "english": [
+      "how many"
+    ],
+    "english_secondary": [
+      "number"
+    ],
+    "maori": [
+      "e hia",
+      "tokohia"
+    ],
+    "attributes": [
+      "interrogative",
+      "noun"
+    ]
+  },
+  "video": "how_many.1372.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "how_many.1372.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        648,
+        234,
+        307,
+        1372,
+        2095,
+        2050,
+        1463,
+        5618,
+        "cl:lift-crowded"
+      ],
+      "translation": "I went into the lift. I don't know how many people were in there butI think there were about twenty, all squashed in."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "how_many-1372.png"
+}

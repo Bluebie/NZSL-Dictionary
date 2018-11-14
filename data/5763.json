@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5763,
+  "gloss": {
+    "english": [
+      "behave"
+    ],
+    "english_secondary": [
+      "behaviour"
+    ],
+    "maori": [
+      "i pai",
+      "he pai"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "behaviour.5763.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "behaviour.5763.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1767,
+        2111,
+        5389,
+        2297,
+        2844,
+        5455,
+        "they",
+        3658,
+        5763
+      ],
+      "translation": "I took my sister's children to watch a drama and they behaved well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "behave-5763.png"
+}

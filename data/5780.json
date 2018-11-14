@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5780,
+  "gloss": {
+    "english": [
+      "pocket"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūkoro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pocket.5780.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pocket.5780.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        2917,
+        2297,
+        1766,
+        5780,
+        5397
+      ],
+      "translation": "My son gets pocket money."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "pocket-5780.png"
+}

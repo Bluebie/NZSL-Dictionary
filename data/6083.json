@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6083,
+  "gloss": {
+    "english": [
+      "earrings"
+    ],
+    "english_secondary": [
+      "studs"
+    ],
+    "maori": [
+      "whakakai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "earrings.6083.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "earrings.6083.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1306,
+        2583,
+        6083,
+        3108
+      ],
+      "translation": "At school, earrings are not allowed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "earrings-6083.png"
+}

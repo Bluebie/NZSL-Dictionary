@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3982,
+  "gloss": {
+    "english": [
+      "zip"
+    ],
+    "english_secondary": [
+      "zipper"
+    ],
+    "maori": [
+      "kati"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "zip.3982.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "zip.3982.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1031,
+        2583,
+        2982,
+        5818,
+        1864,
+        3844,
+        3982
+      ],
+      "translation": "When we arrived, we were all excited about the snow. We put our jackets on and zipped up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "zip-3982.png"
+}

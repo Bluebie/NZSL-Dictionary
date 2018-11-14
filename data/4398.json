@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4398,
+  "gloss": {
+    "english": [
+      "easy"
+    ],
+    "english_secondary": [
+      "easily",
+      "not difficult",
+      "not hard",
+      "simple"
+    ],
+    "maori": [
+      "ngāwari",
+      "māmā"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "easy.4398.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "easy.4398.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3898,
+        4398,
+        2556,
+        886
+      ],
+      "translation": "The test was easy. I passed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "easy-4398.png"
+}

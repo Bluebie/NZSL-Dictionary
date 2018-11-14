@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3174,
+  "gloss": {
+    "english": [
+      "helmet"
+    ],
+    "english_secondary": [
+      "crash helmet",
+      "cricket helmet",
+      "cycle helmet",
+      "put on a helmet",
+      "safety helmet"
+    ],
+    "maori": [
+      "pōtae mārō"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "helmet.3174.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "helmet.3174.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5674,
+        5389,
+        2883,
+        "cl:walk-queue",
+        3174,
+        "cl:light-on-helmet",
+        2883
+      ],
+      "translation": "In the cave, the children walked in single file, wearing helmets and miner's lamps."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "helmet-3174.png"
+}

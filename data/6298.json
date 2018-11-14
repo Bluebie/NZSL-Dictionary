@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6298,
+  "gloss": {
+    "english": [
+      "minute"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "meneti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "minute.6298.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "minute.6298.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        415,
+        6298,
+        3278,
+        474,
+        4135,
+        2259
+      ],
+      "translation": "Waikato scored a goal in the last minute and beat Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "minute-6298.png"
+}

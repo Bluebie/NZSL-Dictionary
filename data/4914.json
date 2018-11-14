@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4914,
+  "gloss": {
+    "english": [
+      "headmaster"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tumuaki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "headmaster.4914.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "headmaster.4914.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1306,
+        2297,
+        4914,
+        1553,
+        2646,
+        908,
+        4133
+      ],
+      "translation": "He was the school's headmaster for many years. He's now retired."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "headmaster-4914.png"
+}

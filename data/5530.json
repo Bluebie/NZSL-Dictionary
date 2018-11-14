@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5530,
+  "gloss": {
+    "english": [
+      "for example"
+    ],
+    "english_secondary": [
+      "e.g.",
+      "example"
+    ],
+    "maori": [
+      "hei tauira"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "for_example.5530.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "for_example.5530.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1447,
+        2480,
+        4199,
+        5530,
+        3082,
+        6029,
+        4199
+      ],
+      "translation": "I like different kinds of fruit,  for example bananas, oranges and apples."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "for_example-5530.png"
+}

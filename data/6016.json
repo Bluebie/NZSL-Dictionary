@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6016,
+  "gloss": {
+    "english": [
+      "fair"
+    ],
+    "english_secondary": [
+      "fairly",
+      "just",
+      "objective",
+      "reasonable"
+    ],
+    "maori": [
+      "tika",
+      "taurite"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "fair.6016.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fair.6016.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4189,
+        5333,
+        6016
+      ],
+      "translation": "Remember to be fair and take turns."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "fair-6016.png"
+}

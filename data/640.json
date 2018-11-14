@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 640,
+  "gloss": {
+    "english": [
+      "until",
+      "up to now"
+    ],
+    "english_secondary": [
+      "for a long time",
+      "last (preceding)",
+      "so far",
+      "until now"
+    ],
+    "maori": [
+      "tae noa"
+    ],
+    "attributes": [
+      "adverb",
+      "phrase"
+    ]
+  },
+  "video": "until.640.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "until.640.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        3796,
+        6230,
+        5621,
+        640,
+        6230,
+        5623
+      ],
+      "translation": "I played badminton from half past five until half past seven."
+    },
+    {
+      "video": "until.640.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        5619,
+        2646,
+        640,
+        2314,
+        793,
+        5274,
+        519,
+        523
+      ],
+      "translation": "In the last three years, we have worked hard to gather our ideas for a history book."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "until-640.png"
+}

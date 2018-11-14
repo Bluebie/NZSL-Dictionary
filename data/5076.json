@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5076,
+  "gloss": {
+    "english": [
+      "wash face"
+    ],
+    "english_secondary": [
+      "face-cloth",
+      "flannel"
+    ],
+    "maori": [
+      "horoi kanohi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wash_face.5076.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wash_face.5076.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4347,
+        4701,
+        2883,
+        3480,
+        5076
+      ],
+      "translation": "I got up and walked to the bathroom to wash my face."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wash_face-5076.png"
+}

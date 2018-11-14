@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 1477,
+  "gloss": {
+    "english": [
+      "wild"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mohowao",
+      "mohoao"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "wild.1477.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wild.1477.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4309,
+        2583,
+        2844,
+        3721,
+        1477,
+        1801,
+        "cl:animal-walk-around"
+      ],
+      "translation": "In Africa, you can see plenty of wild animals roaming around."
+    },
+    {
+      "video": "wild.1477.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1477,
+        4546,
+        2035,
+        2297
+      ],
+      "translation": "He's wild and crazy at parties!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wild-1477.png"
+}

@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 6158,
+  "gloss": {
+    "english": [
+      "black out",
+      "time out"
+    ],
+    "english_secondary": [
+      "blackout",
+      "lose consciousness",
+      "pass out",
+      "switch off"
+    ],
+    "maori": [
+      "hauaitu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "black_out.6158.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "black_out.6158.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        3635,
+        6158,
+        2096,
+        4189
+      ],
+      "translation": "He drank a lot and blacked out. He can't remember anything."
+    },
+    {
+      "video": "black_out.6158.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        924,
+        1403,
+        6158,
+        1270
+      ],
+      "translation": "I went on holiday to have some time out and to relax."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "black_out-6158.png"
+}

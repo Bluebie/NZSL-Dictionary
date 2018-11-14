@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2103,
+  "gloss": {
+    "english": [
+      "posh"
+    ],
+    "english_secondary": [
+      "classy",
+      "distinguished",
+      "elegant",
+      "nose in the air",
+      "snobby",
+      "upper class"
+    ],
+    "maori": [
+      "tino tau",
+      "rangatira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "posh.2103.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "posh.2103.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        648,
+        3460,
+        1565,
+        2103
+      ],
+      "translation": "We entered the restaurant and  it was incredibly posh."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "posh-2103.png"
+}

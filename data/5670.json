@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5670,
+  "gloss": {
+    "english": [
+      "cell (biology)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūtau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cell.5670.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cell.5670.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3147,
+        2091,
+        5670,
+        2583
+      ],
+      "translation": "I could see a cell through the microscope."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cell_biology-5670.png"
+}

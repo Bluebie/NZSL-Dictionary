@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6329,
+  "gloss": {
+    "english": [
+      "save"
+    ],
+    "english_secondary": [
+      "keep",
+      "preserve",
+      "save up",
+      "savings"
+    ],
+    "maori": [
+      "whakaputu  pūtea",
+      "whakaemi pūtea"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "save.6329.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "save.6329.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        811,
+        5760,
+        2556,
+        5632,
+        3572,
+        6329,
+        5709,
+        4224
+      ],
+      "translation": "I bought a pram at a garage sale and saved one hundred dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "save-6329.png"
+}

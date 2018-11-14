@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4188,
+  "gloss": {
+    "english": [
+      "telescope"
+    ],
+    "english_secondary": [
+      "astronomer",
+      "astronomy",
+      "use telescope"
+    ],
+    "maori": [
+      "karu whakatata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "telescope.4188.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "telescope.4188.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5391,
+        4188,
+        2844,
+        1553,
+        1731,
+        2685
+      ],
+      "translation": "At night, I used a telescope and saw many stars and the moon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "telescope-4188.png"
+}

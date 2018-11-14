@@ -1,0 +1,68 @@
+{
+  "nzsl_id": 4806,
+  "gloss": {
+    "english": [
+      "alive",
+      "live",
+      "survive"
+    ],
+    "english_secondary": [
+      "life"
+    ],
+    "maori": [
+      "ora"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "live.4806.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "live.4806.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        415,
+        3338,
+        2297,
+        285,
+        4806
+      ],
+      "translation": "My last remaining grandmother is still alive."
+    },
+    {
+      "video": "live.4806.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        4806,
+        4187,
+        2729
+      ],
+      "translation": "My parents live far away in the country."
+    },
+    {
+      "video": "live.4806.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1152,
+        1647,
+        2701,
+        2297,
+        4806
+      ],
+      "translation": "He was lucky to survive in the war."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "alive-4806.png"
+}

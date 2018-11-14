@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3864,
+  "gloss": {
+    "english": [
+      "operate"
+    ],
+    "english_secondary": [
+      "operation",
+      "surgery"
+    ],
+    "maori": [
+      "poka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "operate.3864.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "operate.3864.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3677,
+        3864,
+        1376,
+        5653,
+        3078
+      ],
+      "translation": "He's had an operation. He got ten stitches."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "operate-3864.png"
+}

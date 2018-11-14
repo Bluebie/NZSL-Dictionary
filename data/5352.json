@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5352,
+  "gloss": {
+    "english": [
+      "frame"
+    ],
+    "english_secondary": [
+      "border",
+      "framework"
+    ],
+    "maori": [
+      "taitapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "frame.5352.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "frame.5352.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2677,
+        2556,
+        5352,
+        "cl:insert-photo-frame",
+        "cl:put-frame-shelf",
+        6003
+      ],
+      "translation": "I put a photo in a frame and placed the frame on a shelf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "frame-5352.png"
+}

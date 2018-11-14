@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2093,
+  "gloss": {
+    "english": [
+      "audience"
+    ],
+    "english_secondary": [
+      "assembly",
+      "congregation"
+    ],
+    "maori": [
+      "minenga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "audience.2093.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "audience.2093.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        567,
+        2607,
+        2095,
+        2093,
+        2844,
+        972
+      ],
+      "translation": "The audience watched a presentation at the community meeting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "audience-2093.png"
+}

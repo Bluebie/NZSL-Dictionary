@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3194,
+  "gloss": {
+    "english": [
+      "warm"
+    ],
+    "english_secondary": [
+      "snug",
+      "warmth"
+    ],
+    "maori": [
+      "mahana"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "warm.3194.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "warm.3194.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1316,
+        2583,
+        5607,
+        1465,
+        579,
+        3194
+      ],
+      "translation": "I went to Holland for a week and it was really warm there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "warm-3194.png"
+}

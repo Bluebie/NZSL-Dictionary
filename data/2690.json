@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2690,
+  "gloss": {
+    "english": [
+      "bad temper"
+    ],
+    "english_secondary": [
+      "bad-tempered",
+      "get mad",
+      "lose one's temper"
+    ],
+    "maori": [
+      "riri",
+      "pukuriri"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "bad_temper.2690.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bad_temper.2690.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2690,
+        2883,
+        607
+      ],
+      "translation": "He was in a bad temper - he walked off angrily and slammed the door."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bad_temper-2690.png"
+}

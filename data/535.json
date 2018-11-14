@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 535,
+  "gloss": {
+    "english": [
+      "corner"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kokonga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "corner.535.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "corner.535.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3618,
+        535,
+        2583,
+        "cl:round-the-corner",
+        5471,
+        2583
+      ],
+      "translation": "The pub is just round the corner."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "corner-535.png"
+}

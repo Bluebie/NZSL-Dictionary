@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3779,
+  "gloss": {
+    "english": [
+      "cork"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "puru"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cork.3779.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cork.3779.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1279,
+        6017,
+        1763,
+        3779,
+        908,
+        3919,
+        "cl:wine-screw"
+      ],
+      "translation": "In the past, wine bottles had a cork. Now this has changed to a screw top."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "cork-3779.png"
+}

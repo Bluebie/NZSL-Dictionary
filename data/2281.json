@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2281,
+  "gloss": {
+    "english": [
+      "boss"
+    ],
+    "english_secondary": [
+      "captain",
+      "chief",
+      "master"
+    ],
+    "maori": [
+      "rangatira",
+      "pāhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "boss.2281.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "boss.2281.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2281,
+        1220,
+        5429,
+        872,
+        4022,
+        564
+      ],
+      "translation": "My boss gave me a Christmas hamper as a gift."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "boss-2281.png"
+}

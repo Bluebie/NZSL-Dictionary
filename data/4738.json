@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4738,
+  "gloss": {
+    "english": [
+      "Wellington"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Whanganui-a-Tara",
+      "Pōneke"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Wellington.4738.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Wellington.4738.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        6005,
+        2406,
+        2583,
+        4738
+      ],
+      "translation": "The capital city of New Zealand is Wellington."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.2-843ef3d2c44a26f7af3ba3edda8231e298748b24b06e908667a2ebe0006662cb.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Wellington-4738.png"
+}

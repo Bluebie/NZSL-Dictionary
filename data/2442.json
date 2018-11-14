@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2442,
+  "gloss": {
+    "english": [
+      "gauge"
+    ],
+    "english_secondary": [
+      "barometer",
+      "dial",
+      "meter",
+      "pointer",
+      "speed",
+      "speedometer"
+    ],
+    "maori": [
+      "ine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gauge.2442.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gauge.2442.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        648,
+        3345,
+        5738,
+        2844,
+        6246,
+        2442,
+        2844,
+        5633
+      ],
+      "translation": "I went into the cockpit and saw many gauges - it looked complicated."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "gauge-2442.png"
+}

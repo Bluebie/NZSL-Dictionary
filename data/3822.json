@@ -1,0 +1,82 @@
+{
+  "nzsl_id": 3822,
+  "gloss": {
+    "english": [
+      "detective",
+      "inspect",
+      "spy"
+    ],
+    "english_secondary": [
+      "inspection",
+      "investigator",
+      "spying"
+    ],
+    "maori": [
+      "kaikimihara",
+      "mātai",
+      "pūrahorua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "detective.3822.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "detective.3822.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        549,
+        2895,
+        3822,
+        523,
+        2297
+      ],
+      "translation": "He loves to read detective novels."
+    },
+    {
+      "video": "detective.3822.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        "come",
+        4661,
+        2297,
+        3822,
+        3375,
+        892,
+        615
+      ],
+      "translation": "A man came to the restaurant to inspect it and make sure it was clean."
+    },
+    {
+      "video": "detective.3822.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        5831,
+        2297,
+        1865,
+        2543,
+        3822,
+        1715,
+        3885,
+        "time",
+        1228,
+        1647,
+        5617
+      ],
+      "translation": "I was watching an interesting television show about spies in the second World War."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "detective-3822.png"
+}

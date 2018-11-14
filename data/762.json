@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 762,
+  "gloss": {
+    "english": [
+      "mine",
+      "my"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "nāku",
+      "taku"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "mine.762.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mine.762.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        580,
+        687,
+        2438,
+        5831,
+        2297,
+        762,
+        2297
+      ],
+      "translation": "We share a flat but the television is mine."
+    },
+    {
+      "video": "mine.762.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4689,
+        1071,
+        2827,
+        2328
+      ],
+      "translation": "My father told me that the train was coming."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "mine-762.png"
+}

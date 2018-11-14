@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6263,
+  "gloss": {
+    "english": [
+      "cocaine"
+    ],
+    "english_secondary": [
+      "coke"
+    ],
+    "maori": [
+      "kukarou"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cocaine.6263.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cocaine.6263.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2943,
+        5494,
+        3220,
+        2297,
+        2297,
+        5760,
+        6263
+      ],
+      "translation": "The police arrested a man for selling cocaine."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "cocaine-6263.png"
+}

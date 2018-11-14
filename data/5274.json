@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5274,
+  "gloss": {
+    "english": [
+      "brainstorm"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ōhia manomano"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "brainstorm.5274.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brainstorm.5274.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2314,
+        5911,
+        5274,
+        1211,
+        5363
+      ],
+      "translation": "We brainstormed some ideas and had a cooperative discussion."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "brainstorm-5274.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5116,
+  "gloss": {
+    "english": [
+      "dither"
+    ],
+    "english_secondary": [
+      "keep changing one's mind"
+    ],
+    "maori": [
+      "whakatenetene",
+      "tītoitoi haere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "dither.5116.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dither.5116.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        798,
+        2297,
+        5116,
+        4809,
+        5498
+      ],
+      "translation": "I'm fed up with her dithering - she still hasn't decided."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dither-5116.png"
+}

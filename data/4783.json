@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4783,
+  "gloss": {
+    "english": [
+      "important"
+    ],
+    "english_secondary": [
+      "crucial",
+      "significant",
+      "vital"
+    ],
+    "maori": [
+      "he mea nui",
+      "he mea hira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "important.4783.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "important.4783.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5284,
+        4783,
+        2556,
+        2722,
+        2215,
+        4261,
+        5789,
+        2287
+      ],
+      "translation": "The Deaf community is important to me because I can communicate easily with my friends."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.3-d2f6b4479b54d7e81441bd18f1532dc859f2f0f50f55527a50c624428f5b2434.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "important-4783.png"
+}

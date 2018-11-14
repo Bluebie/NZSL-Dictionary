@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3972,
+  "gloss": {
+    "english": [
+      "wheelchair"
+    ],
+    "english_secondary": [
+      "disabled",
+      "paraplegic",
+      "use wheelchair"
+    ],
+    "maori": [
+      "kōrea"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "paraplegic.3972.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "paraplegic.3972.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4948,
+        2297,
+        3972,
+        2096,
+        398,
+        3027,
+        6140
+      ],
+      "translation": "That building can't be accessed with a wheelchair. It doesn't have a ramp."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wheelchair-3972.png"
+}

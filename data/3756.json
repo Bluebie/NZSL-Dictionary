@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3756,
+  "gloss": {
+    "english": [
+      "forgive"
+    ],
+    "english_secondary": [
+      "pardon"
+    ],
+    "maori": [
+      "muru"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "forgive.3756.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forgive.3756.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5536,
+        4636,
+        3653,
+        5736,
+        1708,
+        2297,
+        3756,
+        2297
+      ],
+      "translation": "She felt guilty, but she has said sorry to him and he forgave her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "forgive-3756.png"
+}

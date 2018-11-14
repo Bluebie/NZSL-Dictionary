@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 5647,
+  "gloss": {
+    "english": [
+      "talk on videophone",
+      "videophone"
+    ],
+    "english_secondary": [
+      "video conferencing",
+      "webcam chat"
+    ],
+    "maori": [
+      "kōrero i te waea ataata",
+      "waea ataata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "videophone.5647.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "videophone.5647.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        3653,
+        5647,
+        3638,
+        5391,
+        1300
+      ],
+      "translation": "We talked on videophone last night and chatted away."
+    },
+    {
+      "video": "videophone.5647.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5647,
+        1376,
+        2321
+      ],
+      "translation": "Do you have a videophone?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "talk_on_videophone-5647.png"
+}

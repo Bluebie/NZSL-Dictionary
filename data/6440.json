@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6440,
+  "gloss": {
+    "english": [
+      "Pakistan"
+    ],
+    "english_secondary": [
+      "Pakistani"
+    ],
+    "maori": [
+      "Pakitāne"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Pakistan.6440.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Pakistan.6440.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6440,
+        2583,
+        3775,
+        2046,
+        2583
+      ],
+      "translation": "Pakistan is near India."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Pakistan-6440.png"
+}

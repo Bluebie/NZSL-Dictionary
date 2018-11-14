@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5860,
+  "gloss": {
+    "english": [
+      "Canterbury"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Waitaha"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Canterbury.5860.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Canterbury.5860.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5391,
+        2556,
+        2844,
+        5860,
+        2253,
+        4738,
+        1250
+      ],
+      "translation": "Tonight I'm watching the rugby - Canterbury versus Wellington."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Canterbury-5860.png"
+}

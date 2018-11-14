@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4825,
+  "gloss": {
+    "english": [
+      "administrator"
+    ],
+    "english_secondary": [
+      "administration"
+    ],
+    "maori": [
+      "kaiwhakahaere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "administrator.4825.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "administrator.4825.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2774,
+        1095,
+        4825,
+        903,
+        4657,
+        2297
+      ],
+      "translation": "She was chosen to be the new administrator for the Deaf Club."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "administrator-4825.png"
+}

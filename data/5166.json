@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5166,
+  "gloss": {
+    "english": [
+      "frog"
+    ],
+    "english_secondary": [
+      "croak"
+    ],
+    "maori": [
+      "poraka",
+      "poroka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "frog.5166.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "frog.5166.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2420,
+        2844,
+        5166,
+        2297,
+        "cl:frog-hop"
+      ],
+      "translation": "At the lake I saw a frog hopping along."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "frog-5166.png"
+}

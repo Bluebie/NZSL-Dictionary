@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4534,
+  "gloss": {
+    "english": [
+      "cheap"
+    ],
+    "english_secondary": [
+      "bargain",
+      "budget",
+      "economy",
+      "inexpensive",
+      "low price",
+      "reduced price"
+    ],
+    "maori": [
+      "iti te utu",
+      "ngāwari te utu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "cheap.4534.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cheap.4534.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3642,
+        5632,
+        4534,
+        4835,
+        6036,
+        2642,
+        2215,
+        1243
+      ],
+      "translation": "If you buy something cheap, the quality may be low and it could easily wear out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cheap-4534.png"
+}

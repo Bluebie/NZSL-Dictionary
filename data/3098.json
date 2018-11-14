@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 3098,
+  "gloss": {
+    "english": [
+      "quiet"
+    ],
+    "english_secondary": [
+      "calm",
+      "peace",
+      "peaceful",
+      "peacefully",
+      "quietly",
+      "silent",
+      "tranquil"
+    ],
+    "maori": [
+      "mārire"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "peaceful.3098.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "peaceful.3098.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5789,
+        2297,
+        565,
+        4187,
+        2297,
+        1447,
+        3098,
+        2920
+      ],
+      "translation": "A friend lives in the country. He likes it because it's quiet and peaceful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "quiet-3098.png"
+}

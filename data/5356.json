@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5356,
+  "gloss": {
+    "english": [
+      "body",
+      "human"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tinana",
+      "tangata"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "human.5356.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "human.5356.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2135,
+        2297,
+        1565,
+        1348,
+        5356
+      ],
+      "translation": "The girl had an amazingly tanned body."
+    },
+    {
+      "video": "human.5356.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1865,
+        450,
+        5356,
+        882,
+        2583,
+        1849
+      ],
+      "translation": "He is interested in studying human psychology at university."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "body-5356.png"
+}

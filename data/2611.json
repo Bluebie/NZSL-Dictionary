@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 2611,
+  "gloss": {
+    "english": [
+      "roll"
+    ],
+    "english_secondary": [
+      "roll over",
+      "roll up"
+    ],
+    "maori": [
+      "rohi iti",
+      "takahuri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "roll.2611.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "roll.2611.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3375,
+        4508,
+        2611,
+        "cl:tube",
+        "cl:put-in",
+        2398,
+        1698,
+        2480
+      ],
+      "translation": "I made a chicken roll with eggs, tomato and all sorts of things."
+    },
+    {
+      "video": "roll.2611.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2382,
+        2844,
+        2297,
+        1565,
+        3587,
+        3426,
+        "cl:vehicle-turn-over",
+        2611
+      ],
+      "translation": "I saw a huge collision between two trucks on TV. One truck rolled over."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "roll-2611.png"
+}

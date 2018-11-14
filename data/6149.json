@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6149,
+  "gloss": {
+    "english": [
+      "shut up"
+    ],
+    "english_secondary": [
+      "be quiet",
+      "hold your tongue",
+      "keep quiet",
+      "stop talking"
+    ],
+    "maori": [
+      "hoihoi tō waha",
+      "e kopi tō waha",
+      "turituri koe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "shut_up.6149.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shut_up.6149.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2974,
+        2466,
+        2556,
+        6149,
+        3677,
+        2556
+      ],
+      "translation": "She jumped the gun and started talking. I said, 'Shut up'. I wasn't finished!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shut_up-6149.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5776,
+  "gloss": {
+    "english": [
+      "grow"
+    ],
+    "english_secondary": [
+      "expand",
+      "expansion",
+      "growth",
+      "increase"
+    ],
+    "maori": [
+      "tipu haere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "grow.5776.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grow.5776.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3829,
+        2646,
+        640,
+        2259,
+        4657,
+        4740,
+        5776
+      ],
+      "translation": "Over the past few years, membership of the Auckland Deaf Club has grown."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "grow-5776.png"
+}

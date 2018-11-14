@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 6526,
+  "gloss": {
+    "english": [
+      "pony",
+      "ride a pony"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poni",
+      "eke poni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pony.6526.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pony.6526.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6039,
+        2556,
+        2844,
+        6526
+      ],
+      "translation": "I saw ponies at the circus."
+    },
+    {
+      "video": "pony.6526.finalexample2.dh.r480x360.mp4",
+      "signs": [
+        3300,
+        4454,
+        2297,
+        1864,
+        6526
+      ],
+      "translation": "My daughter was excited about riding on the pony."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pony-6526.png"
+}

@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 2464,
+  "gloss": {
+    "english": [
+      "and",
+      "plus"
+    ],
+    "english_secondary": [
+      "add",
+      "add up",
+      "another",
+      "as well as",
+      "in addition to"
+    ],
+    "maori": [
+      "ka mutu",
+      "anō hoki"
+    ],
+    "attributes": [
+      "conjunction",
+      "preposition"
+    ]
+  },
+  "video": "add.2464.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "add.2464.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        4293,
+        2464,
+        5488
+      ],
+      "translation": "He speaks and signs."
+    },
+    {
+      "video": "add.2464.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5621,
+        2464,
+        5621,
+        2874,
+        4065
+      ],
+      "translation": "Five plus five equals ten."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "and-2464.png"
+}

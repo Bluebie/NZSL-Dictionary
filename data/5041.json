@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5041,
+  "gloss": {
+    "english": [
+      "go to bed"
+    ],
+    "english_secondary": [
+      "get into bed",
+      "hit the sack"
+    ],
+    "maori": [
+      "haere ki te moe"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "go_to_bed.5041.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_to_bed.5041.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5932,
+        2556,
+        5041,
+        5420
+      ],
+      "translation": "I'm tired, I need to go to bed and sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "go_to_bed-5041.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2036,
+  "gloss": {
+    "english": [
+      "London"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rānana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "london.2036.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "london.2036.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3513,
+        2297,
+        4806,
+        2036,
+        797,
+        2912
+      ],
+      "translation": "My brother lives in London. He works as a mechanic."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "London-2036.png"
+}

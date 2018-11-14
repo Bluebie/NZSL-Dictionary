@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1644,
+  "gloss": {
+    "english": [
+      "infection"
+    ],
+    "english_secondary": [
+      "germs",
+      "infected"
+    ],
+    "maori": [
+      "mate"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "infection.1644.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "infection.1644.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3642,
+        2518,
+        1555,
+        1885,
+        615,
+        5971,
+        1644
+      ],
+      "translation": "If there is a cut on your body, you must clean it to stop infection."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.2-9560da5b70a629407c4c4c241abff3548d7348e6108a579cdf2550c159731f0e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "infection-1644.png"
+}

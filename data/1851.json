@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 1851,
+  "gloss": {
+    "english": [
+      "fire"
+    ],
+    "english_secondary": [
+      "ablaze",
+      "blazing",
+      "burning",
+      "flame",
+      "on fire"
+    ],
+    "maori": [
+      "ahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fire.1851.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fire.1851.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5789,
+        2879,
+        2410,
+        5471,
+        1072,
+        3420,
+        1114,
+        1851,
+        3194
+      ],
+      "translation": "My friend and I went to the pub - it was cold outside but inside it was warm by the fire."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fire-1851.png"
+}

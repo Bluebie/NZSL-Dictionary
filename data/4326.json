@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4326,
+  "gloss": {
+    "english": [
+      "something"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tētahi mea"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "something.4326.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "something.4326.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        797,
+        3701,
+        3653,
+        2556,
+        5498,
+        4326,
+        2480,
+        5211
+      ],
+      "translation": "After I stopped working at the farm, I decided to do something completely different."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "something-4326.png"
+}

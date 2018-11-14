@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5489,
+  "gloss": {
+    "english": [
+      "meat"
+    ],
+    "english_secondary": [
+      "beef",
+      "steak"
+    ],
+    "maori": [
+      "mīti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "meat.5489.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meat.5489.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        771,
+        4022,
+        1897,
+        751,
+        4130,
+        5489
+      ],
+      "translation": "I cook and eat more fish than meat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "meat-5489.png"
+}

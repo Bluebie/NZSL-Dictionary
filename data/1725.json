@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1725,
+  "gloss": {
+    "english": [
+      "lump (on head)"
+    ],
+    "english_secondary": [
+      "bump (on head)"
+    ],
+    "maori": [
+      "puku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bump.1725.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bump.1725.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1376,
+        1725,
+        1287,
+        1926,
+        3598,
+        "cl:bump-into",
+        "cl:whiplash"
+      ],
+      "translation": "I have a lump on my head from playing soccer. I got a hard bang on the head."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "lump_on_head-1725.png"
+}

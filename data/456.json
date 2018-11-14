@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 456,
+  "gloss": {
+    "english": [
+      "full"
+    ],
+    "english_secondary": [
+      "full up",
+      "had enough to eat",
+      "satiated"
+    ],
+    "maori": [
+      "kī",
+      "ora"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "full.456.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "full.456.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3460,
+        "cl:pile",
+        2556,
+        2096,
+        4022,
+        456,
+        2556
+      ],
+      "translation": "I've had a big dinner. I can't eat any more because I'm full."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "full-456.png"
+}

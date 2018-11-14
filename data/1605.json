@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1605,
+  "gloss": {
+    "english": [
+      "size"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rahi",
+      "nui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "size.1605.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "size.1605.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3844,
+        4581,
+        1605,
+        2308,
+        3637,
+        5731,
+        5768
+      ],
+      "translation": "The coat was the wrong size, so I had to go back to the shop to swap it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "size-1605.png"
+}

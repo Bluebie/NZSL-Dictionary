@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2108,
+  "gloss": {
+    "english": [
+      "Hawke's Bay"
+    ],
+    "english_secondary": [
+      "Hawkes Bay",
+      "Napier"
+    ],
+    "maori": [
+      "Te Matau-a-Māui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Hawkes_Bay.2108.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Hawkes_Bay.2108.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4765,
+        483,
+        2540,
+        1885,
+        702,
+        2108,
+        6180,
+        4689
+      ],
+      "translation": "After my mother passed away, we had to move to Hawke's Bay to be with my father."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "Hawkes_Bay-2108.png"
+}

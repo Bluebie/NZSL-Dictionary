@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1728,
+  "gloss": {
+    "english": [
+      "cylinder"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōpapa whakawera wai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cylinder.1728.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cylinder.1728.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1587,
+        2297,
+        1376,
+        1752,
+        2146,
+        1728,
+        4501,
+        4138,
+        1523,
+        "dry"
+      ],
+      "translation": "The hot water cylinder is in that cupboard. You can put your clothes in there to dry."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cyclinder-1728.png"
+}

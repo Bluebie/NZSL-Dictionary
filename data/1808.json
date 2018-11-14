@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1808,
+  "gloss": {
+    "english": [
+      "scone"
+    ],
+    "english_secondary": [
+      "muffin"
+    ],
+    "maori": [
+      "takakau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "scone.1808.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "scone.1808.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2482,
+        1287,
+        771,
+        1808
+      ],
+      "translation": "She learnt how to bake scones."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "scone-1808.png"
+}

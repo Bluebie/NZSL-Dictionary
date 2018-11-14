@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5649,
+  "gloss": {
+    "english": [
+      "plant"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tipu",
+      "tupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "plant.5649.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plant.5649.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1178,
+        1403,
+        2556,
+        5523,
+        2297,
+        5649,
+        2146,
+        2796
+      ],
+      "translation": "While she was away on holiday, I looked after her plants and watered them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "plant-5649.png"
+}

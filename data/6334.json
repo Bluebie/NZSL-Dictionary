@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 6334,
+  "gloss": {
+    "english": [
+      "film"
+    ],
+    "english_secondary": [
+      "movie"
+    ],
+    "maori": [
+      "kiriata",
+      "pikitia"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "film.6334.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "film.6334.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        6334,
+        1636,
+        291
+      ],
+      "translation": "I filmed a family wedding."
+    },
+    {
+      "video": "film.6334.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4696,
+        5391,
+        2556,
+        3653,
+        2844,
+        3658,
+        6334,
+        2543,
+        1647
+      ],
+      "translation": "On Friday night I watched a good film about the war."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "film-6334.png"
+}

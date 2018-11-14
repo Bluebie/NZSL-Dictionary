@@ -1,0 +1,87 @@
+{
+  "nzsl_id": 440,
+  "gloss": {
+    "english": [
+      "true",
+      "trust",
+      "truth"
+    ],
+    "english_secondary": [
+      "accurate",
+      "believe",
+      "fact",
+      "faith",
+      "faithful",
+      "have confidence in",
+      "honest",
+      "in fact"
+    ],
+    "maori": [
+      "pono",
+      "whakawhirinaki",
+      "tika"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "faithful.440.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "faithful.440.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        "read",
+        523,
+        "cl:point-book",
+        440,
+        1038,
+        2543,
+        1647,
+        2583,
+        2994
+      ],
+      "translation": "I read a book - it was a true story about the war in France."
+    },
+    {
+      "video": "faithful.440.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        440,
+        2297,
+        2297,
+        1069,
+        2213,
+        2297
+      ],
+      "translation": "I trust him. He never lies."
+    },
+    {
+      "video": "faithful.440.finalexample3.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5794,
+        2050,
+        2556,
+        4708,
+        1244,
+        1464,
+        2556,
+        2190,
+        440
+      ],
+      "translation": "My mother though I was joking and that it was rubbish, but it wasn't - I was telling the truth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "true-440.png"
+}

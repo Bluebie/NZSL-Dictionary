@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3080,
+  "gloss": {
+    "english": [
+      "volunteer"
+    ],
+    "english_secondary": [
+      "representative",
+      "voluntary"
+    ],
+    "maori": [
+      "tūao"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "volunteer.3080.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "volunteer.3080.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1553,
+        2095,
+        1865,
+        240,
+        3080,
+        1123,
+        898
+      ],
+      "translation": "Many people were keen to volunteer and help out with the fundraiser."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "volunteer-3080.png"
+}

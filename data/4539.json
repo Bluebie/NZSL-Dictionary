@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4539,
+  "gloss": {
+    "english": [
+      "plug"
+    ],
+    "english_secondary": [
+      "bath plug"
+    ],
+    "maori": [
+      "puru"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "plug_for_bath.4539.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plug_for_bath.4539.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1338,
+        3480,
+        5129,
+        4539,
+        2281,
+        5970,
+        1826
+      ],
+      "translation": "When you take a bath, you have to put the plug in before turning on the tap."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "plug-4539.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3901,
+  "gloss": {
+    "english": [
+      "whip"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wepu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "whip.3901.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "whip.3901.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3382,
+        3260,
+        3220,
+        2297,
+        3901,
+        3382,
+        "cl:horse-galloping"
+      ],
+      "translation": "In the horse race, the man urged his horse to gallop by using his whip."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "whip-3901.png"
+}

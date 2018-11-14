@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 415,
+  "gloss": {
+    "english": [
+      "last"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamutunga"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "last.415.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "last.415.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4006,
+        2297,
+        415,
+        2173,
+        2266
+      ],
+      "translation": "I've forgotten his last name."
+    },
+    {
+      "video": "last.415.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        5448,
+        3960,
+        2556,
+        4189,
+        415,
+        5448,
+        3636
+      ],
+      "translation": "I remember I last used EFTPOS yesterday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "last-415.png"
+}

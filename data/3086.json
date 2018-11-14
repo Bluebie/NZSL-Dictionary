@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3086,
+  "gloss": {
+    "english": [
+      "figure out",
+      "plan"
+    ],
+    "english_secondary": [
+      "arrange",
+      "arrangements",
+      "organise",
+      "work out"
+    ],
+    "maori": [
+      "whiriwhiri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "plan.3086.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plan.3086.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2879,
+        3086,
+        1287,
+        4097,
+        1902,
+        4171,
+        5607,
+        2646,
+        492
+      ],
+      "translation": "We figured out how to manage our income and expenditure for the coming year."
+    },
+    {
+      "video": "plan.3086.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4689,
+        3086,
+        1403,
+        2583,
+        560,
+        3140
+      ],
+      "translation": "My father plans to have a holiday in the South Island."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "figure_out-3086.png"
+}

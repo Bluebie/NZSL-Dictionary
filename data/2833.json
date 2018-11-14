@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2833,
+  "gloss": {
+    "english": [
+      "change one's mind"
+    ],
+    "english_secondary": [
+      "have second thoughts"
+    ],
+    "maori": [
+      "huri kē ngā whakaaro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "change_ones_mind.2833.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "change_ones_mind.2833.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        565,
+        5426,
+        5617,
+        2646,
+        2833,
+        702,
+        4790
+      ],
+      "translation": "The woman lived here for two years, then changed her mind and moved to Australia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "change_one_s_mind-2833.png"
+}

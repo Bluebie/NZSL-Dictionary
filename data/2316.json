@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2316,
+  "gloss": {
+    "english": [
+      "heaven"
+    ],
+    "english_secondary": [
+      "god"
+    ],
+    "maori": [
+      "rangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "heaven.2316.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heaven.2316.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4439,
+        2297,
+        2190,
+        3642,
+        2321,
+        763,
+        3811,
+        2316
+      ],
+      "translation": "The priest says if you pray and pray, you will go to heaven."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "heaven-2316.png"
+}

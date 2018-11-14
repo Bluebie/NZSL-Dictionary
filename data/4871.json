@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4871,
+  "gloss": {
+    "english": [
+      "opportunity"
+    ],
+    "english_secondary": [
+      "chance"
+    ],
+    "maori": [
+      "wā pai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "opportunity.4871.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "opportunity.4871.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2607,
+        2297,
+        3658,
+        4871,
+        2321,
+        "involve",
+        1513
+      ],
+      "translation": "The meeting is a good opportunity for you to get involved and learn."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "opportunity-4871.png"
+}

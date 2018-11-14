@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3049,
+  "gloss": {
+    "english": [
+      "finger"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "matimati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "finger.3049.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "finger.3049.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        "fs:xray",
+        3985,
+        "cl:point-finger",
+        2844,
+        3049,
+        3571,
+        "cl:point-finger",
+        2096,
+        1918,
+        "six-weeks"
+      ],
+      "translation": "I had an x-ray and you could see that my finger was broken. I can't type for six weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "finger-3049.png"
+}

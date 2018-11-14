@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4696,
+  "gloss": {
+    "english": [
+      "Friday"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rāmere",
+      "Paraire"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "day_friday.4696.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "day_friday.4696.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5816,
+        4696,
+        5391,
+        2556,
+        1636,
+        4022,
+        5888
+      ],
+      "translation": "My family eat fish and chips every Friday night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Friday-4696.png"
+}

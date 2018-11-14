@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5057,
+  "gloss": {
+    "english": [
+      "plait"
+    ],
+    "english_secondary": [
+      "plaited"
+    ],
+    "maori": [
+      "whiri"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "plait.5057.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plait.5057.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        954,
+        4765,
+        2297,
+        1747,
+        5057,
+        3300,
+        2984
+      ],
+      "translation": "When I was a child, my mother used to plait my hair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "plait-5057.png"
+}

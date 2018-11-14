@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5688,
+  "gloss": {
+    "english": [
+      "three"
+    ],
+    "english_secondary": [
+      "3"
+    ],
+    "maori": [
+      "toru",
+      "tokotoru"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "three.5688.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_3.5688.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4689,
+        1178,
+        1080,
+        5688,
+        1465,
+        797
+      ],
+      "translation": "My father is away overseas for work, for three weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "three-5688.png"
+}

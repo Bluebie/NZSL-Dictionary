@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2243,
+  "gloss": {
+    "english": [
+      "Poland"
+    ],
+    "english_secondary": [
+      "Polish"
+    ],
+    "maori": [
+      "Pōrana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Poland.2243.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Poland.2243.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        4051,
+        4656,
+        4204,
+        2583,
+        2243
+      ],
+      "translation": "He has some deaf cousins in Poland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "Poland-2243.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3945,
+  "gloss": {
+    "english": [
+      "resign"
+    ],
+    "english_secondary": [
+      "quit",
+      "resignation"
+    ],
+    "maori": [
+      "whakawātea",
+      "rihaina"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "resign.3945.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "resign.3945.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2990,
+        2556,
+        3945,
+        282,
+        5389,
+        1897,
+        6310
+      ],
+      "translation": "I resigned from the committee to spend more time with the children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "resign-3945.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 663,
+  "gloss": {
+    "english": [
+      "guide"
+    ],
+    "english_secondary": [
+      "lead"
+    ],
+    "maori": [
+      "ārahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lead.663.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lead.663.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1080,
+        4656,
+        2556,
+        663,
+        4009,
+        2605,
+        2406,
+        "they",
+        1865
+      ],
+      "translation": "I gave some overseas deaf people a guide around the city. They found it interesting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "guide-663.png"
+}

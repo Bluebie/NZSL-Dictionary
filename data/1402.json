@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1402,
+  "gloss": {
+    "english": [
+      "netball"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poi tarawhiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "netball.1402.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "netball.1402.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        1402,
+        3658,
+        3643
+      ],
+      "translation": "I play netball. It's good fun."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "netball-1402.png"
+}

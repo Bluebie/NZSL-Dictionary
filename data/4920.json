@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4920,
+  "gloss": {
+    "english": [
+      "mischief"
+    ],
+    "english_secondary": [
+      "mischievous",
+      "naughty"
+    ],
+    "maori": [
+      "hīanga",
+      "whanokē"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "mischief.4920.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mischief.4920.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        4920,
+        1747,
+        1432,
+        2703
+      ],
+      "translation": "That boy was mischief, always teasing and being cheeky!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "mischief-4920.png"
+}

@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 373,
+  "gloss": {
+    "english": [
+      "miss"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mokemoke",
+      "mahue"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "miss.373.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "miss.373.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2917,
+        908,
+        1080,
+        5617,
+        2646,
+        2556,
+        373,
+        2297
+      ],
+      "translation": "My son has now been overseas for two years. I miss him."
+    },
+    {
+      "video": "miss.373.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1031,
+        4731,
+        2556,
+        373,
+        4731
+      ],
+      "translation": "When I arrived at the airport, I had missed the plane."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "miss-373.png"
+}

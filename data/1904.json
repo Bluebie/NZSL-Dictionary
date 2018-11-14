@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1904,
+  "gloss": {
+    "english": [
+      "furious"
+    ],
+    "english_secondary": [
+      "angry"
+    ],
+    "maori": [
+      "riri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "furious.1904.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "furious.1904.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3050,
+        2297,
+        1904,
+        3050,
+        392,
+        2297,
+        5736,
+        3690
+      ],
+      "translation": "She was furious about her husband's affair and told him to get out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "furious-1904.png"
+}

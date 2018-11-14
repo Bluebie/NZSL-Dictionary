@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4327,
+  "gloss": {
+    "english": [
+      "dust"
+    ],
+    "english_secondary": [
+      "dusty"
+    ],
+    "maori": [
+      "puehu"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "dust.4327.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dust.4327.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        6003,
+        4327,
+        1885,
+        3517
+      ],
+      "translation": "There's dust on the shelf. It needs to be cleaned."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dust-4327.png"
+}

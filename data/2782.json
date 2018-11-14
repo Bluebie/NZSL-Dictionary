@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2782,
+  "gloss": {
+    "english": [
+      "weld"
+    ],
+    "english_secondary": [
+      "spray paint",
+      "welder",
+      "welding"
+    ],
+    "maori": [
+      "whakakotahi",
+      "hono"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "weld.2782.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "weld.2782.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3462,
+        3530,
+        2556,
+        3349,
+        2782
+      ],
+      "translation": "I took the crashed car apart and did some welding."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "weld-2782.png"
+}

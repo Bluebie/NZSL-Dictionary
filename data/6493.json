@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6493,
+  "gloss": {
+    "english": [
+      "wand"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rākau",
+      "tokotoko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wand.6493.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wand.6493.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4500,
+        2297,
+        1376,
+        4068,
+        6493
+      ],
+      "translation": "The witch had a magic wand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wand-6493.png"
+}

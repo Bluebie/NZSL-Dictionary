@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2163,
+  "gloss": {
+    "english": [
+      "delicious"
+    ],
+    "english_secondary": [
+      "mouth watering",
+      "tasty"
+    ],
+    "maori": [
+      "tino reka"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "delicious.2163.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "delicious.2163.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1747,
+        5632,
+        4432,
+        549,
+        4022,
+        2163
+      ],
+      "translation": "I always buy chocolates. I love to eat them - they're delicious!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "delicious-2163.png"
+}

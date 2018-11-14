@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1691,
+  "gloss": {
+    "english": [
+      "steal"
+    ],
+    "english_secondary": [
+      "stealing",
+      "theft",
+      "thief"
+    ],
+    "maori": [
+      "whānako",
+      "tāhae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "steal.1691.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "steal.1691.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        1691,
+        2124,
+        4765,
+        1754
+      ],
+      "translation": "The boy stole some lollies and his mother growled at him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "steal-1691.png"
+}

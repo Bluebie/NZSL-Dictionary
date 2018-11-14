@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3967,
+  "gloss": {
+    "english": [
+      "post-mortem"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamātau tūpāpaku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "post_mortem.3967.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "post_mortem.3967.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3687,
+        2864,
+        3967,
+        5450,
+        2297,
+        443,
+        1376,
+        1939
+      ],
+      "translation": "When my aunt passed away, a post-mortem confirmed she had cancer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "post_mortem-3967.png"
+}

@@ -1,0 +1,74 @@
+{
+  "nzsl_id": 1071,
+  "gloss": {
+    "english": [
+      "ask",
+      "remind",
+      "tell"
+    ],
+    "english_secondary": [
+      "alert",
+      "call for",
+      "demand",
+      "get the attention of",
+      "inform",
+      "request"
+    ],
+    "maori": [
+      "pātai",
+      "whakamahara",
+      "kī"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "ask.1071.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ask.1071.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1071,
+        4501,
+        2879,
+        924,
+        4657,
+        2583
+      ],
+      "translation": "I asked if we could go to the Deaf Club."
+    },
+    {
+      "video": "ask.1071.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1071,
+        6191,
+        5666,
+        5391
+      ],
+      "translation": "I'm reminding you to bring a plate tonight."
+    },
+    {
+      "video": "ask.1071.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        1708,
+        2556,
+        4006,
+        3775,
+        5784,
+        1071
+      ],
+      "translation": "Sorry, I forgot. Next time I'll tell her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ask-1071.png"
+}

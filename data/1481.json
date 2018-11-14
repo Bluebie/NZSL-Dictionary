@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1481,
+  "gloss": {
+    "english": [
+      "glove"
+    ],
+    "english_secondary": [
+      "mitten"
+    ],
+    "maori": [
+      "karapu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gloves.1481.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gloves.1481.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        924,
+        3591,
+        4160,
+        1481,
+        3844,
+        487
+      ],
+      "translation": "I'm going skiing and will pack my gloves, coat and cap."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "glove-1481.png"
+}

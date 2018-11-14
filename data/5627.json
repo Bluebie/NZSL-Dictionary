@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5627,
+  "gloss": {
+    "english": [
+      "ATM"
+    ],
+    "english_secondary": [
+      "automated teller machine",
+      "cashpoint",
+      "key in pin number"
+    ],
+    "maori": [
+      "mīhini moni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "ATM.5627.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ATM.5627.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1376,
+        5627,
+        408,
+        523,
+        5731,
+        2583
+      ],
+      "translation": "There is an ATM near that book shop."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ATM-5627.png"
+}

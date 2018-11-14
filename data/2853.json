@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2853,
+  "gloss": {
+    "english": [
+      "disappointed"
+    ],
+    "english_secondary": [
+      "disappointment",
+      "feel let down",
+      "regret"
+    ],
+    "maori": [
+      "matekiri",
+      "rarua"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "miss.2853.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "miss.2853.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2382,
+        1421,
+        3027,
+        4400,
+        2556,
+        2853
+      ],
+      "translation": "I was disappointed that the movie on television didn't have any subtitles."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "disappointed-2853.png"
+}

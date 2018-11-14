@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3248,
+  "gloss": {
+    "english": [
+      "rubbish"
+    ],
+    "english_secondary": [
+      "discard",
+      "garbage",
+      "throw away",
+      "trash"
+    ],
+    "maori": [
+      "para",
+      "rāpihi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rubbish.3248.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rubbish.3248.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        2804,
+        3721,
+        3248,
+        3437
+      ],
+      "translation": "There's lots of rubbish scattered all over the street that my house is on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rubbish-3248.png"
+}

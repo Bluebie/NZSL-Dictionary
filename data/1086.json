@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1086,
+  "gloss": {
+    "english": [
+      "fax"
+    ],
+    "english_secondary": [
+      "facsimile",
+      "fax machine",
+      "printout"
+    ],
+    "maori": [
+      "waea whakaahua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fax.1086.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fax.1086.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1086,
+        552,
+        3524,
+        5620,
+        5391
+      ],
+      "translation": "I faxed the motel to book for four nights."
+    },
+    {
+      "video": "fax.1086.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        967,
+        4656,
+        2287,
+        1553,
+        1376,
+        1086,
+        908,
+        249
+      ],
+      "translation": "Many Deaf people used to have a fax, but that has dropped off now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "fax-1086.png"
+}

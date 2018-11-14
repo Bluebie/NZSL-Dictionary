@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 2627,
+  "gloss": {
+    "english": [
+      "July",
+      "June"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Hōngongoi",
+      "Pipiri",
+      "Hūrae",
+      "Hune"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_july.2627.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_july.2627.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2917,
+        2099,
+        5621,
+        3885,
+        2627,
+        3811,
+        1171,
+        1306,
+        484
+      ],
+      "translation": "My son is five. This July, he'll start school."
+    },
+    {
+      "video": "month_july.2627.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2627,
+        2297,
+        1178,
+        1729,
+        2515,
+        707,
+        5745,
+        5023
+      ],
+      "translation": "In June, she'll be away for Queen's Birthday weekend, for the bowling championships."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "July-2627.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1748,
+  "gloss": {
+    "english": [
+      "beard"
+    ],
+    "english_secondary": [
+      "bearded"
+    ],
+    "maori": [
+      "pāhau"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "beard.1748.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beard.1748.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        2021,
+        2297,
+        1376,
+        1748,
+        2556,
+        2844,
+        2096,
+        2847
+      ],
+      "translation": "My teacher has a beard. I can't see his mouth to lipread."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "beard-1748.png"
+}

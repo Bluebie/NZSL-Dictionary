@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6435,
+  "gloss": {
+    "english": [
+      "noodles"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "nura"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "noodles.6435.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "noodles.6435.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3460,
+        2556,
+        771,
+        6435
+      ],
+      "translation": "I cooked noodles for dinner."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "noodles-6435.png"
+}

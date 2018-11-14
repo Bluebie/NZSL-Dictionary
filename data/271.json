@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 271,
+  "gloss": {
+    "english": [
+      "straight"
+    ],
+    "english_secondary": [
+      "direct",
+      "head for",
+      "towards",
+      "straight ahead"
+    ],
+    "maori": [
+      "tōtika"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "straight.271.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "straight.271.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4731,
+        4545,
+        2556,
+        1175,
+        2883,
+        271,
+        2812,
+        3406
+      ],
+      "translation": "When the plane landed and I had disembarked, I went straight to pick up my bag."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "straight-271.png"
+}

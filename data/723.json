@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 723,
+  "gloss": {
+    "english": [
+      "top"
+    ],
+    "english_secondary": [
+      "blouse",
+      "jersey",
+      "jumper",
+      "pullover",
+      "shirt",
+      "sweater",
+      "sweatshirt",
+      "togs",
+      "t-shirt"
+    ],
+    "maori": [
+      "pari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "blouse.723.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blouse.723.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        424,
+        723,
+        367,
+        3859,
+        1544
+      ],
+      "translation": "Your top is lovely. Where did you buy it?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "top-723.png"
+}

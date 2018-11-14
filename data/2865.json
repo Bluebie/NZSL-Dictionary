@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2865,
+  "gloss": {
+    "english": [
+      "twelve"
+    ],
+    "english_secondary": [
+      "12"
+    ],
+    "maori": [
+      "tekau mā rua"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "twelve.2865.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twelve.2865.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5607,
+        4656,
+        3220,
+        1376,
+        859,
+        5752,
+        2865,
+        5924,
+        705,
+        5752
+      ],
+      "translation": "One deaf man had his own small boat. It was about twelve metres long, so quite small."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twelve-2865.png"
+}

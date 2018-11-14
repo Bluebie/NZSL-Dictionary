@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 2504,
+  "gloss": {
+    "english": [
+      "China",
+      "Chinese"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Haina",
+      "Hainamana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "china.2504.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "china.2504.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        585,
+        5752,
+        4187,
+        3127,
+        2479,
+        2504,
+        2583,
+        1494,
+        4187,
+        2583
+      ],
+      "translation": "New Zealand is a small county unlike China which is huge."
+    },
+    {
+      "video": "china.2504.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        1816,
+        771,
+        1958,
+        2504,
+        2215
+      ],
+      "translation": "I can't be bothered cooking. Chinese takeaways will be easier."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "China-2504.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4420,
+  "gloss": {
+    "english": [
+      "Italy"
+    ],
+    "english_secondary": [
+      "Italian"
+    ],
+    "maori": [
+      "Itāria"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "italy.4420.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "italy.4420.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        2844,
+        585,
+        2253,
+        4420,
+        3658,
+        5654
+      ],
+      "translation": "We watched New Zealand versus Italy last night. It was a good game."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Italy-4420.png"
+}

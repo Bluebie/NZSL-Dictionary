@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3683,
+  "gloss": {
+    "english": [
+      "best man"
+    ],
+    "english_secondary": [
+      "groomsman"
+    ],
+    "maori": [
+      "taituarā",
+      "kaihāpai"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "best_man.3683.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "best_man.3683.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2879,
+        1083,
+        959,
+        2297,
+        2774,
+        291,
+        3683
+      ],
+      "translation": "We have been friends all our life. He chose me as the best man for his wedding."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "best_man-3683.png"
+}

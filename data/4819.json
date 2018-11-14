@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4819,
+  "gloss": {
+    "english": [
+      "drawer"
+    ],
+    "english_secondary": [
+      "chest of drawers",
+      "open a drawer",
+      "scotch chest"
+    ],
+    "maori": [
+      "toroa",
+      "pae kākahu",
+      "hautō"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "drawer.4819.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drawer.4819.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        924,
+        347,
+        2119,
+        "cl:take-off-hearing-aid",
+        4819,
+        4138
+      ],
+      "translation": "When I go to bed, I take my hearing off and put in the drawer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "drawer-4819.png"
+}

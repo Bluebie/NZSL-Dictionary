@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5594,
+  "gloss": {
+    "english": [
+      "document (computer)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōrero (rorohiko)"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "document.5594.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "document.5594.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        5750,
+        1095,
+        5833,
+        5594,
+        1885,
+        1205,
+        925
+      ],
+      "translation": "When you click to create a new document, you have to save it straight away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "document_computer-5594.png"
+}

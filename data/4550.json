@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 4550,
+  "gloss": {
+    "english": [
+      "judge",
+      "lawyer"
+    ],
+    "english_secondary": [
+      "barrister",
+      "legal",
+      "solicitor"
+    ],
+    "maori": [
+      "kaiwhakawā",
+      "tiati",
+      "rōia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "judge.4550.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "judge.4550.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4550,
+        5498,
+        2297,
+        5617,
+        2646,
+        3241
+      ],
+      "translation": "The judge decided he should go to jail for two years."
+    },
+    {
+      "video": "judge.4550.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        4550,
+        2297,
+        3250,
+        5833,
+        2556,
+        5815
+      ],
+      "translation": "The lawyer sent me a form to sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "judge-4550.png"
+}

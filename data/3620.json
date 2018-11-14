@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3620,
+  "gloss": {
+    "english": [
+      "experienced"
+    ],
+    "english_secondary": [
+      "experience",
+      "expert",
+      "have expertise",
+      "skilled"
+    ],
+    "maori": [
+      "rehe",
+      "mātanga",
+      "tautōhito"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "expert.3620.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expert.3620.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3620,
+        2829,
+        1553,
+        2646,
+        1107
+      ],
+      "translation": "She has been a hairdresser for many years, so she's experienced."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "experienced-3620.png"
+}

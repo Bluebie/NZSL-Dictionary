@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4580,
+  "gloss": {
+    "english": [
+      "fair"
+    ],
+    "english_secondary": [
+      "carnival"
+    ],
+    "maori": [
+      "rā hokohoko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fair.4580.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fair.4580.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        3317,
+        1298,
+        2583,
+        1376,
+        4580,
+        898,
+        4097
+      ],
+      "translation": "This Saturday the school is having a fair to raise money."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fair-4580.png"
+}

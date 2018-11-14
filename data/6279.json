@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 6279,
+  "gloss": {
+    "english": [
+      "first"
+    ],
+    "english_secondary": [
+      "first (of a list)",
+      "first of all",
+      "firstly"
+    ],
+    "maori": [
+      "tuatahi"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "first.6279.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "first.6279.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        771,
+        1805,
+        1185,
+        6279,
+        3917,
+        6283,
+        2398,
+        6284,
+        5659,
+        6285,
+        641,
+        6278,
+        4432
+      ],
+      "translation": "To make the cake, you need: first, flour; second, egg; third, milk; fourth, butter; and fifth, chocolate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "first-6279.png"
+}

@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 2703,
+  "gloss": {
+    "english": [
+      "cheeky"
+    ],
+    "english_secondary": [
+      "disrespectful",
+      "impertinent",
+      "insolent",
+      "rude"
+    ],
+    "maori": [
+      "whakatoi",
+      "whakateka"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "cheeky.2703.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cheeky.2703.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2021,
+        2297,
+        5736,
+        2556,
+        967,
+        2556,
+        954,
+        2556,
+        1090,
+        2703,
+        2297,
+        5172
+      ],
+      "translation": "My teacher told me that when I was little, she got exasperated with me because I was cheeky and a trouble maker."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cheeky-2703.png"
+}

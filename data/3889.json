@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 3889,
+  "gloss": {
+    "english": [
+      "barbecue"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rorerore"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "barbecue.3889.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "barbecue.3889.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1075,
+        3677,
+        5789,
+        1388,
+        3276,
+        845,
+        3889
+      ],
+      "translation": "After swimming, some friends went over to his house for a barbecue."
+    },
+    {
+      "video": "barbecue.3889.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1376,
+        3889,
+        2321
+      ],
+      "translation": "Do you have a barbecue?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "barbecue-3889.png"
+}

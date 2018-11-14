@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 744,
+  "gloss": {
+    "english": [
+      "coach"
+    ],
+    "english_secondary": [
+      "trainer"
+    ],
+    "maori": [
+      "kaiwhakaako"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "coach.744.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "coach.744.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        744,
+        3658,
+        2314,
+        1513,
+        1926,
+        3046
+      ],
+      "translation": "He's a good coach. We've learned from him and improved our playing skills."
+    },
+    {
+      "video": "coach.744.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3220,
+        744,
+        2540,
+        1949
+      ],
+      "translation": "That man is coaching us for  basketball."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "coach-744.png"
+}

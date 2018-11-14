@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2437,
+  "gloss": {
+    "english": [
+      "avoid"
+    ],
+    "english_secondary": [
+      "not want to meet"
+    ],
+    "maori": [
+      "karo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "avoid.2437.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "avoid.2437.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1522,
+        2556,
+        721,
+        2466,
+        2556,
+        2437
+      ],
+      "translation": "I'm avoiding that woman because I don't want to talk to her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "avoid-2437.png"
+}

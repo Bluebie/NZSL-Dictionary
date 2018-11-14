@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6062,
+  "gloss": {
+    "english": [
+      "blow job"
+    ],
+    "english_secondary": [
+      "fellatio"
+    ],
+    "maori": [
+      "kainga te ure"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "blow_job.6062.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blow_job.6062.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        "cl:pull-pants-down",
+        2297,
+        6062,
+        2297
+      ],
+      "translation": "The man pulled his pants down and she gave him a blow job."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "blow_job-6062.png"
+}

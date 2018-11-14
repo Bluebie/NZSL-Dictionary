@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4897,
+  "gloss": {
+    "english": [
+      "United Nations"
+    ],
+    "english_secondary": [
+      "UN"
+    ],
+    "maori": [
+      "Te Kotahitanga o ngā Whenua o te Ao"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "United_Nations.4897.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "United_Nations.4897.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4897,
+        2297,
+        1585,
+        5442,
+        280,
+        2920
+      ],
+      "translation": "The United Nations support and promote world peace."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "united_nations-4897.png"
+}

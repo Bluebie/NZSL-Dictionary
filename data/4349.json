@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4349,
+  "gloss": {
+    "english": [
+      "pill"
+    ],
+    "english_secondary": [
+      "birth control pill",
+      "contraceptive pill",
+      "drug",
+      "medicine",
+      "tablet",
+      "take a pill"
+    ],
+    "maori": [
+      "pire"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pill.4349.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pill.4349.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        4349,
+        4138,
+        6302,
+        564
+      ],
+      "translation": "I bought some pills to put in the first-aid box."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pill-4349.png"
+}

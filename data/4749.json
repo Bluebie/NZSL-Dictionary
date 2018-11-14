@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4749,
+  "gloss": {
+    "english": [
+      "waters break"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pakarutanga o ngā wai"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "waters_break.4749.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "waters_break.4749.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4749,
+        2556,
+        1600,
+        2556,
+        1071,
+        3050,
+        2410,
+        2914,
+        1050
+      ],
+      "translation": "When my waters broke, I panicked and told my husband to take me to the hospital immediately."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "waters_break-4749.png"
+}

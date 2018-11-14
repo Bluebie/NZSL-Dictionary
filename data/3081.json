@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3081,
+  "gloss": {
+    "english": [
+      "medal"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mētara",
+      "tohutoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "medal.3081.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "medal.3081.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        3848,
+        5620,
+        3081,
+        2583,
+        5289
+      ],
+      "translation": "New Zealand won four medals at the Deaflympics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "medal-3081.png"
+}

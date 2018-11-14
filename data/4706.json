@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4706,
+  "gloss": {
+    "english": [
+      "parents"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mātua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "parents.4706.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "parents.4706.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4706,
+        5498,
+        2774,
+        3546,
+        1298,
+        2556,
+        2410
+      ],
+      "translation": "My parents decided I would go to Kelston School."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "parents-4706.png"
+}

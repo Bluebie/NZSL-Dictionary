@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1962,
+  "gloss": {
+    "english": [
+      "bowels"
+    ],
+    "english_secondary": [
+      "guts",
+      "insides",
+      "intestine"
+    ],
+    "maori": [
+      "puku hamuti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bowels.1962.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bowels.1962.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4616,
+        1376,
+        1939,
+        1962,
+        4374,
+        483
+      ],
+      "translation": "My uncle has cancer of the bowel. He's going to die soon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "bowels-1962.png"
+}

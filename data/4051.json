@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4051,
+  "gloss": {
+    "english": [
+      "some"
+    ],
+    "english_secondary": [
+      "several"
+    ],
+    "maori": [
+      "ētahi"
+    ],
+    "attributes": [
+      "determiner"
+    ]
+  },
+  "video": "some.4051.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "some.4051.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        "high",
+        1298,
+        4051,
+        5972,
+        2410,
+        2117,
+        4249,
+        4051,
+        1832,
+        4656
+      ],
+      "translation": "At high school, I went to hearing class for some subjects, and some were with deaf children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "some-4051.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5033,
+  "gloss": {
+    "english": [
+      "cut hay"
+    ],
+    "english_secondary": [
+      "scythe"
+    ],
+    "maori": [
+      "tapahi hei"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cut_hay.5033.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cut_hay.5033.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3701,
+        5738,
+        "fs:hay",
+        2540,
+        5033,
+        4785,
+        3420
+      ],
+      "translation": "On the farm we cut the hay to be ready for winter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cut_hay-5033.png"
+}

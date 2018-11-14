@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4273,
+  "gloss": {
+    "english": [
+      "penis"
+    ],
+    "english_secondary": [
+      "cock"
+    ],
+    "maori": [
+      "ure",
+      "raho"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "penis.4273.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "penis.4273.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3706,
+        1376,
+        1545,
+        4273,
+        2297
+      ],
+      "translation": "The show-off says he has a big penis."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "penis-4273.png"
+}

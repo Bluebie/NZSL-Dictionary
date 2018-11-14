@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3371,
+  "gloss": {
+    "english": [
+      "protect"
+    ],
+    "english_secondary": [
+      "defend",
+      "guard against",
+      "insulate",
+      "preserve",
+      "resist",
+      "shelter",
+      "shield"
+    ],
+    "maori": [
+      "tautiaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "protect.3371.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "protect.3371.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        6096,
+        5738,
+        5575,
+        3736,
+        3371,
+        461
+      ],
+      "translation": "We set up a fence around our garden to protect it against the wind."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "protect-3371.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5759,
+  "gloss": {
+    "english": [
+      "sleep"
+    ],
+    "english_secondary": [
+      "asleep",
+      "nap"
+    ],
+    "maori": [
+      "moe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "sleep.5759.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleep.5759.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5759,
+        5425,
+        5617,
+        5662,
+        5624,
+        2556,
+        4347
+      ],
+      "translation": "I slept for two hours and woke up at eight o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sleep-5759.png"
+}

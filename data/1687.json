@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1687,
+  "gloss": {
+    "english": [
+      "hysterectomy"
+    ],
+    "english_secondary": [
+      "sterilisation"
+    ],
+    "maori": [
+      "tangohia te whare tangata"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hysterectomy.1687.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hysterectomy.1687.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        768,
+        4763,
+        2297,
+        3300,
+        4204,
+        3864,
+        1687
+      ],
+      "translation": "My cousin had a hysterectomy operation last month."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "hysterectomy-1687.png"
+}

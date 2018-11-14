@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 812,
+  "gloss": {
+    "english": [
+      "lawn"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "papa karaehe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lawn.812.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lawn.812.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        845,
+        3637,
+        1376,
+        1545,
+        812,
+        5425,
+        5617,
+        3503
+      ],
+      "translation": "The house has a big lawn at the back. It takes two hours to mow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "lawn-812.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5459,
+  "gloss": {
+    "english": [
+      "deaf unit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wāhanga turi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "deaf_unit.5459.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf_unit.5459.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2410,
+        2931,
+        926,
+        5459
+      ],
+      "translation": "She went to the deaf unit at Sumner Primary School."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_unit-5459.png"
+}

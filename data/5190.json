@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5190,
+  "gloss": {
+    "english": [
+      "detest"
+    ],
+    "english_secondary": [
+      "can't stand",
+      "enemy",
+      "hate"
+    ],
+    "maori": [
+      "matakawa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "detest.5190.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "detest.5190.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        967,
+        2879,
+        5789,
+        908,
+        5190,
+        "won't",
+        1300,
+        2297
+      ],
+      "translation": "We used to be friends but I detest her now and won't talk to her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "detest-5190.png"
+}

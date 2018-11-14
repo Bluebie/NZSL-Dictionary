@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5616,
+  "gloss": {
+    "english": [
+      "nineteen"
+    ],
+    "english_secondary": [
+      "19"
+    ],
+    "maori": [
+      "tekau mā iwa"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "nineteen.5616.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_19.5616.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4158,
+        3912,
+        1376,
+        5616,
+        4740
+      ],
+      "translation": "The chess club has nineteen members."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nineteen-5616.png"
+}

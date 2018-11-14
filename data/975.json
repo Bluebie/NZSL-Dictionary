@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 975,
+  "gloss": {
+    "english": [
+      "top"
+    ],
+    "english_secondary": [
+      "high",
+      "superior"
+    ],
+    "maori": [
+      "o runga rawa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "top.975.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "top.975.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2583,
+        5509,
+        2607,
+        1515,
+        1772,
+        975,
+        "control",
+        2095,
+        6282
+      ],
+      "translation": "It was an important meeting involving top government managers."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "top-975.png"
+}

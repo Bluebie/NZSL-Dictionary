@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4954,
+  "gloss": {
+    "english": [
+      "communion"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Kai Hapa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "communion.4954.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "communion.4954.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        323,
+        532,
+        2095,
+        1388,
+        1367,
+        4954
+      ],
+      "translation": "At the catholic church, the congregation lined up for communion."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "communion-4954.png"
+}

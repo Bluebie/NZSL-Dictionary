@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 367,
+  "gloss": {
+    "english": [
+      "nice"
+    ],
+    "english_secondary": [
+      "attractive",
+      "beautiful",
+      "decent",
+      "kind",
+      "lovely",
+      "pretty"
+    ],
+    "maori": [
+      "pai",
+      "rawe"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "lovely.367.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lovely.367.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        367,
+        2491,
+        2297,
+        3658,
+        3220
+      ],
+      "translation": "He's a nice boss. He's a good man."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "nice-367.png"
+}

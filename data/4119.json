@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4119,
+  "gloss": {
+    "english": [
+      "exhausted"
+    ],
+    "english_secondary": [
+      "pooped",
+      "tired out",
+      "worn out"
+    ],
+    "maori": [
+      "pau te hau",
+      "ngenge",
+      "tino ngenge",
+      "ruhi",
+      "taiaroa"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "exhausted.4119.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exhausted.4119.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        796,
+        856,
+        5195,
+        4119
+      ],
+      "translation": "I had been working overtime. When I got home, I  just collapsed because I was exhausted."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "exhausted-4119.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3723,
+  "gloss": {
+    "english": [
+      "enjoy"
+    ],
+    "english_secondary": [
+      "get pleasure from",
+      "have fun"
+    ],
+    "maori": [
+      "pārekareka",
+      "ngahau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "enjoy.3723.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "enjoy.3723.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4054,
+        5389,
+        2287,
+        3723,
+        549,
+        5488
+      ],
+      "translation": "I taught the children and they enjoyed it. They loved signing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "enjoy-3723.png"
+}

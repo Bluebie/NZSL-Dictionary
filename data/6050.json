@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6050,
+  "gloss": {
+    "english": [
+      "zebra"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hepara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "zebra.6050.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "zebra.6050.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6050,
+        565,
+        1544,
+        2583,
+        4309
+      ],
+      "translation": "Zebras live in Africa."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "zebra-6050.png"
+}

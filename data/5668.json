@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5668,
+  "gloss": {
+    "english": [
+      "guinea pig"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poaka kini"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "guinea_pig.5668.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "guinea_pig.5668.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        856,
+        1376,
+        637,
+        5668
+      ],
+      "translation": "I have a pet guinea pig at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "guinea_pig-5668.png"
+}

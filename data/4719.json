@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4719,
+  "gloss": {
+    "english": [
+      "vasectomy"
+    ],
+    "english_secondary": [
+      "sterilisation",
+      "tubal ligation"
+    ],
+    "maori": [
+      "pokaina ngā raho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "vasectomy.4719.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "vasectomy.4719.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        1376,
+        5621,
+        5389,
+        2297,
+        5498,
+        1042,
+        4719
+      ],
+      "translation": "He decided having five children was enough and had a vasectomy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "vasectomy-4719.png"
+}

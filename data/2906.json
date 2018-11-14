@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2906,
+  "gloss": {
+    "english": [
+      "dance"
+    ],
+    "english_secondary": [
+      "dancer"
+    ],
+    "maori": [
+      "kanikani"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dance.2906.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dance.2906.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1490,
+        648,
+        5471,
+        4264,
+        4546,
+        2906,
+        3076
+      ],
+      "translation": "A group of us were in the pub. We were drinking, partying, dancing and playing the guitar."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dance-2906.png"
+}

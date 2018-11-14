@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6121,
+  "gloss": {
+    "english": [
+      "nail clipper"
+    ],
+    "english_secondary": [
+      "clip nails"
+    ],
+    "maori": [
+      "kuti maikuku"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "nail_clipper.6121.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nail_clipper.6121.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2626,
+        "cl:long-nail",
+        2321,
+        1376,
+        6121,
+        2321
+      ],
+      "translation": "My fingernail is too long. Do you have a nail clipper?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "nail_clipper-6121.png"
+}

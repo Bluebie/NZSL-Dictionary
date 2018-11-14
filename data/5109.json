@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5109,
+  "gloss": {
+    "english": [
+      "whoops"
+    ],
+    "english_secondary": [
+      "misstep",
+      "oops",
+      "what am I doing?"
+    ],
+    "maori": [
+      "auē",
+      "hika mā"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "blunder.5109.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blunder.5109.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        562,
+        5467,
+        2556,
+        6287,
+        3800,
+        5109,
+        6287,
+        5467
+      ],
+      "translation": "I wanted to go to the toilet, but I ended up in the office instead. Whoops! I had to go the other way to the toilet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "whoops-5109.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4168,
+  "gloss": {
+    "english": [
+      "election",
+      "vote"
+    ],
+    "english_secondary": [
+      "elect"
+    ],
+    "maori": [
+      "kōwhiringa",
+      "pōti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "vote.4168.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "vote.4168.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1772,
+        2204,
+        3885,
+        2494,
+        3811,
+        4168
+      ],
+      "translation": "The government announced that there will be an election this November."
+    },
+    {
+      "video": "vote.4168.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2990,
+        2607,
+        2287,
+        4168,
+        3782,
+        6022
+      ],
+      "translation": "At the council meeting, they voted on a policy and approved it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "election-4168.png"
+}

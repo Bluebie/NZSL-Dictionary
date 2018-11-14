@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3848,
+  "gloss": {
+    "english": [
+      "win"
+    ],
+    "english_secondary": [
+      "victory"
+    ],
+    "maori": [
+      "toa",
+      "wini"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "win.3848.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "win.3848.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        3382,
+        5663,
+        3848,
+        2583,
+        1025,
+        3566
+      ],
+      "translation": "A New Zealand horse came first and won the Melbourne Cup."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "win-3848.png"
+}

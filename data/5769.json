@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5769,
+  "gloss": {
+    "english": [
+      "laser"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taiaho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "laser.5769.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "laser.5769.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4520,
+        2297,
+        5769,
+        2556,
+        2083,
+        "cl:laser-eye"
+      ],
+      "translation": "The doctor used a laser on my eyes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "laser-5769.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2709,
+  "gloss": {
+    "english": [
+      "ponder"
+    ],
+    "english_secondary": [
+      "consider",
+      "think about",
+      "wonder about"
+    ],
+    "maori": [
+      "whakaaroaro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "think_about.2709.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "think_about.2709.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4097,
+        1294,
+        2556,
+        2709,
+        2050,
+        3684,
+        856,
+        "cl:go-back",
+        585
+      ],
+      "translation": "My money dwindled and I pondered whether it would be better to go back home to New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "ponder-2709.png"
+}

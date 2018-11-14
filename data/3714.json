@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3714,
+  "gloss": {
+    "english": [
+      "use"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "use.3714.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "use.3714.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        721,
+        3714,
+        762,
+        3462,
+        4266,
+        3430
+      ],
+      "translation": "He wanted to use my car. He borrowed it to drive around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "use-3714.png"
+}

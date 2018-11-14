@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2924,
+  "gloss": {
+    "english": [
+      "natural"
+    ],
+    "english_secondary": [
+      "naturally"
+    ],
+    "maori": [
+      "tika"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "natural.2924.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "natural.2924.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5802,
+        2556,
+        2534,
+        1513,
+        1640,
+        2297,
+        2556,
+        2924,
+        1513
+      ],
+      "translation": "I was slow to learn with the oral method, but learning through sign language felt natural."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "natural-2924.png"
+}

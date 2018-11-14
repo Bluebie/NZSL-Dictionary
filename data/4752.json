@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4752,
+  "gloss": {
+    "english": [
+      "Washington D.C."
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Wāhitāone"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Washington_DC.4752.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Washington_DC.4752.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        4573,
+        4752,
+        3434,
+        2693,
+        3623,
+        4656,
+        1849,
+        2583
+      ],
+      "translation": "I have flown to Washington D.C. before to visit Gallaudet, a very famous deaf university."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.2-843ef3d2c44a26f7af3ba3edda8231e298748b24b06e908667a2ebe0006662cb.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "Washington_DC-4752.png"
+}

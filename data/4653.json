@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4653,
+  "gloss": {
+    "english": [
+      "mind your own business"
+    ],
+    "english_secondary": [
+      "keep out"
+    ],
+    "maori": [
+      "kaua māu"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "mind_your_own_business.4653.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mind_your_own_business.4653.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        2100,
+        721,
+        3618,
+        4653
+      ],
+      "translation": "You're nosy, wanting to know that. Mind your own business!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "mind_your_own_business-4653.png"
+}

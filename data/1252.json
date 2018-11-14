@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1252,
+  "gloss": {
+    "english": [
+      "exaggerate"
+    ],
+    "english_secondary": [
+      "make up"
+    ],
+    "maori": [
+      "hangarau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "exaggerate.1252.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exaggerate.1252.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1038,
+        3561,
+        1545,
+        751,
+        1252,
+        579,
+        5752,
+        751
+      ],
+      "translation": "She told this story about catching a huge fish. She was exaggerating though; really it was a small fish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "exaggerate-1252.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5234,
+  "gloss": {
+    "english": [
+      "exhausted"
+    ],
+    "english_secondary": [
+      "pooped",
+      "tired out",
+      "very tired",
+      "worn out"
+    ],
+    "maori": [
+      "pau te hau",
+      "ngenge"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "exhausted.5234.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exhausted.5234.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5981,
+        5818,
+        264,
+        2556,
+        1513,
+        5932,
+        5234
+      ],
+      "translation": "I was exhausted from taking everything in at the all-day workshop."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "exhausted-5234.png"
+}

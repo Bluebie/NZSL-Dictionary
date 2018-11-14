@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5178,
+  "gloss": {
+    "english": [
+      "flash"
+    ],
+    "english_secondary": [
+      "expensive",
+      "fancy",
+      "lavish",
+      "posh",
+      "showy",
+      "smart",
+      "upmarket"
+    ],
+    "maori": [
+      "tino tau",
+      "rangatira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "flash.5178.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flash.5178.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        3462,
+        4589,
+        5178,
+        1565,
+        2707
+      ],
+      "translation": "He has a flash silver car that goes really fast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "flash-5178.png"
+}

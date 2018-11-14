@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2987,
+  "gloss": {
+    "english": [
+      "yellow"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōwhai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "yellow.2987.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "yellow.2987.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1220,
+        4030,
+        2987,
+        4356,
+        1266,
+        2556,
+        "cl:put-in-vase"
+      ],
+      "translation": "I was given beautiful yellow flowers. I put them in a vase."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "yellow-2987.png"
+}

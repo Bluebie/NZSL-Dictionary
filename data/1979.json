@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 1979,
+  "gloss": {
+    "english": [
+      "audiogram",
+      "graph"
+    ],
+    "english_secondary": [
+      "chart",
+      "diagram"
+    ],
+    "maori": [
+      "kauwhata rongo"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "diagram.1979.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "diagram.1979.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2117,
+        3898,
+        1979,
+        366,
+        2297,
+        887
+      ],
+      "translation": "At her hearing test, the audiogram showed that she was profoundly deaf."
+    },
+    {
+      "video": "diagram.1979.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        1979,
+        2297,
+        443,
+        4097,
+        2244
+      ],
+      "translation": "This graph confirms that we're in deficit."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "audiogram-1979.png"
+}

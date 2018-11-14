@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6220,
+  "gloss": {
+    "english": [
+      "head lice"
+    ],
+    "english_secondary": [
+      "nits",
+      "itch (head)"
+    ],
+    "maori": [
+      "kutu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "nits.6220.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nits.6220.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1298,
+        959,
+        2556,
+        6220,
+        1165
+      ],
+      "translation": "Growing up, when I was at school I had head lice often."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "head_lice-6220.png"
+}

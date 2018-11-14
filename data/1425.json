@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1425,
+  "gloss": {
+    "english": [
+      "buffet"
+    ],
+    "english_secondary": [
+      "help yourself",
+      "smorgasbord"
+    ],
+    "maori": [
+      "hākari"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "buffet.1425.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "buffet.1425.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        797,
+        5429,
+        4546,
+        1376,
+        1425,
+        2464,
+        3634,
+        3013,
+        3824
+      ],
+      "translation": "At our work's Christmas party, we celebrated with a buffet meal and free drinks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "buffet-1425.png"
+}

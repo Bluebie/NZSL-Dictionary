@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2394,
+  "gloss": {
+    "english": [
+      "cross out"
+    ],
+    "english_secondary": [
+      "cross off"
+    ],
+    "maori": [
+      "ūkui",
+      "muku"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "cross_out.2394.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cross_out.2394.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3050,
+        3949,
+        4022,
+        "list",
+        2556,
+        2844,
+        2394,
+        4051,
+        1185
+      ],
+      "translation": "My husband wrote down a food shopping list. I looked at the list and crossed out some items that we didn't need."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "cross_out-2394.png"
+}

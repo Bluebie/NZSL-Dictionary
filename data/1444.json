@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1444,
+  "gloss": {
+    "english": [
+      "Wednesday"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rāapa",
+      "Wenerei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "day_wednesday.1444.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "day_wednesday.1444.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1444,
+        2556,
+        1376,
+        3524,
+        2829
+      ],
+      "translation": "I have a hairdresser's appointment this Wednesday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "wednesday-1444.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 804,
+  "gloss": {
+    "english": [
+      "calm down"
+    ],
+    "english_secondary": [
+      "calm",
+      "patience",
+      "patient",
+      "self-control",
+      "self-controlled"
+    ],
+    "maori": [
+      "tau te maruri",
+      "mauritau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "calm.804.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "calm.804.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1938,
+        2556,
+        1175,
+        804,
+        6145
+      ],
+      "translation": "I was angry, so I went out to calm down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "calm_down-804.png"
+}

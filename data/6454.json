@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6454,
+  "gloss": {
+    "english": [
+      "post shop"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poutāpeta"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "post_shop.6454.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "post_shop.6454.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        1185,
+        924,
+        6454,
+        5632,
+        3632
+      ],
+      "translation": "I need to go to the post shop to buy some stamps."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "post_shop-6454.png"
+}

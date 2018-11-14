@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3003,
+  "gloss": {
+    "english": [
+      "observe"
+    ],
+    "english_secondary": [
+      "keep an eye on",
+      "look at",
+      "observation",
+      "observer",
+      "watch"
+    ],
+    "maori": [
+      "tirotiro",
+      "mātakitaki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "observe.3003.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "observe.3003.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2607,
+        2297,
+        721,
+        3003,
+        "involve",
+        3027
+      ],
+      "translation": "She wanted to observe the meeting but not be involved."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "observe-3003.png"
+}

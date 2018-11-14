@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4750,
+  "gloss": {
+    "english": [
+      "May"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Haratua",
+      "Mei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_may.4750.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_may.4750.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1636,
+        1490,
+        1338,
+        4750
+      ],
+      "translation": "We'll have a family reunion this May."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "May-4750.png"
+}

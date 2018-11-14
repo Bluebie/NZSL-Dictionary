@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3529,
+  "gloss": {
+    "english": [
+      "sell"
+    ],
+    "english_secondary": [
+      "sale",
+      "sell out",
+      "sold out"
+    ],
+    "maori": [
+      "hoko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "sell.3529.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sell.3529.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        3677,
+        3529
+      ],
+      "translation": "My house has sold!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "sell-3529.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 398,
+  "gloss": {
+    "english": [
+      "access"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āhei atu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "access.398.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "access.398.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4054,
+        889,
+        398,
+        2479,
+        2117
+      ],
+      "translation": "He had full access to an education, equal to hearing people."
+    },
+    {
+      "video": "access.398.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1659,
+        3978,
+        2556,
+        1937,
+        2096,
+        398,
+        3368,
+        5338
+      ],
+      "translation": "The computer isn't working. I'm frustrated because I can't access my bank account."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "access-398.png"
+}

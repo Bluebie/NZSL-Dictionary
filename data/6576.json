@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6576,
+  "gloss": {
+    "english": [
+      "wax (hair removal)"
+    ],
+    "english_secondary": [
+      "waxing"
+    ],
+    "maori": [
+      "huhuti huruhuru"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "wax.6576.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wax.6576.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        3524,
+        6576
+      ],
+      "translation": "I have an appointment for a wax."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "wax_hair_removal-6576.png"
+}

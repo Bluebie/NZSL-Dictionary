@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4621,
+  "gloss": {
+    "english": [
+      "fight"
+    ],
+    "english_secondary": [
+      "brawl",
+      "fighting"
+    ],
+    "maori": [
+      "whawhai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fight.4621.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fight.4621.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        5572,
+        2879,
+        4621,
+        4135,
+        3670
+      ],
+      "translation": "I fought with a short guy and he managed to beat me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fight-4621.png"
+}

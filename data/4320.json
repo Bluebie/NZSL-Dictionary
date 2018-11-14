@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4320,
+  "gloss": {
+    "english": [
+      "air pressure"
+    ],
+    "english_secondary": [
+      "tyre pressure"
+    ],
+    "maori": [
+      "pēhanga hau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pressure.4320.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pressure.4320.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        2606,
+        4320,
+        6036,
+        1185,
+        "cl:fill-tyre-with-air"
+      ],
+      "translation": "The air pressure in the car tyre is low . The tyre needs to be pumped up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "air_pressure-4320.png"
+}

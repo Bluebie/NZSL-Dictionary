@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4768,
+  "gloss": {
+    "english": [
+      "Monday to Friday"
+    ],
+    "english_secondary": [
+      "weekdays"
+    ],
+    "maori": [
+      "Rāhina ki te Rāmere",
+      "Mane ki te Paraire"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "Monday_to_Friday.4768.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Monday_to_Friday.4768.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3193,
+        1298,
+        4768,
+        707,
+        856
+      ],
+      "translation": "He goes to boarding school from Monday to Friday and goes home during the weekends."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "monday_to_friday-4768.png"
+}

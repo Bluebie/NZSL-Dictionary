@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2046,
+  "gloss": {
+    "english": [
+      "India"
+    ],
+    "english_secondary": [
+      "Indian"
+    ],
+    "maori": [
+      "Īnia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "india.2046.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "india.2046.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2046,
+        2583,
+        1553,
+        2095,
+        2583
+      ],
+      "translation": "There are many people in India."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "India-2046.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1897,
+  "gloss": {
+    "english": [
+      "more"
+    ],
+    "english_secondary": [
+      "additional",
+      "extra",
+      "further"
+    ],
+    "maori": [
+      "nui ake",
+      "kaha ake"
+    ],
+    "attributes": [
+      "adjective",
+      "determiner"
+    ]
+  },
+  "video": "more.1897.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "more.1897.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        2117,
+        1228,
+        908,
+        2556,
+        1897,
+        4656,
+        1228
+      ],
+      "translation": "In the past I was in the hearing world. Now I'm more in the Deaf world."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "more-1897.png"
+}

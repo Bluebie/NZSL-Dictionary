@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3712,
+  "gloss": {
+    "english": [
+      "kind"
+    ],
+    "english_secondary": [
+      "generous",
+      "kindly",
+      "kindness"
+    ],
+    "maori": [
+      "ngākau atawhai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "kind.3712.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kind.3712.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2021,
+        2297,
+        3712,
+        2705,
+        1585,
+        5389
+      ],
+      "translation": "The teacher is kind. She smiles and encourages the children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "kind-3712.png"
+}

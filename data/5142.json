@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5142,
+  "gloss": {
+    "english": [
+      "shock"
+    ],
+    "english_secondary": [
+      "startled"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "shock.5142.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shock.5142.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2883,
+        2297,
+        "cl:grab-my-shoulder",
+        2556,
+        5142,
+        "bugger"
+      ],
+      "translation": "I was walking along when she suddenly grabbed my shoulders. I got a shock. Damn her!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "shock-5142.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1646,
+  "gloss": {
+    "english": [
+      "softhearted"
+    ],
+    "english_secondary": [
+      "generous",
+      "good-hearted",
+      "good-natured",
+      "kind-hearted",
+      "softie"
+    ],
+    "maori": [
+      "ngākau atawhai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "softhearted.1646.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "softhearted.1646.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2021,
+        2297,
+        1646,
+        3027,
+        2002
+      ],
+      "translation": "She is a softhearted teacher and doesn't scold them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "softhearted-1646.png"
+}

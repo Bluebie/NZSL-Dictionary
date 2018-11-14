@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4426,
+  "gloss": {
+    "english": [
+      "teddy bear"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "teti pea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "teddybear.4426.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "teddybear.4426.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        856,
+        1376,
+        2841,
+        1205,
+        4426,
+        1505,
+        3338,
+        1279
+      ],
+      "translation": "At home, I have an old, well-preserved teddy bear that used to belong to my grandmother."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "teddy_bear-4426.png"
+}

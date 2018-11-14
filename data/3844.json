@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 3844,
+  "gloss": {
+    "english": [
+      "coat",
+      "put on (coat)"
+    ],
+    "english_secondary": [
+      "cardigan",
+      "jacket",
+      "overcoat",
+      "raincoat"
+    ],
+    "maori": [
+      "koti",
+      "kuhuna (te koti)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "coat.3844.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "coat.3844.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        "cl:put-in-bag",
+        3844,
+        487,
+        1481,
+        "ready",
+        924,
+        3591
+      ],
+      "translation": "I packed my coat, hat and gloves - all ready to go skiing."
+    },
+    {
+      "video": "coat.3844.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        3050,
+        1071,
+        2556,
+        4701,
+        3844,
+        "dressing",
+        3968,
+        3878
+      ],
+      "translation": "My husband woke me up. I got up, put on my dressing gown and had breakfast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "coat-3844.png"
+}

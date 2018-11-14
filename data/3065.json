@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 3065,
+  "gloss": {
+    "english": [
+      "I haven't"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāore anō au i"
+    ],
+    "attributes": [
+      "negator",
+      "phrase"
+    ]
+  },
+  "video": "i_havent.3065.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "i_havent.3065.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        924,
+        5944,
+        3065,
+        2556,
+        2844,
+        1193,
+        1178,
+        6033
+      ],
+      "translation": "I haven't been to Queenstown. I look forward to going soon."
+    },
+    {
+      "video": "i_havent.3065.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        6224,
+        2556,
+        3065
+      ],
+      "translation": "She has braces but I haven't."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "I_haven_t-3065.png"
+}

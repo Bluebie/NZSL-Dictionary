@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 4333,
+  "gloss": {
+    "english": [
+      "accept"
+    ],
+    "english_secondary": [
+      "approve",
+      "face up to"
+    ],
+    "maori": [
+      "whakaae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "accept.4333.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accept.4333.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1852,
+        797,
+        2556,
+        4333
+      ],
+      "translation": "I was offered a job and accepted it."
+    },
+    {
+      "video": "accept.4333.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        4656,
+        1231,
+        2297,
+        2556,
+        606,
+        2556,
+        4333
+      ],
+      "translation": "I'm happy that my baby is deaf. I accept it gladly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "accept-4333.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3969,
+  "gloss": {
+    "english": [
+      "caesarean"
+    ],
+    "english_secondary": [
+      "caesarean section"
+    ],
+    "maori": [
+      "motu whakawhānau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "caesarean.3969.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "caesarean.3969.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1231,
+        4269,
+        1885,
+        3969,
+        1231,
+        1215
+      ],
+      "translation": "The baby was in a breech position, so it had to be delivered by caesarean section."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "caesarean-3969.png"
+}

@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1475,
+  "gloss": {
+    "english": [
+      "file",
+      "look through file"
+    ],
+    "english_secondary": [
+      "filing cabinet",
+      "filing clerk"
+    ],
+    "maori": [
+      "kōnae",
+      "tirohia ngā kōnae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "file.1475.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "file.1475.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2831,
+        5398,
+        2556,
+        5865,
+        1475
+      ],
+      "translation": "I was looking for an insurance form and I had to check in the files."
+    },
+    {
+      "video": "file.1475.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        1475,
+        1716,
+        3300,
+        4895,
+        5833
+      ],
+      "translation": "The woman looked through the files and found my tax form."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "file-1475.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5347,
+  "gloss": {
+    "english": [
+      "download"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuku mai",
+      "hīrau mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "download.5347.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "download.5347.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5510,
+        2556,
+        5347,
+        5654,
+        "cl:play-game"
+      ],
+      "translation": "I downloaded a game from the internet to play on my computer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "download-5347.png"
+}

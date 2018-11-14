@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 6285,
+  "gloss": {
+    "english": [
+      "fourth"
+    ],
+    "english_secondary": [
+      "fourth (of a list)",
+      "fourthly"
+    ],
+    "maori": [
+      "tuawhā"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "fourth.6285.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fourth.6285.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        771,
+        1805,
+        1185,
+        6279,
+        3917,
+        6283,
+        2398,
+        6284,
+        5659,
+        6285,
+        641,
+        6278,
+        4432
+      ],
+      "translation": "To make the cake, you need: first, flour; second, egg; third, milk; fourth, butter; and fifth, chocolate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fourth-6285.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2898,
+  "gloss": {
+    "english": [
+      "slip over"
+    ],
+    "english_secondary": [
+      "fall",
+      "slip",
+      "slip and fall"
+    ],
+    "maori": [
+      "hinga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "slip_and_fall.2898.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "slip_and_fall.2898.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2898,
+        1562,
+        890,
+        2297,
+        1123,
+        3523,
+        578,
+        2556,
+        5571
+      ],
+      "translation": "I slipped over and hurt my back. He helped me,  supported me and made sure I was alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "slip_over-2898.png"
+}

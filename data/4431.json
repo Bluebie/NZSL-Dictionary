@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 4431,
+  "gloss": {
+    "english": [
+      "kiwi"
+    ],
+    "english_secondary": [
+      "Kiwi",
+      "New Zealander"
+    ],
+    "maori": [
+      "kiwi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "kiwi.4431.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kiwi.4431.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1553,
+        4431,
+        1388,
+        4790,
+        565,
+        2583
+      ],
+      "translation": "Lots of Kiwis have moved to live in Australia."
+    },
+    {
+      "video": "kiwi.4431.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        280,
+        2095,
+        1388,
+        2677,
+        4431
+      ],
+      "translation": "People come from around the world to photograph kiwis."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "kiwi-4431.png"
+}

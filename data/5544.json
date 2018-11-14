@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5544,
+  "gloss": {
+    "english": [
+      "attachment (email)"
+    ],
+    "english_secondary": [
+      "attach",
+      "append",
+      "appendix"
+    ],
+    "maori": [
+      "tāpiritanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "attachment.5544.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attachment.5544.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5348,
+        3027,
+        5544,
+        4006,
+        2321
+      ],
+      "translation": "You emailed me but there was no attachment. Did you forget?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "attachment_email-5544.png"
+}

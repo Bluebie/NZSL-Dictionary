@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2817,
+  "gloss": {
+    "english": [
+      "firefighter"
+    ],
+    "english_secondary": [
+      "fire brigade",
+      "fire engine",
+      "fire hose",
+      "fireman",
+      "put out fire"
+    ],
+    "maori": [
+      "ringa tinei ahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fire_engine.2817.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fire_engine.2817.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        5789,
+        2297,
+        797,
+        1923,
+        2817,
+        2297
+      ],
+      "translation": "My friend works as a firefighter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "firefighter-2817.png"
+}

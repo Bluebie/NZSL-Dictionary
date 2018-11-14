@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5758,
+  "gloss": {
+    "english": [
+      "sleep"
+    ],
+    "english_secondary": [
+      "asleep",
+      "nap"
+    ],
+    "maori": [
+      "moe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "sleep.5758.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleep.5758.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        3089,
+        1270,
+        1123,
+        5758
+      ],
+      "translation": "She has a cup of tea to relax and help her go to sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "sleep-5758.png"
+}

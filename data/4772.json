@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4772,
+  "gloss": {
+    "english": [
+      "skeleton"
+    ],
+    "english_secondary": [
+      "ribcage",
+      "ribs"
+    ],
+    "maori": [
+      "kōhiwi",
+      "tuahiwi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "skeleton.4772.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "skeleton.4772.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        5155,
+        4462,
+        4501,
+        2844,
+        4772
+      ],
+      "translation": "Wow, that woman is so thin! You can see her skeleton."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "skeleton-4772.png"
+}

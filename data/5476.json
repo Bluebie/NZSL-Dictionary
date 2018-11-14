@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5476,
+  "gloss": {
+    "english": [
+      "loyal"
+    ],
+    "english_secondary": [
+      "faithful",
+      "stand by someone"
+    ],
+    "maori": [
+      "pono"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "loyal.5476.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "loyal.5476.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        5476,
+        908,
+        5707,
+        2646,
+        3055
+      ],
+      "translation": "They are loyal to each other. They've now been married for forty years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "loyal-5476.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5378,
+  "gloss": {
+    "english": [
+      "visual"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kei te karu te kōrero"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "visual.5378.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "visual.5378.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        280,
+        4656,
+        3273,
+        5378,
+        1500
+      ],
+      "translation": "In the Deaf world, people tend to do everything in a visual way."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "visual-5378.png"
+}

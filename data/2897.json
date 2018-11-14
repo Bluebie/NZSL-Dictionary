@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2897,
+  "gloss": {
+    "english": [
+      "video"
+    ],
+    "english_secondary": [
+      "video recorder"
+    ],
+    "maori": [
+      "rīpene ataata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "video.2897.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "video.2897.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1376,
+        856,
+        2583,
+        2841,
+        2897,
+        "cl:pile-up"
+      ],
+      "translation": "I have a pile of old videos at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "video-2897.png"
+}

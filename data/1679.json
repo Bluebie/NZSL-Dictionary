@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1679,
+  "gloss": {
+    "english": [
+      "hernia"
+    ],
+    "english_secondary": [
+      "rupture"
+    ],
+    "maori": [
+      "whaturama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hernia.1679.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hernia.1679.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        1679,
+        1505,
+        1954,
+        934
+      ],
+      "translation": "She had a hearnia as a result of heavy lifting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "hernia-1679.png"
+}

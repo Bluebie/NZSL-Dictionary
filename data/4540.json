@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4540,
+  "gloss": {
+    "english": [
+      "draw",
+      "vote"
+    ],
+    "english_secondary": [
+      "elect",
+      "election",
+      "raffle"
+    ],
+    "maori": [
+      "kōwhiri",
+      "pōti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "vote.4540.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "vote.4540.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        570,
+        872,
+        4540,
+        2297,
+        3848
+      ],
+      "translation": "She won the draw for the door prize."
+    },
+    {
+      "video": "vote.4540.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2095,
+        3653,
+        4540,
+        2297,
+        3848,
+        409
+      ],
+      "translation": "After people had voted, he won by a clear majority."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "draw-4540.png"
+}

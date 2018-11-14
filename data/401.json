@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 401,
+  "gloss": {
+    "english": [
+      "bet"
+    ],
+    "english_secondary": [
+      "put money on",
+      "wager"
+    ],
+    "maori": [
+      "peti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bet.401.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bet.401.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5400,
+        2556,
+        401,
+        5618,
+        4224,
+        2556,
+        4728,
+        3848
+      ],
+      "translation": "I bet twenty dollars on lotto. I hope I win!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "bet-401.png"
+}

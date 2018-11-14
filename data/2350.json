@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2350,
+  "gloss": {
+    "english": [
+      "rocket"
+    ],
+    "english_secondary": [
+      "blast off"
+    ],
+    "maori": [
+      "tākirirangi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rocket.2350.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rocket.2350.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        5702,
+        5622,
+        5696,
+        1482,
+        2297,
+        5663,
+        2350,
+        2299,
+        2685
+      ],
+      "translation": "In 1969, America first sent a rocket to the moon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "rocket-2350.png"
+}

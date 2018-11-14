@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1830,
+  "gloss": {
+    "english": [
+      "trap"
+    ],
+    "english_secondary": [
+      "catch"
+    ],
+    "maori": [
+      "tāwhiti",
+      "rore"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "trap.1830.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trap.1830.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        811,
+        2583,
+        3721,
+        2421,
+        4138,
+        1830,
+        5785,
+        2237,
+        2583
+      ],
+      "translation": "There were lots of mice in the garage. I put a trap in there to try and kill them."
+    },
+    {
+      "video": "trap.1830.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4503,
+        909,
+        4508,
+        5045,
+        4503,
+        1830,
+        4022
+      ],
+      "translation": "The cat was lying in wait. As the bird hopped, the cat trapped it and ate it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "trap-1830.png"
+}

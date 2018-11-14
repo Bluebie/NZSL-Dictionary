@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4462,
+  "gloss": {
+    "english": [
+      "thin"
+    ],
+    "english_secondary": [
+      "skinny",
+      "slender"
+    ],
+    "maori": [
+      "whīroki"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "thin.4462.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thin.4462.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1291,
+        721,
+        3009,
+        1376,
+        1952,
+        4656,
+        3220,
+        964,
+        4462,
+        5848,
+        5455
+      ],
+      "translation": "He made contact wanting to know if there was a tall and thin deaf man that he could hire as an actor."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "thin-4462.png"
+}

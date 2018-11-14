@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5872,
+  "gloss": {
+    "english": [
+      "dairy (shop)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "toa"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "dairy.5872.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dairy.5872.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        5872,
+        5632,
+        780
+      ],
+      "translation": "I went to the dairy to buy bread."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "dairy_shop-5872.png"
+}

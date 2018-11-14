@@ -1,0 +1,66 @@
+{
+  "nzsl_id": 1199,
+  "gloss": {
+    "english": [
+      "step",
+      "step (relative)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mahi",
+      "takahanga",
+      "matakēkē"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "step.1199.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "step.1199.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        4222,
+        5663,
+        1199,
+        2266,
+        1513,
+        1659,
+        5444
+      ],
+      "translation": "The first step on this course is to learn computer skills."
+    },
+    {
+      "video": "step.1199.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        1199,
+        4689,
+        2297,
+        3055,
+        3300,
+        4765,
+        2583,
+        1338,
+        2556,
+        2099,
+        5621
+      ],
+      "translation": "My stepfather married my mother when I was five years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "step-1199.png"
+}

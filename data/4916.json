@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4916,
+  "gloss": {
+    "english": [
+      "ago"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "nōnakuarā"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "ago.4916.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ago.4916.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1171,
+        1291,
+        4656,
+        1463,
+        5617,
+        4763,
+        4916
+      ],
+      "translation": "She began to have contact with deaf people about two months ago."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "ago-4916.png"
+}

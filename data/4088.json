@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4088,
+  "gloss": {
+    "english": [
+      "business"
+    ],
+    "english_secondary": [
+      "company",
+      "firm"
+    ],
+    "maori": [
+      "mahi",
+      "pakihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "business.4088.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "business.4088.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4616,
+        2297,
+        3276,
+        4088,
+        5760,
+        1065
+      ],
+      "translation": "My uncle owns a business selling suits."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "business-4088.png"
+}

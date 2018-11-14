@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5159,
+  "gloss": {
+    "english": [
+      "taunt"
+    ],
+    "english_secondary": [
+      "bait",
+      "goad",
+      "mock"
+    ],
+    "maori": [
+      "tāwai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bif.5159.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bif.5159.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3663,
+        1432,
+        3885,
+        4446,
+        5159,
+        3645
+      ],
+      "translation": "I was set on teasing that person, taunting them and giving them a hard time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "taunt-5159.png"
+}

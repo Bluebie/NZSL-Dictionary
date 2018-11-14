@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2334,
+  "gloss": {
+    "english": [
+      "more"
+    ],
+    "english_secondary": [
+      "additional",
+      "another one",
+      "extra"
+    ],
+    "maori": [
+      "anō"
+    ],
+    "attributes": [
+      "adjective",
+      "determiner"
+    ]
+  },
+  "video": "more.2334.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "more.2334.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        721,
+        2334,
+        4022,
+        2321
+      ],
+      "translation": "Do you want more food?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "more-2334.png"
+}

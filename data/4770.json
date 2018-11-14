@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4770,
+  "gloss": {
+    "english": [
+      "security guard"
+    ],
+    "english_secondary": [
+      "bouncer",
+      "sergeant"
+    ],
+    "maori": [
+      "tūtei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sergeant.4770.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sergeant.4770.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3368,
+        2583,
+        1376,
+        5617,
+        4770,
+        2583,
+        2844
+      ],
+      "translation": "The bank had two security guards who were keeping watch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "security_guard-4770.png"
+}

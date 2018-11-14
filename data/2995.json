@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 2995,
+  "gloss": {
+    "english": [
+      "sexual abuse"
+    ],
+    "english_secondary": [
+      "abuse (sexually)",
+      "feel up",
+      "molest",
+      "unwanted touching"
+    ],
+    "maori": [
+      "taitōkai"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "abuse.2995.main_glosses.vs.r480x360.TWO.mp4",
+  "usage": [
+    {
+      "video": "abuse.2995.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        2995,
+        2943,
+        5494
+      ],
+      "translation": "A man who committed sexual abuse was arrested by the police."
+    },
+    {
+      "video": "abuse.2995.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        967,
+        2995,
+        954,
+        2297,
+        908,
+        3285,
+        6287,
+        1211
+      ],
+      "translation": "She was sexually abused as a child and now goes to counselling to work through it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "sexual_abuse-2995.png"
+}

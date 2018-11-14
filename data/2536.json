@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2536,
+  "gloss": {
+    "english": [
+      "dryer"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mīhini whakamaroke kaka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dryer.2536.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dryer.2536.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1072,
+        1775,
+        1523,
+        4138,
+        2536,
+        "dry"
+      ],
+      "translation": "It was raining outside, so I put the clothes in the dryer to dry them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dryer-2536.png"
+}

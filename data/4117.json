@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4117,
+  "gloss": {
+    "english": [
+      "indicator"
+    ],
+    "english_secondary": [
+      "indicate"
+    ],
+    "maori": [
+      "rama huri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "indicator.4117.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "indicator.4117.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3430,
+        4117,
+        721,
+        904
+      ],
+      "translation": "She was driving along and turned on the indicator because she wanted to turn right."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "indicator-4117.png"
+}

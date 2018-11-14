@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2874,
+  "gloss": {
+    "english": [
+      "equals"
+    ],
+    "english_secondary": [
+      "equation"
+    ],
+    "maori": [
+      "ka hua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "equals.2874.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "equals.2874.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5617,
+        2446,
+        5617,
+        2874,
+        5620
+      ],
+      "translation": "Two multiplied by two equals four."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "equals-2874.png"
+}

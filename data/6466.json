@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6466,
+  "gloss": {
+    "english": [
+      "scorpion"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hikutimo"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "scorpion.6466.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "scorpion.6466.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6466,
+        "it{2297]",
+        1376,
+        5624,
+        2675
+      ],
+      "translation": "Scorpions have eight legs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "scorpion-6466.png"
+}

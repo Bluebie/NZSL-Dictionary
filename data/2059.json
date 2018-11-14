@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2059,
+  "gloss": {
+    "english": [
+      "pimples"
+    ],
+    "english_secondary": [
+      "spots"
+    ],
+    "maori": [
+      "papata",
+      "mariao"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pimples.2059.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pimples.2059.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1715,
+        2556,
+        5613,
+        2556,
+        3721,
+        2059
+      ],
+      "translation": "A long time ago, when I was sixteen, I had a lot of pimples."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "pimples-2059.png"
+}

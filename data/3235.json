@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3235,
+  "gloss": {
+    "english": [
+      "run"
+    ],
+    "english_secondary": [
+      "athletics",
+      "jog",
+      "jogging",
+      "marathon",
+      "running"
+    ],
+    "maori": [
+      "oma"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "run.3235.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "run.3235.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2964,
+        2758,
+        3235,
+        1894,
+        3587
+      ],
+      "translation": "I got up late and had to run to get the bus."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "run-3235.png"
+}

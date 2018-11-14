@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5729,
+  "gloss": {
+    "english": [
+      "thirsty"
+    ],
+    "english_secondary": [
+      "parched",
+      "thirst"
+    ],
+    "maori": [
+      "hiainu",
+      "mateinu",
+      "matewai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "thirsty.5729.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thirsty.5729.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5729,
+        721,
+        4264,
+        2146,
+        2297
+      ],
+      "translation": "He's thirsty and wants a drink of water."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "thirsty-5729.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5121,
+  "gloss": {
+    "english": [
+      "eye up"
+    ],
+    "english_secondary": [
+      "leer",
+      "make eyes at",
+      "ogle"
+    ],
+    "maori": [
+      "āta titiro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "eye_up.5121.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eye_up.5121.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5629,
+        2556,
+        5121
+      ],
+      "translation": "I eyed up the well-built man."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eye_up-5121.png"
+}

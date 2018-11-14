@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1348,
+  "gloss": {
+    "english": [
+      "brown"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pākākā",
+      "hāura"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "brown.1348.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brown.1348.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2135,
+        2297,
+        367,
+        984,
+        1348,
+        2984,
+        478,
+        2083
+      ],
+      "translation": "That girl has lovely long brown hair and blue eyes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "brown-1348.png"
+}

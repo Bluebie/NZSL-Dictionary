@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6328,
+  "gloss": {
+    "english": [
+      "pimples"
+    ],
+    "english_secondary": [
+      "spots"
+    ],
+    "maori": [
+      "papata",
+      "mariao"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pimples.6328.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pimples.6328.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4499,
+        2184,
+        1376,
+        6328,
+        1185,
+        1632
+      ],
+      "translation": "The teenage boy had pimples and needed to use a cream."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "pimples-6328.png"
+}

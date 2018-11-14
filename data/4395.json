@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4395,
+  "gloss": {
+    "english": [
+      "tiki"
+    ],
+    "english_secondary": [
+      "heitiki"
+    ],
+    "maori": [
+      "tiki",
+      "heitiki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tiki.4395.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tiki.4395.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3687,
+        3974,
+        3204,
+        4395,
+        2556,
+        4163,
+        3324
+      ],
+      "translation": "My Aunt gave me a Māori tiki.  I really value it and I'm going to keep it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "tiki-4395.png"
+}

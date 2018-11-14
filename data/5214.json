@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5214,
+  "gloss": {
+    "english": [
+      "good riddance"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kua oti tēna"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "good_riddance.5214.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "good_riddance.5214.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        797,
+        3653,
+        "good",
+        5214,
+        908,
+        484,
+        1403,
+        4729
+      ],
+      "translation": "Good riddance to work! Now it's time for a holiday and rest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.2-f6b42b10c50c3a36acba592ecfa6742a4a3672218bcf564a23d3488296b18686.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "good_riddance-5214.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3780,
+  "gloss": {
+    "english": [
+      "sticking plaster"
+    ],
+    "english_secondary": [
+      "Bandaid",
+      "Elastoplast"
+    ],
+    "maori": [
+      "whakapiri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sticking_plaster.3780.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sticking_plaster.3780.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2134,
+        2111,
+        1766,
+        3780
+      ],
+      "translation": "I had a cut. My sister got me a sticking plaster."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "sticking_plaster-3780.png"
+}

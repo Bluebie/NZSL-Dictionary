@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 817,
+  "gloss": {
+    "english": [
+      "block"
+    ],
+    "english_secondary": [
+      "bar",
+      "be stuck",
+      "inaccessible",
+      "obstruction"
+    ],
+    "maori": [
+      "aukati",
+      "taupā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "block.817.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "block.817.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3430,
+        817,
+        2804,
+        607,
+        2556,
+        5129,
+        3637
+      ],
+      "translation": "I was driving and came to a road block. The road was closed, so I had to go back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "block-817.png"
+}

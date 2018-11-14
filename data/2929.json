@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2929,
+  "gloss": {
+    "english": [
+      "research"
+    ],
+    "english_secondary": [
+      "analyse",
+      "analysis",
+      "inquiry",
+      "investigate",
+      "investigation",
+      "look into",
+      "survey"
+    ],
+    "maori": [
+      "rangahau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "research.2929.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "research.2929.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2929,
+        1640,
+        3867,
+        523,
+        2297
+      ],
+      "translation": "She did research on sign language and wrote a book."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "research-2929.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6311,
+  "gloss": {
+    "english": [
+      "Greymouth"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Māwhera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "greymouth.6311.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "greymouth.6311.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2954,
+        1894,
+        2926,
+        2299,
+        6311,
+        4030,
+        5738
+      ],
+      "translation": "The couple caught the train to Greymouth. It's a beautiful area!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "Greymouth-6311.png"
+}

@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3104,
+  "gloss": {
+    "english": [
+      "social"
+    ],
+    "english_secondary": [
+      "dance",
+      "dancer"
+    ],
+    "maori": [
+      "whakangahau"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dance.3104.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dance.3104.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3317,
+        2607,
+        264,
+        3653,
+        924,
+        3104,
+        4657
+      ],
+      "translation": "After our all day meeting on Saturday, we went to the social at the Deaf Club."
+    },
+    {
+      "video": "dance.3104.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2348,
+        2583,
+        3658,
+        3104,
+        5806,
+        4546
+      ],
+      "translation": "Auckland has a good social life - you can have a good time there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "social-3104.png"
+}

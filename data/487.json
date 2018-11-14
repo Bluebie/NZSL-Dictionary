@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 487,
+  "gloss": {
+    "english": [
+      "hat"
+    ],
+    "english_secondary": [
+      "beanie",
+      "cap"
+    ],
+    "maori": [
+      "pōtae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hat.487.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hat.487.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3420,
+        1072,
+        1185,
+        487,
+        3844,
+        1481,
+        3194
+      ],
+      "translation": "It's cold outside and you need a hat, coat and gloves to keep warm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "hat-487.png"
+}

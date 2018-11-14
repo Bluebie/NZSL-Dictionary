@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5217,
+  "gloss": {
+    "english": [
+      "promiscuous"
+    ],
+    "english_secondary": [
+      "promiscuity",
+      "sleep around"
+    ],
+    "maori": [
+      "ure paratī (tāne)",
+      "tarau makere",
+      "wahine tīweka (wahine)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "promiscuous.5217.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "promiscuous.5217.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        5943,
+        5217,
+        3220,
+        2297
+      ],
+      "translation": "She works as a prostitute and is promiscuous with many different men."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "promiscuous-5217.png"
+}

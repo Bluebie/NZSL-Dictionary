@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4010,
+  "gloss": {
+    "english": [
+      "binoculars"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "karu whakatata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "binoculars.4010.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "binoculars.4010.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        6191,
+        4010,
+        3663,
+        2844,
+        4508
+      ],
+      "translation": "I brought binoculars, as I'm keen on bird watching."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "binoculars-4010.png"
+}

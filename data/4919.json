@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4919,
+  "gloss": {
+    "english": [
+      "fix",
+      "mechanic"
+    ],
+    "english_secondary": [
+      "repair",
+      "tools"
+    ],
+    "maori": [
+      "whakatika",
+      "kaiwhakatika pūkaha"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mechanic.4919.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mechanic.4919.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5532,
+        3978,
+        5785,
+        4788,
+        4919
+      ],
+      "translation": "The oven wasn't working. I tried to fix it myself."
+    },
+    {
+      "video": "mechanic.4919.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2190,
+        3885,
+        3462,
+        2037,
+        3684,
+        5915,
+        4919
+      ],
+      "translation": "He told me the car was noisy and it would be better to drop it off at the mechanic's."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "fix-4919.png"
+}

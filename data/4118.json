@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4118,
+  "gloss": {
+    "english": [
+      "express (feelings)"
+    ],
+    "english_secondary": [
+      "divulge",
+      "get off one's chest",
+      "let out one's feelings"
+    ],
+    "maori": [
+      "whakapuaki",
+      "whakaputa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "express.4118.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "express.4118.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        307,
+        1287,
+        4118,
+        3276,
+        5536
+      ],
+      "translation": "He doesn't know how to express his feelings."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "express_feelings-4118.png"
+}

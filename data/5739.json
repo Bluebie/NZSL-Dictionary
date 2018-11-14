@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5739,
+  "gloss": {
+    "english": [
+      "feed"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whāngai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "feed.5739.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "feed.5739.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1862,
+        4022,
+        "cl:barrel-full-food",
+        2556,
+        5739,
+        3382
+      ],
+      "translation": "I fed the horse from a full barrel of food."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "feed-5739.png"
+}

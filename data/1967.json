@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1967,
+  "gloss": {
+    "english": [
+      "way"
+    ],
+    "english_secondary": [
+      "approach",
+      "manner",
+      "method"
+    ],
+    "maori": [
+      "tikanga",
+      "pokatata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "way.1967.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "way.1967.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5285,
+        1376,
+        3276,
+        1967,
+        2480,
+        5334
+      ],
+      "translation": "Deaf Culture has its own way and different values."
+    },
+    {
+      "video": "way.1967.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        1376,
+        5106,
+        1967,
+        2583,
+        4527,
+        1205,
+        2552
+      ],
+      "translation": "There is another shorter way there that saves time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "way-1967.png"
+}

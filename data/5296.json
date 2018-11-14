@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5296,
+  "gloss": {
+    "english": [
+      "guideline"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "aratohu"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "guideline.5296.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "guideline.5296.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2314,
+        2895,
+        5296,
+        1287,
+        6276,
+        5638
+      ],
+      "translation": "We read the guidelines on how to apply for a grant."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "guideline-5296.png"
+}

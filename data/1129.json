@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1129,
+  "gloss": {
+    "english": [
+      "next (item)"
+    ],
+    "english_secondary": [
+      "move onto",
+      "next on list"
+    ],
+    "maori": [
+      "muri atu",
+      "muri iho"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "next_item.1129.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "next_item.1129.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        6037,
+        3823,
+        3653,
+        1129,
+        4097,
+        3823
+      ],
+      "translation": "If the president's report is finished, next we have the financial report."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "next_item-1129.png"
+}

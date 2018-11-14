@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 5724,
+  "gloss": {
+    "english": [
+      "learn",
+      "school"
+    ],
+    "english_secondary": [
+      "exam",
+      "lesson",
+      "schooling"
+    ],
+    "maori": [
+      "ako",
+      "kura"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "school.5724.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "school.5724.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        5724,
+        859,
+        3954
+      ],
+      "translation": "He learned how to build boats."
+    },
+    {
+      "video": "school.5724.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5724,
+        2583,
+        2931
+      ],
+      "translation": "I went to Sumner school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "learn-5724.png"
+}

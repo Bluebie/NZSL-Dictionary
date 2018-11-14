@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1765,
+  "gloss": {
+    "english": [
+      "culture"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tikanga",
+      "ahurea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "culture.1765.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "culture.1765.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        5919,
+        3276,
+        3204,
+        1765
+      ],
+      "translation": "The marae is part of Maori culture."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "culture-1765.png"
+}

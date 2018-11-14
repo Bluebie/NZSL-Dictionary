@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5053,
+  "gloss": {
+    "english": [
+      "overalls"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāngari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "overalls.5053.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "overalls.5053.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        973,
+        2556,
+        1274,
+        4399,
+        2556,
+        5053,
+        "cl:paint-on-overalls"
+      ],
+      "translation": "I was painting the ceiling. Paint dripped onto my overalls."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "overalls-5053.png"
+}

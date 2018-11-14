@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2795,
+  "gloss": {
+    "english": [
+      "personal",
+      "personality"
+    ],
+    "english_secondary": [
+      "character",
+      "nature",
+      "personally"
+    ],
+    "maori": [
+      "whaiaro",
+      "āhua"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "personality.2795.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "personality.2795.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4092,
+        2193,
+        2297,
+        2795,
+        366,
+        1464
+      ],
+      "translation": "The medical information is personal and cannot be revealed."
+    },
+    {
+      "video": "personality.2795.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        3220,
+        367,
+        2795,
+        1747,
+        2705,
+        1123,
+        2095
+      ],
+      "translation": "He has a lovely personality. He always smiles and helps people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "personal-2795.png"
+}

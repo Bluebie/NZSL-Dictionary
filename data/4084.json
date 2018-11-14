@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4084,
+  "gloss": {
+    "english": [
+      "Brisbane"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Piripane"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "brisbane.4084.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brisbane.4084.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4501,
+        4573,
+        4738,
+        2299,
+        4084,
+        271
+      ],
+      "translation": "You can fly to Brisbane directly from Wellington."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Brisbane-4084.png"
+}

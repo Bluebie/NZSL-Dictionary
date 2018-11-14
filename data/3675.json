@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3675,
+  "gloss": {
+    "english": [
+      "circumcise"
+    ],
+    "english_secondary": [
+      "circumcision"
+    ],
+    "maori": [
+      "kokoti(a)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "circumcise.3675.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "circumcise.3675.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5702,
+        5708,
+        1463,
+        4376,
+        5818,
+        1231,
+        2184,
+        1376,
+        3675
+      ],
+      "translation": "In the 1950s, almost all boy babies were circumcised."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "circumcise-3675.png"
+}

@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 5628,
+  "gloss": {
+    "english": [
+      "benefit (from)",
+      "profit"
+    ],
+    "english_secondary": [
+      "advantage",
+      "bonus",
+      "commission",
+      "make money"
+    ],
+    "maori": [
+      "whai hua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "benefit.5628.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "benefit.5628.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5981,
+        2297,
+        4163,
+        5818,
+        5628,
+        1513
+      ],
+      "translation": "The workshop was worthwhile. We all benefited from it and learnt lots."
+    },
+    {
+      "video": "benefit.5628.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5760,
+        2841,
+        845,
+        964,
+        5334,
+        5628
+      ],
+      "translation": "I sold my old house. It had a high value and I made a profit."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "benefit_from-5628.png"
+}

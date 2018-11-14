@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1652,
+  "gloss": {
+    "english": [
+      "herb",
+      "sprinkle"
+    ],
+    "english_secondary": [
+      "culinary herb",
+      "powder",
+      "spices"
+    ],
+    "maori": [
+      "rauamiami",
+      "ruia"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "herb.1652.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "herb.1652.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        771,
+        2556,
+        1747,
+        5448,
+        6246,
+        1652,
+        2480
+      ],
+      "translation": "When I cook, I always use lots of different herbs."
+    },
+    {
+      "video": "herb.1652.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        1805,
+        "cl:cake",
+        2297,
+        1652,
+        4432
+      ],
+      "translation": "She sprinkled chocolate on the cake."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "herb-1652.png"
+}

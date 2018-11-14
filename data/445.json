@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 445,
+  "gloss": {
+    "english": [
+      "patient"
+    ],
+    "english_secondary": [
+      "patience",
+      "self-controlled",
+      "tolerant"
+    ],
+    "maori": [
+      "manawanui"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "patient.445.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "patient.445.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        5403,
+        2831,
+        797,
+        2297,
+        5129,
+        445
+      ],
+      "translation": "He is still looking for work. He'll have to be patient."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "patient-445.png"
+}

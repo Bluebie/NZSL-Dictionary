@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2967,
+  "gloss": {
+    "english": [
+      "step down"
+    ],
+    "english_secondary": [
+      "pull out",
+      "resign",
+      "withdraw"
+    ],
+    "maori": [
+      "whakawātea",
+      "rihaina"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "step_down.2967.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "step_down.2967.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2204,
+        2297,
+        2967,
+        3871,
+        4657
+      ],
+      "translation": "He announced that he was stepping down as secretary of the Deaf Club."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "step_down-2967.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3172,
+  "gloss": {
+    "english": [
+      "murder"
+    ],
+    "english_secondary": [
+      "kill",
+      "murder with a knife",
+      "stab",
+      "stab to death"
+    ],
+    "maori": [
+      "kōhuru"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "murder.3172.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "murder.3172.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        4187,
+        2485,
+        1553,
+        2095,
+        3172
+      ],
+      "translation": "That country is dangerous. Many people have been murdered there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "murder-3172.png"
+}

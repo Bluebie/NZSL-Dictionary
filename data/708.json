@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 708,
+  "gloss": {
+    "english": [
+      "disabled"
+    ],
+    "english_secondary": [
+      "disability"
+    ],
+    "maori": [
+      "hunga hauā"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "disabled.708.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disabled.708.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        708,
+        3462,
+        603,
+        2293,
+        603,
+        2583
+      ],
+      "translation": "You're not allowed to park in a disabled car park."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "disabled-708.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4557,
+  "gloss": {
+    "english": [
+      "sheep"
+    ],
+    "english_secondary": [
+      "lamb"
+    ],
+    "maori": [
+      "hipi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sheep.4557.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sheep.4557.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4689,
+        2297,
+        5752,
+        3701,
+        1376,
+        4557
+      ],
+      "translation": "My father has a small farm with sheep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "sheep-4557.png"
+}

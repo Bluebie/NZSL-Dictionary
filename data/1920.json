@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1920,
+  "gloss": {
+    "english": [
+      "piano"
+    ],
+    "english_secondary": [
+      "play (piano)"
+    ],
+    "maori": [
+      "piana"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "piano.1920.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "piano.1920.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2917,
+        2297,
+        2482,
+        1920,
+        5617,
+        2646,
+        1107
+      ],
+      "translation": "My son has been learning how to play the piano in the past two years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "piano-1920.png"
+}

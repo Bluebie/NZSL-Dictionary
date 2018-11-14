@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2416,
+  "gloss": {
+    "english": [
+      "second"
+    ],
+    "english_secondary": [
+      "second (of a list)",
+      "secondly"
+    ],
+    "maori": [
+      "tuarua"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "secondly.2416.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "secondly.2416.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        2096,
+        5632,
+        845,
+        2412,
+        1021,
+        4097,
+        2416,
+        3027,
+        797
+      ],
+      "translation": "I can't buy a house. Firstly, I don't have enough money, and secondly I don't have a job."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "second-2416.png"
+}

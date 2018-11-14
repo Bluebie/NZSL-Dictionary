@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5524,
+  "gloss": {
+    "english": [
+      "fee"
+    ],
+    "english_secondary": [
+      "charge"
+    ],
+    "maori": [
+      "utu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fee.5524.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fee.5524.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4097,
+        1306,
+        5524,
+        4097
+      ],
+      "translation": "How much are the school fees?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fee-5524.png"
+}

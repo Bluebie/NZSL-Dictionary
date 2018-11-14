@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4122,
+  "gloss": {
+    "english": [
+      "bright"
+    ],
+    "english_secondary": [
+      "vivid"
+    ],
+    "maori": [
+      "mumura",
+      "kanapa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bright.4122.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bright.4122.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        5632,
+        1095,
+        723,
+        4122,
+        2174
+      ],
+      "translation": "The woman bought a new top. It was bright red."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bright-4122.png"
+}

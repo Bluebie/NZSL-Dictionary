@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6522,
+  "gloss": {
+    "english": [
+      "macaroni cheese"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tīhi makaroni"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "macaroni_cheese.6522.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "macaroni_cheese.6522.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        5389,
+        2297,
+        3727,
+        4022,
+        "macaroni",
+        6522
+      ],
+      "translation": "The children's favourite food is macaroni cheese."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "macaroni_cheese-6522.png"
+}

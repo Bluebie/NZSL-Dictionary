@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2052,
+  "gloss": {
+    "english": [
+      "parents"
+    ],
+    "english_secondary": [
+      "mother and father",
+      "mum and dad"
+    ],
+    "maori": [
+      "mātua"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "mother_father.2052.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mother_father.2052.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        2052,
+        5632,
+        6000,
+        810,
+        6000,
+        784
+      ],
+      "translation": "His parents bought a farm near the beach, up north."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "parents-2052.png"
+}

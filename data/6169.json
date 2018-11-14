@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 6169,
+  "gloss": {
+    "english": [
+      "thing"
+    ],
+    "english_secondary": [
+      "belongings",
+      "goods",
+      "item",
+      "object",
+      "possessions",
+      "stuff"
+    ],
+    "maori": [
+      "mea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "thing.6169.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thing.6169.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        5731,
+        2556,
+        5632,
+        2423,
+        6169,
+        4919,
+        771,
+        5009
+      ],
+      "translation": "I went to the shop. I bought one more thing to fix the kitchen bench."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "thing-6169.png"
+}

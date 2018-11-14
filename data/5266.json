@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5266,
+  "gloss": {
+    "english": [
+      "abstract"
+    ],
+    "english_secondary": [
+      "opaque"
+    ],
+    "maori": [
+      "waitara"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "abstract.5266.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "abstract.5266.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        972,
+        2297,
+        5266,
+        3741,
+        2556,
+        4370
+      ],
+      "translation": "That speech was really abstract. It was hard to comprehend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "abstract-5266.png"
+}

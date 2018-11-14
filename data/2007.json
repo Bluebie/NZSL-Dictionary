@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2007,
+  "gloss": {
+    "english": [
+      "temperature"
+    ],
+    "english_secondary": [
+      "thermometer"
+    ],
+    "maori": [
+      "mahana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "temperature.2007.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "temperature.2007.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3636,
+        3420,
+        2007,
+        1463,
+        5617,
+        3041
+      ],
+      "translation": "Yesterday was very cold. The temperature was about two degrees."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "temperature-2007.png"
+}

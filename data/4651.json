@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4651,
+  "gloss": {
+    "english": [
+      "old-fashioned"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tawhito"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "old_fashioned.4651.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "old_fashioned.4651.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3338,
+        2297,
+        845,
+        1376,
+        4651,
+        3414,
+        1436
+      ],
+      "translation": "My grandmother's house has old fashioned furniture everywhere."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "old_fashioned-4651.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3108,
+  "gloss": {
+    "english": [
+      "not allowed"
+    ],
+    "english_secondary": [
+      "banned",
+      "forbidden",
+      "not permitted",
+      "outlawed",
+      "prohibited"
+    ],
+    "maori": [
+      "kāore e whakaaehia"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "not_allowed.3108.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_allowed.3108.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2846,
+        1152,
+        5471,
+        3108,
+        1885,
+        1072
+      ],
+      "translation": "Smoking in pubs is not allowed. It must be done outside."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_allowed-3108.png"
+}

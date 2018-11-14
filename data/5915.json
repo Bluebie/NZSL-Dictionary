@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5915,
+  "gloss": {
+    "english": [
+      "drop off"
+    ],
+    "english_secondary": [
+      "leave"
+    ],
+    "maori": [
+      "whakataka atu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "drop_off.5915.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drop_off.5915.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5915,
+        5389,
+        2583,
+        3338,
+        845
+      ],
+      "translation": "I dropped off the children at their grandmother's house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "drop_off-5915.png"
+}

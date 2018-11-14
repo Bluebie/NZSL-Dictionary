@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2542,
+  "gloss": {
+    "english": [
+      "harbour"
+    ],
+    "english_secondary": [
+      "bay",
+      "port"
+    ],
+    "maori": [
+      "whanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "harbour.2542.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "harbour.2542.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4738,
+        367,
+        2542,
+        859,
+        859
+      ],
+      "translation": "Wellington has a lovely harbour. You can take a boat cruise around it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "harbour-2542.png"
+}

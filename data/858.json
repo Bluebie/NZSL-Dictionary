@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 858,
+  "gloss": {
+    "english": [
+      "turn left"
+    ],
+    "english_secondary": [
+      "round the corner",
+      "take a left turn"
+    ],
+    "maori": [
+      "huri mauī"
+    ],
+    "attributes": [
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "turn_left.858.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "turn_left.858.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3618,
+        535,
+        2583,
+        858,
+        5471,
+        2583
+      ],
+      "translation": "Turn left at the corner over there, and that's where the pub is."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "turn_left-858.png"
+}

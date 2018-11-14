@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1545,
+  "gloss": {
+    "english": [
+      "big"
+    ],
+    "english_secondary": [
+      "great",
+      "huge",
+      "large",
+      "sizeable"
+    ],
+    "maori": [
+      "rahi",
+      "nunui"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "big.1545.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "big.1545.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1482,
+        2583,
+        1376,
+        3721,
+        1545,
+        3462
+      ],
+      "translation": "There are lots of big cars in America."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "big-1545.png"
+}

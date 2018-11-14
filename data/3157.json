@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3157,
+  "gloss": {
+    "english": [
+      "refuse"
+    ],
+    "english_secondary": [
+      "no",
+      "refusal",
+      "say no",
+      "turn down",
+      "will not",
+      "won't do"
+    ],
+    "maori": [
+      "kāore e whakaae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "refuse.3157.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "refuse.3157.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3157,
+        2556,
+        4266,
+        3276,
+        3462
+      ],
+      "translation": "He refused to let me borrow his car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "refuse-3157.png"
+}

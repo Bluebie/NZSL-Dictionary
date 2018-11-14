@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6060,
+  "gloss": {
+    "english": [
+      "beaming"
+    ],
+    "english_secondary": [
+      "so happy",
+      "smile (from ear to ear)"
+    ],
+    "maori": [
+      "hari",
+      "harikoa"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "beaming.6060.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beaming.6060.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        3720,
+        2940,
+        6060,
+        3494
+      ],
+      "translation": "When we finally saw each other, I was beaming, and we hugged."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "beaming-6060.png"
+}

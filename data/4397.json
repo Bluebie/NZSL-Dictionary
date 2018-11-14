@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 4397,
+  "gloss": {
+    "english": [
+      "cheap"
+    ],
+    "english_secondary": [
+      "bargain",
+      "budget",
+      "economy",
+      "inexpensive",
+      "low price",
+      "reduced price"
+    ],
+    "maori": [
+      "iti te utu",
+      "ngāwari te utu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "cheap.4397.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cheap.4397.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2701,
+        2556,
+        4397,
+        3925,
+        824,
+        5621,
+        5621,
+        4224,
+        5607,
+        1465
+      ],
+      "translation": "I'm lucky because the rent on my flat is cheap. It's fifty-five dollars a week."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cheap-4397.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5477,
+  "gloss": {
+    "english": [
+      "birthday"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huritau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "birthday.5477.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "birthday.5477.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        1211,
+        3300,
+        4689,
+        5477,
+        2099,
+        5707,
+        2266,
+        2743
+      ],
+      "translation": "We discussed what to do for my father's fortieth birthday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "birthday-5477.png"
+}

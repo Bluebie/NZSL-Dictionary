@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5467,
+  "gloss": {
+    "english": [
+      "toilet"
+    ],
+    "english_secondary": [
+      "lavatory",
+      "loo",
+      "restroom",
+      "WC"
+    ],
+    "maori": [
+      "wharepaku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "toilet.5467.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "toilet.5467.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2455,
+        5467,
+        1544
+      ],
+      "translation": "Excuse me, where is the toilet?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "toilet-5467.png"
+}

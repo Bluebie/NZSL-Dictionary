@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6306,
+  "gloss": {
+    "english": [
+      "Russia"
+    ],
+    "english_secondary": [
+      "Russian"
+    ],
+    "maori": [
+      "Rūhia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "russia.6306.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "russia.6306.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1522,
+        1505,
+        4813,
+        2050,
+        6306,
+        1404
+      ],
+      "translation": "She's from Europe. I think she's from somewhere in Russia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Russia-6306.png"
+}

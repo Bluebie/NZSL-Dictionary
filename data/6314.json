@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6314,
+  "gloss": {
+    "english": [
+      "headquarters"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tari matua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "headquarters.6314.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "headquarters.6314.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1553,
+        5435,
+        1376,
+        6314,
+        2583,
+        4738
+      ],
+      "translation": "Many organisations have their headquarters in Wellington."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "headquarters-6314.png"
+}

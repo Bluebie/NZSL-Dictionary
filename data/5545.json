@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5545,
+  "gloss": {
+    "english": [
+      "bullet point"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tohumatā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bullet_point.5545.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bullet_point.5545.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1338,
+        2321,
+        1918,
+        385,
+        5545,
+        1464,
+        "cl:long-sentences"
+      ],
+      "translation": "When you type, please use bullet points rather than long sentences."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bullet_point-5545.png"
+}

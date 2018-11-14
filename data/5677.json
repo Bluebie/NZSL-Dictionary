@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5677,
+  "gloss": {
+    "english": [
+      "lava"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rangitoto"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "lava.5677.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lava.5677.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        740,
+        2583,
+        5075,
+        2174,
+        5677
+      ],
+      "translation": "That volcano erupted and red lava flowed down it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "lava-5677.png"
+}

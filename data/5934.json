@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5934,
+  "gloss": {
+    "english": [
+      "train"
+    ],
+    "english_secondary": [
+      "engine",
+      "locomotive",
+      "railway"
+    ],
+    "maori": [
+      "tereina"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "train.5934.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "train.5934.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2453,
+        1894,
+        5934
+      ],
+      "translation": "Most of the time I catch the train."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "train-5934.png"
+}

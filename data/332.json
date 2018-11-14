@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 332,
+  "gloss": {
+    "english": [
+      "sad"
+    ],
+    "english_secondary": [
+      "grief",
+      "miserable",
+      "tragic",
+      "unhappy"
+    ],
+    "maori": [
+      "pōuri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "sad.332.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sad.332.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3337,
+        483,
+        2556,
+        332,
+        2556
+      ],
+      "translation": "I was sad about the death of my grandfather."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sad-332.png"
+}

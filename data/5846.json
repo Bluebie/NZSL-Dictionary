@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 5846,
+  "gloss": {
+    "english": [
+      "All Blacks",
+      "silver fern"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Kapa-o-Pango",
+      "kaponga",
+      "ponga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "All_Blacks.5846.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "All_Blacks.5846.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2774,
+        1152,
+        5846,
+        2297
+      ],
+      "translation": "He was picked for the All Blacks."
+    },
+    {
+      "video": "All_Blacks.5846.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        839,
+        2297,
+        1152,
+        585,
+        1490,
+        5846,
+        2297
+      ],
+      "translation": "He's proud to be in the New Zealand team wearing the silver fern."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "All_Blacks-5846.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4989,
+  "gloss": {
+    "english": [
+      "stamp"
+    ],
+    "english_secondary": [
+      "bang",
+      "pound",
+      "stomp"
+    ],
+    "maori": [
+      "takahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "stamp.4989.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stamp.4989.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        825,
+        4989,
+        2556,
+        5536,
+        1582,
+        2844
+      ],
+      "translation": "He stamped on the floor. I felt the vibrations and looked at him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stamp-4989.png"
+}

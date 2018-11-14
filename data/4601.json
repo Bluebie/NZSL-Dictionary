@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4601,
+  "gloss": {
+    "english": [
+      "New York"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Āporo Nui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "new_york.4601.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "new_york.4601.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        4601,
+        903,
+        3235,
+        5620,
+        5617,
+        3547
+      ],
+      "translation": "I went to New York for a marathon. It was forty two kilometres."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "New_York-4601.png"
+}

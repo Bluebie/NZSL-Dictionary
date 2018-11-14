@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5298,
+  "gloss": {
+    "english": [
+      "modify"
+    ],
+    "english_secondary": [
+      "adapt",
+      "inflect",
+      "inflection",
+      "revision"
+    ],
+    "maori": [
+      "whakarerekē"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "modify.5298.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "modify.5298.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3261,
+        1376,
+        4051,
+        5488,
+        4501,
+        5298
+      ],
+      "translation": "There are some signs in NZSL that you can modify."
+    },
+    {
+      "video": "modify.5298.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        3782,
+        2297,
+        4832,
+        5298
+      ],
+      "translation": "We all approved that the constitution be modified."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "modify-5298.png"
+}

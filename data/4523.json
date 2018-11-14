@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4523,
+  "gloss": {
+    "english": [
+      "condom"
+    ],
+    "english_secondary": [
+      "put on a condom"
+    ],
+    "maori": [
+      "pūkoro raho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "condom.4523.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "condom.4523.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4523,
+        1123,
+        3380,
+        5643
+      ],
+      "translation": "Condoms help to prevent pregnancy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "condom-4523.png"
+}

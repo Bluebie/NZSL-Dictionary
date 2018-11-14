@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 314,
+  "gloss": {
+    "english": [
+      "officer (military)"
+    ],
+    "english_secondary": [
+      "air force",
+      "army",
+      "captain",
+      "master",
+      "navy",
+      "sailor",
+      "skipper"
+    ],
+    "maori": [
+      "āpiha"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "officer.314.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "officer.314.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3337,
+        2297,
+        "involve",
+        5849,
+        314,
+        2297
+      ],
+      "translation": "My grandfather was an army officer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "officer_military-314.png"
+}

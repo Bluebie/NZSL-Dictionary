@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 3250,
+  "gloss": {
+    "english": [
+      "post",
+      "send"
+    ],
+    "english_secondary": [
+      "mail"
+    ],
+    "maori": [
+      "poutāpeta",
+      "tono"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "send.3250.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "send.3250.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        3250,
+        4393,
+        5968,
+        6230,
+        5622,
+        2500,
+        5696
+      ],
+      "translation": "I work at the post office part time, from half past six in the morning to nine o'clock."
+    },
+    {
+      "video": "send.3250.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        1636,
+        3250,
+        2556,
+        2583,
+        4656,
+        1298,
+        2729
+      ],
+      "translation": "My family sent me to a distant deaf school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "post-3250.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3906,
+  "gloss": {
+    "english": [
+      "machine sewing"
+    ],
+    "english_secondary": [
+      "sewing machine"
+    ],
+    "maori": [
+      "mīhini tuitui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "machine_sewing.3906.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "machine_sewing.3906.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3687,
+        2297,
+        549,
+        3906,
+        3375,
+        1523
+      ],
+      "translation": "My aunt loves machine sewing clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "machine_sewing-3906.png"
+}

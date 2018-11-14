@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4617,
+  "gloss": {
+    "english": [
+      "conflict"
+    ],
+    "english_secondary": [
+      "clash",
+      "fight"
+    ],
+    "maori": [
+      "tuki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "accident.4617.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accident.4617.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2096,
+        2410,
+        2607,
+        3814,
+        "appointment",
+        1376,
+        2556,
+        1647
+      ],
+      "translation": "I can't attend the meeting because I have a conflicting appointment at the dentist's."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "conflict-4617.png"
+}

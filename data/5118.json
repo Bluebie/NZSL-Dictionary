@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5118,
+  "gloss": {
+    "english": [
+      "come on!"
+    ],
+    "english_secondary": [
+      "what's up with that?"
+    ],
+    "maori": [
+      "kia kaha"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "come_on.5118.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come_on.5118.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        851,
+        4817,
+        5118,
+        1185,
+        3848
+      ],
+      "translation": "The All Blacks lost. Come on, we need to win!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "come_on-5118.png"
+}

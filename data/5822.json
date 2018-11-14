@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 5822,
+  "gloss": {
+    "english": [
+      "some",
+      "sometimes"
+    ],
+    "english_secondary": [
+      "at times",
+      "from time to time",
+      "in some cases",
+      "occasionally"
+    ],
+    "maori": [
+      "ētahi",
+      "i ōna wā"
+    ],
+    "attributes": [
+      "adverb",
+      "determiner"
+    ]
+  },
+  "video": "some.5822.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "some.5822.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3618,
+        5822,
+        2287,
+        3127,
+        5818
+      ],
+      "translation": "I know some of them, but not everyone."
+    },
+    {
+      "video": "some.5822.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4293,
+        5822,
+        2556,
+        4370
+      ],
+      "translation": "Sometimes I can't understand what she's saying."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "some-5822.png"
+}

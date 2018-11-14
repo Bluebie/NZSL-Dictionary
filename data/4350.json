@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 4350,
+  "gloss": {
+    "english": [
+      "lizard",
+      "snake"
+    ],
+    "english_secondary": [
+      "tuatara"
+    ],
+    "maori": [
+      "mokomoko",
+      "nākahi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "snake.4350.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "snake.4350.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4503,
+        1165,
+        1894,
+        4350,
+        "cl:bring-into",
+        1152,
+        845
+      ],
+      "translation": "My cat catches lizards everyday and brings them into the house."
+    },
+    {
+      "video": "snake.4350.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5426,
+        585,
+        4350,
+        3027
+      ],
+      "translation": "There are no snakes here in New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.2-9f3cd25fcefedd16aaacf288ec5b1994247f245fd7e3f6feb579dc1a100467d5.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "snake-4350.png"
+}

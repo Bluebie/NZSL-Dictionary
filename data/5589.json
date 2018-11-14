@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5589,
+  "gloss": {
+    "english": [
+      "love bite"
+    ],
+    "english_secondary": [
+      "hickey"
+    ],
+    "maori": [
+      "ngau kakī"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "love_bite.5589.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "love_bite.5589.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        5589,
+        5155,
+        "cl:big-circle-on-neck"
+      ],
+      "translation": "She had this love bite. Far out, it was a huge mark on her neck!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "love_bite-5589.png"
+}

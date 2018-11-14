@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1714,
+  "gloss": {
+    "english": [
+      "anaesthetic gas",
+      "gas"
+    ],
+    "english_secondary": [
+      "natural gas",
+      "oxygen"
+    ],
+    "maori": [
+      "hau whakakēkerewai",
+      "hau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gas.1714.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gas.1714.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1561,
+        1220,
+        1714,
+        "cl:put-on-mask",
+        1595,
+        1270,
+        3658
+      ],
+      "translation": "They gave me anaesthetic gas for the pain. When I breathed in through the mask, I relaxed and felt good."
+    },
+    {
+      "video": "gas.1714.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        2410,
+        5861,
+        771,
+        "use",
+        1714
+      ],
+      "translation": "When we go camping, we use gas to cook."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "anaesthetic_gas-1714.png"
+}

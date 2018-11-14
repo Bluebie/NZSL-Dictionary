@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3966,
+  "gloss": {
+    "english": [
+      "poker"
+    ],
+    "english_secondary": [
+      "play poker"
+    ],
+    "maori": [
+      "tūaho",
+      "whakatūaho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "poker.3966.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "poker.3966.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        5789,
+        1388,
+        845,
+        1926,
+        3966
+      ],
+      "translation": "Last night, friends got together at the house to play poker."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "poker-3966.png"
+}

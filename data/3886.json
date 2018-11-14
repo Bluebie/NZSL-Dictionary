@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3886,
+  "gloss": {
+    "english": [
+      "travel around"
+    ],
+    "english_secondary": [
+      "wander"
+    ],
+    "maori": [
+      "pōkai",
+      "huri haere"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "wander.3886.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wander.3886.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2464,
+        3050,
+        2953,
+        3430,
+        4187,
+        3886
+      ],
+      "translation": "She and her husband travelled around the country by car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "travel_around-3886.png"
+}

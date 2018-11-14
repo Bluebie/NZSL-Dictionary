@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5792,
+  "gloss": {
+    "english": [
+      "Deaf Aotearoa New Zealand"
+    ],
+    "english_secondary": [
+      "DANZ",
+      "Deaf Aotearoa",
+      "Deaf Association of New Zealand"
+    ],
+    "maori": [
+      "Tāngata Turi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "Deaf_Aotearoa.5792.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Deaf_Aotearoa.5792.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        4656,
+        5435,
+        6207,
+        2173,
+        3919,
+        5792
+      ],
+      "translation": "The New Zealand Deaf Association has had a name change and is now Deaf Aotearoa."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_aotearoa_new_zealand-5792.png"
+}

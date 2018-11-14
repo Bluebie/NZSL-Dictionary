@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5172,
+  "gloss": {
+    "english": [
+      "exasperated"
+    ],
+    "english_secondary": [
+      "fed up",
+      "infuriated",
+      "irritated"
+    ],
+    "maori": [
+      "whakatakariri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "exasperated.5172.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exasperated.5172.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5172,
+        5454,
+        2037,
+        2297,
+        2096,
+        5420
+      ],
+      "translation": "She is exasperated with the noise upstairs - she can't sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "exasperated-5172.png"
+}

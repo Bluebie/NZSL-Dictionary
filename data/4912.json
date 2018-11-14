@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4912,
+  "gloss": {
+    "english": [
+      "go away"
+    ],
+    "english_secondary": [
+      "clear off",
+      "fuck off",
+      "get lost",
+      "get out",
+      "piss off"
+    ],
+    "maori": [
+      "haere atu"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase"
+    ]
+  },
+  "video": "go_away.4912.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_away.4912.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5785,
+        "flirt",
+        3300,
+        2184,
+        4912
+      ],
+      "translation": "A man tried to flirt with me. My boyfriend told him to get lost."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "go_away-4912.png"
+}

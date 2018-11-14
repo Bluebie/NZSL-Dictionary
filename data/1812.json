@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1812,
+  "gloss": {
+    "english": [
+      "mushroom"
+    ],
+    "english_secondary": [
+      "fungus"
+    ],
+    "maori": [
+      "harore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mushroom.1812.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mushroom.1812.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1715,
+        2556,
+        954,
+        2556,
+        3434,
+        2556,
+        4616,
+        3701,
+        6246,
+        1436,
+        1812,
+        "cl:pick-up"
+      ],
+      "translation": "A long time ago when I was small I would visit my uncle's farm. There were plenty of mushrooms to pick."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "mushroom-1812.png"
+}

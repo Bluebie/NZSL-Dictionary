@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6529,
+  "gloss": {
+    "english": [
+      "record"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hopu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "record.6529.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "record.6529.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        1421,
+        2556,
+        6529,
+        4501,
+        2844,
+        1070
+      ],
+      "translation": "I recorded the movie so I can watch it later."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "record-6529.png"
+}

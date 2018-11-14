@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4715,
+  "gloss": {
+    "english": [
+      "Denmark"
+    ],
+    "english_secondary": [
+      "Dane",
+      "Danish"
+    ],
+    "maori": [
+      "Tenemāka"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Denmark.4715.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Denmark.4715.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5612,
+        2646,
+        1279,
+        2556,
+        1080,
+        2946,
+        4331,
+        4715,
+        4697
+      ],
+      "translation": "I traveled overseas to Sweden, Denmark and Norway fifteen years ago."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Denmark-4715.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5091,
+  "gloss": {
+    "english": [
+      "help"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āwhina"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "help.5091.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "help.5091.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2117,
+        1083,
+        2297,
+        3658,
+        5091,
+        5488,
+        2549
+      ],
+      "translation": "My hearing friend has been a good help by signing for me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "help-5091.png"
+}

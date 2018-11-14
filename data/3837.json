@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 3837,
+  "gloss": {
+    "english": [
+      "design",
+      "drafting"
+    ],
+    "english_secondary": [
+      "architect",
+      "architecture",
+      "diagram",
+      "draftsperson",
+      "drawing",
+      "graphic design",
+      "plan",
+      "technical drawing"
+    ],
+    "maori": [
+      "hoahoa"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "design.3837.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "design.3837.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3513,
+        450,
+        3837,
+        2583,
+        1849
+      ],
+      "translation": "My brother is studying design at university."
+    },
+    {
+      "video": "design.3837.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3620,
+        3837,
+        6246,
+        2646
+      ],
+      "translation": "He's very experienced. He's been drafting for many years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "design-3837.png"
+}

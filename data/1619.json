@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1619,
+  "gloss": {
+    "english": [
+      "enjoy"
+    ],
+    "english_secondary": [
+      "get pleasure from",
+      "have fun",
+      "like"
+    ],
+    "maori": [
+      "pai",
+      "ngahau ana"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "enjoy.1619.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "enjoy.1619.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2533,
+        2556,
+        5995,
+        3685,
+        5784,
+        2297,
+        1619
+      ],
+      "translation": "She came to my house and had a wonderful time. She enjoyed it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "enjoy-1619.png"
+}

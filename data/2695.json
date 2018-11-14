@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 2695,
+  "gloss": {
+    "english": [
+      "old-fashioned"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tawhito"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "old_fashioned.2695.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "old_fashioned.2695.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3338,
+        1523,
+        3721,
+        2695,
+        1239
+      ],
+      "translation": "My grandmother had lots of old-fashioned clothes. She gave them away."
+    },
+    {
+      "video": "old_fashioned.2695.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        1279,
+        4344,
+        "cl:body-harness",
+        2695,
+        908,
+        2119
+      ],
+      "translation": "The body-worn hearing aids we used to have are old-fashioned. Now we have hearing aids worn behind the ears."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "old_fashioned-2695.png"
+}

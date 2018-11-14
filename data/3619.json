@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3619,
+  "gloss": {
+    "english": [
+      "bald"
+    ],
+    "english_secondary": [
+      "recede (hair)",
+      "receding hairline"
+    ],
+    "maori": [
+      "hewa",
+      "pākira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bald.3619.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bald.3619.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3435,
+        2297,
+        908,
+        3619,
+        4351,
+        1675
+      ],
+      "translation": "I was shocked! He was now bald, had a moustache and was fat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bald-3619.png"
+}

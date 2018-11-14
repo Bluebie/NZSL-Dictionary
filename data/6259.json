@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 6259,
+  "gloss": {
+    "english": [
+      "bath",
+      "bathe"
+    ],
+    "english_secondary": [
+      "bathroom"
+    ],
+    "maori": [
+      "tāpu",
+      "kaukau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bath.6259.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bath.6259.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3517,
+        6259,
+        4139
+      ],
+      "translation": "I cleaned the bath and made it shiny."
+    },
+    {
+      "video": "bath.6259.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        6259,
+        2285,
+        1465,
+        2556,
+        2453,
+        1697
+      ],
+      "translation": "I only bathe once a week as I usually use the shower."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "bath-6259.png"
+}

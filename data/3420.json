@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 3420,
+  "gloss": {
+    "english": [
+      "cold",
+      "winter"
+    ],
+    "english_secondary": [
+      "autumn",
+      "chilly"
+    ],
+    "maori": [
+      "makariri",
+      "hōtoke"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "cold.3420.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cold.3420.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3111,
+        3420,
+        1885,
+        3844
+      ],
+      "translation": "On cold mornings you have to wear a coat."
+    },
+    {
+      "video": "cold.3420.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3420,
+        2556,
+        3591,
+        2531
+      ],
+      "translation": "During winter I go skiing regularly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cold-3420.png"
+}

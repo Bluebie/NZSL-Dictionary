@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 252,
+  "gloss": {
+    "english": [
+      "that's enough"
+    ],
+    "english_secondary": [
+      "leave me alone",
+      "no more",
+      "say no more",
+      "shut up",
+      "the end of the matter"
+    ],
+    "maori": [
+      "kāti noa",
+      "ka nui tēna"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "thats_enough.252.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thats_enough.252.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        2779,
+        868,
+        2556,
+        798,
+        252
+      ],
+      "translation": "We continually argue and I'm fed up. That's enough!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "that_s_enough-252.png"
+}

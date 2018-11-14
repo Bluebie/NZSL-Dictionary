@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5744,
+  "gloss": {
+    "english": [
+      "bossy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakatopatopa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bossy.5744.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bossy.5744.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5744,
+        5736,
+        2556,
+        1885,
+        2743,
+        3885
+      ],
+      "translation": "She is really bossy and tells me to do this, that and the other."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "bossy-5744.png"
+}

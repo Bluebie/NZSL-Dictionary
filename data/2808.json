@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2808,
+  "gloss": {
+    "english": [
+      "cream"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kirīmi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cream.2808.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cream.2808.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        762,
+        1766,
+        2808,
+        721,
+        771,
+        4324
+      ],
+      "translation": "I got cream, because I want to cook a pavlova."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cream-2808.png"
+}

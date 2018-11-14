@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3277,
+  "gloss": {
+    "english": [
+      "strong"
+    ],
+    "english_secondary": [
+      "strength",
+      "tough"
+    ],
+    "maori": [
+      "kaha"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "strong.3277.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "strong.3277.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5785,
+        934,
+        2517,
+        3978,
+        1185,
+        3277,
+        4446
+      ],
+      "translation": "He tried to lift it, but it was impossible. It needed a stronger person to lift it."
+    },
+    {
+      "video": "strong.3277.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1447,
+        3381,
+        3277,
+        1464,
+        3917
+      ],
+      "translation": "I like my coffee strong, with no sugar."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "strong-3277.png"
+}

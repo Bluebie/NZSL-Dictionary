@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6496,
+  "gloss": {
+    "english": [
+      "windmill"
+    ],
+    "english_secondary": [
+      "wind turbine"
+    ],
+    "maori": [
+      "pūrere kapohau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "windmill.6496.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "windmill.6496.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3701,
+        2583,
+        1376,
+        6496,
+        2297,
+        3375,
+        2408
+      ],
+      "translation": "The farm had a windmill to generate power."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "windmill-6496.png"
+}

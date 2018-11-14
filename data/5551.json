@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5551,
+  "gloss": {
+    "english": [
+      "(decimal) point"
+    ],
+    "english_secondary": [
+      "dot",
+      "full stop",
+      "period"
+    ],
+    "maori": [
+      "ira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "decimal_point.5551.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "decimal_point.5551.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5485,
+        2660,
+        5617,
+        5551,
+        5621,
+        5790
+      ],
+      "translation": "Petrol has gone up by two point five cents."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "decimal_point-5551.png"
+}

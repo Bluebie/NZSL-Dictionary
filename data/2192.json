@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2192,
+  "gloss": {
+    "english": [
+      "trouble"
+    ],
+    "english_secondary": [
+      "be in trouble"
+    ],
+    "maori": [
+      "raruraru"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "troubles.2192.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "troubles.2192.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5607,
+        2219,
+        1894,
+        2297,
+        2192,
+        2297
+      ],
+      "translation": "A staff member got caught and was in trouble."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "trouble-2192.png"
+}

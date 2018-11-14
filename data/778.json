@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 778,
+  "gloss": {
+    "english": [
+      "arm"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ringaringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "arm.778.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "arm.778.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1561,
+        778,
+        "fs:oos",
+        1860,
+        1918
+      ],
+      "translation": "My arm is sore. I have OOS from typing too much."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "arm-778.png"
+}

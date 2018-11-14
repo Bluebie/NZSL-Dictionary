@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6380,
+  "gloss": {
+    "english": [
+      "caregiver"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaitiaki",
+      "tapuhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "caregiver.6380.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "caregiver.6380.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        "he{2297}",
+        1376,
+        6380,
+        2297,
+        3434,
+        1123
+      ],
+      "translation": "He has a caregiver who visits him to help him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "caregiver-6380.png"
+}

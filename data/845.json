@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 845,
+  "gloss": {
+    "english": [
+      "house",
+      "station"
+    ],
+    "english_secondary": [
+      "barn",
+      "garage",
+      "home",
+      "place",
+      "shed"
+    ],
+    "maori": [
+      "whare",
+      "teihana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "place.845.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "place.845.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        845,
+        2841,
+        "cl:house-deteriorate",
+        1185,
+        3856,
+        3791
+      ],
+      "translation": "The house is old and falling apart. It needs to be fixed up and painted."
+    },
+    {
+      "video": "place.845.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2321,
+        3618,
+        3994,
+        845,
+        3775,
+        5792,
+        2583
+      ],
+      "translation": "Deaf Aotearoa is next to the police station."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "house-845.png"
+}

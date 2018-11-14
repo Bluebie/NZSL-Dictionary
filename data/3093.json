@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3093,
+  "gloss": {
+    "english": [
+      "thread"
+    ],
+    "english_secondary": [
+      "cotton",
+      "knitting wool",
+      "sewing thread",
+      "string",
+      "wool",
+      "yarn"
+    ],
+    "maori": [
+      "miro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "thread.3093.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thread.3093.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        515,
+        3653,
+        3093,
+        "cl:hanging-out",
+        2556,
+        2866
+      ],
+      "translation": "I finished sewing. There was a thread dangling and I cut it off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "thread-3093.png"
+}

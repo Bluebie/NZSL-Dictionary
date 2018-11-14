@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 338,
+  "gloss": {
+    "english": [
+      "make-up"
+    ],
+    "english_secondary": [
+      "apply make-up",
+      "cosmetics",
+      "face powder"
+    ],
+    "maori": [
+      "pani kanohi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "make_up.338.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "make_up.338.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        4454,
+        908,
+        2099,
+        5611,
+        5401,
+        338
+      ],
+      "translation": "My daughter is now fourteen years old, and keen on make up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "make_up-338.png"
+}

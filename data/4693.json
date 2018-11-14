@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4693,
+  "gloss": {
+    "english": [
+      "February"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Huitanguru",
+      "Pēpuere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_february.4693.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_february.4693.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5663,
+        2286,
+        4693,
+        5818,
+        5389,
+        3952,
+        1298
+      ],
+      "translation": "In the first week of February all the kids go back to school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "february-4693.png"
+}

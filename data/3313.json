@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3313,
+  "gloss": {
+    "english": [
+      "try"
+    ],
+    "english_secondary": [
+      "aim to",
+      "attempt",
+      "endeavour",
+      "have a go",
+      "make an effort"
+    ],
+    "maori": [
+      "whakamātau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "try.3313.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "try.3313.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        3300,
+        2216,
+        3313,
+        1513,
+        5488
+      ],
+      "translation": "My father tried to learn to sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "try-3313.png"
+}

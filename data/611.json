@@ -1,0 +1,73 @@
+{
+  "nzsl_id": 611,
+  "gloss": {
+    "english": [
+      "long (time)",
+      "how long"
+    ],
+    "english_secondary": [
+      "durable",
+      "hard-wearing",
+      "long-lasting"
+    ],
+    "maori": [
+      "wā roa",
+      "e hia te roa"
+    ],
+    "attributes": [
+      "adjective",
+      "interrogative"
+    ]
+  },
+  "video": "long_lasting.611.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "long_lasting.611.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3658,
+        4885,
+        3044,
+        611,
+        4534,
+        3044,
+        2215,
+        1243
+      ],
+      "translation": "A good quality watch lasts for a long time. A cheap watch easily falls apart."
+    },
+    {
+      "video": "long_lasting.611.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        307,
+        611,
+        2050,
+        1463,
+        5611,
+        2569,
+        4731
+      ],
+      "translation": "I don't know how long but I think the flight is around fourteen hours."
+    },
+    {
+      "video": "long_lasting.611.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        611,
+        2321,
+        565,
+        2259,
+        2583
+      ],
+      "translation": "How long have you lived in Auckland?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "long_time-611.png"
+}

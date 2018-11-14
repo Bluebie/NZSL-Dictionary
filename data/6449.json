@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6449,
+  "gloss": {
+    "english": [
+      "playdough"
+    ],
+    "english_secondary": [
+      "knead"
+    ],
+    "maori": [
+      "kere pokepoke"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "playdough.6449.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "playdough.6449.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        2583,
+        1327,
+        2556,
+        1766,
+        6449,
+        5818,
+        5389,
+        3375,
+        2593
+      ],
+      "translation": "It was raining. I got the playdough out and all the kids made different things."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "playdough-6449.png"
+}

@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 287,
+  "gloss": {
+    "english": [
+      "citizenship",
+      "take an oath"
+    ],
+    "english_secondary": [
+      "oath",
+      "swear"
+    ],
+    "maori": [
+      "tāngata whenuatanga",
+      "oati"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "take_the_oath.287.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "take_the_oath.287.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        6276,
+        585,
+        287,
+        4728,
+        1766
+      ],
+      "translation": "She has applied for New Zealand citizenship and hopefully she'll get it."
+    },
+    {
+      "video": "take_the_oath.287.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3935,
+        1885,
+        287,
+        5736,
+        440
+      ],
+      "translation": "In court you must take an oath to tell the truth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "citizenship-287.png"
+}

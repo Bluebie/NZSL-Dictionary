@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2054,
+  "gloss": {
+    "english": [
+      "forget the past"
+    ],
+    "english_secondary": [
+      "put it behind oneself"
+    ],
+    "maori": [
+      "waiho a muri ki muri"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "forgot.2054.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "forgot.2054.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        6269,
+        5736,
+        3684,
+        2054,
+        1126
+      ],
+      "translation": "I told her it's better to forget the past and move on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "forget_the_past-2054.png"
+}

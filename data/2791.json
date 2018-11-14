@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2791,
+  "gloss": {
+    "english": [
+      "shoot"
+    ],
+    "english_secondary": [
+      "gun",
+      "fire a gun"
+    ],
+    "maori": [
+      "pupuhi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "shoot.2791.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shoot.2791.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2791,
+        5617,
+        2095,
+        810,
+        3300,
+        845
+      ],
+      "translation": "The man shot two people near my house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.2.1-1525481431cb60eca872ee5e831c3e59c8f1f37a7e1848c66d00a051d0049212.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shoot-2791.png"
+}

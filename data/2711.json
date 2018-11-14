@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2711,
+  "gloss": {
+    "english": [
+      "telltale"
+    ],
+    "english_secondary": [
+      "tell on"
+    ],
+    "maori": [
+      "tangimeme"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "telltale.2711.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "telltale.2711.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        1279,
+        5724,
+        5607,
+        1217,
+        2297,
+        2711,
+        2297
+      ],
+      "translation": "I remember when I was at school, one boy was a real telltale."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "telltale-2711.png"
+}

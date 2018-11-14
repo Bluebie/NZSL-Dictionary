@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4428,
+  "gloss": {
+    "english": [
+      "snorkel"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngongohā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "snorkel.4428.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "snorkel.4428.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2583,
+        6091,
+        4030,
+        4428,
+        783,
+        2844,
+        751,
+        "cl:fish-swim-around"
+      ],
+      "translation": "It was beautiful in Fiji. We snorkeled and looked at the fish swimming around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "snorkel-4428.png"
+}

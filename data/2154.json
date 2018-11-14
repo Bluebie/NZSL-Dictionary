@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2154,
+  "gloss": {
+    "english": [
+      "check up"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āta titiro(hia)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "check_up.2154.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "check_up.2154.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        1376,
+        2483,
+        2321,
+        2410,
+        2154,
+        3375,
+        892,
+        2321,
+        5571
+      ],
+      "translation": "If you have a lump, go for a check up to make sure you're alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "check_up-2154.png"
+}

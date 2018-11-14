@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6073,
+  "gloss": {
+    "english": [
+      "copyright"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "manatārua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "copyright.6073.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "copyright.6073.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        3802,
+        6073,
+        2556,
+        5129,
+        3009,
+        2425,
+        5448,
+        2297
+      ],
+      "translation": "The drawing is copyrighted and you must ask permission to use it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "copyright-6073.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5609,
+  "gloss": {
+    "english": [
+      "twelve"
+    ],
+    "english_secondary": [
+      "12"
+    ],
+    "maori": [
+      "tekau mā rua"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "twelve.5609.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twelve.5609.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4573,
+        5608,
+        3111,
+        1031,
+        1463,
+        6230,
+        5609
+      ],
+      "translation": "I fly out at eleven in the morning and arrive there around half past twelve."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.2-505b07826bdae6053dfc3e3102dc758f539407019509d7b1fc68baaa2ae41842.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twelve-5609.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4545,
+  "gloss": {
+    "english": [
+      "landing (aeroplane)"
+    ],
+    "english_secondary": [
+      "airplane lands",
+      "flight arrival"
+    ],
+    "maori": [
+      "tau mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "airplane_lands.4545.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "airplane_lands.4545.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        4204,
+        4545,
+        5662,
+        5617,
+        1386
+      ],
+      "translation": "My cousin's plane lands at two o'clock in the afternoon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "landing_aeroplane-4545.png"
+}

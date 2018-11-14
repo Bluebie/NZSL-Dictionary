@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 2398,
+  "gloss": {
+    "english": [
+      "Easter",
+      "egg"
+    ],
+    "english_secondary": [
+      "Easter egg"
+    ],
+    "maori": [
+      "Aranga",
+      "hēki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "easter.2398.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "easter.2398.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        2111,
+        291,
+        6222,
+        2646,
+        2398
+      ],
+      "translation": "My sister's wedding is next year at Easter."
+    },
+    {
+      "video": "easter.2398.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        "chef",
+        2297,
+        771,
+        4022,
+        "cl:stuff-in-roll",
+        4482,
+        2398
+      ],
+      "translation": "The chef cooked bacon and egg rolls."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Easter-2398.png"
+}

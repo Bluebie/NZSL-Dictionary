@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1805,
+  "gloss": {
+    "english": [
+      "cake"
+    ],
+    "english_secondary": [
+      "dried fruit",
+      "muffin",
+      "raisin",
+      "rice",
+      "sago",
+      "scone",
+      "sultana",
+      "tapioca"
+    ],
+    "maori": [
+      "keke"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cake.1805.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cake.1805.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        771,
+        3375,
+        1805,
+        3759,
+        780
+      ],
+      "translation": "I work at a bakery making cakes, biscuits and bread."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "cake-1805.png"
+}

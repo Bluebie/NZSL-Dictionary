@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 404,
+  "gloss": {
+    "english": [
+      "wait"
+    ],
+    "english_secondary": [
+      "hang on",
+      "hold on",
+      "just a moment",
+      "stay there"
+    ],
+    "maori": [
+      "tatari"
+    ],
+    "attributes": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "wait.404.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wait.404.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        404,
+        2556,
+        3425,
+        2556,
+        4809,
+        3653,
+        1300,
+        404
+      ],
+      "translation": "Wait, I'm busy. I haven't finished talking so hang on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wait-404.png"
+}

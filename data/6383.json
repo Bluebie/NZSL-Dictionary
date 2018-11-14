@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6383,
+  "gloss": {
+    "english": [
+      "cheek"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pāpāringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cheek.6383.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cheek.6383.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        2297,
+        2135,
+        6383,
+        1376,
+        2174,
+        "cl:spots-on-cheek"
+      ],
+      "translation": "The girl had red cheeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cheek-6383.png"
+}

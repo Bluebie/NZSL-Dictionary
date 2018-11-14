@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1854,
+  "gloss": {
+    "english": [
+      "itch"
+    ],
+    "english_secondary": [
+      "allergic",
+      "allergy",
+      "itchy",
+      "scratch",
+      "scratchy"
+    ],
+    "maori": [
+      "mangeo"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "itch.1854.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "itch.1854.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        723,
+        5493,
+        2215,
+        1220,
+        1854
+      ],
+      "translation": "Wool tops make me itch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "itch-1854.png"
+}

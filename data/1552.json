@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1552,
+  "gloss": {
+    "english": [
+      "sea"
+    ],
+    "english_secondary": [
+      "ocean"
+    ],
+    "maori": [
+      "moana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sea.1552.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sea.1552.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        4766,
+        845,
+        810,
+        1552,
+        4030,
+        2838
+      ],
+      "translation": "His parents' house is near the sea. The view is beautiful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sea-1552.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2479,
+  "gloss": {
+    "english": [
+      "same"
+    ],
+    "english_secondary": [
+      "alike",
+      "identical",
+      "like",
+      "resemble",
+      "same as",
+      "similar"
+    ],
+    "maori": [
+      "rite tonu",
+      "rite ana"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "same.2479.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "same.2479.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3513,
+        797,
+        2479,
+        5738,
+        3300,
+        4765
+      ],
+      "translation": "My brother works in the same place as my mother."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "same-2479.png"
+}

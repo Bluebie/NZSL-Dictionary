@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5490,
+  "gloss": {
+    "english": [
+      "picnic"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pikiniki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "picnic.5490.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "picnic.5490.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5490,
+        3658,
+        5784,
+        4656,
+        1388,
+        1931,
+        4271
+      ],
+      "translation": "A good time was had at the picnic, with many deaf people socialising and catching up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "picnic-5490.png"
+}

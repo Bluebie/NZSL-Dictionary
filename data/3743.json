@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3743,
+  "gloss": {
+    "english": [
+      "expensive"
+    ],
+    "english_secondary": [
+      "costly",
+      "dear"
+    ],
+    "maori": [
+      "nui te utu",
+      "kino te utu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "expensive.3743.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expensive.3743.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2767,
+        2583,
+        3743,
+        2215,
+        4171
+      ],
+      "translation": "Japan is expensive. It's easy to spend money there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "expensive-3743.png"
+}

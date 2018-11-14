@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5150,
+  "gloss": {
+    "english": [
+      "unexpected"
+    ],
+    "english_secondary": [
+      "out of the blue",
+      "surprising",
+      "there it was",
+      "unforeseen"
+    ],
+    "maori": [
+      "puta noa"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "interjection"
+    ]
+  },
+  "video": "unexpected.5150.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unexpected.5150.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5513,
+        2297,
+        908,
+        5426,
+        4738,
+        5150
+      ],
+      "translation": "She texted me to say she was now here in Wellington. That was unexpected!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "unexpected-5150.png"
+}

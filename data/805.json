@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 805,
+  "gloss": {
+    "english": [
+      "relieved"
+    ],
+    "english_secondary": [
+      "relief",
+      "phew",
+      "weight off mind"
+    ],
+    "maori": [
+      "tau ngā whakaaro"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "relief.805.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "relief.805.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4545,
+        2556,
+        2812,
+        3583,
+        805,
+        3027,
+        3571,
+        1364
+      ],
+      "translation": "After landing, I picked up my bag and was relieved that nothing was damaged."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "relieved-805.png"
+}

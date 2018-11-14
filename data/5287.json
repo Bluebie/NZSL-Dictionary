@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5287,
+  "gloss": {
+    "english": [
+      "Deaf identity"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuakiri turi"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "deaf_identity.5287.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf_identity.5287.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        2789,
+        3261,
+        2297,
+        5509,
+        3300,
+        5287
+      ],
+      "translation": "My language, NZSL, is an important part of my Deaf identity."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_identity-5287.png"
+}

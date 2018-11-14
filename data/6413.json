@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6413,
+  "gloss": {
+    "english": [
+      "handstand"
+    ],
+    "english_secondary": [
+      "do a handstand"
+    ],
+    "maori": [
+      "porotēteke"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "handstand.6413.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "handstand.6413.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        5389,
+        2287,
+        1926,
+        6413
+      ],
+      "translation": "The children were playing and doing handstands."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "handstand-6413.png"
+}

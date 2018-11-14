@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2993,
+  "gloss": {
+    "english": [
+      "cow"
+    ],
+    "english_secondary": [
+      "cattle"
+    ],
+    "maori": [
+      "kau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cow.2993.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cow.2993.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        3701,
+        2583,
+        2993,
+        4231
+      ],
+      "translation": "He works on a farm milking cows."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "cow-2993.png"
+}

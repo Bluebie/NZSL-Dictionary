@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 337,
+  "gloss": {
+    "english": [
+      "sleeping bag"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pēke moe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sleeping_bag.337.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleeping_bag.337.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        2297,
+        4006,
+        730,
+        337,
+        432,
+        2583,
+        5861
+      ],
+      "translation": "My friend forgot to bring her sleeping bag. She left it at camp."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "sleeping_bag-337.png"
+}

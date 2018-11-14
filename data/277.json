@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 277,
+  "gloss": {
+    "english": [
+      "nun"
+    ],
+    "english_secondary": [
+      "Sister"
+    ],
+    "maori": [
+      "none"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nun.277.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nun.277.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        323,
+        2583,
+        1376,
+        277,
+        4054,
+        1279
+      ],
+      "translation": "In the past, nuns taught at St Dominic's School."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "nun-277.png"
+}

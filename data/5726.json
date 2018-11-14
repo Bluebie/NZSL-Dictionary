@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5726,
+  "gloss": {
+    "english": [
+      "T-shirt"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tīhāte"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "t_shirt.5726.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "t_shirt.5726.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5731,
+        2297,
+        4501,
+        5962,
+        5726,
+        2173,
+        "cl:heading-across-tshirt"
+      ],
+      "translation": "That shop can print a name on a t-shirt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "T_shirt-5726.png"
+}

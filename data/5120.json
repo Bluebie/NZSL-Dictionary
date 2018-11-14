@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5120,
+  "gloss": {
+    "english": [
+      "et cetera"
+    ],
+    "english_secondary": [
+      "and so on",
+      "and the rest",
+      "etc."
+    ],
+    "maori": [
+      "te mea te mea"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "et_cetera.5120.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "et_cetera.5120.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4765,
+        4785,
+        924,
+        6180,
+        1231,
+        2050,
+        6191,
+        4231,
+        1763,
+        4720,
+        5120
+      ],
+      "translation": "The mother was getting ready to go out with her baby. She thought of things to bring like milk, a bottle, nappies, etc."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "et_cetera-5120.png"
+}

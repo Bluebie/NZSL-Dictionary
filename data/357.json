@@ -1,0 +1,72 @@
+{
+  "nzsl_id": 357,
+  "gloss": {
+    "english": [
+      "cool",
+      "keep cool"
+    ],
+    "english_secondary": [
+      "stay cool",
+      "untroubled"
+    ],
+    "maori": [
+      "mauritau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "cool.357.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cool.357.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        303,
+        5832,
+        "cl:open-window",
+        357,
+        5536,
+        3658
+      ],
+      "translation": "I was hot so I opened a window to cool down. It felt good."
+    },
+    {
+      "video": "cool.357.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2184,
+        5632,
+        1095,
+        3844,
+        2297,
+        2050,
+        357
+      ],
+      "translation": "The boy bought a new jacket. He thought it was cool."
+    },
+    {
+      "video": "cool.357.finalexample3.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3027,
+        5736,
+        2543,
+        1892,
+        4546,
+        2556,
+        357
+      ],
+      "translation": "I didn't tell her about the surprise party. I kept cool."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cool-357.png"
+}

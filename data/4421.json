@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4421,
+  "gloss": {
+    "english": [
+      "word"
+    ],
+    "english_secondary": [
+      "password"
+    ],
+    "maori": [
+      "kupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "word.4421.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "word.4421.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1637,
+        2456,
+        4421,
+        2266,
+        4835,
+        2297
+      ],
+      "translation": "He explained the meaning of the English word."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "word-4421.png"
+}

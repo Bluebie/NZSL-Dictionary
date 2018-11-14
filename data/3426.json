@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 3426,
+  "gloss": {
+    "english": [
+      "accident",
+      "collide"
+    ],
+    "english_secondary": [
+      "collision",
+      "crash",
+      "pile-up",
+      "smash",
+      "vehicle crash"
+    ],
+    "maori": [
+      "aituā",
+      "tuki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "accident.3426.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accident.3426.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        721,
+        5817,
+        1900,
+        5129,
+        4520,
+        5833,
+        3196,
+        3426,
+        1505,
+        "fall"
+      ],
+      "translation": "If you want to make a claim to ACC you must have a doctor's certificate as proof that you had an accident and fell over."
+    },
+    {
+      "video": "accident.3426.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        3462,
+        3426
+      ],
+      "translation": "Last night two cars collided."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "accident-3426.png"
+}

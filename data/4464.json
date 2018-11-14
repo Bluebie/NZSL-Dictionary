@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4464,
+  "gloss": {
+    "english": [
+      "final"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whiringa toa",
+      "whakamutunga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "finally.4464.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "finally.4464.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4464,
+        893,
+        5623,
+        710,
+        585,
+        2253,
+        1297
+      ],
+      "translation": "In the RugbySevens final, New Zealand played Fiji."
+    },
+    {
+      "video": "finally.4464.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        6207,
+        1152,
+        4464,
+        2646,
+        1849
+      ],
+      "translation": "I'm now in my final year at university."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "final-4464.png"
+}

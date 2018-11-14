@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 785,
+  "gloss": {
+    "english": [
+      "park"
+    ],
+    "english_secondary": [
+      "domain",
+      "garden",
+      "playground",
+      "sports ground"
+    ],
+    "maori": [
+      "papa rēhia",
+      "pāka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "park.785.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "park.785.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1767,
+        4204,
+        2410,
+        785,
+        1926,
+        3590,
+        1796
+      ],
+      "translation": "I took my cousin to the park where we played on the swings and the climbing frame."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "park-785.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6517,
+  "gloss": {
+    "english": [
+      "jellyfish"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "petipeti moana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jellyfish.6517.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jellyfish.6517.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        2556,
+        721,
+        783,
+        2583,
+        3721,
+        6517,
+        2583
+      ],
+      "translation": "I didn't want to swim there. There were lots of jellyfish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "jellyfish-6517.png"
+}

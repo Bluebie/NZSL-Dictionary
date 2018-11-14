@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2441,
+  "gloss": {
+    "english": [
+      "myself"
+    ],
+    "english_secondary": [
+      "on my own"
+    ],
+    "maori": [
+      "ahau anake",
+      "ko tōku kotahi"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "myself.2441.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "myself.2441.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2441,
+        3587,
+        2299,
+        2583,
+        3278,
+        2569,
+        5620
+      ],
+      "translation": "I went on a bus to Hamilton by myself. It took four hours."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "myself-2441.png"
+}

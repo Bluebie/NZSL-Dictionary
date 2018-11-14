@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5411,
+  "gloss": {
+    "english": [
+      "full (tank)"
+    ],
+    "english_secondary": [
+      "fill up"
+    ],
+    "maori": [
+      "kī"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "full_tank.5411.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "full_tank.5411.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        2807,
+        6207,
+        5411
+      ],
+      "translation": "My petrol tank is now full."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "full_tank-5411.png"
+}

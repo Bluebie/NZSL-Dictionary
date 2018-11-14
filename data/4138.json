@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4138,
+  "gloss": {
+    "english": [
+      "put"
+    ],
+    "english_secondary": [
+      "deposit",
+      "place"
+    ],
+    "maori": [
+      "waiho",
+      "meatia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "put.4138.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "put.4138.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        2556,
+        4138,
+        3892,
+        2583,
+        3462,
+        2583
+      ],
+      "translation": "I think I put the keys in the car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "put-4138.png"
+}

@@ -1,0 +1,70 @@
+{
+  "nzsl_id": 1279,
+  "gloss": {
+    "english": [
+      "ago",
+      "before",
+      "past"
+    ],
+    "english_secondary": [
+      "former",
+      "formerly",
+      "in the past",
+      "originally",
+      "used to (be)"
+    ],
+    "maori": [
+      "nōnakuarā"
+    ],
+    "attributes": [
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "past.1279.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "past.1279.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        "cl:pierce-nose",
+        1463,
+        5607,
+        2646,
+        1279
+      ],
+      "translation": "She pierced her nose about a year ago."
+    },
+    {
+      "video": "past.1279.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1069,
+        2410,
+        1279,
+        5663,
+        5784
+      ],
+      "translation": "I had never been there before - this was the first time."
+    },
+    {
+      "video": "past.1279.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        2050,
+        1279,
+        2054,
+        1126
+      ],
+      "translation": "Forget about the past and move on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "past-1279.png"
+}

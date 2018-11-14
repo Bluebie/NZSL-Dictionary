@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3109,
+  "gloss": {
+    "english": [
+      "sausage roll"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tōtiti pōkai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sausage_roll.3109.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sausage_roll.3109.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2807,
+        3653,
+        2556,
+        924,
+        5632,
+        3109,
+        4022
+      ],
+      "translation": "After filling up at the petrol station, I went to buy a sausage roll and ate it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sausage_roll-3109.png"
+}

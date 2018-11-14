@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1527,
+  "gloss": {
+    "english": [
+      "frozen",
+      "ice"
+    ],
+    "english_secondary": [
+      "freeze",
+      "frost"
+    ],
+    "maori": [
+      "totoka",
+      "tio"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "freeze.1527.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "freeze.1527.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5536,
+        3420,
+        2556,
+        2562,
+        1527,
+        3420,
+        2556
+      ],
+      "translation": "I'm feeling cold. My feet are frozen, I'm so cold!"
+    },
+    {
+      "video": "freeze.1527.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        6250,
+        1766,
+        1527,
+        "cl:put-ice",
+        1501
+      ],
+      "translation": "I had a sprain. I got ice and put it on the sprain, and it healed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "frozen-1527.png"
+}

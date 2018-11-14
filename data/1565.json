@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1565,
+  "gloss": {
+    "english": [
+      "wow"
+    ],
+    "english_secondary": [
+      "amazing",
+      "attractive",
+      "desirable",
+      "far out",
+      "impressive",
+      "incredible",
+      "sexy"
+    ],
+    "maori": [
+      "ka mau te wehi"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "wow.1565.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wow.1565.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2583,
+        3220,
+        1565,
+        367,
+        5356,
+        "cl:abs-on-body"
+      ],
+      "translation": "Wow, that guy has a nice body - great abs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wow-1565.png"
+}

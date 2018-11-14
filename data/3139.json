@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 3139,
+  "gloss": {
+    "english": [
+      "empty (place)"
+    ],
+    "english_secondary": [
+      "deserted",
+      "no-one there",
+      "unoccupied",
+      "vacant"
+    ],
+    "maori": [
+      "wātea",
+      "tū kau"
+    ],
+    "attributes": [
+      "adjective",
+      "negator",
+      "pronoun"
+    ]
+  },
+  "video": "empty.3139.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "empty.3139.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4657,
+        2556,
+        648,
+        2556,
+        "see",
+        3139,
+        5137,
+        2556,
+        924
+      ],
+      "translation": "When I went into the Deaf Club I saw that it was empty, so I thought, \"never mind\", and went home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "empty_place-3139.png"
+}

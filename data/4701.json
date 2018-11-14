@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4701,
+  "gloss": {
+    "english": [
+      "get up"
+    ],
+    "english_secondary": [
+      "get out of bed"
+    ],
+    "maori": [
+      "maranga",
+      "matika"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_up.4701.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_up.4701.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4701,
+        "dress",
+        3878,
+        4785,
+        1894,
+        3587
+      ],
+      "translation": "I got up, dressed, had breakfast and then I was ready to catch the bus."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "get_up-4701.png"
+}

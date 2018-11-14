@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1357,
+  "gloss": {
+    "english": [
+      "lust"
+    ],
+    "english_secondary": [
+      "desire",
+      "fancy",
+      "randy"
+    ],
+    "maori": [
+      "tāmina",
+      "mate"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "hungry.1357.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hungry.1357.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1357,
+        2297,
+        1522,
+        3347,
+        2297
+      ],
+      "translation": "He lusted after that woman with the nice figure."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "lust-1357.png"
+}

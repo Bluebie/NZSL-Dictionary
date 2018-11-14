@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4291,
+  "gloss": {
+    "english": [
+      "December"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Hakihea",
+      "Tīhema"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_december.4291.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_december.4291.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1769,
+        2646,
+        4291,
+        2297,
+        3425,
+        4763,
+        2297
+      ],
+      "translation": "It's busy in December, at the end of the year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "december-4291.png"
+}

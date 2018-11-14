@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3571,
+  "gloss": {
+    "english": [
+      "break"
+    ],
+    "english_secondary": [
+      "fracture",
+      "sever",
+      "snap"
+    ],
+    "maori": [
+      "whati",
+      "pakaru"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "break.3571.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "break.3571.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4488,
+        2583,
+        2184,
+        1864,
+        2891,
+        3571,
+        962,
+        2339,
+        3994,
+        2533
+      ],
+      "translation": "At the river the boy was eager to dive in. He broke his shoulder and an ambulance had to be called."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "break-3571.png"
+}

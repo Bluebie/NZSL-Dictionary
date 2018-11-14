@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5064,
+  "gloss": {
+    "english": [
+      "serviette"
+    ],
+    "english_secondary": [
+      "napkin"
+    ],
+    "maori": [
+      "parehūhare"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "serviette.5064.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "serviette.5064.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5448,
+        5064,
+        721,
+        4022,
+        "cl:spill-on-top"
+      ],
+      "translation": "I used a serviette. I didn't want food to spill on my top."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "serviette-5064.png"
+}

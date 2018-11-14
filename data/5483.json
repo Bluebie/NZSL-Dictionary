@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5483,
+  "gloss": {
+    "english": [
+      "shrimp"
+    ],
+    "english_secondary": [
+      "prawn"
+    ],
+    "maori": [
+      "koeke",
+      "kōuraura"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shrimp.5483.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shrimp.5483.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        859,
+        2583,
+        5760,
+        5483,
+        1757,
+        2297
+      ],
+      "translation": "The boat there sells fresh shrimp."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shrimp-5483.png"
+}

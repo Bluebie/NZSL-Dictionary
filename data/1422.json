@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1422,
+  "gloss": {
+    "english": [
+      "copy"
+    ],
+    "english_secondary": [
+      "duplicate",
+      "photocopier",
+      "photocopy",
+      "Xerox"
+    ],
+    "maori": [
+      "tārua",
+      "kape"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "copy.1422.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "copy.1422.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        523,
+        1422,
+        3653,
+        2556,
+        "cl:give-book"
+      ],
+      "translation": "After the book has been photocopied, I will give it back."
+    },
+    {
+      "video": "copy.1422.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        3375,
+        5617,
+        1422,
+        2297
+      ],
+      "translation": "The woman made two copies."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "copy-1422.png"
+}

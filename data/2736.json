@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2736,
+  "gloss": {
+    "english": [
+      "in-law"
+    ],
+    "english_secondary": [
+      "in-laws"
+    ],
+    "maori": [
+      "hungarei"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "in_law.2736.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "in_law.2736.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        2736,
+        2533,
+        4201,
+        4022
+      ],
+      "translation": "My parents-in-law came and had lunch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "in_law-2736.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1954,
+  "gloss": {
+    "english": [
+      "heavy"
+    ],
+    "english_secondary": [
+      "weight"
+    ],
+    "maori": [
+      "taimaha"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "heavy.1954.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heavy.1954.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3406,
+        2297,
+        1954,
+        2556,
+        2096,
+        3583
+      ],
+      "translation": "The bag is heavy. I can't carry it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "heavy-1954.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3594,
+  "gloss": {
+    "english": [
+      "bend over"
+    ],
+    "english_secondary": [
+      "bend",
+      "bend down",
+      "bow",
+      "lean forward"
+    ],
+    "maori": [
+      "koiri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bend.3594.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bend.3594.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        906,
+        "cl:skirt-short",
+        2556,
+        2088,
+        3594
+      ],
+      "translation": "I have a very short skirt. I have to be careful about bending over."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "bend_over-3594.png"
+}

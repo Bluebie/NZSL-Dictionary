@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1569,
+  "gloss": {
+    "english": [
+      "disappointed",
+      "put up with"
+    ],
+    "english_secondary": [
+      "annoyed",
+      "endure",
+      "feel let down",
+      "live with",
+      "tolerate"
+    ],
+    "maori": [
+      "pōuri",
+      "whakarongo uka"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "disappointed.1569.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disappointed.1569.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4097,
+        4801,
+        2853,
+        2096,
+        924
+      ],
+      "translation": "I'm disappointed because I've run out of money, so I can't go."
+    },
+    {
+      "video": "disappointed.1569.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        4423,
+        2297,
+        4712,
+        2556,
+        1569,
+        1561
+      ],
+      "translation": "I had to put up with the pain when the nurse gave me an injection."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "disappointed-1569.png"
+}

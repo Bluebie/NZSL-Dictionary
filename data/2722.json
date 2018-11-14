@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2722,
+  "gloss": {
+    "english": [
+      "because"
+    ],
+    "english_secondary": [
+      "as",
+      "since"
+    ],
+    "maori": [
+      "nō te mea",
+      "i te mea",
+      "nā te mea"
+    ],
+    "attributes": [
+      "conjunction"
+    ]
+  },
+  "video": "because.2722.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "because.2722.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2804,
+        2583,
+        607,
+        2722,
+        2982,
+        5738
+      ],
+      "translation": "The road was closed because there was snow in the area."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "because-2722.png"
+}

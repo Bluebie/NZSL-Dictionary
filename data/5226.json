@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5226,
+  "gloss": {
+    "english": [
+      "style",
+      "stylish"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāera"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "style.5226.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "style.5226.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6075,
+        2297,
+        4356,
+        "cl:flower-pattern",
+        2297,
+        762,
+        5226,
+        5225
+      ],
+      "translation": "Those flower patterned curtains are not my style. I can't stand them."
+    },
+    {
+      "video": "style.5226.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2287,
+        3084,
+        723,
+        5226
+      ],
+      "translation": "The ladies wore stylish formal clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "style-5226.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3016,
+  "gloss": {
+    "english": [
+      "cafe"
+    ],
+    "english_secondary": [
+      "cafeteria",
+      "coffee bar",
+      "tearoom"
+    ],
+    "maori": [
+      "wharekai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cafe.3016.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cafe.3016.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        566,
+        2461,
+        5789,
+        3016,
+        4271
+      ],
+      "translation": "I arranged to meet a friend at a cafe to catch up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "cafe-3016.png"
+}

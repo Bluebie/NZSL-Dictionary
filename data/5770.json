@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5770,
+  "gloss": {
+    "english": [
+      "prefix"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kuhimua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "prefix.5770.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "prefix.5770.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2456,
+        2789,
+        2297,
+        4501,
+        1105,
+        4421,
+        5770
+      ],
+      "translation": "The English language can add prefixes to words."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "prefix-5770.png"
+}

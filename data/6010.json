@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6010,
+  "gloss": {
+    "english": [
+      "question"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pātai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "question.6010.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "question.6010.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2055,
+        2297,
+        3009,
+        6010,
+        523,
+        3283,
+        648
+      ],
+      "translation": "The customs officer asked me some questions. Then he stamped my passport and I was admitted."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "question-6010.png"
+}

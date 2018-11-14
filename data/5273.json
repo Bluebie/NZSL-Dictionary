@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5273,
+  "gloss": {
+    "english": [
+      "bilingual"
+    ],
+    "english_secondary": [
+      "bilingualism"
+    ],
+    "maori": [
+      "reorua"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bilingual.5273.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bilingual.5273.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5273,
+        4054,
+        2297,
+        1638,
+        4656,
+        5389,
+        4501,
+        398,
+        2953,
+        3261,
+        2456
+      ],
+      "translation": "Bilingual education means that deaf children can access an education through both NZSL and English."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "bilingual-5273.png"
+}

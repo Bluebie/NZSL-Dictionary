@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 5964,
+  "gloss": {
+    "english": [
+      "chair",
+      "sit"
+    ],
+    "english_secondary": [
+      "sit down"
+    ],
+    "maori": [
+      "tūru",
+      "noho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "chair.5964.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chair.5964.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4503,
+        2297,
+        5964,
+        5396
+      ],
+      "translation": "The cat hid under the chair."
+    },
+    {
+      "video": "chair.5964.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        648,
+        4731,
+        5964
+      ],
+      "translation": "I boarded the plane and sat down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "chair-5964.png"
+}

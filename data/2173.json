@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2173,
+  "gloss": {
+    "english": [
+      "name"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ingoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "name.2173.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "name.2173.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2953,
+        1376,
+        1231,
+        2184,
+        5775,
+        "fs:dave"
+      ],
+      "translation": "They have a baby boy. His name is Dave."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "name-2173.png"
+}

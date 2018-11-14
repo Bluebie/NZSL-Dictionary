@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2391,
+  "gloss": {
+    "english": [
+      "negative"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wairua hākerekere"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "negative.2391.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "negative.2391.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        798,
+        2297,
+        5269,
+        2391
+      ],
+      "translation": "I'm fed up with her negative attitude."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "negative-2391.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2363,
+  "gloss": {
+    "english": [
+      "escape"
+    ],
+    "english_secondary": [
+      "break out",
+      "refugee",
+      "run away",
+      "take off"
+    ],
+    "maori": [
+      "oma"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "escape.2363.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "escape.2363.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1338,
+        2095,
+        3434,
+        4503,
+        2297,
+        2215,
+        2532,
+        2363
+      ],
+      "translation": "When people visit us, the cat is easily frightened and runs away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "escape-2363.png"
+}

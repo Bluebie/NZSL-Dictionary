@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4239,
+  "gloss": {
+    "english": [
+      "Easter"
+    ],
+    "english_secondary": [
+      "Easter egg"
+    ],
+    "maori": [
+      "Aranga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "easter.4239.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "easter.4239.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4239,
+        2556,
+        273,
+        2398,
+        5389,
+        2831
+      ],
+      "translation": "At Easter, I hid eggs and the children hunted for them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Easter-4239.png"
+}

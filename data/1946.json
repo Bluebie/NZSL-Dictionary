@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 1946,
+  "gloss": {
+    "english": [
+      "hold"
+    ],
+    "english_secondary": [
+      "grasp",
+      "grip",
+      "keep",
+      "possess",
+      "retain"
+    ],
+    "maori": [
+      "pupuri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hold.1946.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hold.1946.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        3707,
+        4955,
+        2323,
+        1490,
+        1946,
+        5039
+      ],
+      "translation": "Each team held a flag at the school sports competition."
+    },
+    {
+      "video": "hold.1946.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1403,
+        5622,
+        4763,
+        2780,
+        2297,
+        1946,
+        797,
+        2549
+      ],
+      "translation": "I took a six month holiday. My boss held my job for me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hold-1946.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3947,
+  "gloss": {
+    "english": [
+      "rubber"
+    ],
+    "english_secondary": [
+      "erase",
+      "eraser",
+      "rub out"
+    ],
+    "maori": [
+      "muku"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rubber_eraser.3947.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rubber_eraser.3947.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3867,
+        4565,
+        2321,
+        1376,
+        3947,
+        2321
+      ],
+      "translation": "I've written something down wrong. Do you have a rubber?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rubber-3947.png"
+}

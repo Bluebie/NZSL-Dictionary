@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5067,
+  "gloss": {
+    "english": [
+      "surveying"
+    ],
+    "english_secondary": [
+      "(land) survey",
+      "surveyor"
+    ],
+    "maori": [
+      "rūri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "surveying.5067.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "surveying.5067.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        5067,
+        5585,
+        3802,
+        5833
+      ],
+      "translation": "He works in surveying, using measurements to draw a map."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "surveying-5067.png"
+}

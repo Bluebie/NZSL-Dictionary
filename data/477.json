@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 477,
+  "gloss": {
+    "english": [
+      "abuse"
+    ],
+    "english_secondary": [
+      "molest",
+      "physical abuse",
+      "sexual abuse"
+    ],
+    "maori": [
+      "tūkino"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "abuse.477.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "abuse.477.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        "grow-up",
+        "family",
+        477,
+        2297
+      ],
+      "translation": "His family abused him when he was growing up."
+    },
+    {
+      "video": "abuse.477.finalexample2.jo.480x360.mp4",
+      "signs": [
+        2297,
+        3736,
+        5981,
+        1637,
+        2543,
+        954,
+        477
+      ],
+      "translation": "He set up a workshop on child abuse."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "abuse-477.png"
+}

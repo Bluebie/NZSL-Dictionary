@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3916,
+  "gloss": {
+    "english": [
+      "curtains"
+    ],
+    "english_secondary": [
+      "drapes",
+      "open/close curtains"
+    ],
+    "maori": [
+      "ārai"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "curtains.3916.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "curtains.3916.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        6014,
+        3663,
+        3916,
+        2840,
+        3447
+      ],
+      "translation": "I'm keen to throw out the ugly curtains in my room."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "curtains-3916.png"
+}

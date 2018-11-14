@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 541,
+  "gloss": {
+    "english": [
+      "heart attack"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "manawa hē",
+      "mate manawa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "heart_attack.541.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heart_attack.541.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3337,
+        483,
+        5617,
+        2646,
+        1279,
+        "heart-attack"
+      ],
+      "translation": "My grandfather died two years ago from a heart attack."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "heart_attack-541.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1324,
+  "gloss": {
+    "english": [
+      "weather"
+    ],
+    "english_secondary": [
+      "climate"
+    ],
+    "maori": [
+      "huarere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "weather.1324.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "weather.1324.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5391,
+        3811,
+        1376,
+        5484,
+        5084,
+        2297,
+        1324,
+        1126
+      ],
+      "translation": "Whether they will go ahead with the fireworks tonight depends on the weather."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "weather-1324.png"
+}

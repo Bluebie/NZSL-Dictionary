@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2114,
+  "gloss": {
+    "english": [
+      "unexpected"
+    ],
+    "english_secondary": [
+      "out of the blue",
+      "surprising",
+      "there it was",
+      "unforeseen"
+    ],
+    "maori": [
+      "tūpono atu",
+      "tūpono noa"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "unexpected.2114.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unexpected.2114.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5731,
+        2883,
+        2460,
+        2841,
+        2021,
+        2114
+      ],
+      "translation": "At the shops, I unexpectedly bumped into my old teacher."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "unexpected-2114.png"
+}

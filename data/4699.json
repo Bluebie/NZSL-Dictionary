@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4699,
+  "gloss": {
+    "english": [
+      "family"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whānau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "family.4699.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "family.4699.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1636,
+        2362,
+        5607,
+        2556,
+        4656,
+        5607
+      ],
+      "translation": "I'm the only Deaf person in my family."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "family-4699.png"
+}

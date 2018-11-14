@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5731,
+  "gloss": {
+    "english": [
+      "shop"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "toa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shop.5731.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shop.5731.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        924,
+        5731,
+        5632,
+        4264
+      ],
+      "translation": "I went to the shop to buy a drink."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "shop-5731.png"
+}

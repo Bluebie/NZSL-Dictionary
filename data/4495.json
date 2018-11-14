@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4495,
+  "gloss": {
+    "english": [
+      "crew cut"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mōtihetihe"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "crew_cut.4495.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "crew_cut.4495.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3220,
+        4495,
+        4351,
+        2297,
+        762,
+        824,
+        3299,
+        2297
+      ],
+      "translation": "That man with the crew cut and the moustache is my flatmate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "crew_cut-4495.png"
+}

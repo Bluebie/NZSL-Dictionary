@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5492,
+  "gloss": {
+    "english": [
+      "greedy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pukukai",
+      "pukurua"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "greedy.5492.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "greedy.5492.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6282,
+        5492,
+        4022,
+        4022,
+        4801
+      ],
+      "translation": "They were greedy and ate all the food."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "greedy-5492.png"
+}

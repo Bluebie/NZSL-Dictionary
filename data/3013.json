@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3013,
+  "gloss": {
+    "english": [
+      "free"
+    ],
+    "english_secondary": [
+      "cost nothing",
+      "for nothing",
+      "without paying"
+    ],
+    "maori": [
+      "kore utu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "free.3013.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "free.3013.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3850,
+        5617,
+        5391,
+        1220,
+        5607,
+        1105,
+        5391,
+        3013
+      ],
+      "translation": "I paid for two nights and they gave me one extra night for free."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "free-3013.png"
+}

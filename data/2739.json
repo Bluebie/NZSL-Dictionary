@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 2739,
+  "gloss": {
+    "english": [
+      "fire"
+    ],
+    "english_secondary": [
+      "dismiss",
+      "sack",
+      "shoot at"
+    ],
+    "maori": [
+      "pūhia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fired.2739.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fired.2739.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2832,
+        "cl:rabbit-run-across",
+        2556,
+        2739,
+        2237
+      ],
+      "translation": "The rabbit was hopping in front of me. I fired at it and killed it."
+    },
+    {
+      "video": "fired.2739.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1031,
+        2758,
+        797,
+        2780,
+        798,
+        2739
+      ],
+      "translation": "He arrived late for work. The boss was fed up and fired him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fire-2739.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6103,
+  "gloss": {
+    "english": [
+      "habit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āhua",
+      "tikanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "habit.6103.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "habit.6103.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        4581,
+        6103,
+        1747,
+        "cl:bite-nails"
+      ],
+      "translation": "She has a bad habit. She's always biting her nails."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "habit-6103.png"
+}

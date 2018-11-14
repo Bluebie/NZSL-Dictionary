@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3943,
+  "gloss": {
+    "english": [
+      "news",
+      "newspaper"
+    ],
+    "english_secondary": [
+      "magazine",
+      "newsletter",
+      "press"
+    ],
+    "maori": [
+      "pūrongo",
+      "nūpepa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "newspaper.3943.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "newspaper.3943.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3658,
+        3943,
+        2266,
+        3300,
+        2111,
+        5643
+      ],
+      "translation": "Good news! My sister is pregnant."
+    },
+    {
+      "video": "newspaper.3943.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4809,
+        3653,
+        889,
+        2895,
+        3943
+      ],
+      "translation": "I haven't read all of the newspaper yet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "news-3943.png"
+}

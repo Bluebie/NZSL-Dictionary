@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6570,
+  "gloss": {
+    "english": [
+      "scrum (rugby)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kakari"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "scrum.6570.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "scrum.6570.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4790,
+        4128,
+        5496,
+        908,
+        6570
+      ],
+      "translation": "Australia dropped the ball, so now there will be a scrum."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "scrum_rugby-6570.png"
+}

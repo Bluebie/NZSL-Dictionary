@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6045,
+  "gloss": {
+    "english": [
+      "rainbow"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āniwaniwa",
+      "kōpere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rainbow.6045.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rainbow.6045.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        6045,
+        2583,
+        2844,
+        4030,
+        2480,
+        1539
+      ],
+      "translation": "The rainbow looked beautiful with all the different colours."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rainbow-6045.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4187,
+  "gloss": {
+    "english": [
+      "country"
+    ],
+    "english_secondary": [
+      "nation",
+      "rural"
+    ],
+    "maori": [
+      "whenua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "country.4187.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "country.4187.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2607,
+        3658,
+        1553,
+        503,
+        1505,
+        2480,
+        4187,
+        1388,
+        1211
+      ],
+      "translation": "It was a good meeting with delegates from many different countries participating."
+    },
+    {
+      "video": "country.4187.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        959,
+        4187,
+        3701,
+        5738
+      ],
+      "translation": "I grew up in the country, in a farming area."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "country-4187.png"
+}

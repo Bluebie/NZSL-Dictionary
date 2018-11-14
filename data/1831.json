@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1831,
+  "gloss": {
+    "english": [
+      "argue"
+    ],
+    "english_secondary": [
+      "argument",
+      "quarrel",
+      "row",
+      "squabble"
+    ],
+    "maori": [
+      "tautohetohe",
+      "rīriri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "row_argument.1831.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "row_argument.1831.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2879,
+        1831,
+        1220,
+        5449,
+        2297
+      ],
+      "translation": "We argue. He stresses me out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "argue-1831.png"
+}

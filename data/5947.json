@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5947,
+  "gloss": {
+    "english": [
+      "transition"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauwhiro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "transition.5947.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "transition.5947.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3546,
+        4656,
+        1298,
+        5947,
+        5617,
+        2646,
+        "involve",
+        4222,
+        4604,
+        2556,
+        1447
+      ],
+      "translation": "The two year transition program at Kelston Deaf school gave me a chance to decide what courses I liked."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "transition-5947.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3710,
+  "gloss": {
+    "english": [
+      "revenge"
+    ],
+    "english_secondary": [
+      "get even",
+      "get one's own back",
+      "pay back",
+      "reprisal"
+    ],
+    "maori": [
+      "utu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "revenge.3710.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "revenge.3710.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1432,
+        2556,
+        3645,
+        2556,
+        3710
+      ],
+      "translation": "If you tease me and bully me, I will get my own back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "revenge-3710.png"
+}

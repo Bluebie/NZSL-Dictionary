@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4417,
+  "gloss": {
+    "english": [
+      "condom"
+    ],
+    "english_secondary": [
+      "put on a condom"
+    ],
+    "maori": [
+      "pūkoro ure"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "condom.4417.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "condom.4417.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4689,
+        872,
+        "cl:open-present",
+        2297,
+        4417,
+        1569,
+        2751
+      ],
+      "translation": "My father opened his present - it was a condom! He was a good sport and had a laugh about it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "condom-4417.png"
+}

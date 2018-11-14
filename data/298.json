@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 298,
+  "gloss": {
+    "english": [
+      "fever"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kirikā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fever.298.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fever.298.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3213,
+        4614,
+        964,
+        298,
+        4765,
+        1767,
+        2410,
+        4520
+      ],
+      "translation": "I was very sick and it was getting worse with a high fever, so my mum took me to the doctor."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "fever-298.png"
+}

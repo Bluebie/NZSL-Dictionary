@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1788,
+  "gloss": {
+    "english": [
+      "grudge"
+    ],
+    "english_secondary": [
+      "brood over"
+    ],
+    "maori": [
+      "whakamau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "grudge.1788.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grudge.1788.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1788,
+        4189,
+        2556,
+        954,
+        2124,
+        3447
+      ],
+      "translation": "He still bears a grudge. He remembers when I was a child and threw a lolly at him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "grudge-1788.png"
+}

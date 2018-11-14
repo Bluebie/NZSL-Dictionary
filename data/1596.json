@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1596,
+  "gloss": {
+    "english": [
+      "express (feelings)"
+    ],
+    "english_secondary": [
+      "divulge",
+      "get off one's chest",
+      "let out one's feelings"
+    ],
+    "maori": [
+      "whakapuaki",
+      "whakaputa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "express.1596.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "express.1596.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4029,
+        1107,
+        3720,
+        1596
+      ],
+      "translation": "She wouldn't say anything for a long time, but finally, she's expressing her feelings."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "express_feelings-1596.png"
+}

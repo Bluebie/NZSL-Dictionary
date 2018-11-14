@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1555,
+  "gloss": {
+    "english": [
+      "body"
+    ],
+    "english_secondary": [
+      "figure",
+      "physical"
+    ],
+    "maori": [
+      "tinana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "body.1555.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "body.1555.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1926,
+        5634,
+        5818,
+        264,
+        1555,
+        1246
+      ],
+      "translation": "I played cricket all day so my body felt stiff."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "body-1555.png"
+}

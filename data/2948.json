@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2948,
+  "gloss": {
+    "english": [
+      "programme"
+    ],
+    "english_secondary": [
+      "computer program",
+      "educational programme"
+    ],
+    "maori": [
+      "hōtaka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "programme.2948.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "programme.2948.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2382,
+        2948,
+        1865,
+        5334,
+        2321,
+        2844
+      ],
+      "translation": "The television programme is interesting and is worth watching."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "programme-2948.png"
+}

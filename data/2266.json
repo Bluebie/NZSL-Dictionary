@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 2266,
+  "gloss": {
+    "english": [
+      "what"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "he aha"
+    ],
+    "attributes": [
+      "determiner",
+      "interrogative",
+      "pronoun"
+    ]
+  },
+  "video": "what.2266.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "what.2266.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2515,
+        872,
+        721,
+        2266,
+        2321
+      ],
+      "translation": "What do you want for your birthday present?"
+    },
+    {
+      "video": "what.2266.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4527,
+        3741,
+        3230,
+        2266,
+        2021,
+        5736,
+        2556,
+        4527,
+        4370
+      ],
+      "translation": "I'm finding it a little hard to understand what the teacher's saying. It's a bit over my head."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "what-2266.png"
+}

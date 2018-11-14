@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4970,
+  "gloss": {
+    "english": [
+      "hat"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pōtae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hat.4970.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hat.4970.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4970,
+        2556,
+        2844,
+        239,
+        "cl:adjust-hat"
+      ],
+      "translation": "I looked in the mirror to adjust my hat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "hat-4970.png"
+}

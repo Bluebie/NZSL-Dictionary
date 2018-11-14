@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4470,
+  "gloss": {
+    "english": [
+      "break an egg"
+    ],
+    "english_secondary": [
+      "egg"
+    ],
+    "maori": [
+      "me wāhi te hēki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "egg.4470.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "egg.4470.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        771,
+        "egg",
+        5663,
+        1187,
+        "break-an-egg",
+        3980
+      ],
+      "translation": "To cook the egg, first break it into a bowl and  whisk it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "break_an_egg-4470.png"
+}

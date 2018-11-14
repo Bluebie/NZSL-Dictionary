@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 2253,
+  "gloss": {
+    "english": [
+      "challenge",
+      "versus"
+    ],
+    "english_secondary": [
+      "compete against",
+      "game",
+      "match",
+      "sports event"
+    ],
+    "maori": [
+      "wero",
+      "ki"
+    ],
+    "attributes": [
+      "noun",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "against.2253.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "against.2253.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3235,
+        2729,
+        5620,
+        5617,
+        3547,
+        3658,
+        2253
+      ],
+      "translation": "I ran a long distance: forty-two kilometres. It was a good challenge."
+    },
+    {
+      "video": "against.2253.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        4756,
+        2844,
+        893,
+        5860,
+        2253,
+        3278
+      ],
+      "translation": "The three of us watched the rugby - Canterbury versus Waikato."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "challenge-2253.png"
+}

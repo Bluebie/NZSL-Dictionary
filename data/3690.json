@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 3690,
+  "gloss": {
+    "english": [
+      "expel",
+      "get out"
+    ],
+    "english_secondary": [
+      "dismiss",
+      "fire",
+      "get the sack",
+      "lay off",
+      "leave",
+      "lose one's job",
+      "out",
+      "tell off",
+      "throw out"
+    ],
+    "maori": [
+      "panaia"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "expel.3690.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expel.3690.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2135,
+        1090,
+        3690,
+        1298
+      ],
+      "translation": "The girl got in trouble and was expelled from school."
+    },
+    {
+      "video": "expel.3690.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        5389,
+        648,
+        5471,
+        2556,
+        5736,
+        3690,
+        2293,
+        2579
+      ],
+      "translation": "Some children came into the pub. I told them to get out, that they weren't allowed in there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "expel-3690.png"
+}

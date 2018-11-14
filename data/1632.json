@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 1632,
+  "gloss": {
+    "english": [
+      "lotion",
+      "ointment"
+    ],
+    "english_secondary": [
+      "apply lotion",
+      "cream",
+      "smear"
+    ],
+    "maori": [
+      "pani"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "ointment.1632.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ointment.1632.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        "cl:skin",
+        1394,
+        1747,
+        1632,
+        "cl:cream-hand"
+      ],
+      "translation": "My skin is dry so I always use hand lotion."
+    },
+    {
+      "video": "ointment.1632.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2917,
+        2518,
+        2556,
+        1632,
+        3873
+      ],
+      "translation": "My son cut his hand, so I rubbed ointment on it then bandaged it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "lotion-1632.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4094,
+  "gloss": {
+    "english": [
+      "spa"
+    ],
+    "english_secondary": [
+      "jacuzzi"
+    ],
+    "maori": [
+      "wai koropupū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spa.4094.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spa.4094.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1239,
+        2623,
+        4201,
+        6310,
+        1031,
+        5391,
+        4094,
+        1376,
+        367
+      ],
+      "translation": "I left Auckland at lunchtime and arrived at night. There was a spa which was lovely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "spa-4094.png"
+}

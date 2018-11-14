@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4247,
+  "gloss": {
+    "english": [
+      "Canada"
+    ],
+    "english_secondary": [
+      "Canadian"
+    ],
+    "maori": [
+      "Kānata"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Canada.4247.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Canada.4247.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4247,
+        6207,
+        5413,
+        4534,
+        4573
+      ],
+      "translation": "Flights to Canada are discounted at the moment."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Canada-4247.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2933,
+  "gloss": {
+    "english": [
+      "two weeks"
+    ],
+    "english_secondary": [
+      "fortnight"
+    ],
+    "maori": [
+      "rua wiki"
+    ],
+    "attributes": [
+      "numeral",
+      "phrase"
+    ]
+  },
+  "video": "two_weeks.2933.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "two_weeks.2933.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2314,
+        5405,
+        402,
+        903,
+        2933
+      ],
+      "translation": "We stayed at the camp for two weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "two_weeks-2933.png"
+}

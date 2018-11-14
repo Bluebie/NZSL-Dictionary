@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 970,
+  "gloss": {
+    "english": [
+      "recently"
+    ],
+    "english_secondary": [
+      "a short time ago",
+      "lately",
+      "not long ago",
+      "recent"
+    ],
+    "maori": [
+      "inā noa nei"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "not_long_ago.970.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_long_ago.970.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        970,
+        2297,
+        4128,
+        3044,
+        5398,
+        1276
+      ],
+      "translation": "He recently lost his watch but insurance covered it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "recently-970.png"
+}

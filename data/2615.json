@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2615,
+  "gloss": {
+    "english": [
+      "anniversary"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huritau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "anniversary.2615.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "anniversary.2615.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2953,
+        3824,
+        5716,
+        2646,
+        3048,
+        2615
+      ],
+      "translation": "They celebrated their 25th wedding anniversary."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "anniversary-2615.png"
+}

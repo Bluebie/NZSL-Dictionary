@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2101,
+  "gloss": {
+    "english": [
+      "Samoa"
+    ],
+    "english_secondary": [
+      "Samoan"
+    ],
+    "maori": [
+      "Hāmoa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "samoa.2101.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Samoa.2101.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        4794,
+        2101,
+        3140
+      ],
+      "translation": "I have been to the island of Samoa."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "Samoa-2101.png"
+}

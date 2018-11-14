@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2433,
+  "gloss": {
+    "english": [
+      "heartbeat"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kakapa o te manawa",
+      "pātuki o te manawa"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "heartbeat.2433.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heartbeat.2433.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4423,
+        4405,
+        5865,
+        2433,
+        3658
+      ],
+      "translation": "The nurse examined me and checked my heartbeat. It was good."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "heartbeat-2433.png"
+}

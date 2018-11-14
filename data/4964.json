@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4964,
+  "gloss": {
+    "english": [
+      "go away"
+    ],
+    "english_secondary": [
+      "be off",
+      "bug off",
+      "buzz off",
+      "get lost",
+      "get out",
+      "scram",
+      "vamoose"
+    ],
+    "maori": [
+      "haere atu"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "go_away.4964.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_away.4964.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4964,
+        3425,
+        3929
+      ],
+      "translation": "Go away, I'm busy vaccuming."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "go_away-4964.png"
+}

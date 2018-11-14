@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5203,
+  "gloss": {
+    "english": [
+      "miscommunicate"
+    ],
+    "english_secondary": [
+      "miscommunication",
+      "communication breakdown"
+    ],
+    "maori": [
+      "kāore i mārama tētahi ki tētahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "miscommunicate.5203.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "miscommunicate.5203.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        5203,
+        3063,
+        5848,
+        3684,
+        4261
+      ],
+      "translation": "We had a miscommunication, so we got an interpreter so that we could communicate better."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "miscommunicate-5203.png"
+}

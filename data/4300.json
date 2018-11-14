@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4300,
+  "gloss": {
+    "english": [
+      "model"
+    ],
+    "english_secondary": [
+      "copy",
+      "imitate"
+    ],
+    "maori": [
+      "tauira"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "model.4300.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "model.4300.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        4394,
+        2297,
+        3658,
+        4300,
+        2404,
+        2844,
+        1514,
+        2479,
+        566
+      ],
+      "translation": "That project is a good model. Others can look to it and use the same approach to organising."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "model-4300.png"
+}

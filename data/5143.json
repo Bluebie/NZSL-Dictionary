@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5143,
+  "gloss": {
+    "english": [
+      "snigger"
+    ],
+    "english_secondary": [
+      "laugh at"
+    ],
+    "maori": [
+      "whakareko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "snigger.5143.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "snigger.5143.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5632,
+        1095,
+        4307,
+        2050,
+        357,
+        850,
+        2825,
+        5143
+      ],
+      "translation": "He bought new shoes. He thought they were cool, but we all sniggered when we saw them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "snigger-5143.png"
+}

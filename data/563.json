@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 563,
+  "gloss": {
+    "english": [
+      "unsure"
+    ],
+    "english_secondary": [
+      "can't make up mind",
+      "indecisive",
+      "uncertain",
+      "vacillate",
+      "waver"
+    ],
+    "maori": [
+      "rangirua",
+      "ngākaurua"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "unsure.563.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unsure.563.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1553,
+        2117,
+        2095,
+        1451,
+        1287,
+        4261,
+        4656,
+        2095
+      ],
+      "translation": "Many people are unsure how to communicate with Deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "unsure-563.png"
+}

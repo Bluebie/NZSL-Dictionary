@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4224,
+  "gloss": {
+    "english": [
+      "dollar"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāra"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dollar.4224.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dollar.4224.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3009,
+        4097,
+        5405,
+        5607,
+        5391,
+        4756,
+        5620,
+        5622,
+        5619,
+        4224,
+        4534
+      ],
+      "translation": "I asked how much it would be to stay 1 night for four of us, and it was $63. That's cheap!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "dollar-4224.png"
+}

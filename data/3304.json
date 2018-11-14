@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3304,
+  "gloss": {
+    "english": [
+      "dear"
+    ],
+    "english_secondary": [
+      "affection",
+      "beloved",
+      "darling"
+    ],
+    "maori": [
+      "e kare",
+      "e te tau",
+      "e hika"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "darling.3304.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "darling.3304.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2515,
+        3304,
+        5794
+      ],
+      "translation": "Happy birthday dear Mum!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "dear-3304.png"
+}

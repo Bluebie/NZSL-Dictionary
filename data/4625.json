@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4625,
+  "gloss": {
+    "english": [
+      "September"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Mahuru",
+      "Hepetema"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_september.4625.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_september.4625.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4625,
+        1306,
+        1403,
+        3885,
+        2540,
+        1178
+      ],
+      "translation": "We'll be away for the school holidays this September."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "september-4625.png"
+}

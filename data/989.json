@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 989,
+  "gloss": {
+    "english": [
+      "determined"
+    ],
+    "english_secondary": [
+      "set on",
+      "tenacious"
+    ],
+    "maori": [
+      "totohe",
+      "tohe tonu",
+      "pūkeke"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "mad.989.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mad.989.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        989,
+        3812,
+        "give-up"
+      ],
+      "translation": "He's determined and won't give up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "determined-989.png"
+}

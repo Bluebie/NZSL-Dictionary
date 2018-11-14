@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5283,
+  "gloss": {
+    "english": [
+      "curriculum"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "marautanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "curriculum.5283.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "curriculum.5283.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2540,
+        5274,
+        3867,
+        3261,
+        5283,
+        903,
+        2021,
+        4054
+      ],
+      "translation": "We brainstormed ideas to write an NZSL curriculum for teachers to teach."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "curriculum-5283.png"
+}

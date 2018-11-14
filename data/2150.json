@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2150,
+  "gloss": {
+    "english": [
+      "bawl"
+    ],
+    "english_secondary": [
+      "cry",
+      "cry a lot",
+      "weep"
+    ],
+    "maori": [
+      "auē",
+      "hāmama"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cry.2150.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cry.2150.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4766,
+        5450,
+        2556,
+        4656,
+        2953,
+        1533,
+        2150
+      ],
+      "translation": "When my mother and father found out that I was deaf they were  very upset and cried a lot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "bawl-2150.png"
+}

@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 3725,
+  "gloss": {
+    "english": [
+      "alright"
+    ],
+    "english_secondary": [
+      "OK",
+      "okay",
+      "yes"
+    ],
+    "maori": [
+      "kei te pai"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "alright.3725.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "alright.3725.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        3725
+      ],
+      "translation": "Are you alright?"
+    },
+    {
+      "video": "alright.3725.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1279,
+        4054,
+        3725
+      ],
+      "translation": "My education was alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "alright-3725.png"
+}

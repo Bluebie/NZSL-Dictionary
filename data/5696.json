@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5696,
+  "gloss": {
+    "english": [
+      "nine"
+    ],
+    "english_secondary": [
+      "9"
+    ],
+    "maori": [
+      "iwa"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "nine.5696.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nine.5696.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2099,
+        5620,
+        1171,
+        2931,
+        2556,
+        324,
+        3193,
+        5696,
+        2646
+      ],
+      "translation": "When I was four, I went to van Asch. I boarded there for nine years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nine-5696.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3031,
+  "gloss": {
+    "english": [
+      "spotted"
+    ],
+    "english_secondary": [
+      "spots",
+      "spotty"
+    ],
+    "maori": [
+      "kōtingotingo",
+      "korotiwhatiwha"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "spotted.3031.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spotted.3031.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        4343,
+        1545,
+        3031,
+        346,
+        253,
+        1555
+      ],
+      "translation": "I saw a big, spotted, dark grey kiwi."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "spotted-3031.png"
+}

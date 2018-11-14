@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1818,
+  "gloss": {
+    "english": [
+      "disease"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mate"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "disease.1818.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disease.1818.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3337,
+        483,
+        669,
+        1818,
+        4326
+      ],
+      "translation": "My grandfather died from some kind of disease."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "disease-1818.png"
+}

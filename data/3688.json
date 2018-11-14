@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3688,
+  "gloss": {
+    "english": [
+      "proud",
+      "show off"
+    ],
+    "english_secondary": [
+      "boast",
+      "brag",
+      "take pride in"
+    ],
+    "maori": [
+      "whakahīhī",
+      "whakamenemene"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "proud.3688.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "proud.3688.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        1095,
+        3339,
+        2297,
+        3688,
+        2297
+      ],
+      "translation": "He has a new grandson and is very proud."
+    },
+    {
+      "video": "proud.3688.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3688,
+        1376,
+        1095,
+        3462
+      ],
+      "translation": "He was showing off with his new car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "proud-3688.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2741,
+  "gloss": {
+    "english": [
+      "eleven"
+    ],
+    "english_secondary": [
+      "11"
+    ],
+    "maori": [
+      "tekau mā tahi"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "numbers_11.2741.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_11.2741.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4616,
+        1376,
+        2741,
+        4008,
+        2583,
+        3701,
+        2297,
+        4231
+      ],
+      "translation": "My uncle has eleven cows to milk on his farm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eleven-2741.png"
+}

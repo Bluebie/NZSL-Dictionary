@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 3021,
+  "gloss": {
+    "english": [
+      "needle",
+      "sew"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngira",
+      "tuitui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "needle.3021.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "needle.3021.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        "cl:elbow-hole",
+        2321,
+        1376,
+        3021,
+        2321
+      ],
+      "translation": "My top has a hole at the elbow. Do you have a needle?"
+    },
+    {
+      "video": "needle.3021.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4689,
+        2297,
+        1747,
+        3021,
+        751,
+        "net",
+        6433,
+        3021
+      ],
+      "translation": "My father always sewed fishing nets."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "needle-3021.png"
+}

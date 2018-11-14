@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5363,
+  "gloss": {
+    "english": [
+      "cooperate",
+      "coordinator"
+    ],
+    "english_secondary": [
+      "cooperation",
+      "coordinate",
+      "coordination",
+      "work together"
+    ],
+    "maori": [
+      "mahi tahi",
+      "mahi ngātahi",
+      "kaituitui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cooperate.5363.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cooperate.5363.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        4844,
+        5363,
+        5348,
+        1165,
+        1465
+      ],
+      "translation": "All of the executive cooperate, emailing each other every week."
+    },
+    {
+      "video": "cooperate.5363.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3063,
+        3700,
+        4222,
+        2297,
+        797,
+        2948,
+        5363
+      ],
+      "translation": "She works as the programme coordinator for the interpreter training course."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cooperate-5363.png"
+}

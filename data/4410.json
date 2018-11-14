@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4410,
+  "gloss": {
+    "english": [
+      "nuts"
+    ],
+    "english_secondary": [
+      "peanuts"
+    ],
+    "maori": [
+      "nati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nuts.4410.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nuts.4410.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        "cl:bag",
+        4410,
+        3369,
+        4546,
+        580
+      ],
+      "translation": "I bought a bag nuts to bring and share at the party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nuts-4410.png"
+}

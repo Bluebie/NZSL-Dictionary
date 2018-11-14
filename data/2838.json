@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2838,
+  "gloss": {
+    "english": [
+      "view"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tirohanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "view.2838.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "view.2838.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5832,
+        1072,
+        2844,
+        1565,
+        4030,
+        2838
+      ],
+      "translation": "I looked outside the window and wow, the view was beautiful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "view-2838.png"
+}

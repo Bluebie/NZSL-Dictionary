@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3256,
+  "gloss": {
+    "english": [
+      "Egypt"
+    ],
+    "english_secondary": [
+      "Egyptian"
+    ],
+    "maori": [
+      "Īhipa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Egypt.3256.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Egypt.3256.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1747,
+        721,
+        2410,
+        1061,
+        2844,
+        6290
+      ],
+      "translation": "She has always wanted to go to Egypt to see the pyramids."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "Egypt-3256.png"
+}

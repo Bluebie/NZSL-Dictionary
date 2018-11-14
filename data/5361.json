@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5361,
+  "gloss": {
+    "english": [
+      "menu (computer)"
+    ],
+    "english_secondary": [
+      "drop down menu"
+    ],
+    "maori": [
+      "rārangi tono (rorohiko)"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "menu.5361.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "menu.5361.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1659,
+        2321,
+        5750,
+        5361,
+        4604,
+        2321,
+        2774,
+        2321,
+        5750,
+        5750
+      ],
+      "translation": "Click to bring up the menu on your computer. Then choose the item you want and click the mouse on that."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "menu_computer-5361.png"
+}

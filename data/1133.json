@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1133,
+  "gloss": {
+    "english": [
+      "under"
+    ],
+    "english_secondary": [
+      "at the base of",
+      "below",
+      "beneath",
+      "less than",
+      "underneath"
+    ],
+    "maori": [
+      "raro iho"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "under.1133.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "under.1133.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4766,
+        347,
+        5454,
+        3513,
+        2879,
+        347,
+        1133,
+        2583
+      ],
+      "translation": "My parents sleep upstairs, and my brother and I have a bedroom under theirs."
+    },
+    {
+      "video": "under.1133.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3642,
+        4249,
+        1133,
+        4065,
+        3409,
+        4249,
+        2246
+      ],
+      "translation": "If the class has under ten students, it will be cancelled."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "under-1133.png"
+}

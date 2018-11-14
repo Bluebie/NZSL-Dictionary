@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3076,
+  "gloss": {
+    "english": [
+      "guitar"
+    ],
+    "english_secondary": [
+      "play guitar"
+    ],
+    "maori": [
+      "kitā",
+      "kūtā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "guitar.3076.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "guitar.3076.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1490,
+        1152,
+        606,
+        3076,
+        3634,
+        2906
+      ],
+      "translation": "A group went in. They were happy, playing the guitar, drinking and dancing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "guitar-3076.png"
+}

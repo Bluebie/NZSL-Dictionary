@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5921,
+  "gloss": {
+    "english": [
+      "match"
+    ],
+    "english_secondary": [
+      "complement",
+      "fit together",
+      "go with"
+    ],
+    "maori": [
+      "kia rite ai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "match.5921.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "match.5921.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3718,
+        3204,
+        3063,
+        5921,
+        3204,
+        4293,
+        5919,
+        2593
+      ],
+      "translation": "He prefers a Maori interpreter, to match the Maori language and things on the marae."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "match-5921.png"
+}

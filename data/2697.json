@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2697,
+  "gloss": {
+    "english": [
+      "old"
+    ],
+    "english_secondary": [
+      "ancient",
+      "elderly",
+      "getting on",
+      "old age",
+      "the aged"
+    ],
+    "maori": [
+      "kaumātua",
+      "pakeke"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "aged.2697.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "aged.2697.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2697,
+        2096,
+        2895,
+        1185,
+        1095,
+        4191
+      ],
+      "translation": "I'm getting old. I can't read and need new glasses."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "old-2697.png"
+}

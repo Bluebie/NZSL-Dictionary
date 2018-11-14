@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1613,
+  "gloss": {
+    "english": [
+      "fine"
+    ],
+    "english_secondary": [
+      "all right",
+      "good enough",
+      "OK",
+      "okay"
+    ],
+    "maori": [
+      "e pai ana"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "fine.1613.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fine.1613.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2193,
+        4798,
+        2190,
+        1613,
+        4501,
+        3462,
+        669
+      ],
+      "translation": "The information centre said it was fine to drive through."
+    },
+    {
+      "video": "fine.1613.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4520,
+        2861,
+        1231,
+        1613,
+        3027,
+        4565,
+        4668
+      ],
+      "translation": "The doctor assessed the baby and said the baby was fine. There was nothing wrong; everything was normal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "fine-1613.png"
+}

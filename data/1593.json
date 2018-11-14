@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 1593,
+  "gloss": {
+    "english": [
+      "nuisance",
+      "useless"
+    ],
+    "english_secondary": [
+      "clumsy",
+      "no good",
+      "sloppy",
+      "troublesome",
+      "won't work",
+      "worthless"
+    ],
+    "maori": [
+      "hōhā",
+      "koretake"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "nuisance.1593.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nuisance.1593.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1124,
+        1593,
+        2556,
+        2844,
+        1938,
+        4022,
+        3436,
+        1938
+      ],
+      "translation": "The dog was being a nuisance. I was so annoyed to see food spilled everywhere."
+    },
+    {
+      "video": "nuisance.1593.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        307,
+        1287,
+        4919,
+        1826,
+        3978,
+        1593
+      ],
+      "translation": "The washing machine wouldn't work. He didn't know how to fix it. He's useless."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nuisance-1593.png"
+}

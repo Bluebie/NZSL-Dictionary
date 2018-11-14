@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5305,
+  "gloss": {
+    "english": [
+      "morphology"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wetekupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "morphology.5305.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "morphology.5305.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2589,
+        4249,
+        2297,
+        1637,
+        5305,
+        4051,
+        5488,
+        4501,
+        5298
+      ],
+      "translation": "In today's class, he explained about morphology. Some signs can be inflected."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "morphology-5305.png"
+}

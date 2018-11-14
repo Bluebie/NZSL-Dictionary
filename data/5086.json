@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5086,
+  "gloss": {
+    "english": [
+      "you idiot"
+    ],
+    "english_secondary": [
+      "dolt",
+      "dummy",
+      "fool",
+      "twit"
+    ],
+    "maori": [
+      "heahea"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "you_idiot.5086.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "you_idiot.5086.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        4128,
+        3300,
+        3892,
+        5086
+      ],
+      "translation": "You lost my keys, you idiot!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "you_idiot-5086.png"
+}

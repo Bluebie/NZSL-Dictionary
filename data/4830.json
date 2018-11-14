@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 4830,
+  "gloss": {
+    "english": [
+      "bill",
+      "proposal"
+    ],
+    "english_secondary": [
+      "draft law",
+      "propose",
+      "submission",
+      "table (a bill / proposal)"
+    ],
+    "maori": [
+      "pire",
+      "tono"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bill.4830.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bill.4830.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3261,
+        4830,
+        886,
+        3890,
+        5468,
+        3084,
+        2789,
+        2579,
+        585
+      ],
+      "translation": "When the NZSL Bill passed it became a law, making NZSL an official language in New Zealand."
+    },
+    {
+      "video": "bill.4830.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        4830,
+        2879,
+        1211,
+        3676,
+        3919
+      ],
+      "translation": "The two of us discussed the proposal and agreed to some changes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "bill-4830.png"
+}

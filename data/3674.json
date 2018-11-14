@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3674,
+  "gloss": {
+    "english": [
+      "get off"
+    ],
+    "english_secondary": [
+      "disembark",
+      "dismount",
+      "leave"
+    ],
+    "maori": [
+      "makere",
+      "heke",
+      "tuku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_off.3674.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_off.3674.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5934,
+        1031,
+        3674,
+        2883,
+        797
+      ],
+      "translation": "My train arrived. I got off and walked to work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "get_off-3674.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3485,
+  "gloss": {
+    "english": [
+      "roulette"
+    ],
+    "english_secondary": [
+      "play roulette"
+    ],
+    "maori": [
+      "petipeti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "casino.3485.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "casino.3485.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        606,
+        3848,
+        5622,
+        386,
+        4224,
+        1287,
+        3485,
+        3848,
+        2701,
+        2556
+      ],
+      "translation": "I'm really happy because I won six hundred dollars playing roulette. Lucky me!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "roulette-3485.png"
+}

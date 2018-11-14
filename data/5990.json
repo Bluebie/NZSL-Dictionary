@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5990,
+  "gloss": {
+    "english": [
+      "wheelchair"
+    ],
+    "english_secondary": [
+      "disabled",
+      "paraplegic",
+      "use wheelchair"
+    ],
+    "maori": [
+      "kōrea"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "wheelchair.5990.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wheelchair.5990.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3462,
+        3426,
+        1050,
+        5990,
+        2297
+      ],
+      "translation": "He was in a car accident and is now in a wheelchair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wheelchair-5990.png"
+}

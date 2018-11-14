@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4664,
+  "gloss": {
+    "english": [
+      "nephew"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "irāmutu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nephew.4664.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nephew.4664.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4664,
+        3811,
+        3050,
+        3885,
+        4625
+      ],
+      "translation": "My nephew will get married this September"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "nephew-4664.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1936,
+  "gloss": {
+    "english": [
+      "itch"
+    ],
+    "english_secondary": [
+      "rash",
+      "scratch"
+    ],
+    "maori": [
+      "mangeo"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rash.1936.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rash.1936.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2899,
+        2297,
+        1376,
+        4581,
+        1936,
+        1555
+      ],
+      "translation": "She couldn't sleep because she had a bad itch on her chest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "itch-1936.png"
+}

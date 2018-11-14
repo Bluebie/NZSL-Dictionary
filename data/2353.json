@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2353,
+  "gloss": {
+    "english": [
+      "minutes"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mineti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "minutes.2353.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "minutes.2353.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        385,
+        2321,
+        5818,
+        2895,
+        2607,
+        2353,
+        499,
+        1388
+      ],
+      "translation": "Please can you all read the meeting minutes before attending."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "minutes-2353.png"
+}

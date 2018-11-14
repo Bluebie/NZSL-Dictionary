@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3513,
+  "gloss": {
+    "english": [
+      "brother"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuakana",
+      "teina",
+      "tungāne"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "brother.3513.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brother.3513.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        5607,
+        2111,
+        5617,
+        3513,
+        5818,
+        5936
+      ],
+      "translation": "I've got one sister and two brothers. They're all older than me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "brother-3513.png"
+}

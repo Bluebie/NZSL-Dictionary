@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3511,
+  "gloss": {
+    "english": [
+      "fool"
+    ],
+    "english_secondary": [
+      "dumb",
+      "idiot",
+      "idiotic",
+      "stupid"
+    ],
+    "maori": [
+      "heahea"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "fool.3511.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fool.3511.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4736,
+        3810,
+        3430,
+        858,
+        952,
+        2583,
+        2556,
+        3511,
+        2556
+      ],
+      "translation": "I called for a taxi and it drove me to my hotel, right around the corner! I'm such a fool!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "fool-3511.png"
+}

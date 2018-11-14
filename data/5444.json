@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 5444,
+  "gloss": {
+    "english": [
+      "skill"
+    ],
+    "english_secondary": [
+      "good at",
+      "know-how",
+      "skilled"
+    ],
+    "maori": [
+      "pūkenga",
+      "pūmanawa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "skill.5444.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "skill.5444.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        1490,
+        3700,
+        3867,
+        3046,
+        3276,
+        5444,
+        3867,
+        2050,
+        5274,
+        1038
+      ],
+      "translation": "A group of Deaf people got together to improve their writing skills. They practiced writing and brainstormed ideas to write a story."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "skill-5444.png"
+}

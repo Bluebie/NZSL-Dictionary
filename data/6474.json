@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6474,
+  "gloss": {
+    "english": [
+      "South Island"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Waipounamu",
+      "Te Waka-a-Māui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "South_Island.6474.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "South_Island.6474.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        2556,
+        233,
+        5853,
+        6474
+      ],
+      "translation": "I was born in Blenheim, in the South Island."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "South_Island-6474.png"
+}

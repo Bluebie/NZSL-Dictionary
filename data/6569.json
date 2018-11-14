@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6569,
+  "gloss": {
+    "english": [
+      "pluck eyebrows"
+    ],
+    "english_secondary": [
+      "tweeze eyebrows"
+    ],
+    "maori": [
+      "huhuti tukemata"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "pluck.6569.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pluck.6569.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        239,
+        2556,
+        2844,
+        6401,
+        6569
+      ],
+      "translation": "I looked in the mirror and plucked my eyebrow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "pluck_eyebrows-6569.png"
+}

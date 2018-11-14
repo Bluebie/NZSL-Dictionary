@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5748,
+  "gloss": {
+    "english": [
+      "inside"
+    ],
+    "english_secondary": [
+      "content",
+      "internal"
+    ],
+    "maori": [
+      "roto"
+    ],
+    "attributes": [
+      "noun",
+      "preposition"
+    ]
+  },
+  "video": "inside.5748.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inside.5748.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1376,
+        2193,
+        5748,
+        1475,
+        2583
+      ],
+      "translation": "The information is inside that file."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "inside-5748.png"
+}

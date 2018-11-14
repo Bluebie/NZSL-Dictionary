@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3362,
+  "gloss": {
+    "english": [
+      "flashing light"
+    ],
+    "english_secondary": [
+      "beacon"
+    ],
+    "maori": [
+      "rama hikohiko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "flashing_light.3362.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flashing_light.3362.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3521,
+        1376,
+        3362,
+        5391,
+        5480
+      ],
+      "translation": "My bicycle has a flashing light so that it's safe at night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "flashing_light-3362.png"
+}

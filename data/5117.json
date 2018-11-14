@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5117,
+  "gloss": {
+    "english": [
+      "tell lies"
+    ],
+    "english_secondary": [
+      "full of lies",
+      "mislead"
+    ],
+    "maori": [
+      "rūkahu",
+      "teka",
+      "kōrero parau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "tell_lies.5117.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tell_lies.5117.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1069,
+        3900,
+        2297,
+        5117,
+        1747,
+        3273
+      ],
+      "translation": "Never trust him.  He always tells lies, it's typical of him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tell_lies-5117.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5105,
+  "gloss": {
+    "english": [
+      "really like"
+    ],
+    "english_secondary": [
+      "fancy",
+      "love it"
+    ],
+    "maori": [
+      "tino pai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "really_like.5105.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "really_like.5105.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1659,
+        2556,
+        5105,
+        2297,
+        5225
+      ],
+      "translation": "I really like this computer. I can't stand the other one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "really_like-5105.png"
+}

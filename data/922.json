@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 922,
+  "gloss": {
+    "english": [
+      "steep"
+    ],
+    "english_secondary": [
+      "uphill"
+    ],
+    "maori": [
+      "poupou"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "steep.922.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "steep.922.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2804,
+        922,
+        2556,
+        1376,
+        5620,
+        2606,
+        3462,
+        "cl:drive-up",
+        975
+      ],
+      "translation": "The road was very steep but I had a four wheel drive and got to the top."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "steep-922.png"
+}

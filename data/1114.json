@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1114,
+  "gloss": {
+    "english": [
+      "inside"
+    ],
+    "english_secondary": [
+      "indoors"
+    ],
+    "maori": [
+      "a roto"
+    ],
+    "attributes": [
+      "noun",
+      "preposition"
+    ]
+  },
+  "video": "inside.1114.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inside.1114.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5607,
+        5391,
+        1083,
+        2556,
+        924,
+        5471,
+        1072,
+        3420,
+        1114,
+        3194,
+        1677
+      ],
+      "translation": "One night, I went to the pub with a friend. It was cold outside but it was warm inside with a heater."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "inside-1114.png"
+}

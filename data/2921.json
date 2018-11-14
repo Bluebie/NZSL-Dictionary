@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2921,
+  "gloss": {
+    "english": [
+      "again"
+    ],
+    "english_secondary": [
+      "once more",
+      "one more time",
+      "repeat"
+    ],
+    "maori": [
+      "auau",
+      "hoki atu hoki atu"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "again.2921.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "again.2921.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2583,
+        4661,
+        4022,
+        5537,
+        4022,
+        1069,
+        2921
+      ],
+      "translation": "The food at that restaurant was awful! I'll never eat there again."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "again-2921.png"
+}

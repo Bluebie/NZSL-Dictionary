@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5858,
+  "gloss": {
+    "english": [
+      "calendar"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "maramataka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "calendar.5858.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "calendar.5858.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        404,
+        2556,
+        2844,
+        5858,
+        2091,
+        4604,
+        3216,
+        3013
+      ],
+      "translation": "Just a moment, I'll check my calendar to see which date I'm free."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "calendar-5858.png"
+}

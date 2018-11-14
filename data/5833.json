@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 5833,
+  "gloss": {
+    "english": [
+      "document"
+    ],
+    "english_secondary": [
+      "bill",
+      "certificate",
+      "contract",
+      "diagram",
+      "diploma",
+      "form",
+      "invoice",
+      "letter",
+      "map",
+      "paper",
+      "report",
+      "statement",
+      "will"
+    ],
+    "maori": [
+      "kōrero",
+      "tānga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "document.5833.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "document.5833.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3434,
+        5398,
+        3800,
+        1767,
+        5833,
+        3949
+      ],
+      "translation": "I visited the insurance office and took a form from there to fill out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "document-5833.png"
+}

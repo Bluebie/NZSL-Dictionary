@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5089,
+  "gloss": {
+    "english": [
+      "no more"
+    ],
+    "english_secondary": [
+      "finished with",
+      "it's over",
+      "that's it",
+      "terminated"
+    ],
+    "maori": [
+      "ka mutu i konei"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "no_more.5089.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "no_more.5089.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1107,
+        2556,
+        4022,
+        2234,
+        908,
+        2556,
+        5089
+      ],
+      "translation": "I've been eating meat until now, but now I won't eat it anymore."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "no_more-5089.png"
+}

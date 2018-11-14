@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6503,
+  "gloss": {
+    "english": [
+      "Auslan"
+    ],
+    "english_secondary": [
+      "Australian Sign Language"
+    ],
+    "maori": [
+      "Te Reo Rotarota o Ahitereiria"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "auslan.6503.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "auslan.6503.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        307,
+        6503,
+        2297,
+        285,
+        1513
+      ],
+      "translation": "She doesn't know any Auslan. She is still learning."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Auslan-6503.png"
+}

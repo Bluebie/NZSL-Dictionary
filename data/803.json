@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 803,
+  "gloss": {
+    "english": [
+      "depression"
+    ],
+    "english_secondary": [
+      "depressed",
+      "depressive",
+      "despondent",
+      "gloomy",
+      "miserable"
+    ],
+    "maori": [
+      "māha te ngākau",
+      "haumate"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "depression.803.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "depression.803.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        5536,
+        803,
+        2297,
+        5536,
+        2508
+      ],
+      "translation": "He is feeling depressed and lonely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "depression-803.png"
+}

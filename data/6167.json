@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6167,
+  "gloss": {
+    "english": [
+      "text"
+    ],
+    "english_secondary": [
+      "corpus",
+      "printed work",
+      "script",
+      "transcript",
+      "written work"
+    ],
+    "maori": [
+      "tuhinga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "text.6167.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "text.6167.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1220,
+        2193,
+        6167,
+        2543,
+        5861
+      ],
+      "translation": "She gave me a text with information about the camp."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "text-6167.png"
+}

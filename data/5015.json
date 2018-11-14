@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 5015,
+  "gloss": {
+    "english": [
+      "brush",
+      "hairbrush"
+    ],
+    "english_secondary": [
+      "comb"
+    ],
+    "maori": [
+      "paraihe",
+      "paraihe makawe"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "brush.5015.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brush.5015.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        239,
+        2984,
+        "cl:hair-mess",
+        2556,
+        5015
+      ],
+      "translation": "I looked in the mirror and my hair was a mess, so I brushed it."
+    },
+    {
+      "video": "brush.5015.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1178,
+        1747,
+        5015,
+        4138,
+        3583
+      ],
+      "translation": "When I go out, I always put a hairbrush in my bag."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "brush-5015.png"
+}

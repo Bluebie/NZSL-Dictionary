@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5167,
+  "gloss": {
+    "english": [
+      "unintelligible voice"
+    ],
+    "english_secondary": [
+      "deaf vocalisation",
+      "deaf voice"
+    ],
+    "maori": [
+      "reo kihi"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "deaf_voice.5167.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf_voice.5167.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4656,
+        1522,
+        2297,
+        5785,
+        6120,
+        5167,
+        2297
+      ],
+      "translation": "A Deaf woman tried singing with a microphone but she had an unintelligible voice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "unintelligible_voice-5167.png"
+}

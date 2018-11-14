@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1898,
+  "gloss": {
+    "english": [
+      "divide up"
+    ],
+    "english_secondary": [
+      "split up"
+    ],
+    "maori": [
+      "tauwehe(a)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "side.1898.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "side.1898.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        2596,
+        2559,
+        399,
+        1898
+      ],
+      "translation": "When they divorced, their property was divided up between them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "divide_up-1898.png"
+}

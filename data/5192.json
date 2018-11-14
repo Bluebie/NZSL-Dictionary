@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 5192,
+  "gloss": {
+    "english": [
+      "not working",
+      "wasted"
+    ],
+    "english_secondary": [
+      "fucked",
+      "had it",
+      "intoxicated",
+      "kaput",
+      "not functional",
+      "smashed",
+      "wrecked"
+    ],
+    "maori": [
+      "pau te kaha",
+      "hē",
+      "pakaru"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "not_working.5192.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_working.5192.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4736,
+        "cl:phone-fell-out-of-pocket",
+        2556,
+        1767,
+        5513,
+        2297,
+        3978,
+        2297,
+        5192
+      ],
+      "translation": "My phone fell out of my pocket. I tried to text with it but it isn't working; it's kaput."
+    },
+    {
+      "video": "not_working.5192.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3635,
+        5818,
+        5391,
+        2844,
+        2997,
+        5192,
+        2297
+      ],
+      "translation": "He's been drinking heavily all night. He looks wasted."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_working-5192.png"
+}

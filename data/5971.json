@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5971,
+  "gloss": {
+    "english": [
+      "stop"
+    ],
+    "english_secondary": [
+      "pause"
+    ],
+    "maori": [
+      "whakakore"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "stop.5971.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stop.5971.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        648,
+        367,
+        4094,
+        1123,
+        5971,
+        406,
+        1561
+      ],
+      "translation": "I got into the spa which was lovely and helped stop my back pain."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stop-5971.png"
+}

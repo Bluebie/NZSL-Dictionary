@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4483,
+  "gloss": {
+    "english": [
+      "bridge"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "piriti",
+      "arawhiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bridge.4483.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bridge.4483.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4488,
+        2841,
+        4483,
+        1185,
+        3856
+      ],
+      "translation": "The river has an old bridge, which needs to be repaired."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bridge-4483.png"
+}

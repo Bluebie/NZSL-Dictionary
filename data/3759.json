@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3759,
+  "gloss": {
+    "english": [
+      "biscuit"
+    ],
+    "english_secondary": [
+      "cookie"
+    ],
+    "maori": [
+      "pihikete"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "biscuit.3759.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "biscuit.3759.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        385,
+        6191,
+        3759,
+        580,
+        3111,
+        3089
+      ],
+      "translation": "Please bring biscuits to share at morning tea."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "biscuit-3759.png"
+}

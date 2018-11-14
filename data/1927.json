@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1927,
+  "gloss": {
+    "english": [
+      "sauna"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "koromāhu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sauna.1927.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sauna.1927.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2217,
+        2583,
+        3623,
+        1927,
+        2583
+      ],
+      "translation": "Finland is famous for its saunas."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sauna-1927.png"
+}

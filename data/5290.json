@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 5290,
+  "gloss": {
+    "english": [
+      "build",
+      "build up"
+    ],
+    "english_secondary": [
+      "develop"
+    ],
+    "maori": [
+      "hanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "build.5290.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "build.5290.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3811,
+        5290,
+        1095,
+        1306,
+        5738
+      ],
+      "translation": "A new school will be built in that area."
+    },
+    {
+      "video": "build.5290.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        2117,
+        2287,
+        3700,
+        5488,
+        5290,
+        4479,
+        5488
+      ],
+      "translation": "The hearing students practiced signing to build up their confidence until they could sign fluently."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "build-5290.png"
+}

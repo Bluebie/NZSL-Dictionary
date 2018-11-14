@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6196,
+  "gloss": {
+    "english": [
+      "bowl (cricket)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "epa (kirikiti)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bowl.6196.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bowl.6196.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1926,
+        5634,
+        5607,
+        2184,
+        2297,
+        3658,
+        6196,
+        2297
+      ],
+      "translation": "When I was playing cricket there was one boy who could bowl very well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.3-b36f027c94aac0de75bcbced304c4f448321e2355e9522645d1885ca6781fdc1.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "bowl_cricket-6196.png"
+}

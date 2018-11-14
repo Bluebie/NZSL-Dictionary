@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 405,
+  "gloss": {
+    "english": [
+      "yuck"
+    ],
+    "english_secondary": [
+      "disgusting",
+      "dislike",
+      "horrible",
+      "revolting",
+      "taste bad",
+      "yuk"
+    ],
+    "maori": [
+      "anuanu",
+      "whakarihariha"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "yuck.405.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "yuck.405.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        771,
+        751,
+        2556,
+        405,
+        2096,
+        4022
+      ],
+      "translation": "She cooked fish, but I said 'yuck! I can't eat that.'"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "yuck-405.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5157,
+  "gloss": {
+    "english": [
+      "all of a sudden"
+    ],
+    "english_secondary": [
+      "immediately",
+      "just like that"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "all_of_a_sudden.5157.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "all_of_a_sudden.5157.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        483,
+        5157,
+        2556,
+        6084
+      ],
+      "translation": "He died all of a sudden. I wasn't expecting it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.2-9560da5b70a629407c4c4c241abff3548d7348e6108a579cdf2550c159731f0e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "all_of_a_sudden-5157.png"
+}

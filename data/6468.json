@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6468,
+  "gloss": {
+    "english": [
+      "milkshake"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "miraka whakaranu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "milkshake.6468.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "milkshake.6468.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3016,
+        2583,
+        2567,
+        2410,
+        4264,
+        6468
+      ],
+      "translation": "We drank milkshakes at the cafe."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "milkshake-6468.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6130,
+  "gloss": {
+    "english": [
+      "period"
+    ],
+    "english_secondary": [
+      "menstruation"
+    ],
+    "maori": [
+      "mate wahine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "period.6130.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "period.6130.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        4051,
+        1522,
+        6130,
+        1376,
+        1561,
+        891
+      ],
+      "translation": "Some women have painful stomach cramps when they have their period."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "period-6130.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4948,
+  "gloss": {
+    "english": [
+      "building"
+    ],
+    "english_secondary": [
+      "apartment block",
+      "skyscraper"
+    ],
+    "maori": [
+      "whare"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "building.4948.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "building.4948.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4948,
+        2297,
+        2841,
+        2556,
+        2941,
+        4189,
+        1279,
+        2556,
+        954,
+        2297
+      ],
+      "translation": "I had a look around this really old building that I remember from when I was small."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "building-4948.png"
+}

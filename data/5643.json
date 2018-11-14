@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5643,
+  "gloss": {
+    "english": [
+      "pregnant"
+    ],
+    "english_secondary": [
+      "expecting",
+      "pregnancy"
+    ],
+    "maori": [
+      "hapū"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "pregnant.5643.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pregnant.5643.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        6207,
+        5643,
+        5622,
+        4763
+      ],
+      "translation": "She's six months pregnant now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "pregnant-5643.png"
+}

@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 3295,
+  "gloss": {
+    "english": [
+      "boss",
+      "bossy"
+    ],
+    "english_secondary": [
+      "employer"
+    ],
+    "maori": [
+      "rangatira",
+      "whakatopatopa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "bossy.3295.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bossy.3295.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4756,
+        5620,
+        2701,
+        797,
+        2583,
+        2723,
+        3658,
+        3295,
+        2297,
+        367,
+        3220,
+        1211
+      ],
+      "translation": "The four of us are lucky to work there because the boss is a lovely man to talk with."
+    },
+    {
+      "video": "bossy.3295.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3513,
+        3273,
+        3295,
+        5736,
+        2743
+      ],
+      "translation": "My brother is bossy and tells me what to do."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "boss-3295.png"
+}

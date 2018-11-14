@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1322,
+  "gloss": {
+    "english": [
+      "flu"
+    ],
+    "english_secondary": [
+      "chill",
+      "cold",
+      "influenza"
+    ],
+    "maori": [
+      "rewharewha"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "flu.1322.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flu.1322.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5389,
+        3213,
+        1553,
+        1322,
+        373,
+        1298,
+        856
+      ],
+      "translation": "Lots of children are sick with the flu. They missed school and stayed home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "flu-1322.png"
+}

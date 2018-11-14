@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 3091,
+  "gloss": {
+    "english": [
+      "insect bite",
+      "sting"
+    ],
+    "english_secondary": [
+      "mosquito",
+      "mosquito bite",
+      "nip",
+      "sandfly",
+      "sandfly bite"
+    ],
+    "maori": [
+      "ngau ngārara",
+      "wero"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "insect_bite.3091.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "insect_bite.3091.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3636,
+        3091,
+        2556,
+        1854
+      ],
+      "translation": "I got an insect bite yesterday. It's itchy!"
+    },
+    {
+      "video": "insect_bite.3091.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2883,
+        1781,
+        4504,
+        3091
+      ],
+      "translation": "I was walking through the bush and a wasp stung me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "insect_bite-3091.png"
+}

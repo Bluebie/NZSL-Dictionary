@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 908,
+  "gloss": {
+    "english": [
+      "now"
+    ],
+    "english_secondary": [
+      "at present",
+      "at the moment",
+      "at the present time",
+      "current",
+      "currently"
+    ],
+    "maori": [
+      "ināianei"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "present.908.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "present.908.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        1926,
+        1949,
+        908,
+        2556,
+        1865,
+        "involve",
+        3602
+      ],
+      "translation": "I used to play basketball but now I'm interested in playing golf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "now-908.png"
+}

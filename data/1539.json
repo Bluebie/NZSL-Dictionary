@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1539,
+  "gloss": {
+    "english": [
+      "colour"
+    ],
+    "english_secondary": [
+      "shade"
+    ],
+    "maori": [
+      "kano",
+      "tae"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "colour.1539.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "colour.1539.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        771,
+        1274,
+        1095,
+        1539,
+        2091,
+        3684
+      ],
+      "translation": "The kitchen has been painted with a new colour and it looks better."
+    },
+    {
+      "video": "colour.1539.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        648,
+        5731,
+        2844,
+        1539,
+        6271,
+        367,
+        721,
+        5632
+      ],
+      "translation": "As I came into the shop I saw a blue dress. It was lovely and I wanted to buy it!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "colour-1539.png"
+}

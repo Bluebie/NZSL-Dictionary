@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4946,
+  "gloss": {
+    "english": [
+      "can't be bothered"
+    ],
+    "english_secondary": [
+      "couldn't care less",
+      "don't want to know",
+      "indifferent",
+      "lazy",
+      "uninterested"
+    ],
+    "maori": [
+      "māngere",
+      "hōhā"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cant_be_bothered.4946.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cant_be_bothered.4946.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3809,
+        4946,
+        489,
+        5573
+      ],
+      "translation": "He can't be bothered shaving and has jut let his beard grow out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "can_t_be_bothered-4946.png"
+}

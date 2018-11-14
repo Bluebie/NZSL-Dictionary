@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1908,
+  "gloss": {
+    "english": [
+      "cabbage",
+      "cauliflower"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāpeti",
+      "kareparāoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cabbage.1908.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cabbage.1908.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1908,
+        946,
+        3375,
+        2904
+      ],
+      "translation": "I chopped the cabbage to make soup."
+    },
+    {
+      "video": "cabbage.1908.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        939,
+        5818,
+        6135,
+        4022,
+        4521,
+        1908,
+        2234,
+        "ready",
+        771
+      ],
+      "translation": "We all prepared food for the hangi such as carrot, cauliflower and meat. When it was ready we cooked it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cabbage-1908.png"
+}

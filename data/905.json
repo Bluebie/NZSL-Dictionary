@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 905,
+  "gloss": {
+    "english": [
+      "east"
+    ],
+    "english_secondary": [
+      "eastern"
+    ],
+    "maori": [
+      "rāwhiti",
+      "Tai Rāwhiti"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "east.905.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "east.905.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        893,
+        3910,
+        2946,
+        2299,
+        905,
+        297,
+        893,
+        2253
+      ],
+      "translation": "My rugby team travelled to the East Coast and played some matches."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "east-905.png"
+}

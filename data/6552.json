@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6552,
+  "gloss": {
+    "english": [
+      "jandal"
+    ],
+    "english_secondary": [
+      "flip-flop",
+      "jandals",
+      "sandal",
+      "sandals",
+      "thongs"
+    ],
+    "maori": [
+      "hanara waewae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jandal.6552.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jandal.6552.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        309,
+        5784,
+        1747,
+        6552
+      ],
+      "translation": "In summer time I always wear jandals."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "jandal-6552.png"
+}

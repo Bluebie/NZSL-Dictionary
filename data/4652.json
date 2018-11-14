@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4652,
+  "gloss": {
+    "english": [
+      "Nelson"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Whakatū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Nelson.4652.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Nelson.4652.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3542,
+        2583,
+        4635,
+        3140,
+        5853,
+        727,
+        4652
+      ],
+      "translation": "I was born in the South Island in Blenheim, near Nelson."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "Nelson-4652.png"
+}

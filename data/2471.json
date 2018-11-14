@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2471,
+  "gloss": {
+    "english": [
+      "expect"
+    ],
+    "english_secondary": [
+      "anticipate",
+      "anticipation"
+    ],
+    "maori": [
+      "whakapono",
+      "pōhēhē"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "expect.2471.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expect.2471.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        2050,
+        2471,
+        2297,
+        3848,
+        1452,
+        2297,
+        4817
+      ],
+      "translation": "Everyone expected him to win, so it was surprising when he lost."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "expect-2471.png"
+}

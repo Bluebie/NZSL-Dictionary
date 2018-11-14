@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 4565,
+  "gloss": {
+    "english": [
+      "error",
+      "faulty"
+    ],
+    "english_secondary": [
+      "defective",
+      "fault",
+      "go wrong",
+      "mistake",
+      "wrong"
+    ],
+    "maori": [
+      "hapa",
+      "hē"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "error.4565.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "error.4565.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        1298,
+        3898,
+        2362,
+        5607,
+        4565,
+        3228
+      ],
+      "translation": "In my school exam I only made one error - hooray!"
+    },
+    {
+      "video": "error.4564.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2536,
+        3978,
+        "faulty",
+        2297
+      ],
+      "translation": "The dryer isn't working. It's faulty."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "error-4565.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4293,
+  "gloss": {
+    "english": [
+      "speak"
+    ],
+    "english_secondary": [
+      "chat",
+      "discuss",
+      "talk",
+      "tell"
+    ],
+    "maori": [
+      "kōrero"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "speak.4293.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "speak.4293.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        1636,
+        4501,
+        4293,
+        3204
+      ],
+      "translation": "His family can speak Māori."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "speak-4293.png"
+}

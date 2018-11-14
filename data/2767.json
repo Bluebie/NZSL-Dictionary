@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2767,
+  "gloss": {
+    "english": [
+      "Japan"
+    ],
+    "english_secondary": [
+      "Japanese"
+    ],
+    "maori": [
+      "Nipono",
+      "Hapanihi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "japan.2767.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "japan.2767.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2767,
+        3623,
+        3375,
+        2382,
+        2897,
+        3462,
+        2677,
+        5818
+      ],
+      "translation": "Japan is famous for making televisions, videos, cars, cameras and the lot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Japan-2767.png"
+}

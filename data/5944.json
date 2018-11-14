@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5944,
+  "gloss": {
+    "english": [
+      "Queenstown"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Tāhuna"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "queenstown.5944.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "queenstown.5944.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2701,
+        1220,
+        872,
+        3013,
+        2266,
+        4573,
+        5944,
+        5621,
+        5391
+      ],
+      "translation": "I was lucky to get a prize: a free flight to Queenstown for five nights."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Queenstown-5944.png"
+}

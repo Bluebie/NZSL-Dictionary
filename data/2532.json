@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2532,
+  "gloss": {
+    "english": [
+      "nervous"
+    ],
+    "english_secondary": [
+      "afraid",
+      "anxious",
+      "fear",
+      "frightened",
+      "scared"
+    ],
+    "maori": [
+      "āmaimai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "nervous.2532.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nervous.2532.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2461,
+        1522,
+        2281,
+        5784,
+        2556,
+        4527,
+        2532
+      ],
+      "translation": "The first time I met the woman I was a little nervous"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "nervous-2532.png"
+}

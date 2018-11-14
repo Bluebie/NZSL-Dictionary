@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1132,
+  "gloss": {
+    "english": [
+      "romance"
+    ],
+    "english_secondary": [
+      "romantic"
+    ],
+    "maori": [
+      "whakaipo",
+      "whakaipoipo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "romance.1132.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "romance.1132.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        967,
+        3542,
+        5389,
+        2953,
+        3721,
+        1132,
+        2410,
+        3460,
+        1134,
+        908,
+        1294
+      ],
+      "translation": "Before their children were born, they used to have plenty of romantic occasions - they went out to dinner and so on. Now with the children, there is less of that."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "romance-1132.png"
+}

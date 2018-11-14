@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6444,
+  "gloss": {
+    "english": [
+      "peacock"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pīkake"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "peacock.6444.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "peacock.6444.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6444,
+        2297,
+        1604,
+        4030,
+        5795,
+        927
+      ],
+      "translation": "Peacocks have beautiful purple and green feathers."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "peacock-6444.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2427,
+  "gloss": {
+    "english": [
+      "someone"
+    ],
+    "english_secondary": [
+      "somebody"
+    ],
+    "maori": [
+      "tētahi tangata"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "someone.2427.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "someone.2427.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2427,
+        3571,
+        1152,
+        3276,
+        3462,
+        2792,
+        "cl:radio-box",
+        1901
+      ],
+      "translation": "Someone broke into his car and stole his radio."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "someone-2427.png"
+}

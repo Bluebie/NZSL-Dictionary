@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 1040,
+  "gloss": {
+    "english": [
+      "equal",
+      "fair"
+    ],
+    "english_secondary": [
+      "comparable",
+      "equivalent",
+      "even-handed",
+      "evenly matched",
+      "level",
+      "match",
+      "same"
+    ],
+    "maori": [
+      "ōrite",
+      "taurite"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "equal.1040.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "equal.1040.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1902,
+        975,
+        2556,
+        721,
+        1040
+      ],
+      "translation": "Her wage should not be higher than mine. I want our pay to be equal."
+    },
+    {
+      "video": "equal.1040.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1178,
+        1040,
+        6114,
+        5391,
+        2297,
+        4546,
+        2297
+      ],
+      "translation": "It's fair that I'm going out, because he went to a party last night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "equal-1040.png"
+}

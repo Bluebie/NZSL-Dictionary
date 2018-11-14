@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3601,
+  "gloss": {
+    "english": [
+      "orgasm"
+    ],
+    "english_secondary": [
+      "come"
+    ],
+    "maori": [
+      "tokomauri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "come.3601.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come.3601.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3220,
+        2297,
+        1220,
+        3658,
+        3601
+      ],
+      "translation": "My man gave me a great orgasm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "orgasm-3601.png"
+}

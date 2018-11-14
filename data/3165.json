@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3165,
+  "gloss": {
+    "english": [
+      "president"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "perehitini"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "president.3165.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "president.3165.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1279,
+        2297,
+        4657,
+        3165,
+        5621,
+        2646,
+        2297
+      ],
+      "translation": "He was the deaf club president for five years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "president-3165.png"
+}

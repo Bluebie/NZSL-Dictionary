@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2139,
+  "gloss": {
+    "english": [
+      "look after"
+    ],
+    "english_secondary": [
+      "care for",
+      "keep an eye on",
+      "mind",
+      "take care of",
+      "watch"
+    ],
+    "maori": [
+      "tiaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "look_after.2139.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "look_after.2139.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        2139,
+        3300,
+        5389,
+        1073,
+        1298
+      ],
+      "translation": "She looked after my children after school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "look_after-2139.png"
+}

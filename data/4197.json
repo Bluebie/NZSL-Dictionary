@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4197,
+  "gloss": {
+    "english": [
+      "shave"
+    ],
+    "english_secondary": [
+      "electric razor",
+      "electric shaver",
+      "shaver"
+    ],
+    "maori": [
+      "heu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "shave.4197.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shave.4197.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        2984,
+        1748,
+        2556,
+        4197
+      ],
+      "translation": "I shaved my beard."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "shave-4197.png"
+}

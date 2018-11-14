@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5835,
+  "gloss": {
+    "english": [
+      "butcher"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūtia"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "butcher.5835.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "butcher.5835.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3620,
+        797,
+        5835,
+        1553,
+        2646,
+        1107
+      ],
+      "translation": "He is an experienced butcher, having worked for many years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "butcher-5835.png"
+}

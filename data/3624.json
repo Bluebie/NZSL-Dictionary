@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3624,
+  "gloss": {
+    "english": [
+      "baptise"
+    ],
+    "english_secondary": [
+      "baptism",
+      "christen",
+      "christening"
+    ],
+    "maori": [
+      "iriiri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "christen.3624.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "christen.3624.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2142,
+        2410,
+        532,
+        2556,
+        5928,
+        3624
+      ],
+      "translation": "I'm going to the church tomorrow because my nephew will be baptised."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "baptise-3624.png"
+}

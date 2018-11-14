@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6555,
+  "gloss": {
+    "english": [
+      "fan"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōkōhiko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fan.6555.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fan.6555.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        "hot",
+        6555,
+        4138,
+        3414,
+        2583
+      ],
+      "translation": "I was hot so I put a fan in the lounge."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fan-6555.png"
+}

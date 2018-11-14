@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6512,
+  "gloss": {
+    "english": [
+      "fountain"
+    ],
+    "english_secondary": [
+      "water fountain",
+      "spring"
+    ],
+    "maori": [
+      "puna torotī"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fountain.6512.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fountain.6512.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2314,
+        2844,
+        4030,
+        2146,
+        6512
+      ],
+      "translation": "We looked at the beautiful fountain."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "fountain-6512.png"
+}

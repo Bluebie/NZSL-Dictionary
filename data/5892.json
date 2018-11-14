@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5892,
+  "gloss": {
+    "english": [
+      "gang"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rōpū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gang.5892.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gang.5892.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2583,
+        5738,
+        1376,
+        4096,
+        5892,
+        5738
+      ],
+      "translation": "They have problems with gangs in that area."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "gang-5892.png"
+}

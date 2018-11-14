@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5181,
+  "gloss": {
+    "english": [
+      "not likely"
+    ],
+    "english_secondary": [
+      "no way",
+      "over my dead body",
+      "whatever",
+      "whatever you say"
+    ],
+    "maori": [
+      "engari mō tēnā"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase"
+    ]
+  },
+  "video": "not_likely.5181.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_likely.5181.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3009,
+        5340,
+        2556,
+        5181,
+        721,
+        2556
+      ],
+      "translation": "She asked me to join. I thought: \"not likely\"- I don't want to."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "not_likely-5181.png"
+}

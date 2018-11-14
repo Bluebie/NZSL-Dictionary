@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4070,
+  "gloss": {
+    "english": [
+      "fussy"
+    ],
+    "english_secondary": [
+      "fuss"
+    ],
+    "maori": [
+      "mōkinokino",
+      "warahoe"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "fussy.4070.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fussy.4070.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        1231,
+        2297,
+        1747,
+        4070,
+        4022,
+        1447,
+        2297
+      ],
+      "translation": "My baby is always fussy and doesn't like many kinds of food."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fussy-4070.png"
+}

@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 1902,
+  "gloss": {
+    "english": [
+      "earn",
+      "income"
+    ],
+    "english_secondary": [
+      "earnings",
+      "pay",
+      "salary",
+      "wages"
+    ],
+    "maori": [
+      "utu",
+      "moni whiwhi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pay.1902.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pay.1902.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5663,
+        797,
+        2556,
+        1902,
+        2865,
+        4224,
+        5425
+      ],
+      "translation": "At my first job I earned twelve dollars an hour."
+    },
+    {
+      "video": "pay.1902.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        4088,
+        2297,
+        3658,
+        1902,
+        1437,
+        5619,
+        1109,
+        5816,
+        2646
+      ],
+      "translation": "The business made a good income, on average three million each year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "earn-1902.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5493,
+  "gloss": {
+    "english": [
+      "wool"
+    ],
+    "english_secondary": [
+      "fur",
+      "furry",
+      "woollen"
+    ],
+    "maori": [
+      "wūru"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "wool.5493.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wool.5493.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1220,
+        367,
+        3482,
+        5493,
+        723
+      ],
+      "translation": "He gave me a lovely wool jumper."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "wool-5493.png"
+}

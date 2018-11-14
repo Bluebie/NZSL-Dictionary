@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4589,
+  "gloss": {
+    "english": [
+      "silver"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hiriwa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "silver.4589.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "silver.4589.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3848,
+        4589,
+        "medal",
+        2583,
+        5289
+      ],
+      "translation": "He won a silver medal at the Deaflympics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "silver-4589.png"
+}

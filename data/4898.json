@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4898,
+  "gloss": {
+    "english": [
+      "air force"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauārangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "air_force.4898.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "air_force.4898.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2216,
+        3585,
+        4731,
+        4898
+      ],
+      "translation": "His father works in the Air Force."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "air_force-4898.png"
+}

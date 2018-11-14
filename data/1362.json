@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1362,
+  "gloss": {
+    "english": [
+      "achieve",
+      "goal"
+    ],
+    "english_secondary": [
+      "aim",
+      "ambition",
+      "objective",
+      "target"
+    ],
+    "maori": [
+      "tutuki",
+      "whāinga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "achieve.1362.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "achieve.1362.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3720,
+        1362,
+        6321,
+        5289
+      ],
+      "translation": "I finally achieved a medal at the Deaflympics."
+    },
+    {
+      "video": "achieve.1362.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3885,
+        5264,
+        1362,
+        2266,
+        1490,
+        797,
+        5363
+      ],
+      "translation": "Teamwork and cooperation are the goals of this activity."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "achieve-1362.png"
+}

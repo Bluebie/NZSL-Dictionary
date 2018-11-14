@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6344,
+  "gloss": {
+    "english": [
+      "time"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "time.6344.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "time.6344.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        4513,
+        483,
+        1952,
+        6344,
+        1376,
+        540,
+        4096,
+        2297
+      ],
+      "translation": "It is possible he could die any time due to a heart problem."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "time-6344.png"
+}

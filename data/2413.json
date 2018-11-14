@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2413,
+  "gloss": {
+    "english": [
+      "both"
+    ],
+    "english_secondary": [
+      "these two"
+    ],
+    "maori": [
+      "e rua"
+    ],
+    "attributes": [
+      "adjective",
+      "determiner",
+      "pronoun"
+    ]
+  },
+  "video": "both.2413.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "both.2413.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1298,
+        2775,
+        2456,
+        2445,
+        2413,
+        886
+      ],
+      "translation": "I took school certificate in English and Maths. I passed both."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "both-2413.png"
+}

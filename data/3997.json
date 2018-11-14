@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 3997,
+  "gloss": {
+    "english": [
+      "sunburn",
+      "suntan"
+    ],
+    "english_secondary": [
+      "sunburnt",
+      "suntanned",
+      "tan"
+    ],
+    "maori": [
+      "tīkā",
+      "tīkākā",
+      "kiri parauri"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "sunburn.3997.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sunburn.3997.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        2579,
+        2215,
+        3997
+      ],
+      "translation": "It is easy to get sunburnt in New Zealand."
+    },
+    {
+      "video": "sunburn.3997.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2903,
+        6000,
+        3663,
+        721,
+        3997,
+        1348,
+        1555
+      ],
+      "translation": "She was lying on the beach because she wanted to get a suntan."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sunburn-3997.png"
+}

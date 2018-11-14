@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 3204,
+  "gloss": {
+    "english": [
+      "Māori"
+    ],
+    "english_secondary": [
+      "indigenous",
+      "tangata whenua"
+    ],
+    "maori": [
+      "Māori"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "maori.3204.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "maori.3204.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3276,
+        4766,
+        2953,
+        3204
+      ],
+      "translation": "His parents are both Māori."
+    },
+    {
+      "video": "maori.3204.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        721,
+        762,
+        5389,
+        1513,
+        3204,
+        2789
+      ],
+      "translation": "I want my children to learn the Māori language."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "Maori-3204.png"
+}

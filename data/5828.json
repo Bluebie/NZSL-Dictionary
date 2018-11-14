@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5828,
+  "gloss": {
+    "english": [
+      "texture"
+    ],
+    "english_secondary": [
+      "feel"
+    ],
+    "maori": [
+      "kakano"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "texture.5828.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "texture.5828.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5828,
+        4885,
+        3658,
+        2297
+      ],
+      "translation": "The texture of this is good quality."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "texture-5828.png"
+}

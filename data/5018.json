@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5018,
+  "gloss": {
+    "english": [
+      "bull"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūru"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bull.5018.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bull.5018.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        "spain",
+        2583,
+        1650,
+        2844,
+        5018,
+        "cl:man-wave-cape"
+      ],
+      "translation": "I've been to a bullring in Spain and watched the bullfighting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "bull-5018.png"
+}

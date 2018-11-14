@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3636,
+  "gloss": {
+    "english": [
+      "yesterday"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "inanahi"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "yesterday.3636.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "yesterday.3636.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1402,
+        3910,
+        1031,
+        3636,
+        2589,
+        3811,
+        2253
+      ],
+      "translation": "The other netball team arrived yesterday. We will play against them today."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "yesterday-3636.png"
+}

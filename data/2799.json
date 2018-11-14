@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2799,
+  "gloss": {
+    "english": [
+      "badge"
+    ],
+    "english_secondary": [
+      "name tag",
+      "prefect"
+    ],
+    "maori": [
+      "tohu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "badge.2799.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "badge.2799.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        5818,
+        2219,
+        1376,
+        2173,
+        2799
+      ],
+      "translation": "At my work all staff have a name badge."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "badge-2799.png"
+}

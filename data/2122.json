@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2122,
+  "gloss": {
+    "english": [
+      "ignore"
+    ],
+    "english_secondary": [
+      "disregard",
+      "don't hear",
+      "not pay attention to",
+      "take no notice"
+    ],
+    "maori": [
+      "kāore i aro atu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "ignore.2122.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ignore.2122.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1754,
+        5137,
+        2122,
+        2883
+      ],
+      "translation": "I was fed up with him nagging at me, so I ignored him and walked off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "ignore-2122.png"
+}

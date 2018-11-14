@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1465,
+  "gloss": {
+    "english": [
+      "week"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wiki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "week.1465.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "week.1465.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        688,
+        5389,
+        2831,
+        523,
+        4266,
+        5619,
+        1465
+      ],
+      "translation": "The children searched for a book at the library to borrow for three weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "week-1465.png"
+}

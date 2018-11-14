@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3814,
+  "gloss": {
+    "english": [
+      "dentist"
+    ],
+    "english_secondary": [
+      "dental surgeon"
+    ],
+    "maori": [
+      "rata niho"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dentist.3814.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dentist.3814.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1292,
+        3814,
+        2556,
+        2308,
+        2410,
+        1165,
+        5622,
+        4763
+      ],
+      "translation": "I hate the dentist but I have to go every six months."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "dentist-3814.png"
+}

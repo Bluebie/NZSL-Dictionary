@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 1523,
+  "gloss": {
+    "english": [
+      "clothes",
+      "uniform"
+    ],
+    "english_secondary": [
+      "costume",
+      "dress up",
+      "fancy dress",
+      "get dressed"
+    ],
+    "maori": [
+      "kākahu",
+      "pūweru",
+      "kākahu kura"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "uniform.1523.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "uniform.1523.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        895,
+        1523,
+        4138,
+        1826
+      ],
+      "translation": "I put all the dirty clothes in the wash."
+    },
+    {
+      "video": "uniform.1523.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        1298,
+        1376,
+        1523,
+        3300,
+        1298,
+        3027,
+        1523
+      ],
+      "translation": "His school has a uniform, but my school doesn't."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "clothes-1523.png"
+}

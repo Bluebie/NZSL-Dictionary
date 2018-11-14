@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6401,
+  "gloss": {
+    "english": [
+      "eyebrow"
+    ],
+    "english_secondary": [
+      "eyebrows"
+    ],
+    "maori": [
+      "tukemata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "eyebrow.6401.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eyebrow.6401.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3300,
+        4689,
+        2984,
+        1539,
+        3201,
+        6401,
+        2479
+      ],
+      "translation": "My father has black hair and eyebrows."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "eyebrow-6401.png"
+}

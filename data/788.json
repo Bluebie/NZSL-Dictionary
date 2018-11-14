@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 788,
+  "gloss": {
+    "english": [
+      "quarter past"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hauwhā mai i"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "quarter_past.788.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "quarter_past.788.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2879,
+        3086,
+        924,
+        788,
+        4065,
+        2410,
+        4731
+      ],
+      "translation": "We're planning to leave for the airport at quarter past ten."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "quarter_past-788.png"
+}

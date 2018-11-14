@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 479,
+  "gloss": {
+    "english": [
+      "and so on",
+      "talk at length"
+    ],
+    "english_secondary": [
+      "blah blah",
+      "elaborate on",
+      "go on about",
+      "monologue",
+      "pontificate",
+      "rave on"
+    ],
+    "maori": [
+      "te aha atu te aha atu",
+      "pahupahu"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "and_so_on.479.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "and_so_on.479.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4423,
+        2297,
+        1637,
+        5509,
+        4022,
+        731,
+        3243,
+        479
+      ],
+      "translation": "The nurse explained about the importance of eating less and exercising, and so on."
+    },
+    {
+      "video": "and_so_on.479.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3080,
+        1505,
+        2337,
+        4657,
+        1388,
+        2607,
+        479
+      ],
+      "translation": "Representatives from each Deaf club came together for a meeting and talked at length."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "and_so_on-479.png"
+}

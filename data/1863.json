@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1863,
+  "gloss": {
+    "english": [
+      "electric shock"
+    ],
+    "english_secondary": [
+      "electrocute",
+      "shock"
+    ],
+    "maori": [
+      "hiko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "electrocute.1863.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "electrocute.1863.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        1775,
+        2038,
+        2297,
+        1863,
+        5403,
+        4806,
+        2701
+      ],
+      "translation": "The man got an electric shock when the lightning struck him in the pouring rain. He's lucky to be still alive."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "electric_shock-1863.png"
+}

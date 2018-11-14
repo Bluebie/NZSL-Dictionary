@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 3319,
+  "gloss": {
+    "english": [
+      "fight"
+    ],
+    "english_secondary": [
+      "exchange blows"
+    ],
+    "maori": [
+      "whawhai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fight.3319.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fight.3319.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        798,
+        2953,
+        3319
+      ],
+      "translation": "I'm fed up with the two of them fighting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fight-3319.png"
+}

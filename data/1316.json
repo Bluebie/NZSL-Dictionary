@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1316,
+  "gloss": {
+    "english": [
+      "Netherlands"
+    ],
+    "english_secondary": [
+      "Dutch",
+      "Holland"
+    ],
+    "maori": [
+      "Hōrana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Holland.1316.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Holland.1316.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1316,
+        687,
+        3027,
+        740
+      ],
+      "translation": "The Netherlands is flat. There are no mountains."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "Netherlands-1316.png"
+}

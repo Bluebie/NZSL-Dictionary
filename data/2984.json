@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2984,
+  "gloss": {
+    "english": [
+      "hair"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "makawe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hair.2984.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hair.2984.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5183,
+        5880,
+        2984,
+        3162
+      ],
+      "translation": "I went for it and dyed my hair blond."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "hair-2984.png"
+}

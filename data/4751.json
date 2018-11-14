@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4751,
+  "gloss": {
+    "english": [
+      "Milo"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Maero"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "milo.4751.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "milo.4751.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2879,
+        1447,
+        4264,
+        4751,
+        6244,
+        347
+      ],
+      "translation": "We like drinking Milo before bed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.3-46c8c1b9279dfffea9491b2ed1612957f982f9ad7022ea244c28fff42fb5abad.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "milo-4751.png"
+}

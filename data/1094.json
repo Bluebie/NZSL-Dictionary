@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1094,
+  "gloss": {
+    "english": [
+      "traffic jam"
+    ],
+    "english_secondary": [
+      "traffic"
+    ],
+    "maori": [
+      "mātotorutanga o te waka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "traffic_jam.1094.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "traffic_jam.1094.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1403,
+        3653,
+        2095,
+        856,
+        2619,
+        1094
+      ],
+      "translation": "There was a traffic jam because of people driving back home to Auckland at the end of the holidays."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "traffic_jam-1094.png"
+}

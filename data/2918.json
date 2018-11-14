@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2918,
+  "gloss": {
+    "english": [
+      "double"
+    ],
+    "english_secondary": [
+      "twice"
+    ],
+    "maori": [
+      "rearua",
+      "pūrua"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "double.2918.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "double.2918.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5708,
+        2646,
+        1107,
+        585,
+        2095,
+        5408,
+        2918
+      ],
+      "translation": "Over the last fifty years, the New Zealand population has doubled."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "double-2918.png"
+}

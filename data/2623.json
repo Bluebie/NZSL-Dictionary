@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2623,
+  "gloss": {
+    "english": [
+      "Auckland"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Tāmakimakaurau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Auckland.2623.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Auckland.2623.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        5498,
+        702,
+        2623,
+        3063,
+        3700,
+        4222
+      ],
+      "translation": "She decided to move to Auckland to do the interpreter training course."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Auckland-2623.png"
+}

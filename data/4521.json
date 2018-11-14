@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4521,
+  "gloss": {
+    "english": [
+      "carrot"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāroti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "carrot.4521.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "carrot.4521.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        939,
+        6135,
+        4138,
+        4022,
+        4521,
+        1908,
+        2234,
+        6135,
+        771
+      ],
+      "translation": "All of us prepared food for the hangi such as carrot, cauliflower and meat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "carrot-4521.png"
+}

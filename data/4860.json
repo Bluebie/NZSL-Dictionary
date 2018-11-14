@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4860,
+  "gloss": {
+    "english": [
+      "standard"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "paerewa",
+      "aro whānui"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "standard.4860.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "standard.4860.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3261,
+        4824,
+        2418,
+        1885,
+        3736,
+        4860,
+        903,
+        3063,
+        2583,
+        3935
+      ],
+      "translation": "The fourth part of the NZSL Act states that standards need to be established for interpreters in court."
+    },
+    {
+      "video": "standard.4860.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        4054,
+        3261,
+        721,
+        5283,
+        4860
+      ],
+      "translation": "We want a standard curriculum for teaching NZSL."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "standard-4860.png"
+}

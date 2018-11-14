@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3015,
+  "gloss": {
+    "english": [
+      "chewing gum"
+    ],
+    "english_secondary": [
+      "chew gum",
+      "gum"
+    ],
+    "maori": [
+      "pia",
+      "pia ngaungau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gum.3015.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gum.3015.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4307,
+        2383,
+        3015,
+        "cl:gum-on-shoe",
+        1569
+      ],
+      "translation": "There's chewing gum on the bottom of my shoe. How disappointing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "chewing_gum-3015.png"
+}

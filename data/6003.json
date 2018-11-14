@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6003,
+  "gloss": {
+    "english": [
+      "shelf"
+    ],
+    "english_secondary": [
+      "mantlepiece",
+      "window sill"
+    ],
+    "maori": [
+      "pae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shelf.6003.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shelf.6003.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6003,
+        523,
+        1376,
+        2583
+      ],
+      "translation": "There's a book on the shelf over there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shelf-6003.png"
+}

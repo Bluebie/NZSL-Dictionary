@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4400,
+  "gloss": {
+    "english": [
+      "subtitles"
+    ],
+    "english_secondary": [
+      "captions",
+      "Teletext"
+    ],
+    "maori": [
+      "kupu whakamārama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "subtitles.4400.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "subtitles.4400.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3642,
+        5831,
+        4400,
+        3027,
+        5334,
+        2844
+      ],
+      "translation": "It's not worth watching television if there are no subtitles."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.2-9f3cd25fcefedd16aaacf288ec5b1994247f245fd7e3f6feb579dc1a100467d5.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "subtitles-4400.png"
+}

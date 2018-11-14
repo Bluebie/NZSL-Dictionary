@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 3586,
+  "gloss": {
+    "english": [
+      "chicken",
+      "coward"
+    ],
+    "english_secondary": [
+      "afraid",
+      "scared"
+    ],
+    "maori": [
+      "pīpī",
+      "toupiore",
+      "hamo pango"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chicken.3586.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chicken.3586.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        "every",
+        3111,
+        2556,
+        3585,
+        2556,
+        5739,
+        3586,
+        930,
+        2398
+      ],
+      "translation": "Every morning it's my job to feed the chickens and collect the eggs."
+    },
+    {
+      "video": "chicken.3586.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        655,
+        2321,
+        3586,
+        2556,
+        5183,
+        5541,
+        2285,
+        5541,
+        655
+      ],
+      "translation": "Come on you coward! I've taken the plunge and parachuted once - come on!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chicken-3586.png"
+}

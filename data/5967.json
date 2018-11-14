@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5967,
+  "gloss": {
+    "english": [
+      "apply"
+    ],
+    "english_secondary": [
+      "application"
+    ],
+    "maori": [
+      "tono"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "apply.5967.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "apply.5967.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5967,
+        3585,
+        2145,
+        3656,
+        4333
+      ],
+      "translation": "I applied for a job to see what would happen and I was successful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "apply-5967.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4633,
+  "gloss": {
+    "english": [
+      "Saturday"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rāhoroi",
+      "Hatarei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "day_saturday.4633.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "day_saturday.4633.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1031,
+        2259,
+        3885,
+        4633
+      ],
+      "translation": "I arrive in Auckland this Saturday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "Saturday-4633.png"
+}

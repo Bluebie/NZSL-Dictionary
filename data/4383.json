@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4383,
+  "gloss": {
+    "english": [
+      "Palmerston North"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Papaioea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "palmerston_north.4383.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "palmerston_north.4383.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        959,
+        565,
+        4609,
+        810,
+        4383
+      ],
+      "translation": "When I grew up I used to live in Feilding, near Palmerston North."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "palmerston_north-4383.png"
+}

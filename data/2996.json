@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2996,
+  "gloss": {
+    "english": [
+      "elephant"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "arewhana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "elephant.2996.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "elephant.2996.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2321,
+        2844,
+        2996,
+        2583,
+        1092
+      ],
+      "translation": "You can see the elephant at the zoo."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "elephant-2996.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6250,
+  "gloss": {
+    "english": [
+      "twist"
+    ],
+    "english_secondary": [
+      "cramp",
+      "sprain"
+    ],
+    "maori": [
+      "takoki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "twist.6250.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twist.6250.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        5634,
+        2674,
+        6250,
+        1561
+      ],
+      "translation": "I was playing cricket and I twisted my ankle. It hurt!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twist-6250.png"
+}

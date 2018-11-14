@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4544,
+  "gloss": {
+    "english": [
+      "tights"
+    ],
+    "english_secondary": [
+      "pantihose",
+      "stockings"
+    ],
+    "maori": [
+      "taraupiri"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tights.4544.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tights.4544.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1072,
+        3420,
+        2556,
+        906,
+        "cl:under-skirt",
+        3201,
+        4544
+      ],
+      "translation": "It was cold outside so I wore black tights under my skirt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "tights-4544.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6477,
+  "gloss": {
+    "english": [
+      "squirrel"
+    ],
+    "english_secondary": [
+      "chipmunk"
+    ],
+    "maori": [
+      "kirera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "squirrel.6477.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "squirrel.6477.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6477,
+        2660,
+        1299,
+        4022,
+        3137
+      ],
+      "translation": "The squirrel was up in the tree, eating nuts."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "squirrel-6477.png"
+}

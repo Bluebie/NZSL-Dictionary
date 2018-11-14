@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2916,
+  "gloss": {
+    "english": [
+      "railway station"
+    ],
+    "english_secondary": [
+      "station",
+      "train station"
+    ],
+    "maori": [
+      "teihana rerewē"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "railway_station.2916.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "railway_station.2916.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2461,
+        2321,
+        2583,
+        2916,
+        5662,
+        5621
+      ],
+      "translation": "Shall I meet you there at the railway station, at five o'clock?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "railway_station-2916.png"
+}

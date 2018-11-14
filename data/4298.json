@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 4298,
+  "gloss": {
+    "english": [
+      "dry",
+      "thirsty"
+    ],
+    "english_secondary": [
+      "thirst"
+    ],
+    "maori": [
+      "maroke",
+      "hiainu",
+      "matewai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "dry.4298.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dry.4298.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4790,
+        4298,
+        6000,
+        3721,
+        1127
+      ],
+      "translation": "Australia is a dry land with lots of kangaroos."
+    },
+    {
+      "video": "dry.4298.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        4510,
+        4298,
+        1185,
+        2146,
+        4264
+      ],
+      "translation": "My throat is dry. I need to drink some water."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "dry-4298.png"
+}

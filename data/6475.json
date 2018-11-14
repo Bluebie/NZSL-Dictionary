@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6475,
+  "gloss": {
+    "english": [
+      "spine"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "iwi tuaroa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spine.6475.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spine.6475.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        4680,
+        3775,
+        264,
+        1376,
+        1562,
+        6475
+      ],
+      "translation": "I fell and had a sore spine the next day."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "spine-6475.png"
+}

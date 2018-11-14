@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2904,
+  "gloss": {
+    "english": [
+      "soup"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hupa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "soup.2904.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "soup.2904.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        3420,
+        2904,
+        "cl:bring-bowl",
+        2556,
+        3878,
+        3194,
+        1555
+      ],
+      "translation": "I was feeling cold, so I had a bowl of soup, which warmed me up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "soup-2904.png"
+}

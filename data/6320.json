@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6320,
+  "gloss": {
+    "english": [
+      "loud"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hoihoi",
+      "turituri"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "loud.6320.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "loud.6320.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5831,
+        6320,
+        385,
+        2798
+      ],
+      "translation": "The TV is loud. Please turn it down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "loud-6320.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3870,
+  "gloss": {
+    "english": [
+      "check off"
+    ],
+    "english_secondary": [
+      "check up",
+      "cross off",
+      "mark",
+      "tick"
+    ],
+    "maori": [
+      "tohua"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "check_off.3870.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "check_off.3870.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1031,
+        2556,
+        2173,
+        3870
+      ],
+      "translation": "When he arrived I checked off his name."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "check_off-3870.png"
+}

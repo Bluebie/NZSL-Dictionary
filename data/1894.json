@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 1894,
+  "gloss": {
+    "english": [
+      "catch",
+      "catch out"
+    ],
+    "english_secondary": [
+      "caught",
+      "grab"
+    ],
+    "maori": [
+      "hopu",
+      "mau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "catch.1894.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "catch.1894.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4701,
+        1840,
+        1894,
+        3587
+      ],
+      "translation": "I got up, got dressed and caught the bus."
+    },
+    {
+      "video": "catch.1894.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        1894,
+        2953,
+        2466,
+        2543,
+        2556
+      ],
+      "translation": "I caught those two talking about me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "catch-1894.png"
+}

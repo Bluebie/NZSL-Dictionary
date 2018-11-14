@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5423,
+  "gloss": {
+    "english": [
+      "bad breath"
+    ],
+    "english_secondary": [
+      "halitosis"
+    ],
+    "maori": [
+      "hā kino"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "bad_breath.5423.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bad_breath.5423.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2699,
+        2115,
+        2297,
+        5423,
+        1185,
+        3815
+      ],
+      "translation": "She stinks - she has bad breath and needs to brush her teeth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "bad_breath-5423.png"
+}

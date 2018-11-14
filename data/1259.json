@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1259,
+  "gloss": {
+    "english": [
+      "liver"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ate"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "liver.1259.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "liver.1259.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1259,
+        1376,
+        1644,
+        2297,
+        1185,
+        4349,
+        1501
+      ],
+      "translation": "His liver has an infection. He needs pills to heal it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "liver-1259.png"
+}

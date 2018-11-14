@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3006,
+  "gloss": {
+    "english": [
+      "breathalyser",
+      "inflate"
+    ],
+    "english_secondary": [
+      "blow into",
+      "blow up"
+    ],
+    "maori": [
+      "mīhini tātari hā",
+      "pupuhi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "inflate.3006.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inflate.3006.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3006,
+        813,
+        1638,
+        2297,
+        4264,
+        1494
+      ],
+      "translation": "The breathalyser showed she was well over the limit, which means she must have had a lot to drink."
+    },
+    {
+      "video": "inflate.3006.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        5391,
+        4546,
+        1185,
+        1123,
+        3006,
+        5002
+      ],
+      "translation": "I need your help to inflate balloons for tonight's party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "breathalyser-3006.png"
+}

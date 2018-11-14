@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 295,
+  "gloss": {
+    "english": [
+      "clever"
+    ],
+    "english_secondary": [
+      "bright",
+      "intelligent",
+      "knowledgeable",
+      "smart",
+      "well-informed"
+    ],
+    "maori": [
+      "mātau",
+      "mōhio"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "clever.295.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clever.295.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        2297,
+        954,
+        2583,
+        2931,
+        1298,
+        2297,
+        295,
+        2184
+      ],
+      "translation": "When he was at Sumner School for the Deaf he was a clever boy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "clever-295.png"
+}

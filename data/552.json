@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 552,
+  "gloss": {
+    "english": [
+      "motel"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mōtēra"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "motel.552.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "motel.552.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        552,
+        2297,
+        2382,
+        4400,
+        3027,
+        1569
+      ],
+      "translation": "The motel's television didn't have subtitles. I was disappointed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "motel-552.png"
+}

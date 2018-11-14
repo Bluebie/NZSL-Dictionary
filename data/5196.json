@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5196,
+  "gloss": {
+    "english": [
+      "irritated"
+    ],
+    "english_secondary": [
+      "annoyed"
+    ],
+    "maori": [
+      "hōhā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "irritated.5196.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "irritated.5196.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3885,
+        4446,
+        1747,
+        2328,
+        2758,
+        2758,
+        2607,
+        2556,
+        5196
+      ],
+      "translation": "That person is always late to the meetings. I get irritated by it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "irritated-5196.png"
+}

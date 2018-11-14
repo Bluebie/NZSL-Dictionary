@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1708,
+  "gloss": {
+    "english": [
+      "sorry"
+    ],
+    "english_secondary": [
+      "apology",
+      "regret",
+      "regretful"
+    ],
+    "maori": [
+      "mō taku hē"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection",
+      "noun"
+    ]
+  },
+  "video": "sorry.1708.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sorry.1708.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1708,
+        2556,
+        2758,
+        347,
+        2430
+      ],
+      "translation": "Sorry I'm late. I slept for ages!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sorry-1708.png"
+}

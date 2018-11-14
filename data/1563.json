@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 1563,
+  "gloss": {
+    "english": [
+      "rough",
+      "scruffy"
+    ],
+    "english_secondary": [
+      "draft (rough copy)",
+      "unkempt"
+    ],
+    "maori": [
+      "ātete",
+      "tutū",
+      "kanukanu",
+      "karukaru"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "rough.1563.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rough.1563.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2253,
+        2297,
+        3910,
+        1949,
+        2297,
+        1563,
+        1926,
+        2297
+      ],
+      "translation": "I played basketball against a team who played rough."
+    },
+    {
+      "video": "rough.1563.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        4187,
+        5471,
+        1553,
+        2287,
+        1563,
+        1523
+      ],
+      "translation": "I went to a country pub where lots of people were wearing scruffy clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rough-1563.png"
+}

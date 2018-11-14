@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2175,
+  "gloss": {
+    "english": [
+      "inhaler"
+    ],
+    "english_secondary": [
+      "asthma"
+    ],
+    "maori": [
+      "ngongō"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "asthma.2175.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "asthma.2175.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1594,
+        5537,
+        2556,
+        1185,
+        2175,
+        1832,
+        2556,
+        5818,
+        5784
+      ],
+      "translation": "My asthma is terrible. I need an inhaler with me all the time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "inhaler-2175.png"
+}

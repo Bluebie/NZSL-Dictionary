@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3450,
+  "gloss": {
+    "english": [
+      "stir"
+    ],
+    "english_secondary": [
+      "cause trouble",
+      "stir up trouble",
+      "stirrer"
+    ],
+    "maori": [
+      "whakatutū i te puehu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "stir.3450.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stir.3450.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2213,
+        5785,
+        3450,
+        1090,
+        2297
+      ],
+      "translation": "He lied and lied, trying to stir up trouble."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stir-3450.png"
+}

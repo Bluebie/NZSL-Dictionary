@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6433,
+  "gloss": {
+    "english": [
+      "net (fishing)"
+    ],
+    "english_secondary": [
+      "fishing net"
+    ],
+    "maori": [
+      "kupenga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "net.6433.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "net.6433.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        1545,
+        859,
+        2297,
+        5448,
+        6433,
+        1959,
+        751
+      ],
+      "translation": "The big ships use a net to catch the fish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "net_fishing-6433.png"
+}

@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5849,
+  "gloss": {
+    "english": [
+      "army",
+      "soldier"
+    ],
+    "english_secondary": [
+      "military"
+    ],
+    "maori": [
+      "ope taua",
+      "hōia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "army.5849.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "army.5849.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1338,
+        2297,
+        2099,
+        5613,
+        2297,
+        5340,
+        5849
+      ],
+      "translation": "When he was 16 he joined the army."
+    },
+    {
+      "video": "army.5849.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1279,
+        5849,
+        1647,
+        1152,
+        985
+      ],
+      "translation": "He was a soldier in the Korean War."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "army-5849.png"
+}

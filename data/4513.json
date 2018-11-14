@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 4513,
+  "gloss": {
+    "english": [
+      "possible"
+    ],
+    "english_secondary": [
+      "maybe",
+      "perhaps",
+      "possibility",
+      "possibly",
+      "potential",
+      "potentially"
+    ],
+    "maori": [
+      "āhei",
+      "taea"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "possible.4513.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "possible.4513.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2540,
+        1490,
+        1211,
+        4513,
+        2540,
+        2410,
+        859,
+        2583,
+        6091
+      ],
+      "translation": "Our group discussed if it was possible to go on a cruise to Fiji."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "possible-4513.png"
+}

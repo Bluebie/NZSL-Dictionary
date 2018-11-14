@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4636,
+  "gloss": {
+    "english": [
+      "guilty"
+    ],
+    "english_secondary": [
+      "guilt",
+      "my fault"
+    ],
+    "maori": [
+      "manawarau",
+      "manawa kino"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "guilty.4636.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "guilty.4636.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5536,
+        4636,
+        4809,
+        5632,
+        872,
+        1220,
+        2556,
+        3425
+      ],
+      "translation": "I feel guilty that I haven't bought a present for her yet because I've been too busy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "guilty-4636.png"
+}

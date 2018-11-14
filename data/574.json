@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 574,
+  "gloss": {
+    "english": [
+      "medium"
+    ],
+    "english_secondary": [
+      "middle"
+    ],
+    "maori": [
+      "waenganui"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "medium.574.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "medium.574.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        721,
+        1545,
+        3462,
+        3718,
+        574
+      ],
+      "translation": "I don't want a big car. I'd prefer a medium one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "medium-574.png"
+}

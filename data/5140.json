@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5140,
+  "gloss": {
+    "english": [
+      "restless"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaparangi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "restless.5140.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "restless.5140.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1775,
+        2556,
+        1636,
+        2875,
+        952,
+        362,
+        2206,
+        5140
+      ],
+      "translation": "I rained and my family were stuck at the motel. It was boring, and we grumbled and were restless."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "restless-5140.png"
+}

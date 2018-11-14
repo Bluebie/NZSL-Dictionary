@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4695,
+  "gloss": {
+    "english": [
+      "February"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Huitanguru",
+      "Pēpuere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_february.4695.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_february.4695.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3885,
+        4695,
+        4738,
+        1795,
+        4610,
+        4648,
+        3824
+      ],
+      "translation": "This February, Wellington is hosting the International Arts Festival."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "february-4695.png"
+}

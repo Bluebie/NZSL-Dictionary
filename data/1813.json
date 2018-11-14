@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1813,
+  "gloss": {
+    "english": [
+      "steal"
+    ],
+    "english_secondary": [
+      "rob",
+      "robbery",
+      "stealing",
+      "theft",
+      "thieve"
+    ],
+    "maori": [
+      "whānako",
+      "tāhae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "robbery.1813.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "robbery.1813.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        1813,
+        5607,
+        2290,
+        4224
+      ],
+      "translation": "He stole one thousand dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "steal-1813.png"
+}

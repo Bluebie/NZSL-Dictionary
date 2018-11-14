@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2204,
+  "gloss": {
+    "english": [
+      "announce"
+    ],
+    "english_secondary": [
+      "announcement",
+      "broadcast",
+      "inform"
+    ],
+    "maori": [
+      "pānui",
+      "pāho"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "announce.2204.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "announce.2204.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3885,
+        2552,
+        1772,
+        2297,
+        2204,
+        1095,
+        5468,
+        2846,
+        1152,
+        5471,
+        3108
+      ],
+      "translation": "At that time, the government announced a new law banning smoking inside pubs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "announce-2204.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2602,
+  "gloss": {
+    "english": [
+      "return"
+    ],
+    "english_secondary": [
+      "round trip",
+      "there and back"
+    ],
+    "maori": [
+      "haere atu me te hoki mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "return.2602.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "return.2602.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        4731,
+        4472,
+        2299,
+        4214,
+        5713,
+        4224,
+        2602
+      ],
+      "translation": "I bought a plane ticket to Christchurch. It was eighty dollars return."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "return-2602.png"
+}

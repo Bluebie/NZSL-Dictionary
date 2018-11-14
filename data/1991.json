@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1991,
+  "gloss": {
+    "english": [
+      "square"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tapawhā"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "square.1991.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "square.1991.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2917,
+        2297,
+        2099,
+        5619,
+        4501,
+        3802,
+        1991,
+        2311,
+        2027
+      ],
+      "translation": "My son is three years old, and can draw a square, a circle and a triangle."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "square-1991.png"
+}

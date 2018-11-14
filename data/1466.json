@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1466,
+  "gloss": {
+    "english": [
+      "west"
+    ],
+    "english_secondary": [
+      "western"
+    ],
+    "maori": [
+      "uru"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "west.1466.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "west.1466.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2583,
+        1466,
+        2619,
+        1494,
+        4656,
+        565,
+        2583,
+        5738
+      ],
+      "translation": "Lots of Deaf people live in West Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "west-1466.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4226,
+  "gloss": {
+    "english": [
+      "Christian"
+    ],
+    "english_secondary": [
+      "Christianity"
+    ],
+    "maori": [
+      "Karaitiana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "christian.4226.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "christian.4226.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        "family",
+        3266,
+        4226
+      ],
+      "translation": "Her family are devout Christians."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "christian-4226.png"
+}

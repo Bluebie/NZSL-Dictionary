@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3400,
+  "gloss": {
+    "english": [
+      "sausage"
+    ],
+    "english_secondary": [
+      "hot dog"
+    ],
+    "maori": [
+      "tōtiti",
+      "notinoti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sausage.3400.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sausage.3400.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        264,
+        3317,
+        3889,
+        5760,
+        3400,
+        898,
+        4097
+      ],
+      "translation": "We raised money by selling sausages at a barbecue all day on Saturday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sausage-3400.png"
+}

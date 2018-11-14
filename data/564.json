@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 564,
+  "gloss": {
+    "english": [
+      "box"
+    ],
+    "english_secondary": [
+      "carton",
+      "container"
+    ],
+    "maori": [
+      "pouaka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "box.564.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "box.564.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        564,
+        2556,
+        4160,
+        1523,
+        6169,
+        4785,
+        702
+      ],
+      "translation": "I packed my clothes and things in a box to prepare for the move."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "box-564.png"
+}

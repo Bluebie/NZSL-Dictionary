@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5288,
+  "gloss": {
+    "english": [
+      "Deaf world"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ao turi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "Deaf_world.5288.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Deaf_world.5288.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5536,
+        4251,
+        5288,
+        1300
+      ],
+      "translation": "I feel comfortable in the Deaf world, using sign language."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_world-5288.png"
+}

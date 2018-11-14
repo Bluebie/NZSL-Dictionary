@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2095,
+  "gloss": {
+    "english": [
+      "people"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāngata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "people.2095.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "people.2095.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3723,
+        2461,
+        4656,
+        2095,
+        2583,
+        4657,
+        1931,
+        1300
+      ],
+      "translation": "He enjoyed meeting deaf people at the Deaf Club, socialising and chatting with them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "people-2095.png"
+}

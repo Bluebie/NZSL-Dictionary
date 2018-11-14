@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2418,
+  "gloss": {
+    "english": [
+      "fourth"
+    ],
+    "english_secondary": [
+      "fourth (of a list)",
+      "fourthly"
+    ],
+    "maori": [
+      "tuawhā"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "fourthly.2418.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fourthly.2418.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2418,
+        762,
+        4204,
+        2297,
+        5990
+      ],
+      "translation": "The fourth one of my cousins uses a wheelchair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fourth-2418.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1723,
+  "gloss": {
+    "english": [
+      "sophisticated"
+    ],
+    "english_secondary": [
+      "affluent",
+      "expensive",
+      "fancy",
+      "first-class",
+      "flash",
+      "posh",
+      "upmarket"
+    ],
+    "maori": [
+      "tau",
+      "rawe"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "first_class.1723.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "first_class.1723.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2879,
+        648,
+        2935,
+        2297,
+        1723,
+        367,
+        5738
+      ],
+      "translation": "We went to a restaurant. It was very sophisticated and looked lovely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sophisticated-1723.png"
+}

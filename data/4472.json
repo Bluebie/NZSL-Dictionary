@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4472,
+  "gloss": {
+    "english": [
+      "ticket"
+    ],
+    "english_secondary": [
+      "brick",
+      "cheque",
+      "chequebook",
+      "coupon",
+      "licence",
+      "receipt",
+      "tape (video/audio)"
+    ],
+    "maori": [
+      "tīkiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ticket.4472.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ticket.4472.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        4472,
+        5612,
+        4224,
+        648,
+        1867,
+        2941
+      ],
+      "translation": "I bought a ticket for fifteen dollars, went into the museum and looked around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ticket-4472.png"
+}

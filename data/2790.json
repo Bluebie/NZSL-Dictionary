@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2790,
+  "gloss": {
+    "english": [
+      "cowboy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaupoai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cowboys.2790.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cowboys.2790.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2410,
+        1421,
+        2790,
+        2844,
+        549,
+        2844
+      ],
+      "translation": "We went to the movies to watch a cowboy film. We loved it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cowboy-2790.png"
+}

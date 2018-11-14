@@ -1,0 +1,68 @@
+{
+  "nzsl_id": 3951,
+  "gloss": {
+    "english": [
+      "check off",
+      "mark"
+    ],
+    "english_secondary": [
+      "tick"
+    ],
+    "maori": [
+      "tohu",
+      "māka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "check_off.3951.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "check_off.3951.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1112,
+        5861,
+        4160,
+        2266,
+        730,
+        3844,
+        3951
+      ],
+      "translation": "I listed what I needed to bring for camp. I packed a coat and checked it off."
+    },
+    {
+      "video": "check_off.3951.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        2297,
+        3705,
+        2321,
+        3951
+      ],
+      "translation": "If it's right, you mark it."
+    },
+    {
+      "video": "check_off.3951.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        2556,
+        1766,
+        3658,
+        3951
+      ],
+      "translation": "I got good marks at school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "check_off-3951.png"
+}

@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 5195,
+  "gloss": {
+    "english": [
+      "faint",
+      "pass out"
+    ],
+    "english_secondary": [
+      "collapse"
+    ],
+    "maori": [
+      "hauaitu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "faint.5195.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "faint.5195.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1732,
+        2297,
+        1720,
+        5728,
+        3027,
+        4264,
+        2146,
+        2297,
+        5195
+      ],
+      "translation": "It was hot.  He got dizzy and thirsty, but he didn't drink any water and he fainted."
+    },
+    {
+      "video": "faint.5195.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        4546,
+        2297,
+        5902,
+        5195,
+        5662,
+        5608
+      ],
+      "translation": "Last night at the party he got drunk and passed out at eleven o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "faint-5195.png"
+}

@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3260,
+  "gloss": {
+    "english": [
+      "race",
+      "sport"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauwhāinga",
+      "hākinakina"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "race.3260.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "race.3260.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1403,
+        2583,
+        2819,
+        2556,
+        2844,
+        "fs:f",
+        5607,
+        3462,
+        3260,
+        "cl:laps"
+      ],
+      "translation": "On my holiday in Adelaide, I watched the Formula One car race."
+    },
+    {
+      "video": "race.3260.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1178,
+        1298,
+        2556,
+        5340,
+        2117,
+        3260,
+        3912
+      ],
+      "translation": "When I left school, I joined a hearing sports club."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "race-3260.png"
+}

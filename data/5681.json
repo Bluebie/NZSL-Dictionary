@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5681,
+  "gloss": {
+    "english": [
+      "react (chemical)"
+    ],
+    "english_secondary": [
+      "reaction"
+    ],
+    "maori": [
+      "tauhohe (matū)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "react.5681.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "react.5681.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3462,
+        1890,
+        1287,
+        1327,
+        2297,
+        2146,
+        3462,
+        2297,
+        2223,
+        5681
+      ],
+      "translation": "Cars rust due to the rain water reacting with the metal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "react_chemical-5681.png"
+}

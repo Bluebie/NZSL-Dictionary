@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5914,
+  "gloss": {
+    "english": [
+      "not for a long time"
+    ],
+    "english_secondary": [
+      "not for ages",
+      "not for a while",
+      "not since"
+    ],
+    "maori": [
+      "roa"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "not_for_a_long_time.5914.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_for_a_long_time.5914.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3300,
+        1083,
+        2556,
+        2091,
+        5914,
+        1505,
+        5861,
+        1715
+      ],
+      "translation": "I hadn't seen my friend for a long time, not since camp ages ago."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "not_for_a_long_time-5914.png"
+}

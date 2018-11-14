@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4709,
+  "gloss": {
+    "english": [
+      "close"
+    ],
+    "english_secondary": [
+      "intimate"
+    ],
+    "maori": [
+      "piripono",
+      "tata"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "close.4709.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "close.4709.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        4709,
+        1083,
+        959
+      ],
+      "translation": "We're close friends; we grew up together."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.2-505b07826bdae6053dfc3e3102dc758f539407019509d7b1fc68baaa2ae41842.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "close-4709.png"
+}

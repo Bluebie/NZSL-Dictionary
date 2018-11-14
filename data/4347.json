@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4347,
+  "gloss": {
+    "english": [
+      "wake up"
+    ],
+    "english_secondary": [
+      "awake",
+      "awaken",
+      "conscious",
+      "wake"
+    ],
+    "maori": [
+      "oho"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "awake.4347.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "awake.4347.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1231,
+        4347,
+        5255,
+        1681,
+        721,
+        528
+      ],
+      "translation": "The baby woke up crying. She was hungry and wanted to be breastfed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "wake_up-4347.png"
+}

@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 2440,
+  "gloss": {
+    "english": [
+      "minute"
+    ],
+    "english_secondary": [
+      "minutes"
+    ],
+    "maori": [
+      "meneti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "minutes.2440.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "minutes.2440.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        771,
+        855,
+        4527,
+        2440,
+        3653,
+        "cl:serve-food",
+        5666
+      ],
+      "translation": "I was cooking something. I fried it for a few minutes then put it on a plate."
+    },
+    {
+      "video": "minutes.2440.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        385,
+        2895,
+        2440,
+        499,
+        2607,
+        1171
+      ],
+      "translation": "Please read the minutes before the meeting starts."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "minute-2440.png"
+}

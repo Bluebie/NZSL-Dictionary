@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6276,
+  "gloss": {
+    "english": [
+      "apply"
+    ],
+    "english_secondary": [
+      "application"
+    ],
+    "maori": [
+      "tono"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "apply.6276.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "apply.6276.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        6276,
+        585,
+        287,
+        4728,
+        1766
+      ],
+      "translation": "She has applied for New Zealand citizenship and hopefully she'll get it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "apply-6276.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5439,
+  "gloss": {
+    "english": [
+      "sunset"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tōnga o te rā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "sunset.5439.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sunset.5439.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        859,
+        3561,
+        5439,
+        3684,
+        3637,
+        499,
+        253
+      ],
+      "translation": "We were fishing on the boat when we saw the sunset. We thought we'd better get back before dark."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sunset-5439.png"
+}

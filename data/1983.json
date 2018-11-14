@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 1983,
+  "gloss": {
+    "english": [
+      "board"
+    ],
+    "english_secondary": [
+      "blackboard",
+      "notice",
+      "notice board",
+      "picture",
+      "poster",
+      "sign",
+      "whiteboard"
+    ],
+    "maori": [
+      "papa pānui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "board.1983.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "board.1983.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        2410,
+        3800,
+        1983,
+        2844,
+        2982,
+        3591,
+        748,
+        727,
+        2266
+      ],
+      "translation": "We went to the board in the office to see if the ski field was open or closed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "board-1983.png"
+}

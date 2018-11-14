@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1544,
+  "gloss": {
+    "english": [
+      "where"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kei hea"
+    ],
+    "attributes": [
+      "interrogative"
+    ]
+  },
+  "video": "where.1544.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "where.1544.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        3009,
+        1544,
+        3892,
+        2297,
+        307
+      ],
+      "translation": "I've asked her where the keys were. She didn't know."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "where-1544.png"
+}

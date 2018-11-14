@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2982,
+  "gloss": {
+    "english": [
+      "snow"
+    ],
+    "english_secondary": [
+      "snowing"
+    ],
+    "maori": [
+      "hukarere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "snow.2982.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "snow.2982.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2879,
+        1767,
+        5389,
+        2583,
+        2982,
+        3591,
+        2287,
+        5663,
+        5784
+      ],
+      "translation": "We took the children to the snow for skiing. It was their first time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "snow-2982.png"
+}

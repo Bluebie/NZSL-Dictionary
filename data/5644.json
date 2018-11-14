@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5644,
+  "gloss": {
+    "english": [
+      "degree",
+      "scholarship"
+    ],
+    "english_secondary": [
+      "diploma"
+    ],
+    "maori": [
+      "tohu",
+      "karahipi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "scholarship.5644.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "scholarship.5644.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2410,
+        1849,
+        450,
+        1766,
+        5644
+      ],
+      "translation": "He went to university to study and get a degree."
+    },
+    {
+      "video": "scholarship.5644.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3656,
+        1766,
+        5644,
+        5607,
+        2290,
+        4224
+      ],
+      "translation": "He succeeded in getting a scholarship worth one thousand dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "degree-5644.png"
+}

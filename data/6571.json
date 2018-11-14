@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6571,
+  "gloss": {
+    "english": [
+      "wink"
+    ],
+    "english_secondary": [
+      "blink"
+    ],
+    "maori": [
+      "kamo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "wink.6571.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wink.6571.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        6571,
+        2556,
+        3618,
+        4708
+      ],
+      "translation": "He winked, so I knew he was joking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "wink-6571.png"
+}

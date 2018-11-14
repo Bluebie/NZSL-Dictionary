@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2049,
+  "gloss": {
+    "english": [
+      "mother"
+    ],
+    "english_secondary": [
+      "mum",
+      "mummy"
+    ],
+    "maori": [
+      "whaea",
+      "māmā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mother.2049.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mother.2049.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2049,
+        3840,
+        2556,
+        2121,
+        2099,
+        5619
+      ],
+      "translation": "My mother found out that I was deaf when I was three years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "mother-2049.png"
+}

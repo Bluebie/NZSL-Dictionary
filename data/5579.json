@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5579,
+  "gloss": {
+    "english": [
+      "put on paper"
+    ],
+    "english_secondary": [
+      "paste (computer)"
+    ],
+    "maori": [
+      "tuhi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "put_on_paper.5579.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "put_on_paper.5579.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2193,
+        6033,
+        5579,
+        4657,
+        3943
+      ],
+      "translation": "The information will be put in the Deaf Club newsletter shortly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "put_on_paper-5579.png"
+}

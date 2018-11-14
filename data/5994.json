@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5994,
+  "gloss": {
+    "english": [
+      "withdraw (money)"
+    ],
+    "english_secondary": [
+      "take out"
+    ],
+    "maori": [
+      "tango",
+      "tiki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "withdraw.5994.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "withdraw.5994.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5627,
+        2556,
+        5994,
+        5711,
+        4224
+      ],
+      "translation": "I withdrew sixty dollars from the ATM."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "withdraw_money-5994.png"
+}

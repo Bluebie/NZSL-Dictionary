@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 5630,
+  "gloss": {
+    "english": [
+      "break down",
+      "collapse"
+    ],
+    "english_secondary": [
+      "crash (computer)",
+      "fold"
+    ],
+    "maori": [
+      "pakaru",
+      "ngahoro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "break_down.5630.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "break_down.5630.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        5630,
+        2314,
+        3518,
+        "fs:aa",
+        2533
+      ],
+      "translation": "The car broke down so we waited for the AA to come."
+    },
+    {
+      "video": "break_down.5630.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        967,
+        1376,
+        2645,
+        1490,
+        6207,
+        5630
+      ],
+      "translation": "We used to have a youth group but it has folded."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "break_down-5630.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2346,
+  "gloss": {
+    "english": [
+      "nerve"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "io"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nerves.2346.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nerves.2346.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4520,
+        5865,
+        2346,
+        3375,
+        892,
+        5571
+      ],
+      "translation": "The doctor checked his nerves to make sure they were alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "nerve-2346.png"
+}

@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3287,
+  "gloss": {
+    "english": [
+      "hit",
+      "impact"
+    ],
+    "english_secondary": [
+      "attack",
+      "strike"
+    ],
+    "maori": [
+      "patu",
+      "pā ki te ngākau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "attack.3287.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attack.3287.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        5743,
+        3050,
+        2297,
+        3201,
+        "cl:swollen-eye"
+      ],
+      "translation": "This man hit his wife, and gave her a black eye."
+    },
+    {
+      "video": "attack.3287.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        2410,
+        2046,
+        2825,
+        3287,
+        3230,
+        5426,
+        585,
+        2701
+      ],
+      "translation": "A man went to India and what he saw there had a real impact on him -  he realised how lucky we are in New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "hit-3287.png"
+}

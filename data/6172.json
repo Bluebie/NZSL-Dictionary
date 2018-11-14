@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 6172,
+  "gloss": {
+    "english": [
+      "take time out",
+      "time-out"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakatā",
+      "whakangā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "time_out.6172.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "time_out.6172.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        3486,
+        2556,
+        6172,
+        2286,
+        5617,
+        5387,
+        3658
+      ],
+      "translation": "My work was really busy. I took time out for a two week break. It was really good!"
+    },
+    {
+      "video": "time_out.6172.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        4680,
+        1562,
+        4433,
+        6172
+      ],
+      "translation": "He fell and was hurt. The referee called time-out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "take_time_out-6172.png"
+}

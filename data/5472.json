@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 5472,
+  "gloss": {
+    "english": [
+      "nose",
+      "smell"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ihu",
+      "rongo"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nose.5472.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nose.5472.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2982,
+        3220,
+        "cl:shape-of-snowman",
+        2556,
+        4521,
+        "cl:stick-in-snowman",
+        5472
+      ],
+      "translation": "I gave the snow man a carrot for a nose."
+    },
+    {
+      "video": "nose.5472.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        "cl:car",
+        "cl:muffler-smoke",
+        2556,
+        5472,
+        2115
+      ],
+      "translation": "I could smell the exhaust fumes from the car. It stank."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "nose-5472.png"
+}

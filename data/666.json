@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 666,
+  "gloss": {
+    "english": [
+      "calm",
+      "plain"
+    ],
+    "english_secondary": [
+      "normal",
+      "quiet",
+      "unexciting"
+    ],
+    "maori": [
+      "āio",
+      "more",
+      "mōkau"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "plain.666.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plain.666.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3636,
+        2556,
+        797,
+        1601,
+        2589,
+        666,
+        1270
+      ],
+      "translation": "Yesterday I was rushed at work, but today it was calm and relaxed."
+    },
+    {
+      "video": "plain.666.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        723,
+        666,
+        "cl:pattern-top",
+        3027
+      ],
+      "translation": "Her top was plain and didn't have a busy pattern."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "calm-666.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1044,
+  "gloss": {
+    "english": [
+      "side with"
+    ],
+    "english_secondary": [
+      "back",
+      "biased",
+      "favour",
+      "on the side of",
+      "stick up for"
+    ],
+    "maori": [
+      "tautoko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "side_with.1044.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "side_with.1044.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4433,
+        2297,
+        1044,
+        2404,
+        3910,
+        1220,
+        3848
+      ],
+      "translation": "The referee sided with the other team, giving them the win."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "side_with-1044.png"
+}

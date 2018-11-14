@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3302,
+  "gloss": {
+    "english": [
+      "suit"
+    ],
+    "english_secondary": [
+      "agrees with",
+      "compatible",
+      "fit in with",
+      "go well with",
+      "suitable"
+    ],
+    "maori": [
+      "tau",
+      "rawe"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "suit.3302.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "suit.3302.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        6218,
+        1026,
+        2297,
+        2091,
+        3658,
+        3302,
+        2297
+      ],
+      "translation": "She had her hair cut short and it looks good - it suits her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "suit-3302.png"
+}

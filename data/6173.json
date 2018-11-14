@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6173,
+  "gloss": {
+    "english": [
+      "tournament"
+    ],
+    "english_secondary": [
+      "competition",
+      "matches"
+    ],
+    "maori": [
+      "tauwhāinga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tournament.6173.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tournament.6173.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4656,
+        1388,
+        903,
+        1949,
+        6173
+      ],
+      "translation": "Deaf people got together for a basketball tournament."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tournament-6173.png"
+}

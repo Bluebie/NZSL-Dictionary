@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5973,
+  "gloss": {
+    "english": [
+      "suicide"
+    ],
+    "english_secondary": [
+      "commit suicide",
+      "slash one's wrists"
+    ],
+    "maori": [
+      "whakamomori"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "suicide.5973.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "suicide.5973.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3767,
+        1107,
+        5973,
+        2237,
+        4788
+      ],
+      "translation": "He was depressed for a long time before committing suicide."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "suicide-5973.png"
+}

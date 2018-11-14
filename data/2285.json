@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2285,
+  "gloss": {
+    "english": [
+      "once"
+    ],
+    "english_secondary": [
+      "one time"
+    ],
+    "maori": [
+      "kotahi"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "once.2285.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "once.2285.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3677,
+        4794,
+        1025,
+        2285
+      ],
+      "translation": "I've been to Melbourne once."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "once-2285.png"
+}

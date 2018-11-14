@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5465,
+  "gloss": {
+    "english": [
+      "apprentice"
+    ],
+    "english_secondary": [
+      "apprenticeship"
+    ],
+    "maori": [
+      "pia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "apprentice.5465.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "apprentice.5465.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1513,
+        3954,
+        845,
+        5465,
+        5620,
+        2646
+      ],
+      "translation": "I'm learning to build houses as an apprentice for four years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "apprentice-5465.png"
+}

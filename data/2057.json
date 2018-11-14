@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2057,
+  "gloss": {
+    "english": [
+      "fool"
+    ],
+    "english_secondary": [
+      "half-wit",
+      "half-witted",
+      "idiot"
+    ],
+    "maori": [
+      "heahea"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "fool.2057.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fool.2057.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2057,
+        5796,
+        3009,
+        2393
+      ],
+      "translation": "You fool! You should have asked. It's too late now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "fool-2057.png"
+}

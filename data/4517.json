@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4517,
+  "gloss": {
+    "english": [
+      "a while"
+    ],
+    "english_secondary": [
+      "awhile",
+      "little while",
+      "short-term",
+      "temporarily",
+      "temporary"
+    ],
+    "maori": [
+      "ākuanei",
+      "nōnakuanei"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "a_while.4517.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "a_while.4517.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3462,
+        2782,
+        4317,
+        489,
+        4517,
+        "dry"
+      ],
+      "translation": "He spray-painted the car.  It was wet so he left it a while to dry."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "a_while-4517.png"
+}

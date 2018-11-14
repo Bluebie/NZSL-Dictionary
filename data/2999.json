@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2999,
+  "gloss": {
+    "english": [
+      "mole"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mole.2999.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mole.2999.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1376,
+        2999,
+        3811,
+        3864,
+        2656
+      ],
+      "translation": "I have a mole on my face. They will remove it by surgery."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "mole-2999.png"
+}

@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 6072,
+  "gloss": {
+    "english": [
+      "compass",
+      "orienteering"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāpehu",
+      "awhe ararau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "compass.6072.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "compass.6072.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        6072,
+        2297,
+        1123,
+        3618,
+        1544,
+        423
+      ],
+      "translation": "The compass helps me to know which direction to go in."
+    },
+    {
+      "video": "compass.6072.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        3885,
+        1386,
+        2540,
+        6072,
+        2831,
+        2593,
+        5738,
+        5861
+      ],
+      "translation": "This afternoon we'll do some orienteering, looking for things in the area around our camp."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "compass-6072.png"
+}

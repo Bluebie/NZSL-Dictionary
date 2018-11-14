@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4358,
+  "gloss": {
+    "english": [
+      "ball",
+      "bow tie"
+    ],
+    "english_secondary": [
+      "dance"
+    ],
+    "maori": [
+      "kanikani",
+      "koromāhanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bow_tie.4358.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bow_tie.4358.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1864,
+        924,
+        1298,
+        4358,
+        5663,
+        2552
+      ],
+      "translation": "He's excited about going to the school ball for the first time."
+    },
+    {
+      "video": "bow_tie.4358.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        6033,
+        2556,
+        924,
+        291,
+        1185,
+        5632,
+        4358,
+        3084
+      ],
+      "translation": "I'm going to a wedding soon and I need to buy a formal bow-tie."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "bow_tie-4358.png"
+}

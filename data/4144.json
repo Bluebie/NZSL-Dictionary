@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4144,
+  "gloss": {
+    "english": [
+      "bullshit"
+    ],
+    "english_secondary": [
+      "nonsense",
+      "rubbish"
+    ],
+    "maori": [
+      "tēnā teka",
+      "rūkahu",
+      "kōrero parau"
+    ],
+    "attributes": [
+      "interjection",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bullshit.4144.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bullshit.4144.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4144,
+        2321,
+        2213,
+        2556,
+        798
+      ],
+      "translation": "Bullshit! I'm fed up with your lies."
+    },
+    {
+      "video": "bullshit.4144.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2466,
+        4144,
+        2297,
+        3706,
+        3773
+      ],
+      "translation": "He talks bullshit. He's a show-off. Stuff him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bullshit-4144.png"
+}

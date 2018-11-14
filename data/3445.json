@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 3445,
+  "gloss": {
+    "english": [
+      "(be) born",
+      "(give) birth"
+    ],
+    "english_secondary": [
+      "delivery (birth)",
+      "have a baby"
+    ],
+    "maori": [
+      "whānau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "birth.3445.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "birth.3445.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3445,
+        4656,
+        669,
+        1745
+      ],
+      "translation": "I was born deaf because of rubella."
+    },
+    {
+      "video": "birth.3445.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        3885,
+        1522,
+        3445,
+        5619,
+        5389
+      ],
+      "translation": "She gave birth to three children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "be_born-3445.png"
+}

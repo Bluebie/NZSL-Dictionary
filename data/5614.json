@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5614,
+  "gloss": {
+    "english": [
+      "seventeen"
+    ],
+    "english_secondary": [
+      "17"
+    ],
+    "maori": [
+      "tekau mā whitu"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "seventeen.5614.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_17.5614.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2997,
+        797,
+        515,
+        5614,
+        2646,
+        1107,
+        6207,
+        1590
+      ],
+      "translation": "That woman worked as a sewing machinist for seventeen years, but is now retired."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "seventeen-5614.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3794,
+  "gloss": {
+    "english": [
+      "put on clothes"
+    ],
+    "english_secondary": [
+      "try on"
+    ],
+    "maori": [
+      "kuhu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "put_on_clothes.3794.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "put_on_clothes.3794.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5731,
+        2844,
+        367,
+        1523,
+        2556,
+        648,
+        2145,
+        3794
+      ],
+      "translation": "I saw a lovely dress in a shop and went inside to try it on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "put_on_clothes-3794.png"
+}

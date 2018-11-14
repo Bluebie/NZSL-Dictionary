@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 2358,
+  "gloss": {
+    "english": [
+      "point"
+    ],
+    "english_secondary": [
+      "points",
+      "score"
+    ],
+    "maori": [
+      "māka",
+      "piro",
+      "take"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "score.2358.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "score.2358.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1949,
+        2297,
+        1490,
+        3848,
+        409,
+        5612,
+        2358
+      ],
+      "translation": "The basketball team won with a fifteen point lead."
+    },
+    {
+      "video": "score.2358.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3981,
+        3658,
+        2358,
+        2297,
+        3658,
+        5911
+      ],
+      "translation": "She brought up a good point. It was a good idea."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "point-2358.png"
+}

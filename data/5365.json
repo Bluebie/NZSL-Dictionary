@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5365,
+  "gloss": {
+    "english": [
+      "overlap"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "inaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "overlap.5365.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "overlap.5365.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2193,
+        3885,
+        3885,
+        5365,
+        3684,
+        6180,
+        5607,
+        5833
+      ],
+      "translation": "The information in this one and that one overlap. It would be better to combine them into one document."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "overlap-5365.png"
+}

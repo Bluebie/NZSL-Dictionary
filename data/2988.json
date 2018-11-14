@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 2988,
+  "gloss": {
+    "english": [
+      "crave",
+      "desire"
+    ],
+    "english_secondary": [
+      "hunger for",
+      "long for",
+      "want badly",
+      "want very much"
+    ],
+    "maori": [
+      "tino hiahia",
+      "warawara",
+      "pīrangi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "desire.2988.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "desire.2988.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2988,
+        3663,
+        2846
+      ],
+      "translation": "I'm craving for a smoke."
+    },
+    {
+      "video": "desire.2988.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2954,
+        2988,
+        721,
+        5632,
+        845
+      ],
+      "translation": "That couple very much want to buy a house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "crave-2988.png"
+}

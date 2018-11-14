@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 2844,
+  "gloss": {
+    "english": [
+      "look",
+      "watch"
+    ],
+    "english_secondary": [
+      "glance",
+      "notice",
+      "see"
+    ],
+    "maori": [
+      "titiro",
+      "mātakitaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "look.2844.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "look.2844.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        771,
+        5832,
+        2556,
+        2844,
+        637,
+        2297,
+        3225,
+        1299
+      ],
+      "translation": "I looked out of the kitchen window. There was a cat stuck in the tree."
+    },
+    {
+      "video": "look.2844.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        5389,
+        1926,
+        6000,
+        385,
+        2844
+      ],
+      "translation": "The children are playing on the beach. Please watch them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "look-2844.png"
+}

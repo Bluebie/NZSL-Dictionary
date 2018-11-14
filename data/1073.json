@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1073,
+  "gloss": {
+    "english": [
+      "after",
+      "later"
+    ],
+    "english_secondary": [
+      "afterwards",
+      "following",
+      "subsequently"
+    ],
+    "maori": [
+      "i muri iho"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "after.1073.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "after.1073.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1073,
+        797,
+        2556,
+        2461,
+        1083,
+        2410,
+        5471
+      ],
+      "translation": "After work I will meet a Deaf friend at the pub."
+    },
+    {
+      "video": "after.1073.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1464,
+        3127,
+        1050,
+        4576,
+        2552,
+        2466,
+        1211,
+        1073
+      ],
+      "translation": "No, not now as the time isn't right. Let's discuss this later."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "after-1073.png"
+}

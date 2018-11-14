@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2685,
+  "gloss": {
+    "english": [
+      "moon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "marama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "moon.2685.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "moon.2685.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2879,
+        2844,
+        1552,
+        889,
+        2685,
+        2844,
+        "look-at-each-other",
+        3494,
+        4105
+      ],
+      "translation": "We gazed at the sea and the full moon. Then we looked at each other, embraced and kissed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "moon-2685.png"
+}

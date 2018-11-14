@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3875,
+  "gloss": {
+    "english": [
+      "cook"
+    ],
+    "english_secondary": [
+      "mix",
+      "stir"
+    ],
+    "maori": [
+      "tao kai",
+      "taka kai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cook.3875.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cook.3875.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        908,
+        2556,
+        824,
+        2556,
+        1513,
+        1287,
+        3875,
+        3538,
+        2608,
+        1897,
+        4479
+      ],
+      "translation": "I'm now flatting and learning how to cook and do the dishes. I'm more independent and confident."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cook-3875.png"
+}

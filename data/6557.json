@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6557,
+  "gloss": {
+    "english": [
+      "elf"
+    ],
+    "english_secondary": [
+      "Santa's helper"
+    ],
+    "maori": [
+      "kaiāwhina a Hana Kōkō"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "elf.6557.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "elf.6557.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6557,
+        1123,
+        5429,
+        3375,
+        872
+      ],
+      "translation": "The elves help Santa Claus make presents."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "elf-6557.png"
+}

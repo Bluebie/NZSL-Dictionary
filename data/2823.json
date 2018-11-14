@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2823,
+  "gloss": {
+    "english": [
+      "trolley bus"
+    ],
+    "english_secondary": [
+      "tram"
+    ],
+    "maori": [
+      "pahi hiko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "trolley_bus.2823.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trolley_bus.2823.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1279,
+        2841,
+        2552,
+        2619,
+        2583,
+        1727,
+        2804,
+        1376,
+        2823
+      ],
+      "translation": "In the old days, there used to be a trolley bus along Queen Street in Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "trolley_bus-2823.png"
+}

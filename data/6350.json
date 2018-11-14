@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 6350,
+  "gloss": {
+    "english": [
+      "Israel",
+      "Jew"
+    ],
+    "english_secondary": [
+      "Israeli",
+      "Jewish"
+    ],
+    "maori": [
+      "Iharaira",
+      "Hūrae"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Israel.6350.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Israel.6350.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2946,
+        549,
+        6350
+      ],
+      "translation": "I travelled all around. I loved Israel."
+    },
+    {
+      "video": "Israel.6350.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3276,
+        1438,
+        6350
+      ],
+      "translation": "Her ancestors were Jews."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Israel-6350.png"
+}

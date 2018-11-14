@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4020,
+  "gloss": {
+    "english": [
+      "pictures"
+    ],
+    "english_secondary": [
+      "cinema",
+      "film",
+      "movie"
+    ],
+    "maori": [
+      "pikitia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pictures.4020.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pictures.4020.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        3027,
+        5831,
+        2095,
+        3727,
+        2410,
+        4020
+      ],
+      "translation": "In the past there was no television, so people liked to go to the pictures."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "pictures-4020.png"
+}

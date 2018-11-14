@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5257,
+  "gloss": {
+    "english": [
+      "art"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "toi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "art.5257.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "art.5257.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4808,
+        959,
+        549,
+        5257,
+        1747,
+        3802
+      ],
+      "translation": "When I grew up, I loved art and I was always drawing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "art-5257.png"
+}

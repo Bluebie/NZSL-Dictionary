@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2444,
+  "gloss": {
+    "english": [
+      "cross"
+    ],
+    "english_secondary": [
+      "crucifix"
+    ],
+    "maori": [
+      "rīpeka"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cross.2444.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cross.2444.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        532,
+        845,
+        407,
+        2444,
+        2583,
+        1376,
+        2583
+      ],
+      "translation": "There is a cross at the top of the church."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "cross-2444.png"
+}

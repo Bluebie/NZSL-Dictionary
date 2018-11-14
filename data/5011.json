@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5011,
+  "gloss": {
+    "english": [
+      "blister"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hoipū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "blister.5011.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blister.5011.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2883,
+        5818,
+        264,
+        1050,
+        2562,
+        5011,
+        1562
+      ],
+      "translation": "I walked all day and now I have blisters on my feet. They really hurt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "blister-5011.png"
+}

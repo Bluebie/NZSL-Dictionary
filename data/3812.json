@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3812,
+  "gloss": {
+    "english": [
+      "won't"
+    ],
+    "english_secondary": [
+      "will not"
+    ],
+    "maori": [
+      "kāore"
+    ],
+    "attributes": [
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "won_t.3812.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "won_t.3812.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3812,
+        4333,
+        2556,
+        1123,
+        2297,
+        721,
+        2508,
+        557
+      ],
+      "translation": "She won't accept my help. She wants to make progress on her own."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "won_t-3812.png"
+}

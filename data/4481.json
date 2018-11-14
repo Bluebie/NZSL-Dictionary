@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4481,
+  "gloss": {
+    "english": [
+      "prefect"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauira tuākana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "prefect.4481.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "prefect.4481.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        1298,
+        2297,
+        4481,
+        975,
+        2139,
+        5818
+      ],
+      "translation": "He was a prefect before, a high position. He looked after everyone."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "prefect-4481.png"
+}

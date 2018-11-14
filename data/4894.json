@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4894,
+  "gloss": {
+    "english": [
+      "survey"
+    ],
+    "english_secondary": [
+      "questionnaire"
+    ],
+    "maori": [
+      "rangahau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "survey.4894.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "survey.4894.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4894,
+        6199,
+        4845,
+        1287,
+        3684,
+        1602
+      ],
+      "translation": "A survey was handed out asking for feedback on how to provide a better service."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "survey-4894.png"
+}

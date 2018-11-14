@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1424,
+  "gloss": {
+    "english": [
+      "Braille"
+    ],
+    "english_secondary": [
+      "read Braille"
+    ],
+    "maori": [
+      "tuhi kāpō"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "braille.1424.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "braille.1424.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2836,
+        3220,
+        2482,
+        1287,
+        2895,
+        523,
+        1424
+      ],
+      "translation": "The blind man learned how to read books using Braille."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "braille-1424.png"
+}

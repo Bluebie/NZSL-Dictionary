@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5629,
+  "gloss": {
+    "english": [
+      "well-built"
+    ],
+    "english_secondary": [
+      "broad shouldered"
+    ],
+    "maori": [
+      "pakari"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "broad_shouldered.5629.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "broad_shouldered.5629.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        893,
+        1490,
+        2287,
+        5629,
+        2314,
+        2532
+      ],
+      "translation": "The rugby team were well-built, which made us nervous."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "well_built-5629.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2899,
+  "gloss": {
+    "english": [
+      "sleepless"
+    ],
+    "english_secondary": [
+      "can't sleep",
+      "insomnia",
+      "restless",
+      "toss and turn"
+    ],
+    "maori": [
+      "moekore",
+      "koheko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cant_sleep.2899.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cant_sleep.2899.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        2899,
+        "hot",
+        2096,
+        5420
+      ],
+      "translation": "I couldn't sleep last night because it was hot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "sleepless-2899.png"
+}

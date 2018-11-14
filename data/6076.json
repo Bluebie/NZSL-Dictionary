@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6076,
+  "gloss": {
+    "english": [
+      "cushion"
+    ],
+    "english_secondary": [
+      "pillow"
+    ],
+    "maori": [
+      "kuihana",
+      "aupuru"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cushion.6076.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cushion.6076.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        1562,
+        890,
+        385,
+        6076,
+        2297
+      ],
+      "translation": "I have a sore back. Please can you give me that cushion?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cushion-6076.png"
+}

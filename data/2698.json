@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2698,
+  "gloss": {
+    "english": [
+      "pack it in"
+    ],
+    "english_secondary": [
+      "bugger it",
+      "can't be bothered",
+      "discontinue",
+      "don't want to know",
+      "had enough",
+      "over it",
+      "stuff it"
+    ],
+    "maori": [
+      "parea ki rahaki"
+    ],
+    "attributes": [
+      "interjection",
+      "phrase"
+    ]
+  },
+  "video": "pack_it_in.2698.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pack_it_in.2698.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2895,
+        523,
+        362,
+        2698,
+        2844,
+        2382
+      ],
+      "translation": "The book I was reading was so boring that I packed it in and watched TV instead."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "pack_it_in-2698.png"
+}

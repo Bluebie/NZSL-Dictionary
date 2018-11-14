@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3809,
+  "gloss": {
+    "english": [
+      "shave"
+    ],
+    "english_secondary": [
+      "razor"
+    ],
+    "maori": [
+      "heu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "shave.3809.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shave.3809.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1601,
+        2410,
+        797,
+        3027,
+        5784,
+        3809
+      ],
+      "translation": "I was in a rush to go to work, so I didn't have time to shave."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "shave-3809.png"
+}

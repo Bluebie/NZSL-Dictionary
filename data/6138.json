@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6138,
+  "gloss": {
+    "english": [
+      "jigsaw puzzle"
+    ],
+    "english_secondary": [
+      "jigsaw"
+    ],
+    "maori": [
+      "pangahono"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jigsaw_puzzle.6138.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jigsaw_puzzle.6138.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4756,
+        2077,
+        6138,
+        2430
+      ],
+      "translation": "It took the three of us a long time to figure out how to do the jigsaw puzzle."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "jigsaw_puzzle-6138.png"
+}

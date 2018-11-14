@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 246,
+  "gloss": {
+    "english": [
+      "wall"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pakitara",
+      "paetara",
+      "pātū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "wall.246.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wall.246.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        246,
+        2297,
+        1376,
+        2034,
+        3220,
+        2533,
+        3175
+      ],
+      "translation": "The wall had a crack, so a man came round to plaster over it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "wall-246.png"
+}

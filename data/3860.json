@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3860,
+  "gloss": {
+    "english": [
+      "panel-beater"
+    ],
+    "english_secondary": [
+      "panel-beating"
+    ],
+    "maori": [
+      "takapapa"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "panel_beater.3860.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "panel_beater.3860.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        3220,
+        2297,
+        3620,
+        3860,
+        2297
+      ],
+      "translation": "That Deaf man is a very experienced panel beater."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "panel_beater-3860.png"
+}

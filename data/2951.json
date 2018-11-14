@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2951,
+  "gloss": {
+    "english": [
+      "blood test"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamātau toto"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "blood_test.2951.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blood_test.2951.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        4520,
+        2951,
+        5865,
+        1500,
+        3725
+      ],
+      "translation": "I went to the doctor for a blood test to check if everything was alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.3-b36f027c94aac0de75bcbced304c4f448321e2355e9522645d1885ca6781fdc1.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "blood_test-2951.png"
+}

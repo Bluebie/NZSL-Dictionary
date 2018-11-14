@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3429,
+  "gloss": {
+    "english": [
+      "foetal movement"
+    ],
+    "english_secondary": [
+      "baby moving",
+      "fetal movement",
+      "kicking"
+    ],
+    "maori": [
+      "oreoretanga puku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "baby_moving.3429.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "baby_moving.3429.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5643,
+        2556,
+        3414,
+        2895,
+        5536,
+        3429,
+        2583
+      ],
+      "translation": "When I was pregnant, I'd be sitting sitting reading the newspaper, and I could feel the baby moving."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "foetal_movement-3429.png"
+}

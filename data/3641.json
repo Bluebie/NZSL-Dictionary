@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3641,
+  "gloss": {
+    "english": [
+      "strange"
+    ],
+    "english_secondary": [
+      "not normal",
+      "odd",
+      "peculiar",
+      "puzzling",
+      "unusual"
+    ],
+    "maori": [
+      "rerekē"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "strange.3641.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "strange.3641.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1918,
+        "cl:move-mouse",
+        5831,
+        2844,
+        "cl:image-not-appear-on-screen",
+        2076,
+        3641
+      ],
+      "translation": "He clicked on the computer mouse and looked at the screen, but it stayed blank. He thought to himself, 'that's strange!'"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "strange-3641.png"
+}

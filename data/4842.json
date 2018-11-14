@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 4842,
+  "gloss": {
+    "english": [
+      "ethics",
+      "rules"
+    ],
+    "english_secondary": [
+      "code of ethics",
+      "criteria",
+      "guidelines",
+      "law (natural)",
+      "principles"
+    ],
+    "maori": [
+      "matatika",
+      "ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ethics.4842.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ethics.4842.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3063,
+        2287,
+        5129,
+        2463,
+        4842,
+        1182
+      ],
+      "translation": "Interpreters must follow their ethics and be neutral."
+    },
+    {
+      "video": "ethics.4842.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        744,
+        1637,
+        2287,
+        3230,
+        1926,
+        4842
+      ],
+      "translation": "The coach explained so they understood how to play by the rules."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "ethics-4842.png"
+}

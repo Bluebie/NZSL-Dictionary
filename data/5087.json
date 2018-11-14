@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5087,
+  "gloss": {
+    "english": [
+      "every day"
+    ],
+    "english_secondary": [
+      "daily"
+    ],
+    "maori": [
+      "i ia rā"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "everyday.5087.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "everyday.5087.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5087,
+        3300,
+        1636,
+        2410,
+        532,
+        5784,
+        5662,
+        5622
+      ],
+      "translation": "Every day my family goes to church at six o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "every_day-5087.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3155,
+  "gloss": {
+    "english": [
+      "can't afford"
+    ],
+    "english_secondary": [
+      "broke",
+      "hard up",
+      "penniless"
+    ],
+    "maori": [
+      "kāore e taea te utu"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "afford_negative.3155.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "afford_negative.3155.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1419,
+        4097,
+        3027,
+        3155
+      ],
+      "translation": "I'm poor and I haven't got any money, so I can't afford it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "can_t_afford-3155.png"
+}

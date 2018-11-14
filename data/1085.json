@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1085,
+  "gloss": {
+    "english": [
+      "chair",
+      "sit"
+    ],
+    "english_secondary": [
+      "be seated",
+      "seat",
+      "sit down"
+    ],
+    "maori": [
+      "tūru",
+      "noho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "sit.1085.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sit.1085.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1123,
+        1085,
+        834,
+        4093
+      ],
+      "translation": "He helped me to put away the tables and chairs."
+    },
+    {
+      "video": "sit.1085.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1085,
+        3518,
+        3810,
+        4216,
+        1031
+      ],
+      "translation": "I sat down and waited for the taxi van to arrive."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chair-1085.png"
+}

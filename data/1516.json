@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1516,
+  "gloss": {
+    "english": [
+      "not allowed"
+    ],
+    "english_secondary": [
+      "banned",
+      "don't",
+      "forbid",
+      "not permitted",
+      "outlawed",
+      "prohibited"
+    ],
+    "maori": [
+      "kāore e whakaaehia"
+    ],
+    "attributes": [
+      "adjective",
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "not_allowed.1516.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_allowed.1516.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1124,
+        "cl:leash",
+        3027,
+        2883,
+        6000,
+        1516
+      ],
+      "translation": "You're not allowed to walk your dog on the beach without a leash."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_allowed-1516.png"
+}

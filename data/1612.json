@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1612,
+  "gloss": {
+    "english": [
+      "spirit"
+    ],
+    "english_secondary": [
+      "soul"
+    ],
+    "maori": [
+      "wairua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spirit.1612.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spirit.1612.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4051,
+        2095,
+        1317,
+        3642,
+        4446,
+        483,
+        3276,
+        1612,
+        1130
+      ],
+      "translation": "Some people believe that when a person dies, their spirit carries on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "spirit-1612.png"
+}

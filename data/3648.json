@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3648,
+  "gloss": {
+    "english": [
+      "Picton"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Waitohi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Picton.3648.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Picton.3648.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5662,
+        5609,
+        1178,
+        3648,
+        1031,
+        4738,
+        1463,
+        5662,
+        5619
+      ],
+      "translation": "We left Picton at twelve o'clock and arrived in Wellington around three o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "Picton-3648.png"
+}

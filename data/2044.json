@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2044,
+  "gloss": {
+    "english": [
+      "(hold) grudge"
+    ],
+    "english_secondary": [
+      "brood over"
+    ],
+    "maori": [
+      "whakamau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "grudge.2044.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grudge.2044.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        4532,
+        2556,
+        2044,
+        1069,
+        4006
+      ],
+      "translation": "The boy used to pick on me. I'm holding a grudge. I'll never forget it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "hold_grudge-2044.png"
+}

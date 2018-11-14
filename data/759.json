@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 759,
+  "gloss": {
+    "english": [
+      "bean"
+    ],
+    "english_secondary": [
+      "French bean",
+      "green bean",
+      "runner bean"
+    ],
+    "maori": [
+      "pīni"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bean.759.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bean.759.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        856,
+        4176,
+        2556,
+        3567,
+        "cl:first(thumb)",
+        759,
+        "cl:second(index)",
+        1698,
+        "cl:third(middle)",
+        "different"
+      ],
+      "translation": "In my garden at home I grow beans, tomatoes and all sorts of things."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bean-759.png"
+}

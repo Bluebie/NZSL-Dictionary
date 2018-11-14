@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 5401,
+  "gloss": {
+    "english": [
+      "keen"
+    ],
+    "english_secondary": [
+      "eager",
+      "enthusiasm",
+      "enthusiastic",
+      "mad on",
+      "obsessed",
+      "preoccupied with"
+    ],
+    "maori": [
+      "kaingākau",
+      "tino hiahia"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "keen.5401.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "keen.5401.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5401,
+        3707,
+        1926,
+        2412,
+        893,
+        2416,
+        1949,
+        2417,
+        5634
+      ],
+      "translation": "I'm really keen on sports. I play rugby, basketball and cricket."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "keen-5401.png"
+}

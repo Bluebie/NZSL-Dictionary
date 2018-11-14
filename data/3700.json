@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3700,
+  "gloss": {
+    "english": [
+      "practice",
+      "training"
+    ],
+    "english_secondary": [
+      "practise",
+      "rehearsal",
+      "rehearse",
+      "train",
+      "workout"
+    ],
+    "maori": [
+      "whakaharatau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "practice.3700.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "practice.3700.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        "give",
+        2897,
+        2297,
+        3700,
+        2844,
+        1513,
+        3261
+      ],
+      "translation": "I gave her a video that she could watch and practice with while learning NZSL."
+    },
+    {
+      "video": "practice.3700.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        "fs:aut",
+        2583,
+        1376,
+        1640,
+        3063,
+        3700,
+        4222
+      ],
+      "translation": "There is a sign language interpreter training course at AUT."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "practice-3700.png"
+}

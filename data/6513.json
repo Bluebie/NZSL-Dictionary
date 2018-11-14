@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6513,
+  "gloss": {
+    "english": [
+      "fox"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pōkiha"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fox.6513.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fox.6513.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6513,
+        2297,
+        5798,
+        2831,
+        4022
+      ],
+      "translation": "The fox looked for food in the forest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "fox-6513.png"
+}

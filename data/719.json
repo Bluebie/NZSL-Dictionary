@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 719,
+  "gloss": {
+    "english": [
+      "uncertain"
+    ],
+    "english_secondary": [
+      "don't believe",
+      "don't think so",
+      "doubt",
+      "doubtful",
+      "maybe",
+      "not sure"
+    ],
+    "maori": [
+      "ngākaurua"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "doubt.719.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "doubt.719.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        719,
+        3276,
+        1038,
+        440,
+        1451,
+        2213
+      ],
+      "translation": "I'm uncertain whether his story is true or not - he might be lying."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "uncertain-719.png"
+}

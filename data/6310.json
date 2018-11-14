@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6310,
+  "gloss": {
+    "english": [
+      "time"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "time.6310.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "time.6310.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1239,
+        2623,
+        4201,
+        6310,
+        1031,
+        5391,
+        4094,
+        1376,
+        367
+      ],
+      "translation": "I left Auckland at lunchtime and arrived at night. There was a spa, which was lovely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "time-6310.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2404,
+  "gloss": {
+    "english": [
+      "other"
+    ],
+    "english_secondary": [
+      "also",
+      "another",
+      "another one",
+      "one more"
+    ],
+    "maori": [
+      "tētahi atu",
+      "atu anō"
+    ],
+    "attributes": [
+      "adjective",
+      "pronoun"
+    ]
+  },
+  "video": "another.2404.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "another.2404.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        "stay",
+        797,
+        611,
+        2831,
+        2404,
+        3585
+      ],
+      "translation": "I've stayed in this job too long so I'm looking for another job."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "other-2404.png"
+}

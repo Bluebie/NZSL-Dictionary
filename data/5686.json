@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5686,
+  "gloss": {
+    "english": [
+      "data projector"
+    ],
+    "english_secondary": [
+      "overhead",
+      "Powerpoint",
+      "project (data)",
+      "slide show"
+    ],
+    "maori": [
+      "rauata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "data_projector.5686.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "data_projector.5686.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4657,
+        1376,
+        5686,
+        2556,
+        1185,
+        2297,
+        972
+      ],
+      "translation": "Does the Deaf Club have a data projector? I need it for my presentation."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "data_projector-5686.png"
+}

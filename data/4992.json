@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4992,
+  "gloss": {
+    "english": [
+      "twin"
+    ],
+    "english_secondary": [
+      "twins"
+    ],
+    "maori": [
+      "māhanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "twin.4992.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twin.4992.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        1636,
+        1376,
+        4051,
+        4992,
+        2297
+      ],
+      "translation": "There are a few sets of twins in my family."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twin-4992.png"
+}

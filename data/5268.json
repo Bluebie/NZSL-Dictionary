@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5268,
+  "gloss": {
+    "english": [
+      "role model"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "role_model.5268.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "role_model.5268.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        2953,
+        3300,
+        5268
+      ],
+      "translation": "My parents are both my role models."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "role_model-5268.png"
+}

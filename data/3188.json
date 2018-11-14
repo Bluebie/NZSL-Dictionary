@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3188,
+  "gloss": {
+    "english": [
+      "ear"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ear.3188.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ear.3188.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        1926,
+        3319,
+        2297,
+        3645,
+        3188,
+        2297,
+        "cl:twist-ear"
+      ],
+      "translation": "We were play-fighting and he was cruel and twisted my ear."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "ear-3188.png"
+}

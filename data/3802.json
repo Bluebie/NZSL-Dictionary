@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3802,
+  "gloss": {
+    "english": [
+      "draw"
+    ],
+    "english_secondary": [
+      "cartoon",
+      "design",
+      "drawing",
+      "graphics",
+      "sketch"
+    ],
+    "maori": [
+      "tā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "art.3802.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "art.3802.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1565,
+        3658,
+        3802
+      ],
+      "translation": "He's really good at drawing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "draw-3802.png"
+}

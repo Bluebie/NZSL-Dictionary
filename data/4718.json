@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4718,
+  "gloss": {
+    "english": [
+      "diabetes"
+    ],
+    "english_secondary": [
+      "diabetic"
+    ],
+    "maori": [
+      "mate huka"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "diabetes.4718.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "diabetes.4718.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        4718,
+        5129,
+        2088,
+        2844,
+        4022
+      ],
+      "translation": "He has diabetes so he has to be careful and watch what he eats."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.4-21593501148eb3de6f3fb6e1c9a48b1bf03ae2f6b49bb7b84f07866ca5b1c936.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "diabetes-4718.png"
+}

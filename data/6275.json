@@ -1,0 +1,34 @@
+{
+  "nzsl_id": 6275,
+  "gloss": {
+    "english": [
+      "niece"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "irāmutu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "niece.6275.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "niece.6275.finalexample2.jo.r480x360.mp4",
+      "signs": [],
+      "translation": ""
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "niece-6275.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4030,
+  "gloss": {
+    "english": [
+      "beautiful"
+    ],
+    "english_secondary": [
+      "attractive",
+      "delicious",
+      "exquisite",
+      "gorgeous",
+      "handsome",
+      "lovely",
+      "pretty"
+    ],
+    "maori": [
+      "ātaahua",
+      "purotu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "beautiful.4030.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beautiful.4030.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        2883,
+        975,
+        740,
+        1565,
+        4030,
+        "view"
+      ],
+      "translation": "The two of us walked to the top of the mountain. Wow, the view was beautiful!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "beautiful-4030.png"
+}

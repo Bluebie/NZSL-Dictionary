@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1217,
+  "gloss": {
+    "english": [
+      "boy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "boy.1217.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "boy.1217.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4656,
+        1306,
+        4051,
+        1217,
+        1090,
+        2703,
+        2297
+      ],
+      "translation": "At the deaf school, some boys were mischievous and cheeky."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "boy-1217.png"
+}

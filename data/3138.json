@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3138,
+  "gloss": {
+    "english": [
+      "October"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Whiringa-ā-nuku",
+      "Oketopa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "month_october.3138.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "month_october.3138.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1959,
+        3632,
+        1505,
+        5398,
+        2556,
+        1885,
+        3975,
+        1769,
+        4763,
+        3138
+      ],
+      "translation": "I received a letter from the insurance. I must pay them by the end of the month, in October."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "October-3138.png"
+}

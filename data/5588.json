@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5588,
+  "gloss": {
+    "english": [
+      "AIDS"
+    ],
+    "english_secondary": [
+      "acquired immunodeficiency syndrome"
+    ],
+    "maori": [
+      "mate ārai kore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "AIDS.5588.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "AIDS.5588.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4309,
+        2583,
+        5588,
+        3437,
+        1553,
+        2095,
+        483
+      ],
+      "translation": "AIDS has spread across Africa and a lot of people there have died as a result."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "AIDS-5588.png"
+}

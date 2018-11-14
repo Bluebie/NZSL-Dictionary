@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3976,
+  "gloss": {
+    "english": [
+      "shoe"
+    ],
+    "english_secondary": [
+      "boot",
+      "boots",
+      "gumboot",
+      "gumboots",
+      "put on shoes",
+      "shoes"
+    ],
+    "maori": [
+      "hū",
+      "kuhuna"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "shoe.3976.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shoe.3976.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3976,
+        1243,
+        3447
+      ],
+      "translation": "My shoes were worn out. I threw them away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shoe-3976.png"
+}

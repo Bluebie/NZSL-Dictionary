@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2429,
+  "gloss": {
+    "english": [
+      "swallow"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "horomi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "swallow.2429.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "swallow.2429.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1562,
+        2240,
+        3741,
+        4022,
+        2429
+      ],
+      "translation": "I have a sore throat which makes it hard to eat and swallow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "swallow-2429.png"
+}

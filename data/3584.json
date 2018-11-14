@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3584,
+  "gloss": {
+    "english": [
+      "boot (car)"
+    ],
+    "english_secondary": [
+      "bonnet",
+      "open (car boot)"
+    ],
+    "maori": [
+      "pūtu (motokā)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "car_boot.3584.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "car_boot.3584.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4006,
+        3583,
+        2583,
+        3584,
+        2556,
+        3952
+      ],
+      "translation": "I forgot the bag was in the car boot. I went back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "boot_car-3584.png"
+}

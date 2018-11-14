@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4029,
+  "gloss": {
+    "english": [
+      "keep mum"
+    ],
+    "english_secondary": [
+      "not tell anyone",
+      "won't say",
+      "shut mouth"
+    ],
+    "maori": [
+      "nohopuku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "shut_mouth.4029.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shut_mouth.4029.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5643,
+        2556,
+        4029,
+        909,
+        2299,
+        5429,
+        264,
+        2556,
+        2204,
+        1636,
+        4141
+      ],
+      "translation": "I kept mum about my pregnancy and waited until Christmas Day to surprise the family."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "keep_mum-4029.png"
+}

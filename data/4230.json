@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4230,
+  "gloss": {
+    "english": [
+      "milk powder"
+    ],
+    "english_secondary": [
+      "(baby) formula"
+    ],
+    "maori": [
+      "miraka paura"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "milk_powder.4230.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "milk_powder.4230.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2321,
+        1071,
+        5632,
+        4230,
+        903,
+        5861,
+        4264
+      ],
+      "translation": "Can you remind him to buy milk powder for camp drinks?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "milk_powder-4230.png"
+}

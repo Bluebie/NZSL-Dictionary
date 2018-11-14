@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3239,
+  "gloss": {
+    "english": [
+      "unconscious"
+    ],
+    "english_secondary": [
+      "blackout",
+      "lose consciousness",
+      "pass out"
+    ],
+    "maori": [
+      "mauri moe"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "unconscious.3239.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "unconscious.3239.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2804,
+        2297,
+        2883,
+        2427,
+        "cl:come-from-behind",
+        "cl:hit-with-weapon",
+        2297,
+        3239,
+        4680
+      ],
+      "translation": "As he was walking along the road, someone hit him with a bat and knocked him unconscious. He fell to the ground."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "unconscious-3239.png"
+}

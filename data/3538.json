@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3538,
+  "gloss": {
+    "english": [
+      "do the dishes"
+    ],
+    "english_secondary": [
+      "dry (dishes)",
+      "wash up"
+    ],
+    "maori": [
+      "horoi utauta"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "do_the_dishes.3538.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "do_the_dishes.3538.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4022,
+        3653,
+        5389,
+        1123,
+        3538,
+        4093
+      ],
+      "translation": "After dinner, the children help me do the dishes and put them away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "do_the_dishes-3538.png"
+}

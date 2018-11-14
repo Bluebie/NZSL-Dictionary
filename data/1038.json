@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1038,
+  "gloss": {
+    "english": [
+      "story"
+    ],
+    "english_secondary": [
+      "account",
+      "description",
+      "narrative",
+      "story telling"
+    ],
+    "maori": [
+      "kōrero"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "long.1038.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "long.1038.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        5736,
+        2556,
+        1038,
+        2297,
+        4128,
+        1781,
+        "cl:walk-around",
+        5617,
+        264
+      ],
+      "translation": "A man told me a story about getting lost in the bush and wandering around aimlessly for two days."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "story-1038.png"
+}

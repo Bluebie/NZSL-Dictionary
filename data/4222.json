@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4222,
+  "gloss": {
+    "english": [
+      "course"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "akoranga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "course.4222.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "course.4222.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2879,
+        702,
+        2623,
+        3300,
+        3299,
+        1152,
+        3063,
+        4222
+      ],
+      "translation": "We moved to Auckland because my partner is doing the interpreting course."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "course-4222.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3310,
+  "gloss": {
+    "english": [
+      "practice"
+    ],
+    "english_secondary": [
+      "practise",
+      "rehearsal",
+      "rehearse",
+      "train",
+      "training"
+    ],
+    "maori": [
+      "whakaharatau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "practice.3310.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "practice.3310.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        2410,
+        5802,
+        3310,
+        3788
+      ],
+      "translation": "I used to go to speech training to practice speaking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "practice-3310.png"
+}

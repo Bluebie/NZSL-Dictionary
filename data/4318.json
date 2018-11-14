@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4318,
+  "gloss": {
+    "english": [
+      "flat tyre"
+    ],
+    "english_secondary": [
+      "puncture"
+    ],
+    "maori": [
+      "haukore te taea"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "flat_tyre.4318.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flat_tyre.4318.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4689,
+        3462,
+        4318,
+        2969,
+        3027,
+        2404,
+        2606
+      ],
+      "translation": "My father's car had a flat tyre. He was stuck because there was no spare tyre."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "flat_tyre-4318.png"
+}

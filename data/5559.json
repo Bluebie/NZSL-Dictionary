@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5559,
+  "gloss": {
+    "english": [
+      "screwdriver"
+    ],
+    "english_secondary": [
+      "screw"
+    ],
+    "maori": [
+      "huriwiri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "screwdriver.5559.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "screwdriver.5559.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        5731,
+        5760,
+        3846,
+        5559,
+        5120
+      ],
+      "translation": "I work in a shop that sells hammers, screwdrivers, et cetera."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "screwdriver-5559.png"
+}

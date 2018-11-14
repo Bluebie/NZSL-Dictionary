@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3241,
+  "gloss": {
+    "english": [
+      "prison"
+    ],
+    "english_secondary": [
+      "gaol",
+      "jail",
+      "prisoner"
+    ],
+    "maori": [
+      "whare herehere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "prison.3241.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "prison.3241.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        1090,
+        3250,
+        3241,
+        5623,
+        2646
+      ],
+      "translation": "He got into trouble and was sent to prison for seven years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "prison-3241.png"
+}

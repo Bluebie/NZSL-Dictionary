@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2807,
+  "gloss": {
+    "english": [
+      "petrol"
+    ],
+    "english_secondary": [
+      "fill up (car)",
+      "fuel",
+      "gasoline"
+    ],
+    "maori": [
+      "penehīni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "petrol.2807.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "petrol.2807.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4171,
+        5708,
+        4224,
+        2807,
+        3430,
+        2299,
+        3278
+      ],
+      "translation": "I spent fifty dollars on petrol to drive to Hamilton."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "petrol-2807.png"
+}

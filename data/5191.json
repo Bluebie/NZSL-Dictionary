@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5191,
+  "gloss": {
+    "english": [
+      "laugh (hysterically)"
+    ],
+    "english_secondary": [
+      "laugh hard",
+      "laugh one's head off"
+    ],
+    "maori": [
+      "pukukata"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hysterical_laugh.5191.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hysterical_laugh.5191.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5455,
+        3639,
+        2297,
+        5818,
+        5191,
+        2297
+      ],
+      "translation": "Her act was funny and everyone laughed hysterically."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "laugh_hysterically-5191.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4399,
+  "gloss": {
+    "english": [
+      "drip"
+    ],
+    "english_secondary": [
+      "drop",
+      "leak"
+    ],
+    "maori": [
+      "māturu",
+      "turuturu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "drip.4399.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drip.4399.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1826,
+        6207,
+        4399,
+        1885,
+        4171,
+        4919
+      ],
+      "translation": "The tap is dripping so I have to spend money getting it fixed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "drip-4399.png"
+}

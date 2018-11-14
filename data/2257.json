@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2257,
+  "gloss": {
+    "english": [
+      "behave yourself"
+    ],
+    "english_secondary": [
+      "be good"
+    ],
+    "maori": [
+      "kia pai koe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "behave.2257.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "behave.2257.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5389,
+        1090,
+        2297,
+        5736,
+        2257
+      ],
+      "translation": "The children were being naughty so she told them to behave themselves."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "behave_yourself-2257.png"
+}

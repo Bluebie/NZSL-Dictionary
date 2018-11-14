@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3495,
+  "gloss": {
+    "english": [
+      "pour"
+    ],
+    "english_secondary": [
+      "custard",
+      "gravy"
+    ],
+    "maori": [
+      "riringi",
+      "tāhoro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "custard.3495.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "custard.3495.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        "cl:hold-cup",
+        3149,
+        5659,
+        3495,
+        3980
+      ],
+      "translation": "She put her teabag into a cup, poured in some milk, and stirred it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pour-3495.png"
+}

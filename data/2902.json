@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2902,
+  "gloss": {
+    "english": [
+      "kneel"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tūturi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "kneel.2902.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kneel.2902.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2095,
+        1388,
+        532,
+        2902,
+        763
+      ],
+      "translation": "People gathered in the church. They knelt and prayed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "kneel-2902.png"
+}

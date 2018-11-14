@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 347,
+  "gloss": {
+    "english": [
+      "bed",
+      "sleep"
+    ],
+    "english_secondary": [
+      "accommodation",
+      "asleep",
+      "bedroom",
+      "board with",
+      "stay over"
+    ],
+    "maori": [
+      "moenga",
+      "moe"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "sleep.347.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleep.347.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        347,
+        1165,
+        6230,
+        4065
+      ],
+      "translation": "I go to bed every day at half past ten."
+    },
+    {
+      "video": "sleep.347.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4765,
+        5736,
+        764,
+        347,
+        4766,
+        845
+      ],
+      "translation": "My mother said I was welcome to sleep at my parent's place."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "bed-347.png"
+}

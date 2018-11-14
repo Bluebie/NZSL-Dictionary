@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2251,
+  "gloss": {
+    "english": [
+      "bullet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "matā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bullet.2251.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bullet.2251.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2943,
+        2831,
+        1716,
+        2251,
+        2297,
+        3196
+      ],
+      "translation": "Police searched and found a bullet. It's evidence."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bullet-2251.png"
+}

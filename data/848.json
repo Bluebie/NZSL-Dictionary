@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 848,
+  "gloss": {
+    "english": [
+      "between",
+      "during (period of time)"
+    ],
+    "english_secondary": [
+      "in",
+      "in the course of",
+      "throughout",
+      "within"
+    ],
+    "maori": [
+      "waenganui"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "between.848.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "between.848.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3278,
+        3605,
+        2050,
+        2297,
+        565,
+        848
+      ],
+      "translation": "I think he lives between Hamilton and Tauranga."
+    },
+    {
+      "video": "between.848.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3885,
+        2552,
+        5701,
+        5620,
+        5622,
+        2500,
+        5701,
+        5711,
+        848,
+        1553,
+        4656,
+        3542
+      ],
+      "translation": "Many deaf babies were born during the period 1946 to 1960."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "between-848.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1874,
+  "gloss": {
+    "english": [
+      "type"
+    ],
+    "english_secondary": [
+      "typewriter",
+      "typing",
+      "typist"
+    ],
+    "maori": [
+      "pato",
+      "patopato"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "type.1874.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "type.1874.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        432,
+        5387,
+        2096,
+        1874,
+        2286,
+        5622
+      ],
+      "translation": "Her hand is broken, so she can't type for six weeks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "type-1874.png"
+}

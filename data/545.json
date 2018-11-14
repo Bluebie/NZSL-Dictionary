@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 545,
+  "gloss": {
+    "english": [
+      "electrocardiogram"
+    ],
+    "english_secondary": [
+      "ECG"
+    ],
+    "maori": [
+      "mīhini ine pātuki manawa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "irregular.545.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "irregular.545.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1935,
+        545,
+        4423,
+        2844,
+        5865,
+        4446,
+        3725,
+        2297
+      ],
+      "translation": "The nurse kept a close eye on the electrocardiogram machine to check if he was alright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "electrocardiogram-545.png"
+}

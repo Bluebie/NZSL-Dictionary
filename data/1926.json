@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1926,
+  "gloss": {
+    "english": [
+      "play"
+    ],
+    "english_secondary": [
+      "player",
+      "playing"
+    ],
+    "maori": [
+      "tākaro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "play.1926.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "play.1926.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        5401,
+        3707,
+        1926,
+        3598,
+        2023,
+        2297
+      ],
+      "translation": "He is very keen on sports and plays soccer and tennis."
+    },
+    {
+      "video": "play.1926.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        1072,
+        1775,
+        2953,
+        2111,
+        1643,
+        1926,
+        4484,
+        1114
+      ],
+      "translation": "It was raining outside. The two sisters had nothing to do and played with toys inside."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "play-1926.png"
+}

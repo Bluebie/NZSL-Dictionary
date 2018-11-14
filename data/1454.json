@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1454,
+  "gloss": {
+    "english": [
+      "rubbish"
+    ],
+    "english_secondary": [
+      "garbage",
+      "nonsense"
+    ],
+    "maori": [
+      "para",
+      "rāpihi",
+      "kōrero parau",
+      "heahea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rubbish.1454.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rubbish.1454.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        811,
+        2583,
+        1376,
+        1553,
+        1454,
+        1185,
+        836
+      ],
+      "translation": "There's lots of rubbish in the garage. It needs to be cleared out."
+    },
+    {
+      "video": "rubbish.1454.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2466,
+        1454,
+        2556,
+        1317,
+        2297
+      ],
+      "translation": "He was talking rubbish and I didn't believe him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rubbish-1454.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6109,
+  "gloss": {
+    "english": [
+      "interest"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hua moni"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "interest.6109.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "interest.6109.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        489,
+        4097,
+        2583,
+        3368,
+        6109
+      ],
+      "translation": "I leave my money in the bank to collect interest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "interest-6109.png"
+}

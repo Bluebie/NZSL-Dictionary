@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4788,
+  "gloss": {
+    "english": [
+      "oneself"
+    ],
+    "english_secondary": [
+      "by oneself",
+      "herself",
+      "himself",
+      "independently",
+      "itself",
+      "on one's own",
+      "self",
+      "yourself"
+    ],
+    "maori": [
+      "ko ia anahe",
+      "ko tōna kotahi"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "oneself.4788.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oneself.4788.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2608,
+        4501,
+        4788,
+        845,
+        771
+      ],
+      "translation": "She's independent and can cook by herself at home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.3-d2f6b4479b54d7e81441bd18f1532dc859f2f0f50f55527a50c624428f5b2434.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "oneself-4788.png"
+}

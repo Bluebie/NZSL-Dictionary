@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5751,
+  "gloss": {
+    "english": [
+      "modern"
+    ],
+    "english_secondary": [
+      "fashion",
+      "fashionable"
+    ],
+    "maori": [
+      "ao hou"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "modern.5751.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "modern.5751.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        845,
+        3653,
+        3954,
+        2556,
+        648,
+        5155,
+        5751
+      ],
+      "translation": "When they had finished building, I went inside the house. It was amazing, very modern!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "modern-5751.png"
+}

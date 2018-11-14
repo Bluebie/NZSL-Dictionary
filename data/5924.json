@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5924,
+  "gloss": {
+    "english": [
+      "metre"
+    ],
+    "english_secondary": [
+      "m"
+    ],
+    "maori": [
+      "mita"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "metre.5924.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "metre.5924.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        969,
+        5607,
+        5551,
+        5624,
+        5924,
+        969
+      ],
+      "translation": "I'm one point eight metres tall."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "metre-5924.png"
+}

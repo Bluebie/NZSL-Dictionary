@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4717,
+  "gloss": {
+    "english": [
+      "crayfish"
+    ],
+    "english_secondary": [
+      "lobster"
+    ],
+    "maori": [
+      "kōura"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "crayfish.4717.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "crayfish.4717.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3460,
+        2583,
+        771,
+        4717,
+        2163
+      ],
+      "translation": "That restaurant cooks delicious crayfish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.4-21593501148eb3de6f3fb6e1c9a48b1bf03ae2f6b49bb7b84f07866ca5b1c936.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "crayfish-4717.png"
+}

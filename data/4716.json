@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4716,
+  "gloss": {
+    "english": [
+      "cut (scissors)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tapahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "cut.4716.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cut.4716.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5825,
+        2297,
+        4716,
+        "machine-sewing",
+        3375,
+        1840
+      ],
+      "translation": "She cut the material and sewed a dress."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cut_scissors-4716.png"
+}

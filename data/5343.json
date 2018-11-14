@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5343,
+  "gloss": {
+    "english": [
+      "concept"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ariā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "concept.5343.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "concept.5343.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5343,
+        3741,
+        2556,
+        5785,
+        1637,
+        2266,
+        2297,
+        1638
+      ],
+      "translation": "The concept is a difficult one so I'll try to explain what it means."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "concept-5343.png"
+}

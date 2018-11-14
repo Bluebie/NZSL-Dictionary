@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2530,
+  "gloss": {
+    "english": [
+      "long (time)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "roa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "long.2530.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "long.2530.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3048,
+        2530,
+        5784,
+        2953,
+        5785,
+        3375,
+        5389,
+        4817
+      ],
+      "translation": "They have been married for a long time. They tried to have children but were unsuccessful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "long_time-2530.png"
+}

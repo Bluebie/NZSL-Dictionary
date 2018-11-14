@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6174,
+  "gloss": {
+    "english": [
+      "tradition"
+    ],
+    "english_secondary": [
+      "generation",
+      "hereditary"
+    ],
+    "maori": [
+      "tikanga"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "tradition.6174.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tradition.6174.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3276,
+        1636,
+        6174,
+        1747,
+        2410,
+        6000,
+        845
+      ],
+      "translation": "His family always spend Christmas at their beach house. It's a tradition."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "tradition-6174.png"
+}

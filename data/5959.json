@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5959,
+  "gloss": {
+    "english": [
+      "shave (armpit)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "heu (kēkē)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "shave.5959.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shave.5959.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2984,
+        "cl:hair-on-armpit",
+        2556,
+        5959
+      ],
+      "translation": "I shaved the hair on my arm pits."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shave_armpit-5959.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4235,
+  "gloss": {
+    "english": [
+      "foam rubber"
+    ],
+    "english_secondary": [
+      "mattress",
+      "spongy"
+    ],
+    "maori": [
+      "kōpuka"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "rubber.4235.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rubber.4235.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3414,
+        4235,
+        1243,
+        1185,
+        1095
+      ],
+      "translation": "The foam rubber in the couch is worn out and needs replacing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "foam_rubber-4235.png"
+}

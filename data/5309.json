@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5309,
+  "gloss": {
+    "english": [
+      "noun"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kupu ingoa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "noun.5309.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "noun.5309.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3261,
+        4127,
+        2297,
+        "most",
+        5309
+      ],
+      "translation": "Most NZSL fingerspelled words are nouns."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "noun-5309.png"
+}

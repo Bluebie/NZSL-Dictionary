@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2381,
+  "gloss": {
+    "english": [
+      "treat"
+    ],
+    "english_secondary": [
+      "treatment"
+    ],
+    "maori": [
+      "pēnāhia",
+      "pērāhia",
+      "pēneihia"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "treat.2381.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "treat.2381.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2780,
+        2297,
+        2381,
+        1515,
+        4581,
+        2287,
+        606
+      ],
+      "translation": "The boss treated them badly, and they were not happy about that."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "treat-2381.png"
+}

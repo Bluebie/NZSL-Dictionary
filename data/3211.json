@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3211,
+  "gloss": {
+    "english": [
+      "prison cell"
+    ],
+    "english_secondary": [
+      "cell"
+    ],
+    "maori": [
+      "rūma herehere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cell.3211.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cell.3211.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        3430,
+        3219,
+        2943,
+        "arrest",
+        3369,
+        3211,
+        5607,
+        5391
+      ],
+      "translation": "The boy was arrested by the police for drink driving. He was put in a prison cell overnight."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "prison_cell-3211.png"
+}

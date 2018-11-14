@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1956,
+  "gloss": {
+    "english": [
+      "pager"
+    ],
+    "english_secondary": [
+      "electronic pager",
+      "page",
+      "receive page"
+    ],
+    "maori": [
+      "pūoho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pager.1956.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pager.1956.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4656,
+        4766,
+        3618,
+        1231,
+        2126,
+        1287,
+        1376,
+        1956
+      ],
+      "translation": "Deaf parents know when their baby is crying because their pager will flash."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "pager-1956.png"
+}

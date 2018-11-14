@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5827,
+  "gloss": {
+    "english": [
+      "sand",
+      "soil"
+    ],
+    "english_secondary": [
+      "ash",
+      "dirt",
+      "earth",
+      "gritty",
+      "sandy"
+    ],
+    "maori": [
+      "kirikiri",
+      "oneone"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "soil.5827.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "soil.5827.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5827,
+        1152,
+        4307,
+        2556,
+        "cl:shake-shoe"
+      ],
+      "translation": "There was sand in my shoe. I took it off and shook it out."
+    },
+    {
+      "video": "soil.5827.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        "hawkes",
+        2108,
+        2583,
+        1376,
+        3658,
+        5827,
+        3567,
+        3137
+      ],
+      "translation": "Hawkes Bay has good soil for growing grapes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sand-5827.png"
+}

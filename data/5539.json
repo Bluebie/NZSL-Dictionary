@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5539,
+  "gloss": {
+    "english": [
+      "creative"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "auaha"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "creative.5539.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "creative.5539.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1447,
+        3276,
+        3802,
+        2297,
+        5539
+      ],
+      "translation": "I like his drawing. He's really creative."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "creative-5539.png"
+}

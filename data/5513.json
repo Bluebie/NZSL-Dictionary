@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 5513,
+  "gloss": {
+    "english": [
+      "mobile phone",
+      "text (mobile phone)"
+    ],
+    "english_secondary": [
+      "mobile",
+      "send a text",
+      "SMS"
+    ],
+    "maori": [
+      "waea pūkoro",
+      "pātuhi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "text.5513.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "text.5513.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5513,
+        4801,
+        4097
+      ],
+      "translation": "My mobile phone has run out of credit."
+    },
+    {
+      "video": "text.5513.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        5513,
+        2297,
+        2461,
+        2579,
+        5662,
+        5619
+      ],
+      "translation": "I've sent her a text. She's going to meet me here at three o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "mobile_phone-5513.png"
+}

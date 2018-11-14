@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5420,
+  "gloss": {
+    "english": [
+      "sleep"
+    ],
+    "english_secondary": [
+      "asleep",
+      "nap"
+    ],
+    "maori": [
+      "moe"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "sleep.5420.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleep.5420.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5932,
+        2362,
+        5425,
+        5619,
+        5420,
+        768,
+        5391
+      ],
+      "translation": "He is tired as he only had three hours of sleep last night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sleep-5420.png"
+}

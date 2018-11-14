@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6179,
+  "gloss": {
+    "english": [
+      "Work and Income New Zealand"
+    ],
+    "english_secondary": [
+      "WINZ"
+    ],
+    "maori": [
+      "Te Hiranga Tangata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "winz.6179.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "winz.6179.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3027,
+        797,
+        2297,
+        1848,
+        1505,
+        6179
+      ],
+      "translation": "He had no work, so he got a benefit from Work and Income."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "work_and_income_new_zealand-6179.png"
+}

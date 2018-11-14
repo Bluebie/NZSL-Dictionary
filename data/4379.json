@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4379,
+  "gloss": {
+    "english": [
+      "weak"
+    ],
+    "english_secondary": [
+      "feeble",
+      "powerless",
+      "weakness"
+    ],
+    "maori": [
+      "ngoikore"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "weak.4379.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "weak.4379.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        4379,
+        2556,
+        3277
+      ],
+      "translation": "You're weak and I'm strong."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "weak-4379.png"
+}

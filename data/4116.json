@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4116,
+  "gloss": {
+    "english": [
+      "okay"
+    ],
+    "english_secondary": [
+      "all right",
+      "OK"
+    ],
+    "maori": [
+      "e pai ana"
+    ],
+    "attributes": [
+      "adjective",
+      "interjection"
+    ]
+  },
+  "video": "okay.4116.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "okay.4116.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        "cl:car-collision",
+        2556,
+        2883,
+        2091,
+        1170,
+        2297,
+        4116,
+        "nothing",
+        1364
+      ],
+      "translation": "My car hit the rear of the car in front. I got out and checked the front of the car. It was okay - there was no damage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "okay-4116.png"
+}

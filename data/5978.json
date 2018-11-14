@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5978,
+  "gloss": {
+    "english": [
+      "thick-skinned"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kiri mātotoru"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "thick_skinned.5978.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "thick_skinned.5978.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4591,
+        2188,
+        2556,
+        3354,
+        5978
+      ],
+      "translation": "Their comments were awful but I couldn't care less - I'm thick-skinned."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "thick_skinned-5978.png"
+}

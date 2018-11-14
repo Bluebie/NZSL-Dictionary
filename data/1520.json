@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1520,
+  "gloss": {
+    "english": [
+      "not me"
+    ],
+    "english_secondary": [
+      "deny",
+      "disown",
+      "don't ask me",
+      "don't want to know",
+      "innocent",
+      "not responsible",
+      "nothing to do with me"
+    ],
+    "maori": [
+      "ehara nāku"
+    ],
+    "attributes": [
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "not_me.1520.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "not_me.1520.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3571,
+        1266,
+        1520
+      ],
+      "translation": "It wasn't me who broke the vase."
+    },
+    {
+      "video": "not_me.1520.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3009,
+        3080,
+        1123,
+        5818,
+        1520
+      ],
+      "translation": "I asked for volunteers to help me but nobody wanted to know about it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "not_me-1520.png"
+}

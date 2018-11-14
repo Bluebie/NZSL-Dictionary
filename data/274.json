@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 274,
+  "gloss": {
+    "english": [
+      "captain",
+      "chief"
+    ],
+    "english_secondary": [
+      "chieftain",
+      "tribal leader"
+    ],
+    "maori": [
+      "kāpene",
+      "rangatira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chief.274.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chief.274.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3910,
+        2774,
+        274,
+        2556,
+        5536,
+        839
+      ],
+      "translation": "I was proud when the team picked me as a captain."
+    },
+    {
+      "video": "chief.274.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        3300,
+        1438,
+        1376,
+        274,
+        3276,
+        1598
+      ],
+      "translation": "An ancestor in my family was the chief of the iwi."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "captain-274.png"
+}

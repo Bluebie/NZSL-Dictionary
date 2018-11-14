@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4439,
+  "gloss": {
+    "english": [
+      "clergy"
+    ],
+    "english_secondary": [
+      "clerical collar",
+      "clergyman",
+      "clergywoman",
+      "minister",
+      "ministry",
+      "mission",
+      "pastor",
+      "priest",
+      "vicar"
+    ],
+    "maori": [
+      "kāhui minita"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "clergy.4439.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clergy.4439.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4439,
+        2297,
+        3811,
+        3055,
+        2879
+      ],
+      "translation": "The minister will wed both of us."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "clergy-4439.png"
+}

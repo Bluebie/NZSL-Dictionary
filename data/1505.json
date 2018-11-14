@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 1505,
+  "gloss": {
+    "english": [
+      "from"
+    ],
+    "english_secondary": [
+      "as a result of",
+      "origin"
+    ],
+    "maori": [
+      "nā te"
+    ],
+    "attributes": [
+      "preposition"
+    ]
+  },
+  "video": "from.1505.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "from.1505.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1964,
+        4623,
+        1505,
+        4022,
+        4579
+      ],
+      "translation": "I had nausea and vomitting from food poisoning."
+    },
+    {
+      "video": "from.1505.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3276,
+        4689,
+        1505,
+        2046
+      ],
+      "translation": "Her father is from India."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "from-1505.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3264,
+  "gloss": {
+    "english": [
+      "refrigerator"
+    ],
+    "english_secondary": [
+      "fridge"
+    ],
+    "maori": [
+      "pouaka mātao",
+      "whata mātao"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fridge.3264.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fridge.3264.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4264,
+        5632,
+        3264,
+        4093,
+        3653
+      ],
+      "translation": "I've put the drinks I bought in the refrigerator."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "refrigerator-3264.png"
+}

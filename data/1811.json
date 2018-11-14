@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1811,
+  "gloss": {
+    "english": [
+      "shuffle (cards)"
+    ],
+    "english_secondary": [
+      "deck of cards",
+      "pack of cards",
+      "play cards",
+      "playing cards"
+    ],
+    "maori": [
+      "katikati (kāri)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "card.1811.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "card.1811.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        5129,
+        1811,
+        5663,
+        5970,
+        3907
+      ],
+      "translation": "You have to shuffle first, then deal the cards."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "shuffle_cards-1811.png"
+}

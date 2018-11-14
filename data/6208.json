@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6208,
+  "gloss": {
+    "english": [
+      "pie"
+    ],
+    "english_secondary": [
+      "donut"
+    ],
+    "maori": [
+      "pai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pie.6208.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pie.6208.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        1681,
+        2410,
+        5485,
+        5731,
+        5632,
+        6208
+      ],
+      "translation": "We were hungry, so we went to the petrol shop and bought a pie."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "pie-6208.png"
+}

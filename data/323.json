@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 323,
+  "gloss": {
+    "english": [
+      "Catholic",
+      "St. Dominic's School"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Katorika",
+      "St. Dominic's School"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "catholic.323.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "catholic.323.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        277,
+        2297,
+        4054,
+        2540,
+        2543,
+        323
+      ],
+      "translation": "The nun taught us about the Catholic faith."
+    },
+    {
+      "video": "catholic.323.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        2297,
+        2099,
+        5617,
+        2297,
+        2410,
+        323,
+        1298,
+        2583,
+        4609,
+        2583
+      ],
+      "translation": "She started at St. Dominic's School in Feilding when she was two."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Catholic-323.png"
+}

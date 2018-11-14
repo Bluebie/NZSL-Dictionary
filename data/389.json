@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 389,
+  "gloss": {
+    "english": [
+      "vocalise",
+      "voice"
+    ],
+    "english_secondary": [
+      "accent",
+      "throat"
+    ],
+    "maori": [
+      "kōrero",
+      "reo"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "voice.389.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "voice.389.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4051,
+        4656,
+        3027,
+        389,
+        2362,
+        5488
+      ],
+      "translation": "Some deaf people do not vocalise at all. They only sign."
+    },
+    {
+      "video": "voice.389.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4765,
+        2853,
+        2556,
+        389,
+        977,
+        3885,
+        5806,
+        "well"
+      ],
+      "translation": "My mother was disappointed that my voice was getting worse, but that's life."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "voice-389.png"
+}

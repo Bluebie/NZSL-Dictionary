@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1189,
+  "gloss": {
+    "english": [
+      "file"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōnae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "file.1189.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "file.1189.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        233,
+        2775,
+        1376,
+        1189,
+        2583
+      ],
+      "translation": "The birth certificate is in that file."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "file-1189.png"
+}

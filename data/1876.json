@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1876,
+  "gloss": {
+    "english": [
+      "get together"
+    ],
+    "english_secondary": [
+      "combine"
+    ],
+    "maori": [
+      "whakakotahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_together.1876.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_together.1876.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5429,
+        4546,
+        797,
+        1876,
+        4546
+      ],
+      "translation": "At the Christmas party, our workplace gets together to celebrate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "get_together-1876.png"
+}

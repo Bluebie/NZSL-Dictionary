@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 5506,
+  "gloss": {
+    "english": [
+      "age",
+      "how old?"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pakeke",
+      "e hia ō tau?"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "how_old.5506.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "how_old.5506.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5506,
+        2099,
+        5622,
+        2410,
+        2931,
+        4656,
+        1298,
+        2583,
+        4214
+      ],
+      "translation": "At the age of six, I went to van Asch Deaf school in Christchurch."
+    },
+    {
+      "video": "how_old.5506.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3542,
+        4656,
+        959,
+        3274,
+        4766,
+        2297,
+        5450,
+        2321,
+        4656,
+        5506,
+        2321
+      ],
+      "translation": "You were born deaf. How old were you when your parents found out you were deaf?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "age-5506.png"
+}

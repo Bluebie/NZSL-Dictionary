@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5463,
+  "gloss": {
+    "english": [
+      "ball"
+    ],
+    "english_secondary": [
+      "sphere"
+    ],
+    "maori": [
+      "pōro",
+      "paoro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ball.5463.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ball.5463.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4499,
+        2287,
+        1926,
+        5463,
+        3598,
+        "cl:kick-ball-around"
+      ],
+      "translation": "Some teenagers were playing, kicking a soccer ball around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ball-5463.png"
+}

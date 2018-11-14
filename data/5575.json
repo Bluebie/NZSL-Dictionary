@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5575,
+  "gloss": {
+    "english": [
+      "fence"
+    ],
+    "english_secondary": [
+      "barrier",
+      "obstruction"
+    ],
+    "maori": [
+      "taiapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fence.5575.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fence.5575.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2408,
+        5575,
+        2556,
+        "cl:hold-fence",
+        1863
+      ],
+      "translation": "I touched an electric fence and got a shock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fence-5575.png"
+}

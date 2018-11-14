@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2041,
+  "gloss": {
+    "english": [
+      "bald"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hewa",
+      "pākira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bald.2041.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bald.2041.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        5032,
+        1050,
+        2041
+      ],
+      "translation": "He had curly hair before. Now he's bald."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bald-2041.png"
+}

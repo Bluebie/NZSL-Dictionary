@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2340,
+  "gloss": {
+    "english": [
+      "let me know"
+    ],
+    "english_secondary": [
+      "inform"
+    ],
+    "maori": [
+      "whakamōhio mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "let_me_know.2340.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "let_me_know.2340.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2340,
+        3642,
+        721,
+        3430,
+        5915,
+        797
+      ],
+      "translation": "Let me know if you want me to drive to drop you off at work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "let_me_know-2340.png"
+}

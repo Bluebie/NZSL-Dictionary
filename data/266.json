@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 266,
+  "gloss": {
+    "english": [
+      "plain"
+    ],
+    "english_secondary": [
+      "dull",
+      "simple",
+      "tasteless"
+    ],
+    "maori": [
+      "more",
+      "tōkau"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "plain.266.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plain.266.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3063,
+        "they",
+        5796,
+        266,
+        723,
+        2215,
+        2844,
+        696
+      ],
+      "translation": "Interpreters should wear plain tops so that they can be seen clearly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "plain-266.png"
+}

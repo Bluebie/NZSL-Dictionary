@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5282,
+  "gloss": {
+    "english": [
+      "cultural view"
+    ],
+    "english_secondary": [
+      "cultural perspective"
+    ],
+    "maori": [
+      "tirohanga"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "cultural_view.5282.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cultural_view.5282.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        2314,
+        5282,
+        5536,
+        2314,
+        4656,
+        4668
+      ],
+      "translation": "As Deaf people, our cultural view is that being Deaf is normal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "cultural_view-5282.png"
+}

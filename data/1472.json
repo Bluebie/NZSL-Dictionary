@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1472,
+  "gloss": {
+    "english": [
+      "squash"
+    ],
+    "english_secondary": [
+      "flatten",
+      "squashed"
+    ],
+    "maori": [
+      "korotē"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "squash.1472.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "squash.1472.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1478,
+        "cl:cylinder",
+        "can-top",
+        4264,
+        3653,
+        1472,
+        5163
+      ],
+      "translation": "When you've drunk up your can of Coca-Cola, squash it flat and put it in the rubbish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "squash-1472.png"
+}

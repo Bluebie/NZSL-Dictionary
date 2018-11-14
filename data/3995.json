@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3995,
+  "gloss": {
+    "english": [
+      "flashing light"
+    ],
+    "english_secondary": [
+      "flick lights",
+      "visual alert"
+    ],
+    "maori": [
+      "rama hikohiko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "flashing_light.3995.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flashing_light.3995.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2091,
+        3995,
+        3618,
+        2427,
+        2583,
+        570
+      ],
+      "translation": "If I see the light flashing, I know someone is at the door."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "flashing_light-3995.png"
+}

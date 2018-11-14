@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1862,
+  "gloss": {
+    "english": [
+      "barrel"
+    ],
+    "english_secondary": [
+      "bin",
+      "(round) container",
+      "drum",
+      "keg"
+    ],
+    "maori": [
+      "kāho"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "drum.1862.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drum.1862.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5789,
+        2314,
+        1490,
+        580,
+        4097,
+        5632,
+        6112,
+        1862
+      ],
+      "translation": "Our group of friends shared money to buy a keg."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "barrel-1862.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2895,
+  "gloss": {
+    "english": [
+      "read"
+    ],
+    "english_secondary": [
+      "browse",
+      "glance",
+      "scan",
+      "skim"
+    ],
+    "maori": [
+      "pānui"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "read.2895.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "read.2895.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3585,
+        2189,
+        2095,
+        2895,
+        3300,
+        6212,
+        2895,
+        1565
+      ],
+      "translation": "In the job interview, people read my CV and were impressed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "read-2895.png"
+}

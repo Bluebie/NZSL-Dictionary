@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4203,
+  "gloss": {
+    "english": [
+      "orange"
+    ],
+    "english_secondary": [
+      "lemon"
+    ],
+    "maori": [
+      "ārani",
+      "karaka"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "orange.4203.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "orange.4203.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3684,
+        4022,
+        4203,
+        1123,
+        3658,
+        1603
+      ],
+      "translation": "It's better to eat oranges. They aid good health."
+    },
+    {
+      "video": "orange.4203.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        797,
+        2804,
+        723,
+        4203,
+        5480
+      ],
+      "translation": "The man works on the roads. His top is orange for safety."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "orange-4203.png"
+}

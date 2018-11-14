@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3907,
+  "gloss": {
+    "english": [
+      "cards",
+      "play cards"
+    ],
+    "english_secondary": [
+      "deal",
+      "deck of cards",
+      "pack of cards",
+      "playing cards"
+    ],
+    "maori": [
+      "kāri",
+      "purei kāri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cards.3907.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cards.3907.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4189,
+        730,
+        3907,
+        2583,
+        402
+      ],
+      "translation": "Remember to bring a deck of cards to camp."
+    },
+    {
+      "video": "cards.3907.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2540,
+        1490,
+        1926,
+        3907,
+        3643,
+        4264,
+        1300,
+        2430
+      ],
+      "translation": "A group of us were playing cards. We were having fun, drink and chatting for ages."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cards-3907.png"
+}

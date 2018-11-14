@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4801,
+  "gloss": {
+    "english": [
+      "empty"
+    ],
+    "english_secondary": [
+      "all gone",
+      "finished",
+      "none left",
+      "out of",
+      "run out",
+      "use up"
+    ],
+    "maori": [
+      "pau",
+      "pau katoa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "empty.4801.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "empty.4801.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1569,
+        5659,
+        4801,
+        2556,
+        2410,
+        5731,
+        5632
+      ],
+      "translation": "I was annoyed to find that the milk had been emptied so I went to the shop to buy some."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "empty-4801.png"
+}

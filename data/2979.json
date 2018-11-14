@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2979,
+  "gloss": {
+    "english": [
+      "per cent"
+    ],
+    "english_secondary": [
+      "percent",
+      "percentage"
+    ],
+    "maori": [
+      "ōrau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "percent.2979.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "percent.2979.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1220,
+        5706,
+        2979,
+        5413,
+        5632,
+        5962
+      ],
+      "translation": "I was given a thirty per cent discount when I bought the printer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "per_cent-2979.png"
+}

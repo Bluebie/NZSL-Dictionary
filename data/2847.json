@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2847,
+  "gloss": {
+    "english": [
+      "lipread"
+    ],
+    "english_secondary": [
+      "lip reading",
+      "speech read"
+    ],
+    "maori": [
+      "pānui ngutu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lip_read.2847.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lip_read.2847.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4051,
+        4423,
+        2556,
+        2096,
+        2847,
+        4051,
+        5517,
+        2215,
+        5517
+      ],
+      "translation": "I can't lipread some of the nurses, but others are easy to understand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "lipread-2847.png"
+}

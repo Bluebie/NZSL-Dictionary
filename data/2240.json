@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2240,
+  "gloss": {
+    "english": [
+      "neck"
+    ],
+    "english_secondary": [
+      "throat"
+    ],
+    "maori": [
+      "kakī"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "neck.2240.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "neck.2240.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        3462,
+        "accident",
+        2240,
+        3571,
+        908,
+        5990
+      ],
+      "translation": "He was in a car accident and broke his neck. Now he's in a wheelchair."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "neck-2240.png"
+}

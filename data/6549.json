@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6549,
+  "gloss": {
+    "english": [
+      "koala"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "koara pea"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "koala.6549.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "koala.6549.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2410,
+        4790,
+        1864,
+        2091,
+        647,
+        6549
+      ],
+      "translation": "I'm eager to see real koalas in Australia!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "koala-6549.png"
+}

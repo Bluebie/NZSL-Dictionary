@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5695,
+  "gloss": {
+    "english": [
+      "nine"
+    ],
+    "english_secondary": [
+      "9"
+    ],
+    "maori": [
+      "iwa"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "nine.5695.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_9.5695.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        1482,
+        5405,
+        5695,
+        4763
+      ],
+      "translation": "I'm going to America. I will stay there for nine months."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nine-5695.png"
+}

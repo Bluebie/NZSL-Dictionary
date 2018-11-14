@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5351,
+  "gloss": {
+    "english": [
+      "predict"
+    ],
+    "english_secondary": [
+      "forecast",
+      "foresee"
+    ],
+    "maori": [
+      "matapae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "predict.5351.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "predict.5351.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3943,
+        1324,
+        2297,
+        5351,
+        3885,
+        707,
+        3811,
+        1775
+      ],
+      "translation": "The weather report predicts it will rain this weekend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "predict-5351.png"
+}

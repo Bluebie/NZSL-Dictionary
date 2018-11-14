@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2382,
+  "gloss": {
+    "english": [
+      "television"
+    ],
+    "english_secondary": [
+      "TV"
+    ],
+    "maori": [
+      "pouaka whakaata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tv.2382.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tv.2382.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        856,
+        2556,
+        4729,
+        2844,
+        2382
+      ],
+      "translation": "At home, I had a rest and watched television."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "television-2382.png"
+}

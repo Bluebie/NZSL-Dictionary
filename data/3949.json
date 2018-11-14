@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3949,
+  "gloss": {
+    "english": [
+      "pen",
+      "write"
+    ],
+    "english_secondary": [
+      "chalk",
+      "crayon",
+      "fill in",
+      "marker",
+      "note",
+      "pencil",
+      "writer"
+    ],
+    "maori": [
+      "pene",
+      "tuhi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "write.3949.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "write.3949.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        485,
+        1376,
+        3949,
+        2321
+      ],
+      "translation": "Hey, do you have a pen?"
+    },
+    {
+      "video": "write.3949.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1565,
+        2297,
+        3949,
+        3658,
+        2456,
+        2297
+      ],
+      "translation": "Wow, she writes well in English!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pen-3949.png"
+}

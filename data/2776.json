@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2776,
+  "gloss": {
+    "english": [
+      "chips"
+    ],
+    "english_secondary": [
+      "chippies",
+      "French fries",
+      "potato chip"
+    ],
+    "maori": [
+      "tipi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chips.2776.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chips.2776.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        4022,
+        2776,
+        "cl:eat-from-packet"
+      ],
+      "translation": "We ate chips from a packet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chips-2776.png"
+}

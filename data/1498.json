@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 1498,
+  "gloss": {
+    "english": [
+      "absent",
+      "disappear"
+    ],
+    "english_secondary": [
+      "empty",
+      "gone",
+      "missing",
+      "not here",
+      "vanish"
+    ],
+    "maori": [
+      "ngaro",
+      "nunumi"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "absent.1498.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "absent.1498.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        "absent",
+        3027,
+        "come",
+        4249
+      ],
+      "translation": "He was absent and didn't come to class."
+    },
+    {
+      "video": "absent.1498.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3892,
+        1498,
+        2556,
+        2831,
+        2096,
+        5450
+      ],
+      "translation": "My keys have disappeared. I've looked for them but I can't find them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "absent-1498.png"
+}

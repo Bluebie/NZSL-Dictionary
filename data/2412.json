@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 2412,
+  "gloss": {
+    "english": [
+      "first"
+    ],
+    "english_secondary": [
+      "first (of a list)",
+      "first of all",
+      "firstly"
+    ],
+    "maori": [
+      "tuatahi"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "firstly.2412.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "firstly.2412.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4316,
+        1553,
+        3707,
+        2412,
+        4046,
+        2416,
+        2023,
+        2417,
+        5512,
+        1250
+      ],
+      "translation": "I'm involved in many sports: the first is netball, secondly tennis, and thirdly touch rugby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "first-2412.png"
+}

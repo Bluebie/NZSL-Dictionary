@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 300,
+  "gloss": {
+    "english": [
+      "intellectually handicapped"
+    ],
+    "english_secondary": [
+      "backward",
+      "mental handicap",
+      "retarded"
+    ],
+    "maori": [
+      "hinengaro hauā"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "intellectually_handicapped.300.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "intellectually_handicapped.300.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        5689,
+        954,
+        2417,
+        300,
+        2410,
+        5953,
+        1298
+      ],
+      "translation": "Their third child is intellectually handicapped and goes to a special school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "intellectually_handicapped-300.png"
+}

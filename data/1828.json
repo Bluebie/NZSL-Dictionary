@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1828,
+  "gloss": {
+    "english": [
+      "accumulate money"
+    ],
+    "english_secondary": [
+      "amount of money",
+      "lot of money",
+      "save up",
+      "sum of money"
+    ],
+    "maori": [
+      "penapena moni"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "accumulate_money.1828.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accumulate_money.1828.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3663,
+        4097,
+        1828,
+        5632,
+        1095,
+        3264
+      ],
+      "translation": "I really want to save up for a new fridge."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "accumulate_money-1828.png"
+}

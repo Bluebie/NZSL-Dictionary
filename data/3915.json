@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3915,
+  "gloss": {
+    "english": [
+      "Spain"
+    ],
+    "english_secondary": [
+      "Spanish"
+    ],
+    "maori": [
+      "Pāniora"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Spain.3915.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Spain.3915.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        2096,
+        4293,
+        2456,
+        2297,
+        1505,
+        3915
+      ],
+      "translation": "That woman can't speak English. She is from Spain."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Spain-3915.png"
+}

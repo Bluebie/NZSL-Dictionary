@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4982,
+  "gloss": {
+    "english": [
+      "period"
+    ],
+    "english_secondary": [
+      "menstruation"
+    ],
+    "maori": [
+      "mate wahine"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "period.4982.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "period.4982.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        4982,
+        2410,
+        1587,
+        1766,
+        2669
+      ],
+      "translation": "I had my period so I went to the cupboard to get a tampon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "period-4982.png"
+}

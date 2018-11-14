@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3654,
+  "gloss": {
+    "english": [
+      "tramping"
+    ],
+    "english_secondary": [
+      "camp",
+      "camping",
+      "hike",
+      "hiking",
+      "pack",
+      "tramp"
+    ],
+    "maori": [
+      "hīkoi",
+      "takahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "tramping.3654.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tramping.3654.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3654,
+        669,
+        1781,
+        3721,
+        3091,
+        "cl:brush-off-insect"
+      ],
+      "translation": "I was tramping through the bush. I had to brush off lots of insects that were biting me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "tramping-3654.png"
+}

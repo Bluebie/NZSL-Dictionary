@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2670,
+  "gloss": {
+    "english": [
+      "umbilical cord"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "iho",
+      "pito",
+      "tāngaengae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cord.2670.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cord.2670.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1231,
+        233,
+        3050,
+        2670,
+        2866
+      ],
+      "translation": "When the baby was born, my husband cut the umbilical cord."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "umbilical_cord-2670.png"
+}

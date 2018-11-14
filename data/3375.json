@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 3375,
+  "gloss": {
+    "english": [
+      "make (create)",
+      "make (cause to happen)"
+    ],
+    "english_secondary": [
+      "cause",
+      "create",
+      "give",
+      "manufacture",
+      "produce",
+      "production",
+      "repair"
+    ],
+    "maori": [
+      "hanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "make.3375.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "make.3375.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1766,
+        797,
+        3375,
+        834,
+        347,
+        4819
+      ],
+      "translation": "He got a job making tables, beds, and drawers."
+    },
+    {
+      "video": "make.3375.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4251,
+        3063,
+        3642,
+        1269,
+        3375,
+        2556,
+        5536,
+        1937
+      ],
+      "translation": "I'm comfortable having an interpreter. If I'm without one, it makes me feel frustrated."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "make-3375.png"
+}

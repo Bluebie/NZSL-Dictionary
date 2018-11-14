@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 6070,
+  "gloss": {
+    "english": [
+      "feel awkward",
+      "flounder"
+    ],
+    "english_secondary": [
+      "at a loss",
+      "helpless",
+      "struggle"
+    ],
+    "maori": [
+      "pōrahu",
+      "tāwheta"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "feel_awkward.6070.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "feel_awkward.6070.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        2213,
+        2556,
+        1279,
+        2556,
+        6070,
+        5415,
+        2297
+      ],
+      "translation": "He lied to me in the past, so I feel awkward around him."
+    },
+    {
+      "video": "feel_awkward.6070.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        1849,
+        5663,
+        2646,
+        2297,
+        6070
+      ],
+      "translation": "In his first year at university he floundered."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "feel_awkward-6070.png"
+}

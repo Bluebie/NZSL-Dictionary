@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2737,
+  "gloss": {
+    "english": [
+      "Levin"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Taitoko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "levin.2737.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "levin.2737.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        768,
+        1444,
+        3111,
+        2556,
+        2410,
+        2737,
+        5915,
+        5389,
+        3338,
+        845
+      ],
+      "translation": "Last Wednesday morning I went to Levin to drop the children off at their grandmother's house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Levin-2737.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1743,
+  "gloss": {
+    "english": [
+      "headphones"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pokotaringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "headphone.1743.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "headphone.1743.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1298,
+        5802,
+        4054,
+        1743,
+        2556,
+        4370
+      ],
+      "translation": "Our school used the oral method when teaching, and we wore headphones. I couldn't understand anything."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "headphones-1743.png"
+}

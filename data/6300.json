@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6300,
+  "gloss": {
+    "english": [
+      "we"
+    ],
+    "english_secondary": [
+      "us"
+    ],
+    "maori": [
+      "mātou",
+      "tātou"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "we.6300.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "we.6300.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        6300,
+        4908,
+        3885,
+        2228,
+        3658,
+        4054
+      ],
+      "translation": "We liked that teacher. She taught well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "we-6300.png"
+}

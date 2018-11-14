@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4999,
+  "gloss": {
+    "english": [
+      "altar"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ahurewa",
+      "tūāhu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "altar.4999.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "altar.4999.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1170,
+        2583,
+        1376,
+        4999,
+        6017,
+        780,
+        2583
+      ],
+      "translation": "At the front there is an altar. That is where the wine and bread are."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "altar-4999.png"
+}

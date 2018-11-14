@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5400,
+  "gloss": {
+    "english": [
+      "Lotto"
+    ],
+    "english_secondary": [
+      "lottery"
+    ],
+    "maori": [
+      "rotarota"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "Lotto.5400.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Lotto.5400.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        768,
+        3355,
+        5607,
+        4446,
+        3848,
+        5400,
+        5623,
+        1109,
+        4224
+      ],
+      "translation": "Last Saturday, one person won seven million dollars on the Lotto."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Lotto-5400.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4334,
+  "gloss": {
+    "english": [
+      "blanket"
+    ],
+    "english_secondary": [
+      "duvet",
+      "quilt",
+      "sheet"
+    ],
+    "maori": [
+      "paraikete"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "duvet.4334.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "duvet.4334.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4334,
+        1185,
+        908,
+        3194,
+        309
+      ],
+      "translation": "I don't need a blanket now it's summer and warm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "blanket-4334.png"
+}

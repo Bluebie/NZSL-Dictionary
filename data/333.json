@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 333,
+  "gloss": {
+    "english": [
+      "direct"
+    ],
+    "english_secondary": [
+      "blunt",
+      "directly",
+      "straight",
+      "straightforward"
+    ],
+    "maori": [
+      "hāngai",
+      "tōtika"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "direct.333.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "direct.333.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3273,
+        2466,
+        333,
+        4811,
+        2404,
+        2095,
+        2050,
+        "well"
+      ],
+      "translation": "He tends to talk directly and he doesn't care what other people think."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "direct-333.png"
+}

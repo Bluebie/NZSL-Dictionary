@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 468,
+  "gloss": {
+    "english": [
+      "respect"
+    ],
+    "english_secondary": [
+      "acknowledge",
+      "defer to",
+      "esteem",
+      "honour",
+      "look up to",
+      "loyal to",
+      "regard highly"
+    ],
+    "maori": [
+      "maruwehi",
+      "wehi",
+      "whakaiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "respect.468.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "respect.468.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3204,
+        5919,
+        2556,
+        468,
+        4307,
+        "cl:shoes-take-off",
+        499,
+        648
+      ],
+      "translation": "Before entering the Māori marae, I took my shoes off as a sign of respect."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "respect-468.png"
+}

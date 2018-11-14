@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5323,
+  "gloss": {
+    "english": [
+      "society"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hapori whānui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "society.5323.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "society.5323.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        585,
+        5323,
+        1376,
+        5335,
+        2480,
+        5882,
+        2480,
+        5684
+      ],
+      "translation": "In New Zealand society, there are many different ethnicities and backgrounds."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.2-a71bf7541672d1328f87a3e6c60973efd917f123455f215175ae421c01cf2455.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "society-5323.png"
+}

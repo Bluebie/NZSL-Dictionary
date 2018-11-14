@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6114,
+  "gloss": {
+    "english": [
+      "bottom"
+    ],
+    "english_secondary": [
+      "last",
+      "last in rank",
+      "least",
+      "lowest"
+    ],
+    "maori": [
+      "raro"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "bottom.6114.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bottom.6114.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        3867,
+        3898,
+        4249,
+        2556,
+        6114
+      ],
+      "translation": "I was bottom of the class in the written exam."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "bottom-6114.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2225,
+  "gloss": {
+    "english": [
+      "minus"
+    ],
+    "english_secondary": [
+      "negative",
+      "subtract",
+      "subtraction"
+    ],
+    "maori": [
+      "ka tango i te"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "minus.2225.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "minus.2225.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4065,
+        2225,
+        5620,
+        2874,
+        5622
+      ],
+      "translation": "Ten minus four equals six."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "minus-2225.png"
+}

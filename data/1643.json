@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1643,
+  "gloss": {
+    "english": [
+      "twiddle thumbs"
+    ],
+    "english_secondary": [
+      "bide time",
+      "do nothing",
+      "idle",
+      "nothing to do"
+    ],
+    "maori": [
+      "raweke"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "twiddle_thumbs.1643.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "twiddle_thumbs.1643.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1775,
+        2556,
+        5405,
+        1114,
+        952,
+        1643
+      ],
+      "translation": "It was raining, so I stayed inside the motel twiddling my thumbs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "twiddle_thumbs-1643.png"
+}

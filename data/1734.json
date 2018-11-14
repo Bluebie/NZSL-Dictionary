@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1734,
+  "gloss": {
+    "english": [
+      "dandruff"
+    ],
+    "english_secondary": [
+      "itch (on head)"
+    ],
+    "maori": [
+      "māungaunga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dandruff.1734.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dandruff.1734.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        1734,
+        1185,
+        5953,
+        1730
+      ],
+      "translation": "I have dandruff so I need special shampoo."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dandruff-1734.png"
+}

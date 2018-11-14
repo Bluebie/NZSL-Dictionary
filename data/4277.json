@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 4277,
+  "gloss": {
+    "english": [
+      "go deaf",
+      "hearing impaired"
+    ],
+    "english_secondary": [
+      "deaf",
+      "deafened",
+      "hard of hearing",
+      "lose hearing",
+      "partially deaf"
+    ],
+    "maori": [
+      "turi",
+      "turi haere"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "hearing_impaired.4277.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hearing_impaired.4277.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3687,
+        2841,
+        4614,
+        4277
+      ],
+      "translation": "My aunt is old and she is going deaf."
+    },
+    {
+      "video": "hearing_impaired.4277.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2135,
+        2297,
+        4277,
+        2297,
+        4293,
+        3658
+      ],
+      "translation": "The hearing impaired girl speaks well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "hearing_impaired-4277.png"
+}

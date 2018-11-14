@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3611,
+  "gloss": {
+    "english": [
+      "notice"
+    ],
+    "english_secondary": [
+      "announcement",
+      "sign"
+    ],
+    "maori": [
+      "pānui"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "notice.3611.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "notice.3611.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        6287,
+        3800,
+        2844,
+        3611,
+        2844,
+        395,
+        "cl:tide-high-low",
+        2844,
+        903,
+        3561
+      ],
+      "translation": "The man went to the office to look at the notice about tide times for fishing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "notice-3611.png"
+}

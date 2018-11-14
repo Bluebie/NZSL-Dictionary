@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5517,
+  "gloss": {
+    "english": [
+      "idea"
+    ],
+    "english_secondary": [
+      "brain wave",
+      "concept",
+      "notion",
+      "understand"
+    ],
+    "maori": [
+      "whakaaro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "idea.5517.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "idea.5517.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2314,
+        1490,
+        5517,
+        5274,
+        1211
+      ],
+      "translation": "Our group brainstormed ideas and discussed them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "idea-5517.png"
+}

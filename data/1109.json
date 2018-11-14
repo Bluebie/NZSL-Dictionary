@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1109,
+  "gloss": {
+    "english": [
+      "million"
+    ],
+    "english_secondary": [
+      "1000000",
+      "millionaire"
+    ],
+    "maori": [
+      "miriona"
+    ],
+    "attributes": [
+      "noun",
+      "numeral"
+    ]
+  },
+  "video": "numbers_million.1109.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_million.1109.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6000,
+        845,
+        2297,
+        4163,
+        5617,
+        1109,
+        4224
+      ],
+      "translation": "That beach house is worth two million dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "million-1109.png"
+}

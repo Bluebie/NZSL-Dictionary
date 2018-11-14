@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5384,
+  "gloss": {
+    "english": [
+      "contract"
+    ],
+    "english_secondary": [
+      "reduce size",
+      "shrink"
+    ],
+    "maori": [
+      "mānihi"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "contract.5384.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "contract.5384.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2223,
+        2297,
+        1752,
+        2297,
+        1338,
+        2297,
+        357,
+        2297,
+        5384
+      ],
+      "translation": "When hot steel cools, it contracts."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "contract-5384.png"
+}

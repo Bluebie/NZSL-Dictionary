@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 2123,
+  "gloss": {
+    "english": [
+      "hear",
+      "listen"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rongo",
+      "whakarongo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "listen.2123.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "listen.2123.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2123,
+        2297,
+        3639,
+        2037,
+        2297,
+        3462,
+        4326
+      ],
+      "translation": "I hear a funny noise. It's something coming from the car."
+    },
+    {
+      "video": "listen.2123.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4656,
+        3220,
+        3009,
+        5982,
+        2297,
+        2123,
+        2297,
+        3481,
+        1376,
+        1952,
+        4096
+      ],
+      "translation": "The deaf man asked his workmate to listen to the engine to check if there was any problem."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "hear-2123.png"
+}

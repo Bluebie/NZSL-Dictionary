@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5603,
+  "gloss": {
+    "english": [
+      "affix"
+    ],
+    "english_secondary": [
+      "prefix and suffix"
+    ],
+    "maori": [
+      "kuhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "affix.5603.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "affix.5603.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3409,
+        1513,
+        1287,
+        1105,
+        5603,
+        3046,
+        5786
+      ],
+      "translation": "The students were learning how to add affixes to words to improve their vocabulary."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "affix-5603.png"
+}

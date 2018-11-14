@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4520,
+  "gloss": {
+    "english": [
+      "doctor"
+    ],
+    "english_secondary": [
+      "physician"
+    ],
+    "maori": [
+      "rata",
+      "tākuta"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "doctor.4520.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "doctor.4520.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1767,
+        2410,
+        4520,
+        2091,
+        2273
+      ],
+      "translation": "He took me to the doctor to see what was wrong with me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "doctor-4520.png"
+}

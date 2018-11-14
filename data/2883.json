@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2883,
+  "gloss": {
+    "english": [
+      "walk"
+    ],
+    "english_secondary": [
+      "walking"
+    ],
+    "maori": [
+      "hīkoi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "walk.2883.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "walk.2883.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4527,
+        2883,
+        797,
+        2362,
+        5607,
+        2440,
+        2729
+      ],
+      "translation": "It's a short walk to work - it only takes me a minute. It isn't far."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "walk-2883.png"
+}

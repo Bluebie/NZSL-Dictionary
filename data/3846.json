@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3846,
+  "gloss": {
+    "english": [
+      "hammer"
+    ],
+    "english_secondary": [
+      "tool"
+    ],
+    "maori": [
+      "hama"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "hammer.3846.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hammer.3846.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        6207,
+        2556,
+        797,
+        2583,
+        2556,
+        4689,
+        4088,
+        5760,
+        3846,
+        "assortment"
+      ],
+      "translation": "I'm now working at my father's business, selling hammers and other things."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hammer-3846.png"
+}

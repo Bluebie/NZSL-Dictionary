@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4638,
+  "gloss": {
+    "english": [
+      "just in case"
+    ],
+    "english_secondary": [
+      "in case"
+    ],
+    "maori": [
+      "kei tūpono"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "just_in_case.4638.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "just_in_case.4638.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3684,
+        730,
+        3364,
+        4638,
+        1775
+      ],
+      "translation": "You'd better bring an umbrella just in case it rains."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "just_in_case-4638.png"
+}

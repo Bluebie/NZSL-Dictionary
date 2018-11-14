@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6437,
+  "gloss": {
+    "english": [
+      "number plate"
+    ],
+    "english_secondary": [
+      "license plate",
+      "vehicle registration plate"
+    ],
+    "maori": [
+      "papa nama",
+      "pereti raihana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "number_plate.6437.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "number_plate.6437.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3300,
+        3462,
+        6437,
+        2556,
+        3867
+      ],
+      "translation": "I wrote down my car's number plate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "number_plate-6437.png"
+}

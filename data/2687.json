@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2687,
+  "gloss": {
+    "english": [
+      "inexperienced"
+    ],
+    "english_secondary": [
+      "beginner",
+      "ignorant",
+      "learner",
+      "novice"
+    ],
+    "maori": [
+      "ihupuku"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "learner.2687.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "learner.2687.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4054,
+        1287,
+        3462,
+        2556,
+        2687,
+        908,
+        3046
+      ],
+      "translation": "When he started teaching me how to drive I was inexperienced, but now I've improved."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "inexperienced-2687.png"
+}

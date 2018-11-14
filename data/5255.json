@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5255,
+  "gloss": {
+    "english": [
+      "tangi (funeral)"
+    ],
+    "english_secondary": [
+      "cry"
+    ],
+    "maori": [
+      "tangihanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "tangi.5255.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tangi.5255.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3337,
+        483,
+        1636,
+        1388,
+        5255,
+        2583,
+        5619,
+        264
+      ],
+      "translation": "When my grandfather died, the family gathered for the tangi which lasted three days."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "tangi_funeral-5255.png"
+}

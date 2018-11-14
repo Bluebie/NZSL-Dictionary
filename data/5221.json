@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5221,
+  "gloss": {
+    "english": [
+      "shit"
+    ],
+    "english_secondary": [
+      "bugger",
+      "crap"
+    ],
+    "maori": [
+      "pokotiwha"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "shit.5221.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shit.5221.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2806,
+        2297,
+        2556,
+        "cl:take-oil-meter-out",
+        5221,
+        4374,
+        4801,
+        2556,
+        "cl:oil-pour-fill"
+      ],
+      "translation": "I took the dipstick out of the oil and shit, it was nearly empty. I filled it up with more oil."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shit-5221.png"
+}

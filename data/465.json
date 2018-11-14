@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 465,
+  "gloss": {
+    "english": [
+      "her / his / its / their"
+    ],
+    "english_secondary": [
+      "belong to",
+      "own"
+    ],
+    "maori": [
+      "tana"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "his_hers.465.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "his_hers.465.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        6000,
+        845,
+        465,
+        845,
+        4030,
+        2838
+      ],
+      "translation": "I went to her beach house. The house has a beautiful view."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "her_his_its_their-465.png"
+}

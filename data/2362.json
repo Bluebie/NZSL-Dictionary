@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2362,
+  "gloss": {
+    "english": [
+      "only"
+    ],
+    "english_secondary": [
+      "just",
+      "merely",
+      "unique"
+    ],
+    "maori": [
+      "anahe"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "only.2362.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "only.2362.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        585,
+        2579,
+        4656,
+        1298,
+        2362,
+        5617,
+        2583,
+        2623,
+        2583,
+        4214
+      ],
+      "translation": "There are only two deaf schools in New Zealand: one in Auckland and one in Christchurch."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "only-2362.png"
+}

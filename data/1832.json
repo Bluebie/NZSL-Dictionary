@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 1832,
+  "gloss": {
+    "english": [
+      "accompany",
+      "with"
+    ],
+    "english_secondary": [
+      "come with",
+      "go with",
+      "together"
+    ],
+    "maori": [
+      "haere tahi",
+      "me"
+    ],
+    "attributes": [
+      "adverb",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "accompany.1832.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accompany.1832.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5663,
+        264,
+        1298,
+        2556,
+        6190,
+        762,
+        4765,
+        1832
+      ],
+      "translation": "On my first day at school, I was nervous. My mum came with me."
+    },
+    {
+      "video": "accompany.1832.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3658,
+        797,
+        1832,
+        4656,
+        1635,
+        2297,
+        3080,
+        4316
+      ],
+      "translation": "She does good work with Deaf people. She is a volunteer and gets involved with lots of things."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "accompany-1832.png"
+}

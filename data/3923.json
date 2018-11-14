@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 3923,
+  "gloss": {
+    "english": [
+      "control"
+    ],
+    "english_secondary": [
+      "administrate",
+      "direct (film)",
+      "director",
+      "facilitate",
+      "manage",
+      "management",
+      "manipulate",
+      "run"
+    ],
+    "maori": [
+      "whakahaere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "control.3923.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "control.3923.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2095,
+        1635,
+        4584,
+        5941,
+        4581,
+        "control",
+        4171
+      ],
+      "translation": "People have criticised the Prime Minister for his poor control of spending."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "control-3923.png"
+}

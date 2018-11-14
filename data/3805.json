@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3805,
+  "gloss": {
+    "english": [
+      "audiometer"
+    ],
+    "english_secondary": [
+      "audiological",
+      "audiologist",
+      "audiology"
+    ],
+    "maori": [
+      "inerongo"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "audiology.3805.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "audiology.3805.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        1279,
+        2931,
+        1376,
+        2841,
+        3805,
+        564,
+        1050,
+        1867
+      ],
+      "translation": "Sumner school used to have an old audiometer. It is now in the school's museum."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "audiometer-3805.png"
+}

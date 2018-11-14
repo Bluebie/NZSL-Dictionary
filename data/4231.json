@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4231,
+  "gloss": {
+    "english": [
+      "milk",
+      "milking"
+    ],
+    "english_secondary": [
+      "dairy (food)"
+    ],
+    "maori": [
+      "miraka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "milk.4231.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "milk.4231.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        721,
+        3381,
+        4231,
+        3027,
+        3917
+      ],
+      "translation": "She wanted coffee with milk, no sugar."
+    },
+    {
+      "video": "milk.4231.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        5816,
+        3111,
+        5816,
+        5391,
+        3300,
+        3050,
+        4231
+      ],
+      "translation": "Every morning and every night,  my husband does the milking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "milk-4231.png"
+}

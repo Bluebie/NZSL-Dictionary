@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 4097,
+  "gloss": {
+    "english": [
+      "money",
+      "price"
+    ],
+    "english_secondary": [
+      "cash",
+      "cost",
+      "economy",
+      "finance",
+      "how much",
+      "treasurer"
+    ],
+    "maori": [
+      "moni",
+      "utu"
+    ],
+    "attributes": [
+      "interrogative",
+      "noun"
+    ]
+  },
+  "video": "economical.4097.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "economical.4097.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        2583,
+        5624,
+        4763,
+        3658,
+        4097,
+        1902
+      ],
+      "translation": "I worked there for eight months. The money was good."
+    },
+    {
+      "video": "economical.4097.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2382,
+        5760,
+        5953,
+        4097,
+        5413,
+        5607,
+        386,
+        5696,
+        5696,
+        4224
+      ],
+      "translation": "The TV is being sold at a special price, reduced to one hundred and ninety-nine dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "money-4097.png"
+}

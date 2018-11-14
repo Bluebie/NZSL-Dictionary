@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2480,
+  "gloss": {
+    "english": [
+      "difference",
+      "different"
+    ],
+    "english_secondary": [
+      "contrast"
+    ],
+    "maori": [
+      "rerekētanga",
+      "rerekē"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "different.2480.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "different.2480.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1584,
+        2297,
+        4656,
+        1298,
+        2953,
+        1545,
+        2480
+      ],
+      "translation": "I was mainstreamed and also went to a Deaf school. There's a big difference between the two."
+    },
+    {
+      "video": "different.2480.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4214,
+        702,
+        5499,
+        2583,
+        4656,
+        567,
+        2480
+      ],
+      "translation": "I'm from Christchurch and I moved to Dunedin. The Deaf community is really different there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "difference-2480.png"
+}

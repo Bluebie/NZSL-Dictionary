@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5879,
+  "gloss": {
+    "english": [
+      "DVD"
+    ],
+    "english_secondary": [
+      "digital versatile disc"
+    ],
+    "maori": [
+      "kōpae ataata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dvd.5879.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dvd.5879.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        2844,
+        5879,
+        2844
+      ],
+      "translation": "We all watched the DVD."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "DVD-5879.png"
+}

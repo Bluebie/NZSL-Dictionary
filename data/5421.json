@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 5421,
+  "gloss": {
+    "english": [
+      "deduct",
+      "subtract"
+    ],
+    "english_secondary": [
+      "deduction",
+      "subtraction",
+      "take away",
+      "take from",
+      "take out"
+    ],
+    "maori": [
+      "ka tango i",
+      "tango",
+      "tango(hia)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "deduct.5421.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deduct.5421.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1902,
+        1165,
+        1465,
+        1772,
+        4895,
+        5421
+      ],
+      "translation": "The government deducts tax from your weekly wages."
+    },
+    {
+      "video": "deduct.5421.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3889,
+        1426,
+        5621,
+        386,
+        4224,
+        5421,
+        5607,
+        386,
+        4224,
+        3850,
+        3400
+      ],
+      "translation": "The barbecue made a profit of five hundred dollars, but subtract one hundred dollars to pay for the sausages."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "deduct-5421.png"
+}

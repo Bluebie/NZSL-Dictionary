@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5652,
+  "gloss": {
+    "english": [
+      "thirteen"
+    ],
+    "english_secondary": [
+      "13"
+    ],
+    "maori": [
+      "tekau mā toru"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "thirteen.5652.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_13.5652.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1107,
+        4065,
+        2646,
+        2556,
+        797,
+        5652,
+        2480,
+        797
+      ],
+      "translation": "Over the past ten years I have had thirteen different jobs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "thirteen-5652.png"
+}

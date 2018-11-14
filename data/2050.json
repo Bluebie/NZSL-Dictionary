@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2050,
+  "gloss": {
+    "english": [
+      "think"
+    ],
+    "english_secondary": [
+      "reckon",
+      "thought"
+    ],
+    "maori": [
+      "tērā pea"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "think.2050.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "think.2050.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5536,
+        3639,
+        2050,
+        2556,
+        5643
+      ],
+      "translation": "I feel funny - I think I'm pregnant."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "think-2050.png"
+}

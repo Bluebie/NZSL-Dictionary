@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3230,
+  "gloss": {
+    "english": [
+      "realise",
+      "understand"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huatau",
+      "mōhio"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "recognise.3230.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "recognise.3230.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4689,
+        3230,
+        2556,
+        1185,
+        1640,
+        4261
+      ],
+      "translation": "My father realised I needed sign language to communicate."
+    },
+    {
+      "video": "recognise.3230.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        3707,
+        1832,
+        4656,
+        2215,
+        3230,
+        2266,
+        2190
+      ],
+      "translation": "When I play sports with deaf people, it's easier to understand what they're saying."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "realise-3230.png"
+}

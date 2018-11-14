@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 5171,
+  "gloss": {
+    "english": [
+      "closer than expected",
+      "sooner than expected"
+    ],
+    "english_secondary": [
+      "all of a sudden",
+      "time flies"
+    ],
+    "maori": [
+      "tata tonu"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "sooner_than_expected.5171.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sooner_than_expected.5171.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2050,
+        2729,
+        1464,
+        5171,
+        858
+      ],
+      "translation": "I thought it was far away but no, it was closer than I expected - just around the corner."
+    },
+    {
+      "video": "sooner_than_expected.5171.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        5784,
+        5171,
+        908,
+        5662,
+        5621,
+        2256
+      ],
+      "translation": "I looked at my watch and it was already five o'clock. Time had gone by much faster than I expected."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "closer_than_expected-5171.png"
+}

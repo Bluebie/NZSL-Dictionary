@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4852,
+  "gloss": {
+    "english": [
+      "theory"
+    ],
+    "english_secondary": [
+      "hypothesis",
+      "ideology",
+      "philosophy"
+    ],
+    "maori": [
+      "ariā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "theory.4852.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "theory.4852.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3130,
+        2021,
+        2297,
+        1637,
+        4852,
+        2543,
+        5582
+      ],
+      "translation": "The science teacher explained a theory about genetics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "theory-4852.png"
+}

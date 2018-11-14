@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2099,
+  "gloss": {
+    "english": [
+      "one year old"
+    ],
+    "english_secondary": [
+      "one-year-old",
+      "1 year old"
+    ],
+    "maori": [
+      "kotahi tau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "one_year_old.2099.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "one_year_old.2099.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        1231,
+        908,
+        2099
+      ],
+      "translation": "Her baby is now one year old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "one_year_old-2099.png"
+}

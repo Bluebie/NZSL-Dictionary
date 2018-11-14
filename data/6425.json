@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6425,
+  "gloss": {
+    "english": [
+      "lighthouse"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whare rama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lighthouse.6425.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lighthouse.6425.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6425,
+        2297,
+        1123,
+        859,
+        253,
+        423
+      ],
+      "translation": "The lighthouse helps ships to find their way in the dark."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "lighthouse-6425.png"
+}

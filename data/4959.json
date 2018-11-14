@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4959,
+  "gloss": {
+    "english": [
+      "disappointed"
+    ],
+    "english_secondary": [
+      "disappointment",
+      "feel let down",
+      "regret"
+    ],
+    "maori": [
+      "pōuri",
+      "rarua"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "disappointed.4959.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disappointed.4959.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        777,
+        797,
+        2491,
+        4959,
+        1220,
+        4264,
+        564
+      ],
+      "translation": "When I quit my job, my boss was disappointed, but he gave me a crate of beer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "disappointed-4959.png"
+}

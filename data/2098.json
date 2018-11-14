@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2098,
+  "gloss": {
+    "english": [
+      "nosy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ihu",
+      "haki nohi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "nosy.2098.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nosy.2098.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        2098,
+        2844,
+        2556,
+        1300
+      ],
+      "translation": "The boy was nosy. He was watching me sign."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "nosy-2098.png"
+}

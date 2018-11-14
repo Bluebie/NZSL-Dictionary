@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2754,
+  "gloss": {
+    "english": [
+      "a lot"
+    ],
+    "english_secondary": [
+      "a great many",
+      "a large number of",
+      "lots",
+      "many",
+      "numerous"
+    ],
+    "maori": [
+      "rahi",
+      "maha"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "many.2754.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "many.2754.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4657,
+        3638,
+        4696,
+        2754,
+        2095,
+        1388
+      ],
+      "translation": "A lot of people went to the Deaf Club last Friday night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "a_lot-2754.png"
+}

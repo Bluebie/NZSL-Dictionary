@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6301,
+  "gloss": {
+    "english": [
+      "top up"
+    ],
+    "english_secondary": [
+      "subsidy"
+    ],
+    "maori": [
+      "pūtea tāpiri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "top_up.6301.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "top_up.6301.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        5581,
+        4097,
+        4801,
+        1185,
+        6301
+      ],
+      "translation": "Her mobile phone ran out of money and needed topping up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "top_up-6301.png"
+}

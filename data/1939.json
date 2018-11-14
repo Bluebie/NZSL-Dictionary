@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1939,
+  "gloss": {
+    "english": [
+      "cancer"
+    ],
+    "english_secondary": [
+      "tumour"
+    ],
+    "maori": [
+      "puku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cancer.1939.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cancer.1939.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2846,
+        6246,
+        2646,
+        1107,
+        1050,
+        2297,
+        1959,
+        1939
+      ],
+      "translation": "He smoked for many years up to now. Now he's got cancer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "cancer-1939.png"
+}

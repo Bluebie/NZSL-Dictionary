@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 3823,
+  "gloss": {
+    "english": [
+      "media",
+      "reporter"
+    ],
+    "english_secondary": [
+      "interviewer",
+      "journalist",
+      "news",
+      "report"
+    ],
+    "maori": [
+      "ao pāpāho",
+      "kairīpoata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "reporter.3823.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "reporter.3823.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2504,
+        6037,
+        972,
+        3823,
+        1388,
+        3867
+      ],
+      "translation": "The president of China gave a speech. The media attended and furiously wrote notes."
+    },
+    {
+      "video": "reporter.3823.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3823,
+        2297,
+        3009,
+        1553,
+        6010,
+        3865,
+        1038,
+        2297,
+        3943
+      ],
+      "translation": "The reporter asked me a lot of questions for a story he was writing for the newspaper."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "media-3823.png"
+}

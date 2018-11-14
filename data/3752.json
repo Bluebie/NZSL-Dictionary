@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3752,
+  "gloss": {
+    "english": [
+      "regular"
+    ],
+    "english_secondary": [
+      "every",
+      "regularly",
+      "reliable",
+      "routine"
+    ],
+    "maori": [
+      "rite tonu",
+      "auau"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "regular.3752.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "regular.3752.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5816,
+        4696,
+        5391,
+        2297,
+        2410,
+        4657,
+        3752
+      ],
+      "translation": "He goes to the Deaf club regularly, every Friday evening."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "regular-3752.png"
+}

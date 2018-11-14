@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5341,
+  "gloss": {
+    "english": [
+      "back-up"
+    ],
+    "english_secondary": [
+      "backup",
+      "in case",
+      "in reserve"
+    ],
+    "maori": [
+      "mahi kē",
+      "kaupapa kē"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "back_up.5341.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "back_up.5341.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3642,
+        1775,
+        1376,
+        4785,
+        5341,
+        5264,
+        903,
+        5389,
+        1926
+      ],
+      "translation": "If it rains, we have a back-up activity ready for the children to play."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "back_up-5341.png"
+}

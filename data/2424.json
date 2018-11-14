@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2424,
+  "gloss": {
+    "english": [
+      "only me"
+    ],
+    "english_secondary": [
+      "just me",
+      "the only one"
+    ],
+    "maori": [
+      "au anake",
+      "ahau anake",
+      "ko tōku kotahi"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "only_me.2424.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "only_me.2424.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        5624,
+        3513,
+        2111,
+        2424,
+        4656
+      ],
+      "translation": "I have eight siblings and I'm the only one who's deaf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "only_me-2424.png"
+}

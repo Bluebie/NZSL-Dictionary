@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 982,
+  "gloss": {
+    "english": [
+      "hangover"
+    ],
+    "english_secondary": [
+      "hungover"
+    ],
+    "maori": [
+      "ahua haurangi tonu",
+      "aniroro"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "hangover.982.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hangover.982.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        768,
+        5391,
+        2556,
+        4264,
+        1553,
+        6017,
+        908,
+        2556,
+        982
+      ],
+      "translation": "I drank lots of wine last night. I have a hangover now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "hangover-982.png"
+}

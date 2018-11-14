@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2750,
+  "gloss": {
+    "english": [
+      "light bulb"
+    ],
+    "english_secondary": [
+      "bulb"
+    ],
+    "maori": [
+      "pūrama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lamp.2750.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lamp.2750.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        385,
+        2582,
+        5446,
+        5632,
+        2750
+      ],
+      "translation": "Please go to the supermarket and buy a light bulb."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "light_bulb-2750.png"
+}

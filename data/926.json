@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 926,
+  "gloss": {
+    "english": [
+      "primary (school)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kura tuatahi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "primary_school.926.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "primary_school.926.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        926,
+        1298,
+        2314,
+        549,
+        1926,
+        3226
+      ],
+      "translation": "In primary school, we used to love playing softball."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "primary_school-926.png"
+}

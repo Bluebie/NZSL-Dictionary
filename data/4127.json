@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 4127,
+  "gloss": {
+    "english": [
+      "fingerspell",
+      "spell"
+    ],
+    "english_secondary": [
+      "fingerspelling",
+      "spelling"
+    ],
+    "maori": [
+      "tuhinga mati"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fingerspell.4127.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fingerspell.4127.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1715,
+        1553,
+        4656,
+        5426,
+        585,
+        3027,
+        4127
+      ],
+      "translation": "In the past, many Deaf people in New Zealand did not fingerspell."
+    },
+    {
+      "video": "fingerspell.4127.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1319,
+        1287,
+        4127,
+        2583,
+        1467
+      ],
+      "translation": "I've forgotten how to spell Whangarei."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fingerspell-4127.png"
+}

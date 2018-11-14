@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2534,
+  "gloss": {
+    "english": [
+      "slow"
+    ],
+    "english_secondary": [
+      "slowly"
+    ],
+    "maori": [
+      "pōturi",
+      "āta haere"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "slow.2534.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "slow.2534.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4347,
+        5637,
+        2534,
+        2556,
+        1238
+      ],
+      "translation": "He woke up and was doing things slowly. I told him to hurry up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "slow-2534.png"
+}

@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 5410,
+  "gloss": {
+    "english": [
+      "criticise"
+    ],
+    "english_secondary": [
+      "critical",
+      "criticism",
+      "incorrect",
+      "wrong"
+    ],
+    "maori": [
+      "whakahē",
+      "whakapae"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "criticise.5410.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "criticise.5410.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        744,
+        2297,
+        1747,
+        5410,
+        2556,
+        4532,
+        "say",
+        2556,
+        1926,
+        4581
+      ],
+      "translation": "The coach always criticised and picked on me. He said my playing was awful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "criticise-5410.png"
+}

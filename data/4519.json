@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4519,
+  "gloss": {
+    "english": [
+      "pulse"
+    ],
+    "english_secondary": [
+      "heart rate"
+    ],
+    "maori": [
+      "kakapa manawa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pulse.4519.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pulse.4519.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4423,
+        2297,
+        5865,
+        2556,
+        4519
+      ],
+      "translation": "The nurse checked my pulse."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.4.1-48f9499a529da5529d574b33200431244f94d7a55a321ffe265e71dfca4b987a.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "pulse-4519.png"
+}

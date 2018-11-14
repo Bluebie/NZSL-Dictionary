@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 896,
+  "gloss": {
+    "english": [
+      "run over"
+    ],
+    "english_secondary": [
+      "over"
+    ],
+    "maori": [
+      "wīrahia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "run_over.896.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "run_over.896.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3430,
+        1837,
+        "cl:walk-across",
+        2556,
+        896,
+        4321
+      ],
+      "translation": "I was driving along when a possum suddenly walked across the road. I accidentally ran over it and squashed it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "run_over-896.png"
+}

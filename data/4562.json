@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4562,
+  "gloss": {
+    "english": [
+      "jealous"
+    ],
+    "english_secondary": [
+      "envy",
+      "envious"
+    ],
+    "maori": [
+      "hae",
+      "pūhaehae",
+      "harawene"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "jealous.4562.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jealous.4562.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        3775,
+        5632,
+        1095,
+        3462,
+        3300,
+        4689,
+        4562
+      ],
+      "translation": "My father was jealous when the man next door bought a new car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "jealous-4562.png"
+}

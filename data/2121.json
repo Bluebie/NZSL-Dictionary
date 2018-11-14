@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2121,
+  "gloss": {
+    "english": [
+      "Deaf"
+    ],
+    "english_secondary": [
+      "deaf",
+      "deaf person",
+      "deafness"
+    ],
+    "maori": [
+      "turi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "deaf.2121.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf.2121.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1338,
+        2556,
+        3653,
+        1306,
+        2556,
+        5340,
+        5284
+      ],
+      "translation": "When I finished school, I joined the Deaf community."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf-2121.png"
+}

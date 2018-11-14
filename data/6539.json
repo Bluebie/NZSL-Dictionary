@@ -1,0 +1,38 @@
+{
+  "nzsl_id": 6539,
+  "gloss": {
+    "english": [
+      "your turn"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kei a koe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "your_turn.6539.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "your_turn.6539.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        6539
+      ],
+      "translation": "I'm finished. It's your turn."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "your_turn-6539.png"
+}

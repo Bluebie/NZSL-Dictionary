@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5937,
+  "gloss": {
+    "english": [
+      "polytechnic"
+    ],
+    "english_secondary": [
+      "polytech"
+    ],
+    "maori": [
+      "kuratini"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "polytechnic.5937.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "polytechnic.5937.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        5937,
+        563,
+        1451,
+        6276
+      ],
+      "translation": "I'm not sure about going to polytech, but I might apply."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "polytechnic-5937.png"
+}

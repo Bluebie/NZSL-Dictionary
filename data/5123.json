@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5123,
+  "gloss": {
+    "english": [
+      "follow me"
+    ],
+    "english_secondary": [
+      "copycat",
+      "hang around me"
+    ],
+    "maori": [
+      "whai mai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "follow_me.5123.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "follow_me.5123.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        3016,
+        2321,
+        307,
+        423,
+        5123
+      ],
+      "translation": "If you don't know the way to the cafe, follow me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "follow_me-5123.png"
+}

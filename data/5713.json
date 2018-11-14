@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5713,
+  "gloss": {
+    "english": [
+      "eighty"
+    ],
+    "english_secondary": [
+      "80"
+    ],
+    "maori": [
+      "waru tekau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "eighty.5713.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eighty.5713.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3898,
+        1185,
+        813,
+        5713,
+        2979,
+        886
+      ],
+      "translation": "You need to get over eighty percent to pass the test."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.1-4659a8221bc373f3a219e889e3d3f7d3c1793a40a99660625ccdfc9b9b230f2d.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eighty-5713.png"
+}

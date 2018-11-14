@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 5905,
+  "gloss": {
+    "english": [
+      "hook up"
+    ],
+    "english_secondary": [
+      "get together (couple)",
+      "pick up"
+    ],
+    "maori": [
+      "tūtaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_together.5905.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_together.5905.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2131,
+        2556,
+        5905,
+        1287,
+        669,
+        2720,
+        4656,
+        3707
+      ],
+      "translation": "I hooked up with my girlfriend at the Labour Weekend Deaf sports event."
+    },
+    {
+      "video": "get_together.5905.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        3636,
+        2583,
+        5471,
+        2297,
+        5905,
+        1522,
+        5607,
+        5391
+      ],
+      "translation": "Yesterday he picked up a woman at the pub and had a one-night stand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hook_up-5905.png"
+}

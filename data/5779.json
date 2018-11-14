@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5779,
+  "gloss": {
+    "english": [
+      "mood"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "piropiro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mood.5779.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mood.5779.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3636,
+        2297,
+        1717,
+        908,
+        3658,
+        5779,
+        2297
+      ],
+      "translation": "Yesterday she was grumpy. Now she's in a good mood."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "mood-5779.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5436,
+  "gloss": {
+    "english": [
+      "heterosexual"
+    ],
+    "english_secondary": [
+      "straight"
+    ],
+    "maori": [
+      "tāne moe wahine",
+      "wahine moe tāne"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "heterosexual.5436.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heterosexual.5436.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        967,
+        2556,
+        2050,
+        2297,
+        5436,
+        647,
+        2297,
+        4781
+      ],
+      "translation": "I used to think he was heterosexual but really, he's gay."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "heterosexual-5436.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5355,
+  "gloss": {
+    "english": [
+      "hard drive"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "puku rorohiko"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "hard_drive.5355.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hard_drive.5355.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5355,
+        2297,
+        1376,
+        1475,
+        4809,
+        4799
+      ],
+      "translation": "The hard drive has files on it that have not yet been deleted."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "hard_drive-5355.png"
+}

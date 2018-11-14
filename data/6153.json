@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6153,
+  "gloss": {
+    "english": [
+      "Steinlager (beer)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      ""
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "steinlager.6153.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "steinlager.6153.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5728,
+        2556,
+        3663,
+        6153,
+        4264
+      ],
+      "translation": "I was thirsty. I was keen for a Steinlager to drink."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Steinlager_beer-6153.png"
+}

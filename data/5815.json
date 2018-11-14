@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5815,
+  "gloss": {
+    "english": [
+      "sign"
+    ],
+    "english_secondary": [
+      "autograph",
+      "signature"
+    ],
+    "maori": [
+      "waitohu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "signature.5815.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "signature.5815.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5388,
+        4097,
+        2556,
+        2297,
+        4472,
+        5815,
+        3974
+      ],
+      "translation": "He owed me money. He signed a cheque  and gave it to me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sign-5815.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1319,
+  "gloss": {
+    "english": [
+      "forget"
+    ],
+    "english_secondary": [
+      "can't remember",
+      "can't think",
+      "don't know",
+      "draw a blank"
+    ],
+    "maori": [
+      "wareware"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "can_t_think.1319.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "can_t_think.1319.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2404,
+        1522,
+        2297,
+        2173,
+        2556,
+        1319
+      ],
+      "translation": "I've forgotten the other woman's name."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "forget-1319.png"
+}

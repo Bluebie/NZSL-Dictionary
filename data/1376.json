@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 1376,
+  "gloss": {
+    "english": [
+      "have"
+    ],
+    "english_secondary": [
+      "possess"
+    ],
+    "maori": [
+      "ā",
+      "ō",
+      "wā",
+      "wō"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "have.1376.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "have.1376.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        5617,
+        5389,
+        5607,
+        2135,
+        2099,
+        5617,
+        5623,
+        5607,
+        2184,
+        2099,
+        5617,
+        5621
+      ],
+      "translation": "They have two children: a girl who is  twenty-seven years old and a boy who's twenty-five."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "have-1376.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1719,
+  "gloss": {
+    "english": [
+      "starfish"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pātangaroa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "starfish.1719.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "starfish.1719.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2894,
+        2844,
+        3721,
+        1719
+      ],
+      "translation": "I dived and could see plenty of starfish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.3-d2f6b4479b54d7e81441bd18f1532dc859f2f0f50f55527a50c624428f5b2434.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "starfish-1719.png"
+}

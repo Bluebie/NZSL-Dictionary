@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2538,
+  "gloss": {
+    "english": [
+      "roundabout (traffic)"
+    ],
+    "english_secondary": [
+      "merry-go-round"
+    ],
+    "maori": [
+      "takaāwhio"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "roundabout.2538.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "roundabout.2538.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        3618,
+        2538,
+        2321,
+        858,
+        2583,
+        771,
+        2583
+      ],
+      "translation": "You know that roundabout? You turn left there and that's where the bakery is."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "roundabout_traffic-2538.png"
+}

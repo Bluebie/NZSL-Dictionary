@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5597,
+  "gloss": {
+    "english": [
+      "carbon dioxide"
+    ],
+    "english_secondary": [
+      "CO2"
+    ],
+    "maori": [
+      "hauhā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "carbon_dioxide.5597.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "carbon_dioxide.5597.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4134,
+        1299,
+        5509,
+        2723,
+        2287,
+        "cl:absorb",
+        5597
+      ],
+      "translation": "It's important to plant trees because they absorb carbon dioxide."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "carbon_dioxide-5597.png"
+}

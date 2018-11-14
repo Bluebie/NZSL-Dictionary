@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6368,
+  "gloss": {
+    "english": [
+      "backpack"
+    ],
+    "english_secondary": [
+      "pack",
+      "rucksack"
+    ],
+    "maori": [
+      "pīkau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "backpack.6368.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "backpack.6368.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6368,
+        4160,
+        4785,
+        924,
+        1298
+      ],
+      "translation": "I put things into my backpack ready for school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "backpack-6368.png"
+}

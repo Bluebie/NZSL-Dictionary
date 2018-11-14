@@ -1,0 +1,80 @@
+{
+  "nzsl_id": 872,
+  "gloss": {
+    "english": [
+      "gift",
+      "prize",
+      "wrap"
+    ],
+    "english_secondary": [
+      "fold",
+      "parcel",
+      "present"
+    ],
+    "maori": [
+      "koha",
+      "perehana"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "prize.872.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "prize.872.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2491,
+        2297,
+        332,
+        2556,
+        1239,
+        797,
+        1220,
+        872,
+        2297,
+        3044,
+        367
+      ],
+      "translation": "My boss was sad to see me leave my job and gave me a lovely watch as a gift."
+    },
+    {
+      "video": "prize.872.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2701,
+        2556,
+        872,
+        2556,
+        3848,
+        2266,
+        3013,
+        4573,
+        5944,
+        5621,
+        5391
+      ],
+      "translation": "I was lucky and got the prize. I won a free flight to Queenstown for five nights."
+    },
+    {
+      "video": "prize.872.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        564,
+        2556,
+        872,
+        4785,
+        5429
+      ],
+      "translation": "I wrapped a box to get ready for Christmas."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "gift-872.png"
+}

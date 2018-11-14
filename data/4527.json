@@ -1,0 +1,81 @@
+{
+  "nzsl_id": 4527,
+  "gloss": {
+    "english": [
+      "brief",
+      "few",
+      "little"
+    ],
+    "english_secondary": [
+      "a few",
+      "a bit",
+      "minor",
+      "piece",
+      "short",
+      "small",
+      "tiny"
+    ],
+    "maori": [
+      "poto",
+      "torutoru",
+      "paku"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "a_little.4527.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "a_little.4527.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1300,
+        4527,
+        2556,
+        1885,
+        924,
+        2812,
+        5389
+      ],
+      "translation": "I'll chat briefly, because I have to go and pick up the kids."
+    },
+    {
+      "video": "a_little.4527.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        648,
+        4249,
+        2556,
+        2825,
+        "few",
+        2095,
+        2362,
+        5621
+      ],
+      "translation": "I came into the classroom and looked around. There were few people there, only five."
+    },
+    {
+      "video": "a_little.4527.finalexample3.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        233,
+        4656,
+        2556,
+        2123,
+        4527
+      ],
+      "translation": "I was born Deaf. I can hear a little bit."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "brief-4527.png"
+}

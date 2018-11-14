@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 752,
+  "gloss": {
+    "english": [
+      "dolphin"
+    ],
+    "english_secondary": [
+      "porpoise"
+    ],
+    "maori": [
+      "aihe"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dolphin.752.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dolphin.752.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        859,
+        5389,
+        1864,
+        2844,
+        3721,
+        752,
+        3161,
+        1864
+      ],
+      "translation": "The children were really excited to be on a boat and to see lots of dolphins and whales."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dolphin-752.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4729,
+  "gloss": {
+    "english": [
+      "rest"
+    ],
+    "english_secondary": [
+      "relax",
+      "relaxation"
+    ],
+    "maori": [
+      "whakangā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rest.4729.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rest.4729.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4616,
+        2812,
+        4731,
+        856,
+        4729
+      ],
+      "translation": "After my uncle was picked up from the airport, he went home to rest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rest-4729.png"
+}

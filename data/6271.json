@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6271,
+  "gloss": {
+    "english": [
+      "dress"
+    ],
+    "english_secondary": [
+      "costume",
+      "wear"
+    ],
+    "maori": [
+      "kaka",
+      "kākahu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dress.6271.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dress.6271.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        291,
+        3638,
+        3355,
+        3370,
+        6271,
+        4030,
+        1565
+      ],
+      "translation": "At the wedding last Saturday, the bride's dress was beautiful."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "dress-6271.png"
+}

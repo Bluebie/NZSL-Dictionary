@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 6027,
+  "gloss": {
+    "english": [
+      "go wrong"
+    ],
+    "english_secondary": [
+      "by mistake",
+      "mishap",
+      "mistake",
+      "mistaken"
+    ],
+    "maori": [
+      "hē",
+      "hapa"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "go_wrong.6027.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_wrong.6027.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2897,
+        "cl:player",
+        2556,
+        5417,
+        1926,
+        6027,
+        4799,
+        353
+      ],
+      "translation": "I pressed play on the video player but something went wrong and the tape got wiped. Oops!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "go_wrong-6027.png"
+}

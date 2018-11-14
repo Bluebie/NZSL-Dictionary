@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5270,
+  "gloss": {
+    "english": [
+      "audiology"
+    ],
+    "english_secondary": [
+      "audiological",
+      "audiologist"
+    ],
+    "maori": [
+      "inerongo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "audiology.5270.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "audiology.5270.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4765,
+        1767,
+        2410,
+        2914,
+        5270,
+        3898
+      ],
+      "translation": "My mother took me to the hospital for an audiology test."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "audiology-5270.png"
+}

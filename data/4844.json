@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4844,
+  "gloss": {
+    "english": [
+      "executive"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaiwhakahaere"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "executive.4844.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "executive.4844.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3885,
+        707,
+        2556,
+        2410,
+        4738,
+        4844,
+        2607
+      ],
+      "translation": "The weekend I'm going to Wellington for the executive's meeting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "executive-4844.png"
+}

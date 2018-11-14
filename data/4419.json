@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4419,
+  "gloss": {
+    "english": [
+      "judge"
+    ],
+    "english_secondary": [
+      "justice",
+      "magistrate"
+    ],
+    "maori": [
+      "kaiwhakawā",
+      "tiati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "judge.4419.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "judge.4419.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        4419,
+        908,
+        4133,
+        2297
+      ],
+      "translation": "Previously, he was a judge. Now he's retired."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "judge-4419.png"
+}

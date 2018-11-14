@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 528,
+  "gloss": {
+    "english": [
+      "breastfeed"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whāngote"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "breastfeed.528.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breastfeed.528.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5736,
+        528,
+        3684,
+        3658,
+        1603,
+        6168,
+        4267
+      ],
+      "translation": "She says breastfeeding is healthier than bottle-feeding."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "breastfeed-528.png"
+}

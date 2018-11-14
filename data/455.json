@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 455,
+  "gloss": {
+    "english": [
+      "smooth"
+    ],
+    "english_secondary": [
+      "calm",
+      "consistent",
+      "normal",
+      "peaceful",
+      "smoothly",
+      "stable"
+    ],
+    "maori": [
+      "hāro",
+      "marino"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "smooth.455.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "smooth.455.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1552,
+        455,
+        3027,
+        461
+      ],
+      "translation": "The sea is smooth because there is no wind."
+    },
+    {
+      "video": "smooth.455.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        4668,
+        2569,
+        455
+      ],
+      "translation": "I work normal and consistent hours."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "smooth-455.png"
+}

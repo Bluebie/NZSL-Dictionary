@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 1935,
+  "gloss": {
+    "english": [
+      "machine",
+      "technology"
+    ],
+    "english_secondary": [
+      "machinery",
+      "equipment"
+    ],
+    "maori": [
+      "mīhini",
+      "hangarau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "machine.1935.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "machine.1935.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1935,
+        2297,
+        1243,
+        2491,
+        2178,
+        1095
+      ],
+      "translation": "The machine fell apart. The boss ordered a new one."
+    },
+    {
+      "video": "machine.1935.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2589,
+        1935,
+        3684,
+        6168,
+        5708,
+        2646,
+        1279
+      ],
+      "translation": "Today, technology is better than fifty years ago."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "machine-1935.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4166,
+  "gloss": {
+    "english": [
+      "diarrhoea"
+    ],
+    "english_secondary": [
+      "the runs",
+      "the trots"
+    ],
+    "maori": [
+      "mate tikotiko",
+      "mate korere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "diarrhoea.4166.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "diarrhoea.4166.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4022,
+        5536,
+        1964,
+        5536,
+        4591,
+        2410,
+        5467,
+        4166
+      ],
+      "translation": "After eating something, I felt nauseous and awful. I went to the toilet with a bout of diarrhoea."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "diarrhoea-4166.png"
+}

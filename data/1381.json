@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1381,
+  "gloss": {
+    "english": [
+      "pressure"
+    ],
+    "english_secondary": [
+      "coerce",
+      "compel",
+      "make",
+      "pressurise",
+      "put pressure on"
+    ],
+    "maori": [
+      "aupēhi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "pressure.1381.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pressure.1381.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2780,
+        2297,
+        1585,
+        853,
+        1381,
+        2556,
+        5137,
+        777,
+        2404,
+        797
+      ],
+      "translation": "My boss kept urging me and pushing me. He put pressure on me. I had enough so I left to look for another job."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "pressure-1381.png"
+}

@@ -1,0 +1,77 @@
+{
+  "nzsl_id": 1840,
+  "gloss": {
+    "english": [
+      "clothes",
+      "get dressed",
+      "wear"
+    ],
+    "english_secondary": [
+      "clothing",
+      "dress",
+      "frock",
+      "garment",
+      "nightie",
+      "put on",
+      "pyjamas",
+      "uniform"
+    ],
+    "maori": [
+      "kākahu",
+      "pūeru",
+      "mau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dress.1840.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dress.1840.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2536,
+        1840,
+        3677,
+        911,
+        4093
+      ],
+      "translation": "When the clothes had been in the dryer, I folded them and put them away."
+    },
+    {
+      "video": "dress.1840.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1840,
+        4785,
+        924,
+        3460
+      ],
+      "translation": "I got dressed and ready to go to the restaurant."
+    },
+    {
+      "video": "dress.1840.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        2135,
+        1840,
+        346,
+        906,
+        3020,
+        723
+      ],
+      "translation": "School girls wore a grey skirt and white shirt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "clothes-1840.png"
+}

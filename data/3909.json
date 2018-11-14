@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3909,
+  "gloss": {
+    "english": [
+      "measure"
+    ],
+    "english_secondary": [
+      "measurement",
+      "tape measure"
+    ],
+    "maori": [
+      "ine(a)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "measure.3909.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "measure.3909.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        6014,
+        2556,
+        3909,
+        903,
+        1095,
+        825
+      ],
+      "translation": "I measured the room for new carpet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "measure-3909.png"
+}

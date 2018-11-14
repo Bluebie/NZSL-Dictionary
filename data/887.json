@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 887,
+  "gloss": {
+    "english": [
+      "Deaf"
+    ],
+    "english_secondary": [
+      "culturally Deaf",
+      "profoundly deaf",
+      "totally deaf"
+    ],
+    "maori": [
+      "turi"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "full_deaf.887.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "full_deaf.887.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        887,
+        4316,
+        5284,
+        1300
+      ],
+      "translation": "She is culturally Deaf. She's very involved in the Deaf community and is a fluent signer."
+    },
+    {
+      "video": "full_deaf.887.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5741,
+        1644,
+        5607,
+        1465,
+        5741,
+        4277,
+        887
+      ],
+      "translation": "I had an ear infection, and in one week, my hearing worsened and I was totally deaf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "deaf-887.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5328,
+  "gloss": {
+    "english": [
+      "syntax"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āpiti kupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "syntax.5328.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "syntax.5328.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3261,
+        2297,
+        5328,
+        2480,
+        4130,
+        2456,
+        1376,
+        3276,
+        4421,
+        3693
+      ],
+      "translation": "NZSL syntax is different from English. It has its own word order."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "syntax-5328.png"
+}

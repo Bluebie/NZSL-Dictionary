@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5871,
+  "gloss": {
+    "english": [
+      "cute"
+    ],
+    "english_secondary": [
+      "lovely",
+      "sweet"
+    ],
+    "maori": [
+      "pai"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "cute.5871.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cute.5871.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4054,
+        5389,
+        2287,
+        5871
+      ],
+      "translation": "The children she teaches are cute."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "cute-5871.png"
+}

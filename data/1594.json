@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1594,
+  "gloss": {
+    "english": [
+      "asthma"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mate huangō"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "asthma.1594.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "asthma.1594.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1338,
+        2556,
+        3235,
+        2256,
+        2556,
+        2215,
+        1594
+      ],
+      "translation": "When I run fast I get an asthma attack easily."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "asthma-1594.png"
+}

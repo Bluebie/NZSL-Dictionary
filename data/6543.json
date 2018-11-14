@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6543,
+  "gloss": {
+    "english": [
+      "pirate"
+    ],
+    "english_secondary": [
+      "eye patch"
+    ],
+    "maori": [
+      "kaitiora"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pirate.6543.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pirate.6543.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4546,
+        2556,
+        6271,
+        6543,
+        2556
+      ],
+      "translation": "I dressed up as a pirate for the party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "pirate-6543.png"
+}

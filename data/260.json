@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 260,
+  "gloss": {
+    "english": [
+      "front"
+    ],
+    "english_secondary": [
+      "at the front",
+      "face to face",
+      "facing"
+    ],
+    "maori": [
+      "mua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "front.260.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "front.260.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        959,
+        1747,
+        2556,
+        5964,
+        260,
+        4249
+      ],
+      "translation": "When I was growing up I always sat at the front of the class."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "front-260.png"
+}

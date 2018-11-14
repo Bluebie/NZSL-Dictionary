@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2235,
+  "gloss": {
+    "english": [
+      "deadline"
+    ],
+    "english_secondary": [
+      "time limit"
+    ],
+    "maori": [
+      "rā kati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "deadline.2235.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deadline.2235.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4809,
+        3863,
+        "fs:bill",
+        3518,
+        1769,
+        5706,
+        2494,
+        2235
+      ],
+      "translation": "I haven't paid the bill yet. I'm holding off until the November 30th deadline."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "deadline-2235.png"
+}

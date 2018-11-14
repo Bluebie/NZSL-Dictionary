@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 2917,
+  "gloss": {
+    "english": [
+      "nephew / niece",
+      "son"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "irāmutu",
+      "tama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "son.2917.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "son.2917.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        3721,
+        2917,
+        1463,
+        5706
+      ],
+      "translation": "She has lots of nephews, about thirty of them."
+    },
+    {
+      "video": "son.2917.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2917,
+        2297,
+        1071,
+        721,
+        1095,
+        5654,
+        5642
+      ],
+      "translation": "My son kept telling me that he wanted a new Playstation game."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nephew_niece-2917.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5604,
+  "gloss": {
+    "english": [
+      "gender"
+    ],
+    "english_secondary": [
+      "sex"
+    ],
+    "maori": [
+      "ira tangata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gender.5604.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gender.5604.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5356,
+        3614,
+        5468,
+        5736,
+        2780,
+        2096,
+        6225,
+        5415,
+        5604
+      ],
+      "translation": "Human rights law states that bosses cannot discriminate on the basis of gender."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "gender-5604.png"
+}

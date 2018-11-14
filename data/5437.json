@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 5437,
+  "gloss": {
+    "english": [
+      "kick",
+      "football"
+    ],
+    "english_secondary": [
+      "goal"
+    ],
+    "maori": [
+      "whana",
+      "whutupōro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "kick.5437.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kick.5437.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2690,
+        5437,
+        246,
+        "cl:hole"
+      ],
+      "translation": "He lost his temper and kicked a hole in the wall."
+    },
+    {
+      "video": "kick.5437.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3009,
+        2410,
+        845,
+        5437,
+        3700
+      ],
+      "translation": "He asked me to go to his house for football practice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "kick-5437.png"
+}

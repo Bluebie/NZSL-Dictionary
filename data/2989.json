@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 2989,
+  "gloss": {
+    "english": [
+      "know nothing",
+      "unaware"
+    ],
+    "english_secondary": [
+      "don't know anything",
+      "ignorant",
+      "not know about"
+    ],
+    "maori": [
+      "kūare",
+      "kūware"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "ignorant.2989.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ignorant.2989.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2989,
+        3130,
+        3027,
+        1637,
+        4054,
+        3027
+      ],
+      "translation": "I know nothing about science. It wasn't explained or taught to me at all."
+    },
+    {
+      "video": "ignorant.2989.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5389,
+        2287,
+        2037,
+        3206,
+        4765,
+        4656,
+        2297,
+        2989,
+        868
+      ],
+      "translation": "The children were noisy, screaming and screaming. The mother was deaf so she was unaware and just carried on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "know_nothing-2989.png"
+}

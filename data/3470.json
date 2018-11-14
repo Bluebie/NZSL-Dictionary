@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3470,
+  "gloss": {
+    "english": [
+      "casino",
+      "gamble"
+    ],
+    "english_secondary": [
+      "gambling",
+      "throw dice"
+    ],
+    "maori": [
+      "whare petipeti",
+      "peti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "gamble.3470.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gamble.3470.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5944,
+        3470,
+        2583,
+        2556,
+        2244,
+        5617,
+        4056,
+        4056,
+        4224
+      ],
+      "translation": "At the Queenstown casino, I made a loss of two hundred dollars."
+    },
+    {
+      "video": "gamble.3470.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5625,
+        3470,
+        1747,
+        1926,
+        6132
+      ],
+      "translation": "She's a gambling addict - she's always playing on the poker machines."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "casino-3470.png"
+}

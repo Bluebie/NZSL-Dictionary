@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 4996,
+  "gloss": {
+    "english": [
+      "what",
+      "where",
+      "why"
+    ],
+    "english_secondary": [
+      "what are you doing?",
+      "what for?",
+      "what happened?",
+      "what is it?"
+    ],
+    "maori": [
+      "he aha",
+      "kei hea",
+      "he aha ai"
+    ],
+    "attributes": [
+      "interrogative"
+    ]
+  },
+  "video": "wh_q_old.4996.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wh_q_old.4996.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        2321,
+        2173,
+        4996
+      ],
+      "translation": "What's your name?"
+    },
+    {
+      "video": "wh_q_old.4996.finalexample2.sh.r480x360.mp4",
+      "signs": [
+        2297,
+        702,
+        845,
+        4996
+      ],
+      "translation": "Where is she moving house to?"
+    },
+    {
+      "video": "wh_q_old.4996.finalexample3.sh.r480x360.mp4",
+      "signs": [
+        2321,
+        2261,
+        5095,
+        4996
+      ],
+      "translation": "Why did you miss the meeting?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "what-4996.png"
+}

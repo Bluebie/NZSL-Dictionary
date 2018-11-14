@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2133,
+  "gloss": {
+    "english": [
+      "find out"
+    ],
+    "english_secondary": [
+      "ascertain",
+      "detect",
+      "discover"
+    ],
+    "maori": [
+      "ka mōhio"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "find_out.2133.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "find_out.2133.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        2133,
+        2297,
+        5643,
+        5623,
+        1465
+      ],
+      "translation": "She found out she was seven weeks pregnant."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "find_out-2133.png"
+}

@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 1678,
+  "gloss": {
+    "english": [
+      "piupiu"
+    ],
+    "english_secondary": [
+      "flax skirt"
+    ],
+    "maori": [
+      "piupiu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "piupiu.1678.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "piupiu.1678.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3204,
+        3375,
+        1678,
+        4030
+      ],
+      "translation": "Māori people make beautiful piupiu."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "piupiu-1678.png"
+}

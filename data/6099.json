@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 6099,
+  "gloss": {
+    "english": [
+      "goosebumps",
+      "strongly dislike"
+    ],
+    "english_secondary": [
+      "be chilled",
+      "disgusted",
+      "give someone the creeps",
+      "make someone's blood run cold"
+    ],
+    "maori": [
+      "hīnawanawa",
+      "kiripiro",
+      "matakawa"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "goosebumps.6099.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "goosebumps.6099.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        1637,
+        1682,
+        1038,
+        2556,
+        6099,
+        2532
+      ],
+      "translation": "He was telling me a ghost story. I got goosebumps, I was so scared!"
+    },
+    {
+      "video": "goosebumps.6099.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        4446,
+        6099,
+        4908,
+        2297
+      ],
+      "translation": "That man gives me the creeps. I don't like him at all."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "goosebumps-6099.png"
+}

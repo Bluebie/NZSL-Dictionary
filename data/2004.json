@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2004,
+  "gloss": {
+    "english": [
+      "dizzy"
+    ],
+    "english_secondary": [
+      "giddy",
+      "head spinning",
+      "vertigo"
+    ],
+    "maori": [
+      "āmai",
+      "ānini",
+      "takaānini"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "dizzy.2004.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dizzy.2004.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2004,
+        1220,
+        3277,
+        4349,
+        2004,
+        1498
+      ],
+      "translation": "I was feeling dizzy so he gave me a strong pill and the dizziness disappeared."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "dizzy-2004.png"
+}

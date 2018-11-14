@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1503,
+  "gloss": {
+    "english": [
+      "solve"
+    ],
+    "english_secondary": [
+      "resolve"
+    ],
+    "maori": [
+      "whakatau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "solve.1503.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "solve.1503.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4096,
+        1071,
+        2410,
+        5785,
+        1123,
+        1503,
+        1637,
+        "clear"
+      ],
+      "translation": "If there's a problem, let me know and I will come and try to help solve it, by talking it over to clear things up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "solve-1503.png"
+}

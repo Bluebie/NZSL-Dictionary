@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6274,
+  "gloss": {
+    "english": [
+      "beautiful"
+    ],
+    "english_secondary": [
+      "attractive",
+      "delicious",
+      "exquisite",
+      "gorgeous",
+      "handsome",
+      "lovely",
+      "pretty"
+    ],
+    "maori": [
+      "ātaahua"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "beautiful.6274.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beautiful.6274.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1552,
+        822,
+        3027,
+        461,
+        6274,
+        264
+      ],
+      "translation": "The sea was calm and there was no wind. It was a beautiful day."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "beautiful-6274.png"
+}

@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 940,
+  "gloss": {
+    "english": [
+      "barbecue"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rorerore"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "barbecue.940.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "barbecue.940.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3355,
+        4501,
+        1123,
+        940,
+        "fundraise",
+        3523,
+        5634
+      ],
+      "translation": "Can you help with a barbecue this Saturday to raise funds to support the cricket team?"
+    },
+    {
+      "video": "barbecue.940.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        940,
+        1376,
+        2321
+      ],
+      "translation": "Do you have a barbecue?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "barbecue-940.png"
+}

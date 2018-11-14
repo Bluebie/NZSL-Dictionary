@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 6282,
+  "gloss": {
+    "english": [
+      "they"
+    ],
+    "english_secondary": [
+      "them",
+      "those people"
+    ],
+    "maori": [
+      "rāua",
+      "rātou"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "they.6282.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "they.6282.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2990,
+        6282,
+        1494,
+        797,
+        2556,
+        5344,
+        2321,
+        4097,
+        5523
+      ],
+      "translation": "In the committee they have a lot of work, so I'm delegating the finances to you."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "they-6282.png"
+}

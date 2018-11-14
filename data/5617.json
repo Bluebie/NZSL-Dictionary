@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5617,
+  "gloss": {
+    "english": [
+      "two"
+    ],
+    "english_secondary": [
+      "2"
+    ],
+    "maori": [
+      "rua",
+      "tokorua"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "two.5617.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "two.5617.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5617,
+        2645,
+        3220,
+        2946,
+        1436,
+        585
+      ],
+      "translation": "Two young men travelled all over New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "two-5617.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 616,
+  "gloss": {
+    "english": [
+      "handicap"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tohurehe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "handicap.616.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "handicap.616.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3602,
+        616,
+        5623,
+        1565
+      ],
+      "translation": "Her golf handicap is seven. Wow!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "handicap-616.png"
+}

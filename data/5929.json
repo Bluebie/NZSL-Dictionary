@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5929,
+  "gloss": {
+    "english": [
+      "nothing to do with (it)"
+    ],
+    "english_secondary": [
+      "dissociate from",
+      "not relevant"
+    ],
+    "maori": [
+      "kāore he pānga"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "nothing_to_do_with.5929.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nothing_to_do_with.5929.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        1211,
+        5929,
+        "it"
+      ],
+      "translation": "We had a discussion that had nothing to do with them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "nothing_to_do_with_it-5929.png"
+}

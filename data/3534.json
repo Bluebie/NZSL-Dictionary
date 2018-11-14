@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3534,
+  "gloss": {
+    "english": [
+      "wash"
+    ],
+    "english_secondary": [
+      "clean",
+      "do the dishes",
+      "laundry",
+      "wash up",
+      "washing"
+    ],
+    "maori": [
+      "horoi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "clean.3534.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clean.3534.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5666,
+        "cl:pile-up",
+        2556,
+        3534
+      ],
+      "translation": "I've got a pile of plates to wash."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "wash-3534.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5062,
+  "gloss": {
+    "english": [
+      "Rome"
+    ],
+    "english_secondary": [
+      "Roman"
+    ],
+    "maori": [
+      "Rōma"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Rome.5062.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Rome.5062.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5062,
+        2297,
+        1865,
+        519,
+        1553,
+        2841,
+        4948
+      ],
+      "translation": "Rome has an interesting history with many old buildings."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Rome-5062.png"
+}

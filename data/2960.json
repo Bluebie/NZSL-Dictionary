@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 2960,
+  "gloss": {
+    "english": [
+      "partner",
+      "relative"
+    ],
+    "english_secondary": [
+      "boyfriend",
+      "companion",
+      "girlfriend",
+      "related",
+      "relation",
+      "sibling",
+      "twin"
+    ],
+    "maori": [
+      "hoa",
+      "whanaunga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "relation.2960.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "relation.2960.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2470,
+        2960,
+        2117,
+        2297
+      ],
+      "translation": "My ex-partner is hearing."
+    },
+    {
+      "video": "relation.2960.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        2960,
+        565,
+        2583,
+        3278,
+        2583
+      ],
+      "translation": "I have a relative who lives in Hamilton."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "partner-2960.png"
+}

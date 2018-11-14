@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3556,
+  "gloss": {
+    "english": [
+      "spring onion"
+    ],
+    "english_secondary": [
+      "green onion"
+    ],
+    "maori": [
+      "rikiriki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spring_onion.3556.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spring_onion.3556.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3556,
+        2556,
+        946,
+        4138,
+        1841,
+        1931
+      ],
+      "translation": "I chopped spring onion and mixed it in the salad."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "spring_onion-3556.png"
+}

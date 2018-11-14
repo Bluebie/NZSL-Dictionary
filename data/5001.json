@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5001,
+  "gloss": {
+    "english": [
+      "bacteria"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huakita"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bacteria.5001.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bacteria.5001.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        "cl:circle",
+        3147,
+        2091,
+        5001,
+        2583
+      ],
+      "translation": "Through the microscope I could see bacteria."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "bacteria-5001.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2072,
+  "gloss": {
+    "english": [
+      "have a thought"
+    ],
+    "english_secondary": [
+      "have an idea"
+    ],
+    "maori": [
+      "whakaaro ake au",
+      "ka taka te kapa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "have_a_thought.2072.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "have_a_thought.2072.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2831,
+        1544,
+        2072,
+        1451,
+        432,
+        3892,
+        771,
+        5009,
+        2583
+      ],
+      "translation": "I was searching everywhere and then I had a thought - maybe I'd left the key on the kitchen bench."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "have_a_thought-2072.png"
+}

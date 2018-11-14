@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4004,
+  "gloss": {
+    "english": [
+      "power (electricity)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hiko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "power.4004.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "power.4004.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4004,
+        3978,
+        2556,
+        2339,
+        3220,
+        "come",
+        4919
+      ],
+      "translation": "The power was not working so I called for a man to come and fix it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "power_electricity-4004.png"
+}

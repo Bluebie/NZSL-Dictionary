@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3765,
+  "gloss": {
+    "english": [
+      "interest"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hua moni"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "interest.3765.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "interest.3765.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        1205,
+        4097,
+        2583,
+        3368,
+        4501,
+        1105,
+        5621,
+        6231,
+        3765
+      ],
+      "translation": "If you put your savings in the bank, you can earn five per cent interest."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "interest-3765.png"
+}

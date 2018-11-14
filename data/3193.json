@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 3193,
+  "gloss": {
+    "english": [
+      "board"
+    ],
+    "english_secondary": [
+      "accommodation",
+      "boarder",
+      "boarding",
+      "live with",
+      "residential school",
+      "stay with"
+    ],
+    "maori": [
+      "noho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "board.3193.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "board.3193.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2099,
+        5620,
+        1171,
+        2931,
+        2556,
+        324,
+        3193,
+        5696,
+        2646
+      ],
+      "translation": "When I was four, I went to van Asch. I boarded there for nine years."
+    },
+    {
+      "video": "board.3193.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        4766,
+        2050,
+        5498,
+        2556,
+        3250,
+        3193,
+        1306
+      ],
+      "translation": "My parents decided to send me to a boarding school."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "board-3193.png"
+}

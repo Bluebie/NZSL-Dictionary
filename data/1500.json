@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1500,
+  "gloss": {
+    "english": [
+      "everything"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngā mea katoa"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "everything.1500.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "everything.1500.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        845,
+        3925,
+        4534,
+        4316,
+        5803,
+        4022,
+        1500,
+        5607,
+        386,
+        4224
+      ],
+      "translation": "The house rent's cheap. It includes power, food and everything for one hundred dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "everything-1500.png"
+}

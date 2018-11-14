@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 1675,
+  "gloss": {
+    "english": [
+      "gain weight"
+    ],
+    "english_secondary": [
+      "fat",
+      "fatten",
+      "overweight",
+      "put on weight"
+    ],
+    "maori": [
+      "taumaha haere",
+      "mōmona haere"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "gain_weight.1675.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gain_weight.1675.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        1085,
+        1874,
+        4022,
+        3027,
+        3433,
+        2556,
+        1675,
+        2556
+      ],
+      "translation": "At work I just sit, type and eat. With no exercise, I've gained weight."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "gain_weight-1675.png"
+}

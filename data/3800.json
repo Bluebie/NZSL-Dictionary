@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3800,
+  "gloss": {
+    "english": [
+      "office"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "office.3800.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "office.3800.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        777,
+        1298,
+        2556,
+        1766,
+        3585,
+        3124,
+        1874
+      ],
+      "translation": "I left school and got a job as an office typist."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "office-3800.png"
+}

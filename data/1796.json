@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 1796,
+  "gloss": {
+    "english": [
+      "climb",
+      "ladder"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "piki",
+      "arawhata"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "climb.1796.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "climb.1796.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4656,
+        1490,
+        2410,
+        835,
+        771,
+        1796
+      ],
+      "translation": "A group of Deaf people went to Mount Cook to do some climbing."
+    },
+    {
+      "video": "climb.1796.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        3050,
+        1220,
+        5429,
+        872,
+        1796
+      ],
+      "translation": "My wife gave me a ladder for my Christmas present."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "climb-1796.png"
+}

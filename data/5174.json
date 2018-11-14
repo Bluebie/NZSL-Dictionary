@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 5174,
+  "gloss": {
+    "english": [
+      "humiliated"
+    ],
+    "english_secondary": [
+      "deflated",
+      "eat humble pie",
+      "feel small",
+      "humbled",
+      "lose face",
+      "shamed"
+    ],
+    "maori": [
+      "noho whakamā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "humiliated.5174.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "humiliated.5174.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4158,
+        2184,
+        4135,
+        4689,
+        2297,
+        5174,
+        5736,
+        3027
+      ],
+      "translation": "The boy beat his father at chess. The father was humiliated and said nothing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "humiliated-5174.png"
+}

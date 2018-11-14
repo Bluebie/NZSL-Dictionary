@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 3778,
+  "gloss": {
+    "english": [
+      "Sellotape",
+      "tape"
+    ],
+    "english_secondary": [
+      "adhesive tape",
+      "sticky tape",
+      "tape up"
+    ],
+    "maori": [
+      "rīpene hāpiapia"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "adhesive_tape.3778.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "adhesive_tape.3778.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1185,
+        3778,
+        903,
+        564,
+        "cl:tape-box",
+        3250
+      ],
+      "translation": "I need sellotape for a box I have to post."
+    },
+    {
+      "video": "adhesive_tape.3778.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        872,
+        2556,
+        3778,
+        4785,
+        3250
+      ],
+      "translation": "I've taped up the present and it's ready to post."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sellotape-3778.png"
+}

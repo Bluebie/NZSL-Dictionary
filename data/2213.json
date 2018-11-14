@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 2213,
+  "gloss": {
+    "english": [
+      "lie"
+    ],
+    "english_secondary": [
+      "fib",
+      "liar"
+    ],
+    "maori": [
+      "rūkahu",
+      "teka",
+      "kōrero parau"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "lie.2213.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lie.2213.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        5736,
+        3027,
+        4264,
+        3027,
+        2297,
+        2213,
+        2556,
+        2102,
+        3634,
+        2297
+      ],
+      "translation": "She said, \"I haven't been drinking at all\". She was lying! I smelled the alcohol on her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "lie-2213.png"
+}

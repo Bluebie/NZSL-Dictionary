@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3607,
+  "gloss": {
+    "english": [
+      "sequence"
+    ],
+    "english_secondary": [
+      "in order",
+      "list"
+    ],
+    "maori": [
+      "raupapa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "sequence.3607.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sequence.3607.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1367,
+        2463,
+        2173,
+        3607
+      ],
+      "translation": "The queue is organised by name, in sequence."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sequence-3607.png"
+}

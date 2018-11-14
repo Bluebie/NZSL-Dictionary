@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5302,
+  "gloss": {
+    "english": [
+      "(sign) location"
+    ],
+    "english_secondary": [
+      "tabula",
+      "tab"
+    ],
+    "maori": [
+      "wāhi ringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "location.5302.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "location.5302.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        2844,
+        5488,
+        3867,
+        1544,
+        5302
+      ],
+      "translation": "You watch the sign and write down its location."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "sign_location-5302.png"
+}

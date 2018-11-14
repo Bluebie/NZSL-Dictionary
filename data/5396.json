@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5396,
+  "gloss": {
+    "english": [
+      "hide"
+    ],
+    "english_secondary": [
+      "conceal",
+      "hiding place"
+    ],
+    "maori": [
+      "huna"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hide.5396.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hide.5396.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        2556,
+        4765,
+        5396,
+        4432,
+        2398,
+        2556,
+        3513,
+        2879,
+        2831
+      ],
+      "translation": "A long time ago, my mother hid some chocolate eggs and my brother and I went looking for them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hide-5396.png"
+}

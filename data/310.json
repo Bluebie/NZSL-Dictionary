@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 310,
+  "gloss": {
+    "english": [
+      "obey"
+    ],
+    "english_secondary": [
+      "do as you are told",
+      "obedience",
+      "obedient",
+      "submit"
+    ],
+    "maori": [
+      "whakarongo"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "obey.310.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "obey.310.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        "small",
+        4765,
+        5736,
+        1885,
+        4022,
+        2888,
+        2556,
+        310
+      ],
+      "translation": "When I was young my mother told me I must eat my vegetables, so I obeyed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "obey-310.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5992,
+  "gloss": {
+    "english": [
+      "whisky"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wehike"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "whisky.5992.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "whisky.5992.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4689,
+        549,
+        4264,
+        5992
+      ],
+      "translation": "My father loves to drink whisky."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "whisky-5992.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5194,
+  "gloss": {
+    "english": [
+      "have sex"
+    ],
+    "english_secondary": [
+      "bonk",
+      "get it on",
+      "nooky",
+      "sleep with"
+    ],
+    "maori": [
+      "ai",
+      "ekeeke",
+      "onioni"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "have_sex.5194.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "have_sex.5194.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3638,
+        5391,
+        2879,
+        3653,
+        5194
+      ],
+      "translation": "Last night, we had sex."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "have_sex-5194.png"
+}

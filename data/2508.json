@@ -1,0 +1,79 @@
+{
+  "nzsl_id": 2508,
+  "gloss": {
+    "english": [
+      "alone",
+      "lonely",
+      "oneself"
+    ],
+    "english_secondary": [
+      "by oneself",
+      "isolated",
+      "herself",
+      "himself",
+      "itself",
+      "on one's own",
+      "self",
+      "yourself"
+    ],
+    "maori": [
+      "ko tōna kotahi",
+      "ko ia anake",
+      "mokemoke",
+      "ki a au",
+      "ki ahau"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb",
+      "pronoun"
+    ]
+  },
+  "video": "alone.2508.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "alone.2508.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        5806,
+        2508,
+        1832,
+        5617,
+        1124
+      ],
+      "translation": "That woman lived alone with two dogs."
+    },
+    {
+      "video": "alone.2508.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2841,
+        3220,
+        3276,
+        3050,
+        483,
+        2297,
+        2508
+      ],
+      "translation": "The old man's wife had died, and he was lonely."
+    },
+    {
+      "video": "alone.2508.finalexample3.jo.r480x360.mp4",
+      "signs": [
+        1231,
+        4501,
+        2883,
+        2508
+      ],
+      "translation": "The baby can walk by herself."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "alone-2508.png"
+}

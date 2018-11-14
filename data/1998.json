@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1998,
+  "gloss": {
+    "english": [
+      "immediately"
+    ],
+    "english_secondary": [
+      "at once",
+      "immediate",
+      "instant",
+      "now",
+      "prompt",
+      "straightaway"
+    ],
+    "maori": [
+      "ināianei tonu"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "immediately.1998.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "immediately.1998.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        721,
+        4097,
+        5945,
+        1998,
+        5732,
+        827
+      ],
+      "translation": "He wants his money back immediately, without delay."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "immediately-1998.png"
+}

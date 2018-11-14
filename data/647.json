@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 647,
+  "gloss": {
+    "english": [
+      "real"
+    ],
+    "english_secondary": [
+      "actual",
+      "authentic",
+      "genuine",
+      "sincere",
+      "true"
+    ],
+    "maori": [
+      "tūturu",
+      "motuhenga"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "real.647.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "real.647.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3721,
+        2095,
+        1388,
+        2125,
+        4343,
+        647,
+        4808,
+        "cl:walk-around"
+      ],
+      "translation": "Lots of people came to see a kiwi in real life, walking around."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "real-647.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5284,
+  "gloss": {
+    "english": [
+      "Deaf community"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hapori turi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "deaf_community.5284.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf_community.5284.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5284,
+        1165,
+        2461,
+        4657,
+        1388
+      ],
+      "translation": "The Deaf community often meet up at the Deaf club."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_community-5284.png"
+}

@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 4726,
+  "gloss": {
+    "english": [
+      "midday",
+      "midnight"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "poupoutanga o te rā",
+      "weheruatanga o te pō"
+    ],
+    "attributes": [
+      "numeral",
+      "phrase"
+    ]
+  },
+  "video": "midnight.4726.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "midnight.4726.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        4201,
+        4726
+      ],
+      "translation": "At work I have lunch at midday."
+    },
+    {
+      "video": "midnight.4726.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        5391,
+        4726,
+        5818,
+        3824,
+        1095,
+        2646,
+        3494
+      ],
+      "translation": "At midnight, we all celebrated the new year and hugged each other."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.2-505b07826bdae6053dfc3e3102dc758f539407019509d7b1fc68baaa2ae41842.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "midday-4726.png"
+}

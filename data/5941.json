@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5941,
+  "gloss": {
+    "english": [
+      "Prime Minister"
+    ],
+    "english_secondary": [
+      "Premier"
+    ],
+    "maori": [
+      "Pirimia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Prime_Minister.5941.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Prime_Minister.5941.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5941,
+        2297,
+        4821,
+        585,
+        1436
+      ],
+      "translation": "The Prime Minister is responsible for all of New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "prime_minister-5941.png"
+}

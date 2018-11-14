@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3744,
+  "gloss": {
+    "english": [
+      "put down"
+    ],
+    "english_secondary": [
+      "belittle",
+      "demean"
+    ],
+    "maori": [
+      "whakaiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "put_down.3744.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "put_down.3744.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        797,
+        2583,
+        4581,
+        "experience",
+        2780,
+        2297,
+        3744,
+        2556
+      ],
+      "translation": "I have bad experience at work because the boss puts me down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "put_down-3744.png"
+}

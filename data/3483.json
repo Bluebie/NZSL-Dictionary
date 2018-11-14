@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3483,
+  "gloss": {
+    "english": [
+      "our"
+    ],
+    "english_secondary": [
+      "ourselves"
+    ],
+    "maori": [
+      "tā mātou",
+      "tā māua"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "our.3483.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "our.3483.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2540,
+        3369,
+        3483,
+        402,
+        2321,
+        4501,
+        5420,
+        1832
+      ],
+      "translation": "We will bring our tent, you can sleep with us."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "our-3483.png"
+}

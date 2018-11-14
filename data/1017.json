@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1017,
+  "gloss": {
+    "english": [
+      "awful"
+    ],
+    "english_secondary": [
+      "appalling",
+      "dreadful",
+      "horrible"
+    ],
+    "maori": [
+      "weriweri",
+      "anuanu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "awful.1017.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "awful.1017.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        723,
+        1017,
+        2297
+      ],
+      "translation": "Her top is awful!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "awful-1017.png"
+}

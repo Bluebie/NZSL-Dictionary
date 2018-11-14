@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 1608,
+  "gloss": {
+    "english": [
+      "break",
+      "rest"
+    ],
+    "english_secondary": [
+      "leisure",
+      "recreation",
+      "spare time"
+    ],
+    "maori": [
+      "paramanawa",
+      "whakangā"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "leisure.1608.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "leisure.1608.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        6207,
+        3089,
+        1608,
+        850,
+        1388,
+        2219,
+        6014
+      ],
+      "translation": "It's tea break. Everyone, go to the staff room."
+    },
+    {
+      "video": "leisure.1608.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        797,
+        856,
+        1608,
+        2844,
+        2382,
+        2816
+      ],
+      "translation": "After work, I had a rest at home watching TV, flicking between the channels."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "break-1608.png"
+}

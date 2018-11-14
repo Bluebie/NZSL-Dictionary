@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1746,
+  "gloss": {
+    "english": [
+      "annual"
+    ],
+    "english_secondary": [
+      "annually",
+      "every year",
+      "yearly"
+    ],
+    "maori": [
+      "ā-tau"
+    ],
+    "attributes": [
+      "adverb",
+      "phrase"
+    ]
+  },
+  "video": "every_year.1746.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "every_year.1746.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1746,
+        3786,
+        4656,
+        893,
+        6173
+      ],
+      "translation": "The Deaf rugby competition is held annually during Easter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "annual-1746.png"
+}

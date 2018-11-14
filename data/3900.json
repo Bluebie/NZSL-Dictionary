@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3900,
+  "gloss": {
+    "english": [
+      "trust"
+    ],
+    "english_secondary": [
+      "have faith in"
+    ],
+    "maori": [
+      "whakapono"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "trust.3900.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trust.3900.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        3900,
+        3885,
+        4446,
+        1464
+      ],
+      "translation": "Don't trust that person."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "trust-3900.png"
+}

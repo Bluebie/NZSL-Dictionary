@@ -1,0 +1,70 @@
+{
+  "nzsl_id": 3962,
+  "gloss": {
+    "english": [
+      "broom",
+      "mop",
+      "sweep"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "puruma",
+      "ūkui",
+      "tahitahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "broom.3962.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "broom.3962.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        825,
+        3436,
+        2096,
+        626,
+        3027,
+        3962
+      ],
+      "translation": "There's a spill on the floor. It can't be cleaned up because there's no broom."
+    },
+    {
+      "video": "broom.3962.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        771,
+        825,
+        5839,
+        2556,
+        3962,
+        4139
+      ],
+      "translation": "I mopped the dirty kitchen floor and it looks shiny."
+    },
+    {
+      "video": "broom.3962.finalexample3.jo.r480x360.mp4",
+      "signs": [
+        825,
+        1231,
+        4022,
+        3504,
+        2556,
+        3962
+      ],
+      "translation": "The baby spilled food on the floor and I swept it up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "broom-3962.png"
+}

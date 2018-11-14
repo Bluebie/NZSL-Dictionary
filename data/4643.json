@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4643,
+  "gloss": {
+    "english": [
+      "jam"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tiamu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jam.4643.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jam.4643.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5389,
+        549,
+        4022,
+        820,
+        4643,
+        641
+      ],
+      "translation": "The children love to eat toast with jam."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "jam-4643.png"
+}

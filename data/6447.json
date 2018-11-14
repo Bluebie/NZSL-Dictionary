@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6447,
+  "gloss": {
+    "english": [
+      "Philippines"
+    ],
+    "english_secondary": [
+      "Filipino"
+    ],
+    "maori": [
+      "Piripīni"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Philippines.6447.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Philippines.6447.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2297,
+        702,
+        1505,
+        6447,
+        3050,
+        4656,
+        4918,
+        5426
+      ],
+      "translation": "She moved from the Philippines and married a Deaf man here."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "Philippines-6447.png"
+}

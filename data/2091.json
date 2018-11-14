@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2091,
+  "gloss": {
+    "english": [
+      "see"
+    ],
+    "english_secondary": [
+      "look",
+      "notice"
+    ],
+    "maori": [
+      "kite"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "see.2091.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "see.2091.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        5832,
+        2556,
+        2091,
+        3775,
+        1301,
+        2556,
+        1301
+      ],
+      "translation": "Through the window, I could see my neighbour waving to me. I waved back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "see-2091.png"
+}

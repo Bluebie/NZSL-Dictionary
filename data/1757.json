@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1757,
+  "gloss": {
+    "english": [
+      "fresh"
+    ],
+    "english_secondary": [
+      "new",
+      "refresh"
+    ],
+    "maori": [
+      "hou"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "fresh.1757.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fresh.1757.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3800,
+        850,
+        264,
+        2556,
+        1175,
+        1072,
+        1757,
+        5536,
+        3658
+      ],
+      "translation": "I had been in the office all day. When I went outside, the air was so fresh, it felt good."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fresh-1757.png"
+}

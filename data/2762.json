@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2762,
+  "gloss": {
+    "english": [
+      "Los Angeles"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Ngā Ānahera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "los_angeles.2762.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "los_angeles.2762.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2619,
+        4573,
+        2762,
+        3919,
+        4573,
+        2036
+      ],
+      "translation": "From Auckland I flew to Los Angeles. Then I changed flights and flew to London."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Los_Angeles-2762.png"
+}

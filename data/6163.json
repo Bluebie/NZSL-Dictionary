@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6163,
+  "gloss": {
+    "english": [
+      "tattoo"
+    ],
+    "english_secondary": [
+      "tattooing"
+    ],
+    "maori": [
+      "moko"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "tattoo.6163.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tattoo.6163.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        6163,
+        4950,
+        "cl:mark-upper-arm"
+      ],
+      "translation": "She has a tattoo of a butterfly on her upper arm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "tattoo-6163.png"
+}

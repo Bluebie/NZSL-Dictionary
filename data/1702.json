@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1702,
+  "gloss": {
+    "english": [
+      "power cut"
+    ],
+    "english_secondary": [
+      "blackout",
+      "power off"
+    ],
+    "maori": [
+      "poroa te hiko",
+      "tapahia te hiko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "blackout.1702.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blackout.1702.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3638,
+        5391,
+        1314,
+        1553,
+        845,
+        3300,
+        5738,
+        1702
+      ],
+      "translation": "Last night there were strong winds. Many houses in my area had power cuts."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "power_cut-1702.png"
+}

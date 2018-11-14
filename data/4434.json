@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4434,
+  "gloss": {
+    "english": [
+      "denture"
+    ],
+    "english_secondary": [
+      "false teeth"
+    ],
+    "maori": [
+      "niho more",
+      "niho kēhua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "false_teeth.4434.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "false_teeth.4434.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3337,
+        2169,
+        3027,
+        2297,
+        4434
+      ],
+      "translation": "His grandfather has no teeth so he wears dentures."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "denture-4434.png"
+}

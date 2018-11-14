@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5497,
+  "gloss": {
+    "english": [
+      "mayor"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kahika"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mayor.5497.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mayor.5497.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5617,
+        6129,
+        4955,
+        721,
+        5497,
+        2259,
+        2579
+      ],
+      "translation": "Two people are competing to become mayor here in Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "mayor-5497.png"
+}

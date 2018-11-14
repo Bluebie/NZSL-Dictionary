@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 387,
+  "gloss": {
+    "english": [
+      "overwhelmed"
+    ],
+    "english_secondary": [
+      "inundated",
+      "out of one's depth"
+    ],
+    "maori": [
+      "pokea ana"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "overwhelmed.387.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "overwhelmed.387.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        387,
+        1553,
+        6169,
+        2743
+      ],
+      "translation": "I'm overwhelmed by my work - I have so many things to do."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "overwhelmed-387.png"
+}

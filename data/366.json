@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 366,
+  "gloss": {
+    "english": [
+      "show"
+    ],
+    "english_secondary": [
+      "demonstrate",
+      "display",
+      "exhibit",
+      "prove",
+      "reveal"
+    ],
+    "maori": [
+      "whakaatu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "show.366.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "show.366.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3591,
+        740,
+        2583,
+        721,
+        366,
+        5389,
+        2287,
+        1069,
+        4794
+      ],
+      "translation": "We went skiing on that mountain. I wanted to show the kids because they'd never been."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "show-366.png"
+}

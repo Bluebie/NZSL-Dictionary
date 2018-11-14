@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4503,
+  "gloss": {
+    "english": [
+      "cat"
+    ],
+    "english_secondary": [
+      "whiskers"
+    ],
+    "maori": [
+      "ngeru",
+      "poti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cat.4503.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cat.4503.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4503,
+        "catch",
+        2421,
+        730,
+        762,
+        845,
+        483,
+        2297
+      ],
+      "translation": "The cat caught a rat and brought it into my house. It was dead."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cat-4503.png"
+}

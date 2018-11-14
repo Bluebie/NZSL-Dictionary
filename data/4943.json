@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 4943,
+  "gloss": {
+    "english": [
+      "bank",
+      "deposit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pēke"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bank.4943.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bank.4943.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        2297,
+        2697,
+        5089,
+        3585,
+        4943
+      ],
+      "translation": "He was old and had finished working at the bank."
+    },
+    {
+      "video": "bank.4943.finalexample2.sh.r480x360.mp4",
+      "signs": [
+        1117,
+        1426,
+        2556,
+        4943
+      ],
+      "translation": "I made a profit and deposited the money."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bank-4943.png"
+}

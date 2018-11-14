@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1607,
+  "gloss": {
+    "english": [
+      "flash"
+    ],
+    "english_secondary": [
+      "expensive",
+      "fancy",
+      "lavish",
+      "posh",
+      "showy",
+      "smart",
+      "upmarket"
+    ],
+    "maori": [
+      "tino tau",
+      "rangatira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "flash.1607.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flash.1607.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        1523,
+        3036,
+        367,
+        1607
+      ],
+      "translation": "Her outfit was nice and stylish - quite flash."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "flash-1607.png"
+}

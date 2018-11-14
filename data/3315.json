@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 3315,
+  "gloss": {
+    "english": [
+      "qualification"
+    ],
+    "english_secondary": [
+      "diploma",
+      "graduate",
+      "graduation",
+      "qualified"
+    ],
+    "maori": [
+      "tohu"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "graduate.3315.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "graduate.3315.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1641,
+        3677,
+        5465,
+        2556,
+        2384,
+        3315,
+        2556
+      ],
+      "translation": "In due course I finished my apprenticeship and got my tradesman qualification."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "qualification-3315.png"
+}

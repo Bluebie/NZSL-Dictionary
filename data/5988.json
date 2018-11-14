@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 5988,
+  "gloss": {
+    "english": [
+      "dream",
+      "imagine"
+    ],
+    "english_secondary": [
+      "envision",
+      "imagination",
+      "vision"
+    ],
+    "maori": [
+      "wawata",
+      "whakaarohia ake"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dream.5988.main_glosses.rp.TWO.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dream.5988.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5988,
+        721,
+        797,
+        4656,
+        5738
+      ],
+      "translation": "It's my dream to work in the deaf field."
+    },
+    {
+      "video": "dream.5988.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        5618,
+        2646,
+        1070,
+        2600,
+        5988,
+        424,
+        4808,
+        2266
+      ],
+      "translation": "Imagine what all your lives will be like in 20 years time."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dream-5988.png"
+}

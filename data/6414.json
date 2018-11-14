@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6414,
+  "gloss": {
+    "english": [
+      "hen"
+    ],
+    "english_secondary": [
+      "chicken",
+      "peck"
+    ],
+    "maori": [
+      "heihei"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hen.6414.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hen.6414.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2021,
+        2297,
+        730,
+        6414,
+        2583,
+        564,
+        366,
+        4249
+      ],
+      "translation": "The teacher brought a hen in a box to show the class."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "hen-6414.png"
+}

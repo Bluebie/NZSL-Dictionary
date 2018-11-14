@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5225,
+  "gloss": {
+    "english": [
+      "stuff that"
+    ],
+    "english_secondary": [
+      "can't be arsed",
+      "can't be fucked",
+      "can't stand it",
+      "don't give a damn"
+    ],
+    "maori": [
+      "engari mō tēnā"
+    ],
+    "attributes": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "stuff_that.5225.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stuff_that.5225.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1636,
+        1885,
+        1490,
+        903,
+        3460,
+        3687,
+        2515,
+        5225
+      ],
+      "translation": "Our family had to go to dinner for my aunt's birthday. Stuff that."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "stuff_that-5225.png"
+}

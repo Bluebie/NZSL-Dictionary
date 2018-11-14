@@ -1,0 +1,51 @@
+{
+  "nzsl_id": 5185,
+  "gloss": {
+    "english": [
+      "astounded"
+    ],
+    "english_secondary": [
+      "amazed",
+      "astonished",
+      "dumbfounded",
+      "gobsmacked",
+      "lost for words",
+      "speechless"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "gobsmacked.5185.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gobsmacked.5185.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3919,
+        "clothes",
+        "lipstick",
+        "cl:wavy-hair",
+        5818,
+        1565,
+        5185,
+        2091,
+        2480
+      ],
+      "translation": "She got all dressed up, had some lipstick on and her hair was all done up. Everyone was astounded - she looked so different."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "astounded-5185.png"
+}

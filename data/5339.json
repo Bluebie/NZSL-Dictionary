@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5339,
+  "gloss": {
+    "english": [
+      "advantage"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "huanga",
+      "painga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "advantage.5339.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "advantage.5339.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3261,
+        3409,
+        1376,
+        5339,
+        3276,
+        2177,
+        4656,
+        3721,
+        3700
+      ],
+      "translation": "That NZSL student has an advantage. Her boyfriend is Deaf so she gets lots of practice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "advantage-5339.png"
+}

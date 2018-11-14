@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2439,
+  "gloss": {
+    "english": [
+      "Invercargill"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Waihōpai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Invercargill.2439.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Invercargill.2439.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        233,
+        4635,
+        810,
+        2439,
+        959,
+        2583
+      ],
+      "translation": "She was born in the South near Invercargill, and grew up there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Invercargill-2439.png"
+}

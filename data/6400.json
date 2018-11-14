@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6400,
+  "gloss": {
+    "english": [
+      "goose"
+    ],
+    "english_secondary": [
+      "emu",
+      "ostrich",
+      "swan"
+    ],
+    "maori": [
+      "kuihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "goose.6400.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "goose.6400.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6400,
+        2297,
+        780,
+        3160,
+        3160,
+        2297,
+        4022
+      ],
+      "translation": "We threw bread for the goose to eat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "goose-6400.png"
+}

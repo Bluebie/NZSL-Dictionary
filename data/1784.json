@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1784,
+  "gloss": {
+    "english": [
+      "insect"
+    ],
+    "english_secondary": [
+      "ant",
+      "beetle",
+      "bug",
+      "spider"
+    ],
+    "maori": [
+      "ngārara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "insect.1784.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "insect.1784.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4176,
+        3721,
+        1784,
+        2556,
+        5448,
+        3363,
+        5971,
+        3437
+      ],
+      "translation": "There were lots of insects in the garden. I used a spray to stop them from spreading."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "insect-1784.png"
+}

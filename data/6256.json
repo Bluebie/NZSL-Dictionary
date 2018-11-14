@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6256,
+  "gloss": {
+    "english": [
+      "annoyed"
+    ],
+    "english_secondary": [
+      "irritated"
+    ],
+    "maori": [
+      "riri"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "annoyed.6256.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "annoyed.6256.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5831,
+        3027,
+        4400,
+        2556,
+        6256
+      ],
+      "translation": "I was annoyed because there was no captioning on the TV."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "annoyed-6256.png"
+}

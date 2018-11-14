@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3638,
+  "gloss": {
+    "english": [
+      "last"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "i tērā atu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "last.3638.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "last.3638.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3638,
+        5429,
+        2556,
+        3250,
+        1553,
+        5481
+      ],
+      "translation": "Last Christmas, I sent a lot of cards."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "last-3638.png"
+}

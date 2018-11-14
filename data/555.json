@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 555,
+  "gloss": {
+    "english": [
+      "off"
+    ],
+    "english_secondary": [
+      "get off",
+      "remove"
+    ],
+    "maori": [
+      "tango",
+      "ngaro"
+    ],
+    "attributes": [
+      "adverb",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "off.555.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "off.555.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2744,
+        "have",
+        "cl:stain-on-shirt",
+        3534,
+        3741,
+        555
+      ],
+      "translation": "The shirt had a stain that was hard to wash off"
+    },
+    {
+      "video": "off.555.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        555,
+        797,
+        5523,
+        3276,
+        3513,
+        5389
+      ],
+      "translation": "He is off work to look after his brother's children"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "off-555.png"
+}

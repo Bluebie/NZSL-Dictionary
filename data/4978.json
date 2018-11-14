@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4978,
+  "gloss": {
+    "english": [
+      "lucky"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waimarie",
+      "māringanui"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "lucky.4978.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lucky.4978.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4978,
+        2297,
+        3848,
+        6139
+      ],
+      "translation": "He's lucky! He won the raffle."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "lucky-4978.png"
+}

@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5699,
+  "gloss": {
+    "english": [
+      "eighteen"
+    ],
+    "english_secondary": [
+      "18"
+    ],
+    "maori": [
+      "tekau mā waru"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "eighteen.5699.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_18.5699.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        3218,
+        5699
+      ],
+      "translation": "My house number is eighteen."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eighteen-5699.png"
+}

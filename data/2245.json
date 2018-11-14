@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2245,
+  "gloss": {
+    "english": [
+      "laser beam"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hihi taiaho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "laser_beam.2245.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "laser_beam.2245.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4520,
+        3027,
+        "cl:knife-operate",
+        2297,
+        5448,
+        2245
+      ],
+      "translation": "The doctor did not use a knife to operate. She used a laser beam."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "laser_beam-2245.png"
+}

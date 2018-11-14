@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5757,
+  "gloss": {
+    "english": [
+      "disgusting"
+    ],
+    "english_secondary": [
+      "disgusted",
+      "horrible",
+      "loathe",
+      "revolting",
+      "sickening",
+      "yuck",
+      "yuk"
+    ],
+    "maori": [
+      "weriweri",
+      "whakarihariha"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "disgusting.5757.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "disgusting.5757.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        1805,
+        5757,
+        2297
+      ],
+      "translation": "The cake was disgusting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "disgusting-5757.png"
+}

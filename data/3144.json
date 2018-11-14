@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3144,
+  "gloss": {
+    "english": [
+      "develop (film)"
+    ],
+    "english_secondary": [
+      "process (film)"
+    ],
+    "maori": [
+      "whakaahua"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "develop.3144.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "develop.3144.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3642,
+        2677,
+        2556,
+        3144,
+        5440,
+        1464
+      ],
+      "translation": "If I am developing photos, don't switch the light on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "develop_film-3144.png"
+}

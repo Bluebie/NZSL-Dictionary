@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1336,
+  "gloss": {
+    "english": [
+      "pale"
+    ],
+    "english_secondary": [
+      "fair",
+      "jaundice",
+      "white as a sheet"
+    ],
+    "maori": [
+      "kōmā",
+      "mā",
+      "mōtea"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "pale.1336.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pale.1336.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        1083,
+        1336,
+        2297,
+        3213,
+        2297,
+        856
+      ],
+      "translation": "I saw that my friend looked pale. She was sick so she went home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "pale-1336.png"
+}

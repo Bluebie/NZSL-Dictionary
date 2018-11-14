@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1664,
+  "gloss": {
+    "english": [
+      "show off"
+    ],
+    "english_secondary": [
+      "conceited",
+      "flashy",
+      "full of oneself",
+      "show-off",
+      "think one is smart"
+    ],
+    "maori": [
+      "whakamenemene",
+      "whakahīhī",
+      "whakapehapeha"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "show_off.1664.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "show_off.1664.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1376,
+        1545,
+        3462,
+        1664,
+        3462
+      ],
+      "translation": "He has a big car and drove around showing off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "show_off-1664.png"
+}

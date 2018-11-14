@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2113,
+  "gloss": {
+    "english": [
+      "Thailand"
+    ],
+    "english_secondary": [
+      "Thai"
+    ],
+    "maori": [
+      "Tairana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Thailand.2113.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Thailand.2113.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        1083,
+        2953,
+        4573,
+        2113,
+        1403,
+        1515,
+        5736,
+        4534,
+        2583
+      ],
+      "translation": "Two of my friends flew to Thailand for a holiday and said it was very cheap over there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "Thailand-2113.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5416,
+  "gloss": {
+    "english": [
+      "effective"
+    ],
+    "english_secondary": [
+      "effectively",
+      "efficient",
+      "efficiently"
+    ],
+    "maori": [
+      "pai",
+      "whai tikanga"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "effective.5416.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "effective.5416.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3375,
+        1321,
+        2463,
+        1638,
+        797,
+        5416
+      ],
+      "translation": "If you make a timetable and follow it, it means you can work effectively."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "effective-5416.png"
+}

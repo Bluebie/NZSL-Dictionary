@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 890,
+  "gloss": {
+    "english": [
+      "back"
+    ],
+    "english_secondary": [
+      "lower back"
+    ],
+    "maori": [
+      "tuara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "back.890.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "back.890.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5620,
+        2646,
+        1279,
+        2556,
+        3426,
+        1562,
+        890,
+        2096,
+        "cl:move-shoulders"
+      ],
+      "translation": "I had an accident four years ago and my back was sore. I couldn't move my upper body."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "back-890.png"
+}

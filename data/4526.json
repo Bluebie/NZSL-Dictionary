@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4526,
+  "gloss": {
+    "english": [
+      "rule"
+    ],
+    "english_secondary": [
+      "regulation"
+    ],
+    "maori": [
+      "ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rule.4526.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rule.4526.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5289,
+        4526,
+        2297,
+        2190,
+        1516,
+        2119,
+        1152,
+        1926,
+        5654
+      ],
+      "translation": "Deaflympic rules state that hearing aids are not to be used during play."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "rule-4526.png"
+}

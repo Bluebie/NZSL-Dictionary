@@ -1,0 +1,64 @@
+{
+  "nzsl_id": 1437,
+  "gloss": {
+    "english": [
+      "average"
+    ],
+    "english_secondary": [
+      "alright",
+      "fair",
+      "fairly",
+      "medium",
+      "middle",
+      "moderate",
+      "quite",
+      "so-so"
+    ],
+    "maori": [
+      "toharite",
+      "wawaenga"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "average.1437.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "average.1437.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1300,
+        2117,
+        4446,
+        2297,
+        5488,
+        1437
+      ],
+      "translation": "I was chatting with a hearing person. Her signing was at an average level."
+    },
+    {
+      "video": "average.1437.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        4657,
+        4696,
+        5391,
+        1437,
+        5706,
+        2095,
+        1388
+      ],
+      "translation": "On average, thirty people go to Deaf Club on Friday nights."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "average-1437.png"
+}

@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3865,
+  "gloss": {
+    "english": [
+      "list",
+      "take notes"
+    ],
+    "english_secondary": [
+      "minute taker",
+      "note taker",
+      "petition",
+      "write list"
+    ],
+    "maori": [
+      "rārangi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "list.3865.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "list.3865.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4657,
+        2556,
+        3865,
+        1620,
+        2095,
+        648
+      ],
+      "translation": "At the Deaf club, I made a list of the people who came in."
+    },
+    {
+      "video": "list.3865.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1849,
+        2556,
+        1376,
+        5607,
+        4446,
+        3775,
+        2297,
+        3865
+      ],
+      "translation": "At university I have someone sitting next to me to take notes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "list-3865.png"
+}

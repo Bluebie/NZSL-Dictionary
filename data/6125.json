@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6125,
+  "gloss": {
+    "english": [
+      "paint fingernails"
+    ],
+    "english_secondary": [
+      "nail polish"
+    ],
+    "maori": [
+      "peita matikara"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "paint_fingernails.6125.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "paint_fingernails.6125.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        6125,
+        2201,
+        2091,
+        367
+      ],
+      "translation": "she's painted her fingernails red. It looks nice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "paint_fingernails-6125.png"
+}

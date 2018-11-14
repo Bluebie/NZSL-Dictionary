@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 531,
+  "gloss": {
+    "english": [
+      "bronchitis",
+      "chest"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūkawe kakā",
+      "uma"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chest.531.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chest.531.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3721,
+        3328,
+        4520,
+        5450,
+        2297,
+        1376,
+        531
+      ],
+      "translation": "He was coughing a lot. The doctor found out he had bronchitis."
+    },
+    {
+      "video": "chest.531.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        2899,
+        1376,
+        1562,
+        531
+      ],
+      "translation": "She couldn't sleep because her chest felt sore."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "chest-531.png"
+}

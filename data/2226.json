@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 2226,
+  "gloss": {
+    "english": [
+      "flavour",
+      "taste"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tāwara"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "taste.2226.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "taste.2226.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1447,
+        3212,
+        2480,
+        2226
+      ],
+      "translation": "I like lots of different flavours of ice cream."
+    },
+    {
+      "video": "taste.2226.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        4292,
+        4264,
+        2556,
+        2226,
+        4559
+      ],
+      "translation": "The lemon drink I tasted was sour."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "flavour-2226.png"
+}

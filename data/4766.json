@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4766,
+  "gloss": {
+    "english": [
+      "parents"
+    ],
+    "english_secondary": [
+      "mother and father",
+      "mum and dad"
+    ],
+    "maori": [
+      "mātua"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "mother_father.4766.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mother_father.4766.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        762,
+        4766,
+        2953,
+        4656,
+        2556,
+        959,
+        2215,
+        4261
+      ],
+      "translation": "My parents are both Deaf. I could communicate with them easily when I growing up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "parents-4766.png"
+}

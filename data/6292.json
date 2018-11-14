@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6292,
+  "gloss": {
+    "english": [
+      "screen print"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōwaiwai papanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "screen_print.6292.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "screen_print.6292.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1513,
+        6292,
+        5962,
+        903,
+        5825,
+        1523
+      ],
+      "translation": "I learnt how to screenprint on fabric for clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "screen_print-6292.png"
+}

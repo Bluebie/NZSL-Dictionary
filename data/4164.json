@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4164,
+  "gloss": {
+    "english": [
+      "ejaculate",
+      "sperm"
+    ],
+    "english_secondary": [
+      "come",
+      "ejaculation",
+      "orgasm",
+      "semen"
+    ],
+    "maori": [
+      "tokomauri",
+      "tātea",
+      "wai tātea"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "come.4164.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come.4164.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4317,
+        4741,
+        4164
+      ],
+      "translation": "He ejaculated while having a wet dream."
+    },
+    {
+      "video": "come.4164.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4164,
+        3978,
+        2096,
+        1231
+      ],
+      "translation": "His sperm doesn't work, so they can't have a baby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ejaculate-4164.png"
+}

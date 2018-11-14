@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2191,
+  "gloss": {
+    "english": [
+      "supposed to"
+    ],
+    "english_secondary": [
+      "expect to",
+      "ought to",
+      "should",
+      "should be"
+    ],
+    "maori": [
+      "te tikanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "supposed_to.2191.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "supposed_to.2191.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2191,
+        1171,
+        797,
+        5662,
+        5653,
+        2556,
+        3430
+      ],
+      "translation": "I was supposed to start work at ten o'clock and drove in a rush."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "supposed_to-2191.png"
+}

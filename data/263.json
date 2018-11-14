@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 263,
+  "gloss": {
+    "english": [
+      "church"
+    ],
+    "english_secondary": [
+      "cathedral",
+      "chapel"
+    ],
+    "maori": [
+      "whare karakia"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "church.263.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "church.263.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3847,
+        2583,
+        1376,
+        263,
+        2841,
+        1087,
+        5607,
+        386,
+        2646
+      ],
+      "translation": "That town has a church that is over one hundred years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "church-263.png"
+}

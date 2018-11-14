@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6192,
+  "gloss": {
+    "english": [
+      "board"
+    ],
+    "english_secondary": [
+      "blackboard",
+      "whiteboard"
+    ],
+    "maori": [
+      "papa tuhituhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "board.6192.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "board.6192.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        860,
+        2021,
+        3867,
+        2556,
+        1514,
+        3867
+      ],
+      "translation": "I copied what the teacher wrote on the board."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "board-6192.png"
+}

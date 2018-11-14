@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2417,
+  "gloss": {
+    "english": [
+      "third"
+    ],
+    "english_secondary": [
+      "third (of a list)",
+      "thirdly"
+    ],
+    "maori": [
+      "tuatoru"
+    ],
+    "attributes": [
+      "adverb",
+      "numeral",
+      "pronoun"
+    ]
+  },
+  "video": "third.2417.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "third.2417.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2417,
+        2917,
+        924,
+        1306,
+        6033
+      ],
+      "translation": "My third son will start school soon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "third-2417.png"
+}

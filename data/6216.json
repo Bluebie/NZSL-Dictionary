@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6216,
+  "gloss": {
+    "english": [
+      "won't"
+    ],
+    "english_secondary": [
+      "will not"
+    ],
+    "maori": [
+      "kāore"
+    ],
+    "attributes": [
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "wont.6216.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wont.6216.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        6216,
+        5405,
+        762,
+        5995,
+        2297,
+        3718,
+        2583,
+        952
+      ],
+      "translation": "She won't stay at my house. She'd rather stay in a hotel."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "won_t-6216.png"
+}

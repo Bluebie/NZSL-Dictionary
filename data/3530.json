@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3530,
+  "gloss": {
+    "english": [
+      "collide",
+      "collision"
+    ],
+    "english_secondary": [
+      "accident",
+      "crash",
+      "smash",
+      "vehicle crash"
+    ],
+    "maori": [
+      "tuki",
+      "tukitanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "accident.3530.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "accident.3530.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3462,
+        3530,
+        5398,
+        1276,
+        889
+      ],
+      "translation": "I was in a collision with another car. I was fully covered by insurance."
+    },
+    {
+      "video": "accident.3530.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2841,
+        3462,
+        3260,
+        "cl:drive-around",
+        4581,
+        3530,
+        "cl:car-roll-over"
+      ],
+      "translation": "An old racing car was in a collision on the track and rolled over."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "collide-3530.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2138,
+  "gloss": {
+    "english": [
+      "union"
+    ],
+    "english_secondary": [
+      "trade union"
+    ],
+    "maori": [
+      "uniana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "union.2138.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "union.2138.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2138,
+        1123,
+        3587,
+        6282,
+        5442,
+        1902,
+        898
+      ],
+      "translation": "The union helped bus drivers to lobby for an increase in wages."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "union-2138.png"
+}

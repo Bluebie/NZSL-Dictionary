@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2761,
+  "gloss": {
+    "english": [
+      "linguistics"
+    ],
+    "english_secondary": [
+      "linguistic"
+    ],
+    "maori": [
+      "mātauranga wetereo"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "linguistics.2761.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "linguistics.2761.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1165,
+        3111,
+        2297,
+        4054,
+        2761,
+        1505,
+        5662,
+        5696,
+        2500,
+        6230,
+        4065
+      ],
+      "translation": "Every morning, he taught linguistics from nine o'clock to half past ten."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "linguistics-2761.png"
+}

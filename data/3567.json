@@ -1,0 +1,75 @@
+{
+  "nzsl_id": 3567,
+  "gloss": {
+    "english": [
+      "develop",
+      "grow"
+    ],
+    "english_secondary": [
+      "development",
+      "expand",
+      "expansion",
+      "growth",
+      "increase"
+    ],
+    "maori": [
+      "mahi",
+      "tupu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "grow.3567.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grow.3567.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2287,
+        6207,
+        3567,
+        1095,
+        1423,
+        903,
+        4054,
+        3261
+      ],
+      "translation": "They're now developing new resources for teaching NZSL."
+    },
+    {
+      "video": "grow.3567.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4176,
+        2556,
+        2091,
+        4030,
+        4356,
+        3567,
+        5738
+      ],
+      "translation": "I looked around the garden and saw some beautiful flowers growing."
+    },
+    {
+      "video": "grow.3567.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        4657,
+        4740,
+        1897,
+        2095,
+        5340,
+        3567,
+        5776
+      ],
+      "translation": "Membership of the Deaf club has grown. More  and more people are joining."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "grow-3567.png"
+}

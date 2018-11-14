@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3182,
+  "gloss": {
+    "english": [
+      "enraged"
+    ],
+    "english_secondary": [
+      "explode with anger",
+      "furious",
+      "infuriated",
+      "mad",
+      "wild"
+    ],
+    "maori": [
+      "pukuriri"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "enraged.3182.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "enraged.3182.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3182,
+        1266,
+        "cl:vase-lift-throw",
+        246
+      ],
+      "translation": "He was enraged and thew a vase against the wall."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "enraged-3182.png"
+}

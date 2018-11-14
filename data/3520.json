@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3520,
+  "gloss": {
+    "english": [
+      "our"
+    ],
+    "english_secondary": [
+      "our own",
+      "ours"
+    ],
+    "maori": [
+      "tā tātou",
+      "tā mātou"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "our.3520.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "our.3520.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3520,
+        4046,
+        1490,
+        4135,
+        4790
+      ],
+      "translation": "Our netball team beat Australia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "our-3520.png"
+}

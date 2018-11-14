@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 4341,
+  "gloss": {
+    "english": [
+      "bright"
+    ],
+    "english_secondary": [
+      "brainy",
+      "brilliant",
+      "clever",
+      "intelligent"
+    ],
+    "maori": [
+      "mōhio",
+      "mātau"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "bright.4341.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bright.4341.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        259,
+        4341,
+        2722,
+        3276,
+        4765,
+        4054,
+        2297,
+        2895,
+        2645,
+        954
+      ],
+      "translation": "The girl is bright because her mother taught her to read at a young age."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bright-4341.png"
+}

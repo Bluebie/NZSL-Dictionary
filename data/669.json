@@ -1,0 +1,72 @@
+{
+  "nzsl_id": 669,
+  "gloss": {
+    "english": [
+      "through"
+    ],
+    "english_secondary": [
+      "as a result of",
+      "during",
+      "go through",
+      "penetrate"
+    ],
+    "maori": [
+      "puta",
+      "mō te katoa",
+      "i nā",
+      "mā"
+    ],
+    "attributes": [
+      "adverb",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "through.669.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "through.669.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        556,
+        3677,
+        2556,
+        669,
+        2812,
+        3406
+      ],
+      "translation": "After passport control, I went through to pick up my bag."
+    },
+    {
+      "video": "through.669.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        669,
+        309,
+        3027,
+        1403
+      ],
+      "translation": "I worked through summer. I had no holidays."
+    },
+    {
+      "video": "through.669.finalexample3.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        233,
+        4656,
+        669,
+        1745
+      ],
+      "translation": "She was born deaf through rubella."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "through-669.png"
+}

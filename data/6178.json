@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6178,
+  "gloss": {
+    "english": [
+      "Warriors"
+    ],
+    "english_secondary": [
+      "New Zealand Warriors"
+    ],
+    "maori": [
+      "Toa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "warriors.6178.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "warriors.6178.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2879,
+        549,
+        2466,
+        3707,
+        2543,
+        6178,
+        1249
+      ],
+      "translation": "We both love talking about sports, about the Warriors in rugby league."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Warriors-6178.png"
+}

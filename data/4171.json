@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4171,
+  "gloss": {
+    "english": [
+      "spend (money)"
+    ],
+    "english_secondary": [
+      "expenditure",
+      "expenses",
+      "overspend",
+      "splurge"
+    ],
+    "maori": [
+      "whakapau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "spend.4171.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spend.4171.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        845,
+        "cl:extension",
+        3856,
+        4171
+      ],
+      "translation": "We spent money on fixing up the house extension."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "spend_money-4171.png"
+}

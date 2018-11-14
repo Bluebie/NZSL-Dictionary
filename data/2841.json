@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2841,
+  "gloss": {
+    "english": [
+      "age",
+      "old"
+    ],
+    "english_secondary": [
+      "aged",
+      "ancient",
+      "elderly",
+      "old age",
+      "stale"
+    ],
+    "maori": [
+      "pakeke",
+      "tahito"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "old.2841.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "old.2841.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2841,
+        4501,
+        4168,
+        2579,
+        5791,
+        2099,
+        5615
+      ],
+      "translation": "The voting age here in New Zealand is eighteen."
+    },
+    {
+      "video": "old.2841.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4948,
+        2841,
+        1774,
+        5129,
+        1707
+      ],
+      "translation": "The building was old and it was deteriorating. It had to be torn down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "age-2841.png"
+}

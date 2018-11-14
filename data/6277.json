@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6277,
+  "gloss": {
+    "english": [
+      "write-off"
+    ],
+    "english_secondary": [
+      "write off (verb)"
+    ],
+    "maori": [
+      "kore he take"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "write_off.6277.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "write_off.6277.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        1060,
+        5398,
+        3300,
+        3462,
+        "accident",
+        1364,
+        6277
+      ],
+      "translation": "I made an insurance claim for the damage to my car from the accident. It was a write-off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "write_off-6277.png"
+}

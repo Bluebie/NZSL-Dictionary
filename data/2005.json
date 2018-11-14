@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2005,
+  "gloss": {
+    "english": [
+      "helicopter"
+    ],
+    "english_secondary": [
+      "chopper"
+    ],
+    "maori": [
+      "wakatopa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "helicopter.2005.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "helicopter.2005.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2005,
+        2410,
+        1781,
+        2822,
+        5617,
+        2095,
+        4128,
+        2822
+      ],
+      "translation": "A helicopter went over the bush to search for two lost people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "helicopter-2005.png"
+}

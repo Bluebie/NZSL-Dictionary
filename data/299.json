@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 299,
+  "gloss": {
+    "english": [
+      "memory"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūmahara"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "memory.299.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "memory.299.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        291,
+        2677,
+        5352,
+        "cl:put-on-shelf",
+        6003,
+        2844,
+        2297,
+        3658,
+        299
+      ],
+      "translation": "My wedding photo is in a frame on a shelf. It brings back good memories."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "memory-299.png"
+}

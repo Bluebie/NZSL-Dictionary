@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 6120,
+  "gloss": {
+    "english": [
+      "karaoke",
+      "sing (through microphone)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "karaoke (waiata ki te hopu reo)"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "karaoke.6120.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "karaoke.6120.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5818,
+        4656,
+        "cl:many-watch",
+        6120,
+        5831,
+        5488
+      ],
+      "translation": "All the Deaf people were watching karaoke on televison and signing along."
+    },
+    {
+      "video": "karaoke.6120.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        5818,
+        4656,
+        2556,
+        4811,
+        6120,
+        5167
+      ],
+      "translation": "Everyone was Deaf, so I thought 'so what', and sang into the microphone with my unintelligible voice."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "karaoke-6120.png"
+}

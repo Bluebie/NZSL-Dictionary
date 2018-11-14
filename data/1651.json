@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1651,
+  "gloss": {
+    "english": [
+      "better (health)"
+    ],
+    "english_secondary": [
+      "cured",
+      "well"
+    ],
+    "maori": [
+      "piki te ora",
+      "pai ake"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "better.1651.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "better.1651.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3636,
+        2021,
+        1322,
+        3027,
+        797,
+        1050,
+        1651
+      ],
+      "translation": "Yesterday the teacher had the flu and didn't go to work. She's better now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "better_health-1651.png"
+}

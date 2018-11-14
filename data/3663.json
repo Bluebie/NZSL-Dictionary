@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 3663,
+  "gloss": {
+    "english": [
+      "interested",
+      "keen"
+    ],
+    "english_secondary": [
+      "determined",
+      "eager",
+      "enthusiastic",
+      "show enthusiasm"
+    ],
+    "maori": [
+      "kaingākau",
+      "tino hiahia"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "interested.3663.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "interested.3663.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3338,
+        1637,
+        3276,
+        4808,
+        1637,
+        2556,
+        3663
+      ],
+      "translation": "My grandmother described her life to me. I was very interested."
+    },
+    {
+      "video": "interested.3663.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        5617,
+        2117,
+        2953,
+        3663,
+        2461,
+        4201,
+        1300
+      ],
+      "translation": "Two hearing friends were keen to meet with me for lunch and have a chat."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "interested-3663.png"
+}

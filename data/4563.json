@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4563,
+  "gloss": {
+    "english": [
+      "serious"
+    ],
+    "english_secondary": [
+      "bad",
+      "badly",
+      "critically",
+      "seriously",
+      "severely"
+    ],
+    "maori": [
+      "tino kino"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "badly.4563.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "badly.4563.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        3943,
+        4563,
+        3426,
+        5620,
+        2237
+      ],
+      "translation": "I watched the news. There had been a serious car accident and four people were dead."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "serious-4563.png"
+}

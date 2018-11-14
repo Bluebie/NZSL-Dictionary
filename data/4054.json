@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 4054,
+  "gloss": {
+    "english": [
+      "education",
+      "teach"
+    ],
+    "english_secondary": [
+      "educate",
+      "instruct",
+      "train",
+      "training"
+    ],
+    "maori": [
+      "mātauranga",
+      "ako"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "teach.4054.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "teach.4054.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1298,
+        2583,
+        3658,
+        4054,
+        4766,
+        2297,
+        5498,
+        3250
+      ],
+      "translation": "The school provided a good education, and the parents decided to send their children there."
+    },
+    {
+      "video": "teach.4054.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        783,
+        2559,
+        2297,
+        4054,
+        5818,
+        5389,
+        783,
+        2583
+      ],
+      "translation": "He taught all the children how to swim at the swimming pool."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "teach-4054.png"
+}

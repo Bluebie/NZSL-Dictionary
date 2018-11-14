@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 3459,
+  "gloss": {
+    "english": [
+      "camp",
+      "tramping"
+    ],
+    "english_secondary": [
+      "camping",
+      "pack",
+      "tramp"
+    ],
+    "maori": [
+      "hopuni",
+      "takahi"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "camp.3459.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "camp.3459.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        560,
+        2645,
+        3459,
+        3656,
+        1553,
+        1865,
+        4316
+      ],
+      "translation": "The Southern Youth Camp was successful. Lots of people were interested in participating."
+    },
+    {
+      "video": "camp.3459.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3459,
+        669,
+        1781,
+        3721,
+        3091,
+        2556,
+        "cl:brush-off-insect",
+        3091,
+        "cl:brush-off-insect"
+      ],
+      "translation": "I went tramping through the bush. I had to brush off lots of insects that were biting me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "camp-3459.png"
+}

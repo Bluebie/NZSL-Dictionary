@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 839,
+  "gloss": {
+    "english": [
+      "proud"
+    ],
+    "english_secondary": [
+      "pride"
+    ],
+    "maori": [
+      "whakahīhī"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "proud.839.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "proud.839.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        "family",
+        3266,
+        4656,
+        2556,
+        839
+      ],
+      "translation": "My family is fully deaf and I am proud of it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "proud-839.png"
+}

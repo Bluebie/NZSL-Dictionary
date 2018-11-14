@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3673,
+  "gloss": {
+    "english": [
+      "outstanding"
+    ],
+    "english_secondary": [
+      "best",
+      "brilliant",
+      "excellent"
+    ],
+    "maori": [
+      "tino pai",
+      "pai rawa"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "outstanding.3673.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "outstanding.3673.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3673,
+        5455,
+        2093,
+        2844,
+        4436
+      ],
+      "translation": "He gave an outstanding performance. The audience watched in amazement."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "outstanding-3673.png"
+}

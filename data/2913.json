@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2913,
+  "gloss": {
+    "english": [
+      "change (clothes)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tīni",
+      "whakahou"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "change.2913.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "change.2913.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1752,
+        264,
+        2556,
+        3176,
+        721,
+        2913,
+        6182,
+        499,
+        3434,
+        1083
+      ],
+      "translation": "It's a hot day and I'm sweating. I want to change my shirt before I visit a friend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "change_clothes-2913.png"
+}

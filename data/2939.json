@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 2939,
+  "gloss": {
+    "english": [
+      "astounded"
+    ],
+    "english_secondary": [
+      "amazed",
+      "astonished",
+      "dumbfounded",
+      "gobsmacked",
+      "lost for words",
+      "speechless"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "dumbfounded.2939.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dumbfounded.2939.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1031,
+        2939,
+        835,
+        922,
+        2556,
+        2308,
+        2883
+      ],
+      "translation": "When I arrived, I was astounded to see the steep hill I had to walk up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "astounded-2939.png"
+}

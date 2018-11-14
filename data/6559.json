@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6559,
+  "gloss": {
+    "english": [
+      "fishing"
+    ],
+    "english_secondary": [
+      "fish",
+      "fishing rod"
+    ],
+    "maori": [
+      "hī ika",
+      "mātira"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fishing.6559.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fishing.6559.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        5789,
+        1490,
+        924,
+        6559
+      ],
+      "translation": "A group of friends went fishing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fishing-6559.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5414,
+  "gloss": {
+    "english": [
+      "point of view"
+    ],
+    "english_secondary": [
+      "opinion",
+      "outlook",
+      "perspective"
+    ],
+    "maori": [
+      "whakaaro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "point_of_view.5414.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "point_of_view.5414.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        762,
+        5414,
+        2297,
+        4165,
+        5784,
+        1185
+      ],
+      "translation": "My point of view is that it's a waste of time and it's not needed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "point_of_view-5414.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6324,
+  "gloss": {
+    "english": [
+      "never"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kore rawa"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "never.6324.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "never.6324.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1747,
+        3194,
+        1697,
+        6324,
+        1752,
+        1697
+      ],
+      "translation": "I always have warm showers, never hot ones."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "never-6324.png"
+}

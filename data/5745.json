@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5745,
+  "gloss": {
+    "english": [
+      "bowls"
+    ],
+    "english_secondary": [
+      "bowling"
+    ],
+    "maori": [
+      "maita"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bowls.5745.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bowls.5745.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1165,
+        536,
+        4656,
+        1490,
+        1926,
+        5745
+      ],
+      "translation": "Every Sunday a group of Deaf people play bowls together."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bowls-5745.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4201,
+  "gloss": {
+    "english": [
+      "lunch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tina"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lunch.4201.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lunch.4201.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2461,
+        5789,
+        4201,
+        1300,
+        4022
+      ],
+      "translation": "I met a friend for lunch. We chatted and ate."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "lunch-4201.png"
+}

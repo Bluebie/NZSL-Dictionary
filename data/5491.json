@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 5491,
+  "gloss": {
+    "english": [
+      "bet",
+      "deal"
+    ],
+    "english_secondary": [
+      "put money on",
+      "wager"
+    ],
+    "maori": [
+      "peti",
+      "whakatau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bet.5491.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bet.5491.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5491,
+        1083,
+        1231,
+        233,
+        2184
+      ],
+      "translation": "I bet my friend that the baby would be a boy."
+    },
+    {
+      "video": "bet.5491.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        5491,
+        2556,
+        5632,
+        3276,
+        3462,
+        5621,
+        2290,
+        4224
+      ],
+      "translation": "We made a deal that I'd buy his car for $5000."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bet-5491.png"
+}

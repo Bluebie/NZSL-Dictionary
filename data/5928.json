@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5928,
+  "gloss": {
+    "english": [
+      "nephew"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "irāmutu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "nephew.5928.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nephew.5928.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        5928,
+        2515,
+        2297,
+        2099
+      ],
+      "translation": "It's my nephew's birthday - he's one year old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "nephew-5928.png"
+}

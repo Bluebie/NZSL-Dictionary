@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 1100,
+  "gloss": {
+    "english": [
+      "increments",
+      "(move up) scale"
+    ],
+    "english_secondary": [
+      "levels",
+      "pay scale",
+      "stages",
+      "steps"
+    ],
+    "maori": [
+      "whakapiki",
+      "piki haere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "increments.1100.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "increments.1100.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        797,
+        2583,
+        1376,
+        1902,
+        1100,
+        2463,
+        3620,
+        1107,
+        797,
+        2583
+      ],
+      "translation": "At work, there are wage increments according to experience and how long you have worked there."
+    },
+    {
+      "video": "increments.1100.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        1165,
+        2646,
+        1100
+      ],
+      "translation": "At work I move up the pay scale every year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "increments-1100.png"
+}

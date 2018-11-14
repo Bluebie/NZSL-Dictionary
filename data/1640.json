@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1640,
+  "gloss": {
+    "english": [
+      "sign language"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "reo turi",
+      "reo rotarota"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "sign_language.1640.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sign_language.1640.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2259,
+        2583,
+        1376,
+        1640,
+        3063,
+        3700,
+        4222,
+        2583
+      ],
+      "translation": "There is a sign language interpreter training course in Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sign_language-1640.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5227,
+  "gloss": {
+    "english": [
+      "self reflection"
+    ],
+    "english_secondary": [
+      "introspection",
+      "self awareness"
+    ],
+    "maori": [
+      "whakaaro",
+      "titiro"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "self_reflection.5227.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "self_reflection.5227.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3885,
+        4222,
+        2321,
+        5227,
+        5285,
+        5287,
+        1638,
+        2266
+      ],
+      "translation": "In this course, you will self reflect on Deaf culture and Deaf identity and what they mean."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "self_reflection-5227.png"
+}

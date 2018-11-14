@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 987,
+  "gloss": {
+    "english": [
+      "bald"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hewa",
+      "pākira"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "helmet.987.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "helmet.987.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        964,
+        5629,
+        987,
+        2297,
+        1752,
+        893
+      ],
+      "translation": "That tall, well-built bald guy is hot in rugby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "bald-987.png"
+}

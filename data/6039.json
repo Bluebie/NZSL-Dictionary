@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6039,
+  "gloss": {
+    "english": [
+      "circus"
+    ],
+    "english_secondary": [
+      "marquee",
+      "tent"
+    ],
+    "maori": [
+      "maninirau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "circus.6039.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "circus.6039.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5389,
+        549,
+        6039,
+        2844,
+        5455
+      ],
+      "translation": "The children love watching the performers at the circus."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "circus-6039.png"
+}

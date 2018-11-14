@@ -1,0 +1,73 @@
+{
+  "nzsl_id": 3634,
+  "gloss": {
+    "english": [
+      "alcohol",
+      "beer",
+      "drink (alcohol)"
+    ],
+    "english_secondary": [
+      "ale",
+      "booze",
+      "liquor"
+    ],
+    "maori": [
+      "waipiro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "beer.3634.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beer.3634.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        730,
+        3274,
+        3634,
+        1376,
+        4022,
+        2583,
+        5490
+      ],
+      "translation": "Bring your own alcohol. There will be food at the picnic."
+    },
+    {
+      "video": "beer.3634.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        5429,
+        4546,
+        2491,
+        3928,
+        4022,
+        3634,
+        4264
+      ],
+      "translation": "At the Christmas party the boss shouted food, beer and wine."
+    },
+    {
+      "video": "beer.3634.finalexample3.sp.r480x360.mp4",
+      "signs": [
+        5818,
+        1388,
+        3276,
+        845,
+        2844,
+        1250,
+        3634
+      ],
+      "translation": "They all went to his house, watched rugby and drank."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "alcohol-3634.png"
+}

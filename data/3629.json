@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3629,
+  "gloss": {
+    "english": [
+      "before"
+    ],
+    "english_secondary": [
+      "ex",
+      "former",
+      "formerly",
+      "in the past"
+    ],
+    "maori": [
+      "i mua"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "before.3629.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "before.3629.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3629,
+        2297,
+        347,
+        2583,
+        2259
+      ],
+      "translation": "He lived in Auckland before."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "before-3629.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3874,
+  "gloss": {
+    "english": [
+      "book-keeping"
+    ],
+    "english_secondary": [
+      "accountant",
+      "accounting",
+      "keep accounts"
+    ],
+    "maori": [
+      "tiaki pukapuka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "book_keeping.3874.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "book_keeping.3874.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4088,
+        5129,
+        3658,
+        3874,
+        4171,
+        3874
+      ],
+      "translation": "Businesses must maintain good book-keeping records."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "book_keeping-3874.png"
+}

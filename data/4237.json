@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4237,
+  "gloss": {
+    "english": [
+      "watermelon"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mereni",
+      "merengi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "watermelon.4237.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "watermelon.4237.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1732,
+        1752,
+        2556,
+        4237,
+        946,
+        6199,
+        5389
+      ],
+      "translation": "The weather was hot so I sliced some watermelon to give out to the children."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "watermelon-4237-default.png"
+}

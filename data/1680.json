@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 1680,
+  "gloss": {
+    "english": [
+      "nauseous",
+      "stomach ache"
+    ],
+    "english_secondary": [
+      "colic",
+      "feel sick",
+      "tummy ache"
+    ],
+    "maori": [
+      "whakapai ruaki",
+      "kōpito"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "colic.1680.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "colic.1680.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4022,
+        4579,
+        1680,
+        4623,
+        1288
+      ],
+      "translation": "He had food poisoning. He was nauseous, with vomiting and diarrhoea."
+    },
+    {
+      "video": "colic.1680.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        4982,
+        1680
+      ],
+      "translation": "My period gives me stomach ache."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "nauseous-1680.png"
+}

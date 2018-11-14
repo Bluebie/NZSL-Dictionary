@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6505,
+  "gloss": {
+    "english": [
+      "caravan"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waka noho"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "caravan.6505.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "caravan.6505.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        1403,
+        2556,
+        6180,
+        1636,
+        2946,
+        6505
+      ],
+      "translation": "In the holidays, my family and I travelled in a caravan."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "caravan-6505.png"
+}

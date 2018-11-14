@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5521,
+  "gloss": {
+    "english": [
+      "note"
+    ],
+    "english_secondary": [
+      "dollar"
+    ],
+    "maori": [
+      "moni"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "note.5521.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "note.5521.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        5618,
+        5521,
+        4501,
+        5768,
+        3059
+      ],
+      "translation": "I have a twenty dollar note. Can I change it for coins?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.2-ca9bde57ae4e666adfc0b63c51d11b298096bed39a4c56fe46226d8647649f22.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "note-5521.png"
+}

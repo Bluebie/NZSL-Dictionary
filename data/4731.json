@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 4731,
+  "gloss": {
+    "english": [
+      "airport",
+      "plane"
+    ],
+    "english_secondary": [
+      "aeroplane",
+      "flight",
+      "jet"
+    ],
+    "maori": [
+      "taunga rererangi",
+      "rererangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "airport.4731.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "airport.4731.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1031,
+        4731,
+        1367,
+        3518,
+        3583,
+        5915
+      ],
+      "translation": "When I arrived at the airport there was a queue for the baggage drop off."
+    },
+    {
+      "video": "airport.4731.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        4731,
+        5732,
+        2556,
+        3518,
+        5607,
+        2569
+      ],
+      "translation": "The plane was delayed and I waited for an hour."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "airport-4731.png"
+}

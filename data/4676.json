@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4676,
+  "gloss": {
+    "english": [
+      "north"
+    ],
+    "english_secondary": [
+      "northern",
+      "Northland",
+      "up north"
+    ],
+    "maori": [
+      "raki"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "north.4676.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "north.4676.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1513,
+        3954,
+        5465,
+        2583,
+        4676,
+        1467,
+        5619,
+        2646
+      ],
+      "translation": "I was a building apprentice for three years up north in Whangarei"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "north-4676.png"
+}

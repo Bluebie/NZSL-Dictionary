@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3623,
+  "gloss": {
+    "english": [
+      "famous"
+    ],
+    "english_secondary": [
+      "celebrity",
+      "distinguished",
+      "eminent",
+      "reputation",
+      "well-known"
+    ],
+    "maori": [
+      "rongonui"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "famous.3623.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "famous.3623.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4752,
+        2321,
+        3618,
+        2693,
+        1849,
+        2297,
+        3623,
+        1228,
+        3618
+      ],
+      "translation": "Do you know about Gallaudet University in Washington D.C.? It's famous - world renowned."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "famous-3623.png"
+}

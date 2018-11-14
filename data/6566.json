@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6566,
+  "gloss": {
+    "english": [
+      "Ministry of Education"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Te Tāhuhu o te Mātauranga"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "Ministry_of_Education.6566.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Ministry_of_Education.6566.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6566,
+        1376,
+        2607,
+        2467,
+        4656,
+        4054
+      ],
+      "translation": "The Ministry of Education held a meeting to discuss deaf education."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "ministry_of_education-6566.png"
+}

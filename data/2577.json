@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 2577,
+  "gloss": {
+    "english": [
+      "apron"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ārai"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "apron.2577.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "apron.2577.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        604,
+        2297,
+        5448,
+        2577
+      ],
+      "translation": "He wore an apron while doing the barbecue."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "apron-2577.png"
+}

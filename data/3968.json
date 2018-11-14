@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3968,
+  "gloss": {
+    "english": [
+      "dressing gown"
+    ],
+    "english_secondary": [
+      "bathrobe",
+      "robe"
+    ],
+    "maori": [
+      "pueru whakakākahu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dressing_gown.3968.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dressing_gown.3968.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3050,
+        1071,
+        2556,
+        4701,
+        3844,
+        3968,
+        3878
+      ],
+      "translation": "My husband woke me up. I got up, put on my dressing gown, and had breakfast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "dressing_gown-3968.png"
+}

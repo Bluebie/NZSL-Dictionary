@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5021,
+  "gloss": {
+    "english": [
+      "cart"
+    ],
+    "english_secondary": [
+      "carriage",
+      "drive a carriage",
+      "reins"
+    ],
+    "maori": [
+      "kāta"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cart.5021.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cart.5021.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        785,
+        2583,
+        2879,
+        3653,
+        3382,
+        5021,
+        2605,
+        3643
+      ],
+      "translation": "We took a horse and cart ride around the park. It was really fun."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cart-5021.png"
+}

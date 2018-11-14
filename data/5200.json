@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5200,
+  "gloss": {
+    "english": [
+      "lose one's virginity"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "riro te puhitanga"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lose_virginity.5200.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lose_virginity.5200.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5200,
+        5663,
+        5784,
+        4015,
+        1463,
+        2099,
+        5615,
+        2297
+      ],
+      "translation": "She has lost her virginity. She had sex for the first time when she was about eighteen years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "lose_one_s_virginity-5200.png"
+}

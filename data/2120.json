@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2120,
+  "gloss": {
+    "english": [
+      "noise"
+    ],
+    "english_secondary": [
+      "noisily",
+      "noisy",
+      "sound"
+    ],
+    "maori": [
+      "hoihoi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "noise.2120.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "noise.2120.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4656,
+        3534,
+        1553,
+        2120,
+        3775,
+        335
+      ],
+      "translation": "When deaf people wash the dishes they make enough noise for the neighbours to hear."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "noise-2120.png"
+}

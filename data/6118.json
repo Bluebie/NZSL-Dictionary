@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6118,
+  "gloss": {
+    "english": [
+      "mental health"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hauora hinengaro"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "mental_health.6118.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mental_health.6118.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        4656,
+        6118,
+        2461,
+        4656,
+        1211,
+        5442
+      ],
+      "translation": "He works in Deaf mental health. He meets with Deaf people to consult with them and give them support."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "mental_health-6118.png"
+}

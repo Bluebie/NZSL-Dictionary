@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6504,
+  "gloss": {
+    "english": [
+      "basement"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūwhenua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "basement.6504.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "basement.6504.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3300,
+        845,
+        1376,
+        6504,
+        4501,
+        564,
+        4138,
+        6504
+      ],
+      "translation": "my house has a basement. You can put the boxes there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "basement-6504.png"
+}

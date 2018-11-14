@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2407,
+  "gloss": {
+    "english": [
+      "east"
+    ],
+    "english_secondary": [
+      "eastern"
+    ],
+    "maori": [
+      "rāwhiti",
+      "Te Tai Rāwhiti"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "east.2407.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "east.2407.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2619,
+        2556,
+        565,
+        5738,
+        2407
+      ],
+      "translation": "I live in East Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "east-2407.png"
+}

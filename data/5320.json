@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5320,
+  "gloss": {
+    "english": [
+      "semantics"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "wetetikangakupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "semantics.5320.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "semantics.5320.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        972,
+        5873,
+        5415,
+        3261,
+        5320,
+        2266
+      ],
+      "translation": "He gave an in-depth lecture on NZSL semantics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "semantics-5320.png"
+}

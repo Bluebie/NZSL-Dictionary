@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5529,
+  "gloss": {
+    "english": [
+      "meet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tutaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "meet.5529.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meet.5529.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        2589,
+        2297,
+        2049,
+        2216,
+        5529,
+        6007
+      ],
+      "translation": "Today, his parents met the principal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "meet-5529.png"
+}

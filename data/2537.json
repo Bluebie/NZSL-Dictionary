@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2537,
+  "gloss": {
+    "english": [
+      "divide"
+    ],
+    "english_secondary": [
+      "division"
+    ],
+    "maori": [
+      "tauwehe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "divide.2537.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "divide.2537.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5612,
+        2537,
+        5621,
+        2874,
+        5619
+      ],
+      "translation": "Fifteen divided by five equals three."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "divide-2537.png"
+}

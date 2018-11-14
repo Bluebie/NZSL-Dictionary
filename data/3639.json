@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3639,
+  "gloss": {
+    "english": [
+      "funny"
+    ],
+    "english_secondary": [
+      "amusing",
+      "comical",
+      "hilarious",
+      "humour",
+      "humorous",
+      "odd"
+    ],
+    "maori": [
+      "ngahau",
+      "hātekēhi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "funny.3639.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "funny.3639.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        5736,
+        1038,
+        3639,
+        2297,
+        2751
+      ],
+      "translation": "He told a funny story and we laughed."
+    },
+    {
+      "video": "funny.3639.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        5536,
+        3639,
+        2050,
+        2556,
+        5643
+      ],
+      "translation": "I thought: \"I feel funny. I think I'm pregnant.\""
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "funny-3639.png"
+}

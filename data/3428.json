@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3428,
+  "gloss": {
+    "english": [
+      "their"
+    ],
+    "english_secondary": [
+      "their own",
+      "theirs"
+    ],
+    "maori": [
+      "ā rātou",
+      "ō rātou",
+      "ā rāua",
+      "ō rāua"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "their.3428.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "their.3428.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3428,
+        5389,
+        1050,
+        959,
+        1178,
+        856
+      ],
+      "translation": "Their children are now all grown up and have left home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "their-3428.png"
+}

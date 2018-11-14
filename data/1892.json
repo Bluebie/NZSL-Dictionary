@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 1892,
+  "gloss": {
+    "english": [
+      "shock",
+      "surprise"
+    ],
+    "english_secondary": [
+      "be shocked",
+      "be surprised",
+      "horrified"
+    ],
+    "maori": [
+      "ohorere",
+      "mīharo"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "shock.1892.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shock.1892.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1892,
+        1756,
+        2297,
+        5494,
+        638,
+        4097
+      ],
+      "translation": "I was shocked and astounded. He was arrested for stealing money."
+    },
+    {
+      "video": "shock.1892.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2883,
+        624,
+        1892,
+        2095,
+        "cl:semi-circle",
+        2515
+      ],
+      "translation": "I was walking up to the door when it opened. What a surprise! There were people gathered around singing happy birthday."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "shock-1892.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5711,
+  "gloss": {
+    "english": [
+      "sixty"
+    ],
+    "english_secondary": [
+      "60"
+    ],
+    "maori": [
+      "ono tekau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "sixty.5711.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sixty.5711.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5627,
+        2556,
+        5994,
+        5711,
+        4224
+      ],
+      "translation": "I withdrew sixty dollars from the ATM."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sixty-5711.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4124,
+  "gloss": {
+    "english": [
+      "plant"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tipu",
+      "tupu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "plant.4124.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plant.4124.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        856,
+        4124,
+        385,
+        "hose",
+        2549
+      ],
+      "translation": "Please water my plants at home for me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "plant-4124.png"
+}

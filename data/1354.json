@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1354,
+  "gloss": {
+    "english": [
+      "Israel"
+    ],
+    "english_secondary": [
+      "Israeli"
+    ],
+    "maori": [
+      "Iharaira"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Israel.1354.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Israel.1354.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3086,
+        4573,
+        1354,
+        5607,
+        4763,
+        4573
+      ],
+      "translation": "I plan to fly to Israel and fly back after a month."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Israel-1354.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5373,
+  "gloss": {
+    "english": [
+      "software"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūmanawa rorohiko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "software.5373.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "software.5373.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3434,
+        1637,
+        1287,
+        5373,
+        4169,
+        1659
+      ],
+      "translation": "He visited me and explained how to install software on my computer."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "software-5373.png"
+}

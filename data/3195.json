@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 3195,
+  "gloss": {
+    "english": [
+      "embarrassed"
+    ],
+    "english_secondary": [
+      "ashamed",
+      "blush",
+      "embarrassment",
+      "uncomfortable"
+    ],
+    "maori": [
+      "whakamā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "embarrassed.3195.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "embarrassed.3195.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        4006,
+        3517,
+        845,
+        499,
+        1083,
+        3434,
+        2556,
+        3195
+      ],
+      "translation": "I was embarrassed as I forgot to clean the house before my friend came to visit."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "embarrassed-3195.png"
+}

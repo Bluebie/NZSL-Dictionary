@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4849,
+  "gloss": {
+    "english": [
+      "Parliament"
+    ],
+    "english_secondary": [
+      "House of Representatives"
+    ],
+    "maori": [
+      "Pāremata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Parliament.4849.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Parliament.4849.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4849,
+        2583,
+        5818,
+        4866,
+        1211,
+        4168
+      ],
+      "translation": "In Parliament, all the MP's discussed the vote."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Parliament-4849.png"
+}

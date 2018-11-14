@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3497,
+  "gloss": {
+    "english": [
+      "not suitable"
+    ],
+    "english_secondary": [
+      "incompatible",
+      "not suited to",
+      "unsuitable"
+    ],
+    "maori": [
+      "kāore i pai"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "incompatible.3497.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "incompatible.3497.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4249,
+        "cl:seat-in-row",
+        3497,
+        4656,
+        3673,
+        "cl:chairs-semi-circle",
+        2215,
+        2844
+      ],
+      "translation": "Having the seats in class set up in rows is not suitable for Deaf people. It is best to have the chairs in a semi-circle so that everyone can see each other."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "not_suitable-3497.png"
+}

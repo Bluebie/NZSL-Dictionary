@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5825,
+  "gloss": {
+    "english": [
+      "fabric"
+    ],
+    "english_secondary": [
+      "cloth",
+      "cotton",
+      "material",
+      "nylon",
+      "silk",
+      "wool"
+    ],
+    "maori": [
+      "papanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fabric.5825.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fabric.5825.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1513,
+        6292,
+        5962,
+        903,
+        5825,
+        1523
+      ],
+      "translation": "I learnt how to screenprint on fabric for clothes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fabric-5825.png"
+}

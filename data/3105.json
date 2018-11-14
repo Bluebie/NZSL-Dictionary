@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3105,
+  "gloss": {
+    "english": [
+      "don't care"
+    ],
+    "english_secondary": [
+      "disrespect",
+      "lack of regard for",
+      "not care for",
+      "not respect"
+    ],
+    "maori": [
+      "kāore he aha",
+      "hei aha atu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "don_t_care.3105.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "don_t_care.3105.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        3105,
+        4811,
+        4307,
+        "cl:shoe-on",
+        4746
+      ],
+      "translation": "The man didn't care about wearing shoes on the marae."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "don_t_care-3105.png"
+}

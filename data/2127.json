@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2127,
+  "gloss": {
+    "english": [
+      "check"
+    ],
+    "english_secondary": [
+      "examine",
+      "inspect"
+    ],
+    "maori": [
+      "tirotiro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "check.2127.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "check.2127.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3434,
+        4520,
+        2127,
+        5854,
+        "cl:lump-in-breast",
+        1376
+      ],
+      "translation": "She visited the doctor to check a lump in her breast, and the doctor confirmed there was one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "check-2127.png"
+}

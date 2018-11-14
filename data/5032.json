@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5032,
+  "gloss": {
+    "english": [
+      "curly hair"
+    ],
+    "english_secondary": [
+      "curly",
+      "curly-haired"
+    ],
+    "maori": [
+      "mingimingi",
+      "hūmenge"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "curly_hair.5032.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "curly_hair.5032.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        5032,
+        6207,
+        2297,
+        449
+      ],
+      "translation": "Previously she had curly hair but now it's straight."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "curly_hair-5032.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6547,
+  "gloss": {
+    "english": [
+      "seven-a-side"
+    ],
+    "english_secondary": [
+      "7-a-side"
+    ],
+    "maori": [
+      "takiwhitu"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "7_a_side.6547.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "7_a_side.6547.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4738,
+        3623,
+        6547,
+        1388,
+        5623
+      ],
+      "translation": "Wellington has a famous seven-a-side tournament. Lots of people attend every year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "seven_a_side-6547.png"
+}

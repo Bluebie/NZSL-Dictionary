@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 4447,
+  "gloss": {
+    "english": [
+      "welfare"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "toko i te ora"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "welfare.4447.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "welfare.4447.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        1463,
+        5702,
+        5624,
+        4056,
+        4656,
+        5435,
+        1376,
+        4447,
+        3800,
+        1123,
+        4656,
+        2095
+      ],
+      "translation": "Around 1980, the Deaf Association had a welfare office to help deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "welfare-4447.png"
+}

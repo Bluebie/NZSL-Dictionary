@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2686,
+  "gloss": {
+    "english": [
+      "Germany"
+    ],
+    "english_secondary": [
+      "German"
+    ],
+    "maori": [
+      "Tiamana"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Germany.2686.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Germany.2686.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3462,
+        "fs:bmw",
+        2297,
+        3375,
+        2686,
+        2583
+      ],
+      "translation": "BMW cars are made in Germany."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "Germany-2686.png"
+}

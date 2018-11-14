@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3492,
+  "gloss": {
+    "english": [
+      "catch fire"
+    ],
+    "english_secondary": [
+      "burst into flames",
+      "ignite",
+      "on fire"
+    ],
+    "maori": [
+      "wera"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "burst_into_flames.3492.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "burst_into_flames.3492.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        604,
+        6027,
+        3492,
+        3441,
+        6287,
+        1806
+      ],
+      "translation": "The man was using the barbecue when something went wrong and it caught on fire. He got burnt and was sent to the hospital."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "catch_fire-3492.png"
+}

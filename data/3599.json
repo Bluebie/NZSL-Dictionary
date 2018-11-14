@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3599,
+  "gloss": {
+    "english": [
+      "corkscrew"
+    ],
+    "english_secondary": [
+      "use a corkscrew"
+    ],
+    "maori": [
+      "takawiri"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "corkscrew.3599.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "corkscrew.3599.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        6017,
+        1763,
+        3599,
+        1376,
+        2321
+      ],
+      "translation": "I've got a bottle of wine. Do you have a corkscrew?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "corkscrew-3599.png"
+}

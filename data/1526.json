@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1526,
+  "gloss": {
+    "english": [
+      "light wind"
+    ],
+    "english_secondary": [
+      "breeze",
+      "breezy",
+      "draught",
+      "draughty"
+    ],
+    "maori": [
+      "hau matangi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "wind.1526.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wind.1526.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2589,
+        1732,
+        1526,
+        5949,
+        264,
+        590
+      ],
+      "translation": "Today it's sunny with light wind. It's a perfect day to go yachting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "light_wind-1526.png"
+}

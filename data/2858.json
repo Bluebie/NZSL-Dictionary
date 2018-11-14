@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2858,
+  "gloss": {
+    "english": [
+      "inch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "īnihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "inch.2858.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inch.2858.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        1231,
+        3542,
+        2297,
+        705,
+        5618,
+        2858,
+        705
+      ],
+      "translation": "When the baby was born it was twenty inches long."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "inch-2858.png"
+}

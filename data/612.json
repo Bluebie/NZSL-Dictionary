@@ -1,0 +1,74 @@
+{
+  "nzsl_id": 612,
+  "gloss": {
+    "english": [
+      "slip",
+      "slip up",
+      "let slip"
+    ],
+    "english_secondary": [
+      "by mistake",
+      "inadvertently",
+      "unplanned pregnancy"
+    ],
+    "maori": [
+      "hinga",
+      "paheke"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "slip.612.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "slip.612.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        825,
+        970,
+        3962,
+        285,
+        4317,
+        463,
+        612
+      ],
+      "translation": "The floor was mopped not long ago. It's still wet, so be careful. You might slip."
+    },
+    {
+      "video": "slip.612.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3435,
+        1277,
+        3027,
+        3086,
+        612
+      ],
+      "translation": "Her pregnancy came as a shock. It was not planned and was a slip up."
+    },
+    {
+      "video": "slip.612.finalexample3.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        612,
+        2466,
+        2297,
+        3618,
+        2543,
+        4141,
+        4546
+      ],
+      "translation": "He let something slip while he was talking, so she knew about the surprise party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "slip-612.png"
+}

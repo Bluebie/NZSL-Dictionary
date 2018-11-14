@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 1611,
+  "gloss": {
+    "english": [
+      "deduct",
+      "subtract"
+    ],
+    "english_secondary": [
+      "deduction",
+      "subtraction",
+      "take away",
+      "take from",
+      "take out"
+    ],
+    "maori": [
+      "tango",
+      "tangohia"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "deduct.1611.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deduct.1611.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        797,
+        1902,
+        4895,
+        1611,
+        2299,
+        1772
+      ],
+      "translation": "Tax is deducted from my work earnings and given to the government."
+    },
+    {
+      "video": "deduct.1611.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4065,
+        2398,
+        1490,
+        1611,
+        5623,
+        1372,
+        432,
+        2297
+      ],
+      "translation": "If you have 10 eggs and you subtract 7, how many are left?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "deduct-1611.png"
+}

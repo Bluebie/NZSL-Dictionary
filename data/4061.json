@@ -1,0 +1,66 @@
+{
+  "nzsl_id": 4061,
+  "gloss": {
+    "english": [
+      "pepper",
+      "salt",
+      "sauce"
+    ],
+    "english_secondary": [
+      "spice"
+    ],
+    "maori": [
+      "pepa",
+      "tote",
+      "kīnaki"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "salt.4061.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "salt.4061.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        485,
+        4061,
+        385,
+        2297
+      ],
+      "translation": "Please pass the pepper."
+    },
+    {
+      "video": "salt.4061.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        964,
+        "cl:blood-pressure",
+        1505,
+        4061,
+        1860
+      ],
+      "translation": "His blood pressure is high from too much salt."
+    },
+    {
+      "video": "salt.4061.finalexample3.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        721,
+        1698,
+        4061,
+        2297
+      ],
+      "translation": "Do you want tomato sauce on it?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "salt-4061.png"
+}

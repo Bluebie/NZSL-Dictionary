@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 6000,
+  "gloss": {
+    "english": [
+      "land"
+    ],
+    "english_secondary": [
+      "beach",
+      "country",
+      "farm",
+      "field",
+      "garden",
+      "grass",
+      "ground",
+      "lawn",
+      "park",
+      "playground",
+      "property"
+    ],
+    "maori": [
+      "whenua",
+      "pito whenua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "land.6000.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "land.6000.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        3368,
+        5399,
+        5632,
+        6000,
+        3469
+      ],
+      "translation": "I got a bank loan to buy my own land."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "land-6000.png"
+}

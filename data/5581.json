@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5581,
+  "gloss": {
+    "english": [
+      "mobile phone"
+    ],
+    "english_secondary": [
+      "cordless phone"
+    ],
+    "maori": [
+      "waea pūkoro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mobile_phone.5581.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mobile_phone.5581.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        5581,
+        4097,
+        4801,
+        1185,
+        6301
+      ],
+      "translation": "Her mobile phone ran out of money and needed topping up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "mobile_phone-5581.png"
+}

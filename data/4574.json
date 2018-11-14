@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4574,
+  "gloss": {
+    "english": [
+      "ring up"
+    ],
+    "english_secondary": [
+      "call",
+      "phone",
+      "ring",
+      "use telephone"
+    ],
+    "maori": [
+      "waea"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "ring_up_phone.4574.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ring_up_phone.4574.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3009,
+        5794,
+        385,
+        4574,
+        3009,
+        5789,
+        2533,
+        2812
+      ],
+      "translation": "I asked my mum if she could please ring up my friend and ask him to come and pick me up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.6.1-916d6554d7301a63a5b2fdeff5e43f2128ec17888b64c383c9b9beda21d619d0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ring_up-4574.png"
+}

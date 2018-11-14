@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5336,
+  "gloss": {
+    "english": [
+      "verb"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kupu mahi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "verb.5336.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "verb.5336.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5336,
+        2297,
+        4421,
+        1638,
+        4326,
+        5264,
+        2743
+      ],
+      "translation": "A verb is a word that means an action is performed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "verb-5336.png"
+}

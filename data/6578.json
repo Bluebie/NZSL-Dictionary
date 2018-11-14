@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6578,
+  "gloss": {
+    "english": [
+      "Wi-Fi"
+    ],
+    "english_secondary": [
+      "WiFi",
+      "wireless local area network"
+    ],
+    "maori": [
+      "ahokore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "WiFi.6578.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "WiFi.6578.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        2406,
+        5738,
+        1376,
+        3013,
+        6578
+      ],
+      "translation": "There is free Wi-Fi in the city."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wi_fi-6578.png"
+}

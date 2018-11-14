@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3866,
+  "gloss": {
+    "english": [
+      "appointment"
+    ],
+    "english_secondary": [
+      "arrange to meet"
+    ],
+    "maori": [
+      "whakaritenga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "appointment.3866.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "appointment.3866.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        1561,
+        389,
+        3866,
+        4520,
+        2583
+      ],
+      "translation": "I have a sore throat so I've made an appointment with the doctor."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "appointment-3866.png"
+}

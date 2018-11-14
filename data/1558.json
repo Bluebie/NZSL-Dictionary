@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1558,
+  "gloss": {
+    "english": [
+      "expensive"
+    ],
+    "english_secondary": [
+      "costly",
+      "dear"
+    ],
+    "maori": [
+      "nui te utu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "expensive.1558.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "expensive.1558.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        952,
+        1558,
+        2556,
+        "pay",
+        5619,
+        386,
+        4224,
+        5607,
+        5391
+      ],
+      "translation": "The hotel was expensive. I paid three hundred dollars for one night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "expensive-1558.png"
+}

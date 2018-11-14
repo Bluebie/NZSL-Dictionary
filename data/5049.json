@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5049,
+  "gloss": {
+    "english": [
+      "mile"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "maero"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mile.5049.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mile.5049.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3701,
+        2583,
+        5731,
+        2583,
+        2729,
+        5618,
+        5049,
+        2729
+      ],
+      "translation": "From the farm it's a long way to the shops. It's twenty miles. That's far!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "mile-5049.png"
+}

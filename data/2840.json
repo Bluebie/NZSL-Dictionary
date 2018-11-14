@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2840,
+  "gloss": {
+    "english": [
+      "ugly"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "weriweri",
+      "anuanu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "ugly.2840.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ugly.2840.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4948,
+        2840,
+        5648,
+        2990,
+        3086,
+        1707
+      ],
+      "translation": "That building is ugly - it's wrecked. The council is planning to pull it down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "ugly-2840.png"
+}

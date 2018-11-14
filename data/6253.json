@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6253,
+  "gloss": {
+    "english": [
+      "broken"
+    ],
+    "english_secondary": [
+      "damaged beyond repair",
+      "fucked",
+      "had it",
+      "kaput",
+      "wrecked"
+    ],
+    "maori": [
+      "pakaru",
+      "kore he take"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "broken.6253.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "broken.6253.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1659,
+        3571,
+        6253,
+        3447,
+        5632,
+        1095
+      ],
+      "translation": "My computer broke. It was kaput so I threw it out and bought a new one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "broken-6253.png"
+}

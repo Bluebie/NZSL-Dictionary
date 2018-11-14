@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2975,
+  "gloss": {
+    "english": [
+      "vampire"
+    ],
+    "english_secondary": [
+      "Dracula"
+    ],
+    "maori": [
+      "pekapeka kai toto"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "vampire.2975.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "vampire.2975.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        "movie",
+        2543,
+        2975,
+        2556,
+        2844,
+        362
+      ],
+      "translation": "I watched a movie about vampires. It was boring."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "vampire-2975.png"
+}

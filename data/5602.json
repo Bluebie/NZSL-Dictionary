@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5602,
+  "gloss": {
+    "english": [
+      "capital (letter)"
+    ],
+    "english_secondary": [
+      "upper case"
+    ],
+    "maori": [
+      "pūmatua"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "capital.5602.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "capital.5602.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5833,
+        385,
+        3949,
+        5602
+      ],
+      "translation": "Please fill out the form in capital letters."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "capital_letter-5602.png"
+}

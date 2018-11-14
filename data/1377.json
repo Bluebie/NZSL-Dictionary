@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1377,
+  "gloss": {
+    "english": [
+      "revenge"
+    ],
+    "english_secondary": [
+      "get even",
+      "get one's own back",
+      "pay back",
+      "reprisal"
+    ],
+    "maori": [
+      "utu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "revenge.1377.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "revenge.1377.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1119,
+        4817,
+        1377,
+        2921,
+        1119,
+        3848
+      ],
+      "translation": "I lost a table-tennis game but got my revenge when we played again and I won."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "revenge-1377.png"
+}

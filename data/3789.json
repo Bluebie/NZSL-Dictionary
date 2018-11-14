@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3789,
+  "gloss": {
+    "english": [
+      "strap"
+    ],
+    "english_secondary": [
+      "corporal punishment"
+    ],
+    "maori": [
+      "tarapu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "strap.3789.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "strap.3789.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        4689,
+        1279,
+        1298,
+        3642,
+        601,
+        2021,
+        3789
+      ],
+      "translation": "Back then, if my father was naughty at school, the teacher would give him the strap."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "strap-3789.png"
+}

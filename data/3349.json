@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3349,
+  "gloss": {
+    "english": [
+      "take apart",
+      "unpack"
+    ],
+    "english_secondary": [
+      "dismantle",
+      "rummage"
+    ],
+    "maori": [
+      "wetewete"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "take_apart.3349.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "take_apart.3349.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3462,
+        "cl:car-body",
+        3530,
+        "cl:car-wreck",
+        5617,
+        3220,
+        3349,
+        3860
+      ],
+      "translation": "The car was damaged in a crash. Two men took it apart and started panel beating."
+    },
+    {
+      "video": "take_apart.3349.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3406,
+        2556,
+        3349,
+        1716,
+        5382,
+        805
+      ],
+      "translation": "I unpacked my bag and was relieved to find my passport."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "take_apart-3349.png"
+}

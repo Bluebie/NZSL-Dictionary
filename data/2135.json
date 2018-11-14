@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2135,
+  "gloss": {
+    "english": [
+      "girl"
+    ],
+    "english_secondary": [
+      "female",
+      "feminine",
+      "girlfriend"
+    ],
+    "maori": [
+      "kōtiro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "girl.2135.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "girl.2135.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3055,
+        1376,
+        5389,
+        5617,
+        2135
+      ],
+      "translation": "She is married and has two girls."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "girl-2135.png"
+}

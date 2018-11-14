@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1101,
+  "gloss": {
+    "english": [
+      "chairperson"
+    ],
+    "english_secondary": [
+      "chair",
+      "chairman",
+      "chairwoman"
+    ],
+    "maori": [
+      "tiamana",
+      "heamana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chairperson.1101.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chairperson.1101.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1050,
+        4316,
+        1101,
+        "control",
+        2990,
+        2297
+      ],
+      "translation": "He's now involved as a chairperson, managing the committee."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "chairperson-1101.png"
+}

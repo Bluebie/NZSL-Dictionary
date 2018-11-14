@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4269,
+  "gloss": {
+    "english": [
+      "breech (birth)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whānau kōaro"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "breech_delivery.4269.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breech_delivery.4269.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        233,
+        1231,
+        4269,
+        5129,
+        3969
+      ],
+      "translation": "The baby was in a breech position, so she had a caesarean."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "breech_birth-4269.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3225,
+  "gloss": {
+    "english": [
+      "stuck"
+    ],
+    "english_secondary": [
+      "blocked",
+      "stranded",
+      "stymied"
+    ],
+    "maori": [
+      "raru"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "stuck.3225.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stuck.3225.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2606,
+        4318,
+        5106,
+        2606,
+        1376,
+        3027,
+        "well",
+        3225,
+        2743
+      ],
+      "translation": "We had a flat tyre and didn't have another one. We were stuck and didn't know what to do."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "stuck-3225.png"
+}

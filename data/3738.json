@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3738,
+  "gloss": {
+    "english": [
+      "hard of hearing"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "turi"
+    ],
+    "attributes": [
+      "adjective",
+      "phrase"
+    ]
+  },
+  "video": "hard_of_hearing.3738.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hard_of_hearing.3738.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4616,
+        2297,
+        2099,
+        5624,
+        5621,
+        2297,
+        3738,
+        2297
+      ],
+      "translation": "My uncle is 85 and hard of hearing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "hard_of_hearing-3738.png"
+}

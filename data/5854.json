@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5854,
+  "gloss": {
+    "english": [
+      "breast(s)"
+    ],
+    "english_secondary": [
+      "bust"
+    ],
+    "maori": [
+      "ū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "breast.5854.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "breast.5854.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5643,
+        1555,
+        3919,
+        5854,
+        "cl:breast-grow"
+      ],
+      "translation": "When you're pregnant, your body changes and your breasts get bigger."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "breast-5854.png"
+}

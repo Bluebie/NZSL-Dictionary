@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1172,
+  "gloss": {
+    "english": [
+      "further"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kō atu"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "further.1172.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "further.1172.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3430,
+        2457,
+        1172,
+        4809,
+        1031
+      ],
+      "translation": "I drove and still had further to go. We had yet to arrive."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "further-1172.png"
+}

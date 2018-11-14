@@ -1,0 +1,66 @@
+{
+  "nzsl_id": 2087,
+  "gloss": {
+    "english": [
+      "proof",
+      "witness"
+    ],
+    "english_secondary": [
+      "evidence",
+      "eye-witness",
+      "prove",
+      "see it happen"
+    ],
+    "maori": [
+      "tohu",
+      "tohu whakaū",
+      "kaitaunaki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "witness.2087.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "witness.2087.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3368,
+        2297,
+        721,
+        2087,
+        5833,
+        1020,
+        2556,
+        1902,
+        2556
+      ],
+      "translation": "The bank wanted written proof of how much I earned."
+    },
+    {
+      "video": "witness.2087.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2087,
+        2583,
+        3935,
+        2190,
+        3653,
+        2844,
+        2297,
+        1901,
+        2297
+      ],
+      "translation": "The witness in court said he saw the theft."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "proof-2087.png"
+}

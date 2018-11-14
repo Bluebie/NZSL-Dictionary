@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6428,
+  "gloss": {
+    "english": [
+      "magnet"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "autō"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "magnet.6428.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "magnet.6428.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        "cochlear",
+        4658,
+        1376,
+        6428,
+        2297
+      ],
+      "translation": "Cochlear implants have a magnet inside."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "magnet-6428.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4015,
+  "gloss": {
+    "english": [
+      "sex"
+    ],
+    "english_secondary": [
+      "fuck",
+      "intercourse"
+    ],
+    "maori": [
+      "ai",
+      "ekeeke",
+      "onioni"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "sex.4015.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sex.4015.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5448,
+        4523,
+        5480,
+        4015
+      ],
+      "translation": "Use a condom for safe sex."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "sex-4015.png"
+}

@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3044,
+  "gloss": {
+    "english": [
+      "watch"
+    ],
+    "english_secondary": [
+      "wristwatch"
+    ],
+    "maori": [
+      "wati"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "watch.3044.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "watch.3044.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        797,
+        2479,
+        4088,
+        1107,
+        5716,
+        2646,
+        2297,
+        3938,
+        3044
+      ],
+      "translation": "The man had worked in the same company for twenty five years. He was given a watch as a reward."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "watch-3044.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5972,
+  "gloss": {
+    "english": [
+      "subject"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaupapa",
+      "take"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "subject.5972.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "subject.5972.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4051,
+        5972,
+        2410,
+        2117,
+        4249,
+        4051,
+        1490,
+        4656
+      ],
+      "translation": "For some subjects I went to a class with hearing students and for others I was with a group of Deaf students."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "subject-5972.png"
+}

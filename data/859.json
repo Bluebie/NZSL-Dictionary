@@ -1,0 +1,66 @@
+{
+  "nzsl_id": 859,
+  "gloss": {
+    "english": [
+      "boat",
+      "sail"
+    ],
+    "english_secondary": [
+      "cruise",
+      "ferry",
+      "go boating",
+      "ship"
+    ],
+    "maori": [
+      "poti",
+      "tere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "boat.859.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "boat.859.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5617,
+        4656,
+        "cl:two-people-come",
+        762,
+        859,
+        2556,
+        4054,
+        1287,
+        590
+      ],
+      "translation": "Two Deaf people came on my boat and I taught them how to sail."
+    },
+    {
+      "video": "boat.859.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        3338,
+        859,
+        1505,
+        2583,
+        "england",
+        2299,
+        4214,
+        1095,
+        5806
+      ],
+      "translation": "My grandmother sailed from England to Christchurch for a new life."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "boat-859.png"
+}

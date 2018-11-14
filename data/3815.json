@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 3815,
+  "gloss": {
+    "english": [
+      "brush teeth",
+      "toothbrush"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "paraihe niho"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "toothbrush.3815.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "toothbrush.3815.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4701,
+        347,
+        5006,
+        6287,
+        3878,
+        5971,
+        3815
+      ],
+      "translation": "I got up and made the bed, had breakfast and then brushed my teeth."
+    },
+    {
+      "video": "toothbrush.3815.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3815,
+        2841,
+        1243,
+        2556,
+        3248
+      ],
+      "translation": "My toothbrush was old and worn out, so I put it in the rubbish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "brush_teeth-3815.png"
+}

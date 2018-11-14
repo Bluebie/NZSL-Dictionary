@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 353,
+  "gloss": {
+    "english": [
+      "oops"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "auē"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "oops.353.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oops.353.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        3524,
+        6027,
+        3216,
+        4731,
+        353,
+        2393,
+        3919
+      ],
+      "translation": "Oops, she booked the wrong date for her flight. It's too late to change it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "oops-353.png"
+}

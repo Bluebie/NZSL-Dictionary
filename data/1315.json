@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1315,
+  "gloss": {
+    "english": [
+      "light off"
+    ],
+    "english_secondary": [
+      "put out (lights)",
+      "turn off"
+    ],
+    "maori": [
+      "tineia te raiti",
+      "whakawetohia te raiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "light_off.1315.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "light_off.1315.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4765,
+        4138,
+        5389,
+        347,
+        3658,
+        5391,
+        4105,
+        1315
+      ],
+      "translation": "The mother put the children to bed. She said goodnight, kissed them and turned the light off."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "light_off-1315.png"
+}

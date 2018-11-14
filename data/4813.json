@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4813,
+  "gloss": {
+    "english": [
+      "Europe"
+    ],
+    "english_secondary": [
+      "European"
+    ],
+    "maori": [
+      "Ūropi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "european.4813.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "european.4813.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4813,
+        2583,
+        2556,
+        2946,
+        4809,
+        721,
+        2410
+      ],
+      "translation": "I haven't travelled around Europe yet. I want to go there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.4.2-f4beedd3b7fdcf619db44d3c074d7c055c814f11db488db96a8e60d0c3db06e0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Europe-4813.png"
+}

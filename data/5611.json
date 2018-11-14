@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5611,
+  "gloss": {
+    "english": [
+      "fourteen"
+    ],
+    "english_secondary": [
+      "14"
+    ],
+    "maori": [
+      "tekau mā whā"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "fourteen.5611.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fourteen.5611.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        307,
+        611,
+        2050,
+        1463,
+        5611,
+        2569,
+        4731
+      ],
+      "translation": "I don't know how long the flight is, but I think it's around fourteen hours."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.2-7cc67b87c1017fa1df2388412d24985abc901997205df484334b6eb045e0266a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fourteen-5611.png"
+}

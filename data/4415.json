@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4415,
+  "gloss": {
+    "english": [
+      "fallopian tube"
+    ],
+    "english_secondary": [
+      "tubes"
+    ],
+    "maori": [
+      "pū kākano"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "fallopian_tube.4415.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fallopian_tube.4415.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4520,
+        2050,
+        2297,
+        1376,
+        4096,
+        4415,
+        2096,
+        1231
+      ],
+      "translation": "The doctor thinks she has a problem with her fallopian tubes, which means she can't have a baby."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "fallopian_tube-4415.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6226,
+  "gloss": {
+    "english": [
+      "head"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "upoko",
+      "mātenga",
+      "māhunga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "head.6226.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "head.6226.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1231,
+        6226,
+        1545,
+        3741,
+        3542,
+        4520,
+        3956
+      ],
+      "translation": "The baby's head was very big making the birth difficult, so the doctor performed an episiotomy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "head-6226.png"
+}

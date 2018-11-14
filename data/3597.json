@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3597,
+  "gloss": {
+    "english": [
+      "hockey"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hake"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hockey.3597.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hockey.3597.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        3597,
+        5816,
+        3355,
+        2117,
+        1490,
+        6173
+      ],
+      "translation": "I play for a hearing hockey team and we compete every Saturday ."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hockey-3597.png"
+}

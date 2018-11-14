@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2473,
+  "gloss": {
+    "english": [
+      "for example"
+    ],
+    "english_secondary": [
+      "example",
+      "for instance",
+      "sample",
+      "such as"
+    ],
+    "maori": [
+      "hei tauira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "example.2473.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "example.2473.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1292,
+        4051,
+        4022,
+        2473,
+        751
+      ],
+      "translation": "I hate some foods - for example, fish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "for_example-2473.png"
+}

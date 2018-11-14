@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 3970,
+  "gloss": {
+    "english": [
+      "change",
+      "exchange"
+    ],
+    "english_secondary": [
+      "adapt",
+      "alter",
+      "alteration",
+      "change over",
+      "modification",
+      "modify",
+      "replace",
+      "reverse",
+      "revise",
+      "swap"
+    ],
+    "maori": [
+      "tīni",
+      "whakawhiti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "change.3970.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "change.3970.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        2583,
+        1042,
+        721,
+        3970,
+        2480,
+        797
+      ],
+      "translation": "I've had enough of working there. I want to change to a different job."
+    },
+    {
+      "video": "change.3970.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        723,
+        5752,
+        2410,
+        5731,
+        3970,
+        1545,
+        723
+      ],
+      "translation": "My top was too small so I went back to the shop and exchanged it for a bigger one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "change-3970.png"
+}

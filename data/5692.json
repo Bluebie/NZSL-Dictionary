@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5692,
+  "gloss": {
+    "english": [
+      "eight"
+    ],
+    "english_secondary": [
+      "8"
+    ],
+    "maori": [
+      "e waru",
+      "tokowaru"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "eight.5692.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_8.5692.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        2111,
+        4249,
+        1376,
+        5692,
+        2135,
+        5621,
+        2184
+      ],
+      "translation": "There are eight girls and five boys in my sister's class."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "eight-5692.png"
+}

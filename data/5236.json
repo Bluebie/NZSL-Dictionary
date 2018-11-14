@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5236,
+  "gloss": {
+    "english": [
+      "what's the matter with you!"
+    ],
+    "english_secondary": [
+      "good for nothing! useless! what were you thinking?"
+    ],
+    "maori": [
+      "he aha tō raru"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "whats_the_matter_with_you.5236.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "whats_the_matter_with_you.5236.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1282,
+        3027,
+        1123,
+        1050,
+        2297,
+        1562,
+        406,
+        5236
+      ],
+      "translation": "You were lazy and didn't help her. She's got a sore back now. What's the matter with you!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "whats_the_matter_with_you-5236.png"
+}

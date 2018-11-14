@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3504,
+  "gloss": {
+    "english": [
+      "flood"
+    ],
+    "english_secondary": [
+      "overflow",
+      "spill"
+    ],
+    "maori": [
+      "waipuke"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "flood.3504.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flood.3504.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5479,
+        3571,
+        2146,
+        3504,
+        1436,
+        845
+      ],
+      "translation": "A pipe burst and water flooded all through the house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "flood-3504.png"
+}

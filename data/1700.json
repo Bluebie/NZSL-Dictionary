@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1700,
+  "gloss": {
+    "english": [
+      "confused"
+    ],
+    "english_secondary": [
+      "baffle",
+      "bewilder",
+      "confuse",
+      "confusion",
+      "unclear"
+    ],
+    "maori": [
+      "pōkaikaha",
+      "pōraruraru"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "confused.1700.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "confused.1700.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        648,
+        3013,
+        1464,
+        3850,
+        2556,
+        1700
+      ],
+      "translation": "I thought entry was free but no, you had to pay. I was confused."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "confused-1700.png"
+}

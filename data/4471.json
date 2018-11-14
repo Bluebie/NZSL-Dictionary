@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4471,
+  "gloss": {
+    "english": [
+      "plank"
+    ],
+    "english_secondary": [
+      "board"
+    ],
+    "maori": [
+      "papa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "plank.4471.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plank.4471.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4471,
+        2556,
+        2759,
+        3375,
+        523,
+        6003
+      ],
+      "translation": "I drilled through a plank to make a book shelf."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "plank-4471.png"
+}

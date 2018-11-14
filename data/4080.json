@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4080,
+  "gloss": {
+    "english": [
+      "blood pressure"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rere o te toto"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "blood_pressure.4080.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blood_pressure.4080.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4080,
+        964,
+        2556,
+        5129,
+        2088,
+        814,
+        4022
+      ],
+      "translation": "My blood pressure is high, so I've got to be careful and leave some foods out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "blood_pressure-4080.png"
+}

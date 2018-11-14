@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5850,
+  "gloss": {
+    "english": [
+      "brochure"
+    ],
+    "english_secondary": [
+      "article",
+      "document",
+      "leaflet",
+      "pamphlet"
+    ],
+    "maori": [
+      "pānui whakamārama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "article.5850.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "article.5850.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5850,
+        2297,
+        3658,
+        1637,
+        2556,
+        2883,
+        423
+      ],
+      "translation": "This brochure is good. It gives directions for how to get there on foot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "brochure-5850.png"
+}

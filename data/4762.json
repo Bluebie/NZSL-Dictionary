@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4762,
+  "gloss": {
+    "english": [
+      "millimetre"
+    ],
+    "english_secondary": [
+      "mm"
+    ],
+    "maori": [
+      "mitamano"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "millimetre.4762.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "millimetre.4762.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5607,
+        5864,
+        2479,
+        4065,
+        4762
+      ],
+      "translation": "One centimetre is the same as ten millimetres."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "millimetre-4762.png"
+}

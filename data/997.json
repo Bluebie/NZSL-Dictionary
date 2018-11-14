@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 997,
+  "gloss": {
+    "english": [
+      "sleep"
+    ],
+    "english_secondary": [
+      "asleep",
+      "bed",
+      "board with",
+      "stay over"
+    ],
+    "maori": [
+      "moe"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "sleep.997.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sleep.997.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        850,
+        997,
+        552,
+        5607,
+        5391,
+        5405
+      ],
+      "translation": "We all slept at a motel and stayed there for one night."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "sleep-997.png"
+}

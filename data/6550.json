@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6550,
+  "gloss": {
+    "english": [
+      "jargon"
+    ],
+    "english_secondary": [
+      "technical terms"
+    ],
+    "maori": [
+      "kupu ā-kaupapa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "jargon.6550.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "jargon.6550.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        1849,
+        3063,
+        1185,
+        1513,
+        6550
+      ],
+      "translation": "To interpret at university, you need to learn the jargon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "jargon-6550.png"
+}

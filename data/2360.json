@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2360,
+  "gloss": {
+    "english": [
+      "bomb (aerial)"
+    ],
+    "english_secondary": [
+      "bombard"
+    ],
+    "maori": [
+      "pahū"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bomb.2360.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bomb.2360.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        280,
+        1647,
+        5617,
+        2583,
+        2406,
+        2360,
+        1364
+      ],
+      "translation": "That city was bombed in World War Two and there was widespread damage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "bomb_aerial-2360.png"
+}

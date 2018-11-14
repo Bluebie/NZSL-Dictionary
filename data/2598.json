@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2598,
+  "gloss": {
+    "english": [
+      "self-defence"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "parahau whaiaro"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "self_defence.2598.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "self_defence.2598.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3653,
+        2410,
+        4222,
+        1513,
+        2598
+      ],
+      "translation": "She has been on a course to learn self-defence."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "self_defence-2598.png"
+}

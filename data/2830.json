@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2830,
+  "gloss": {
+    "english": [
+      "Native American"
+    ],
+    "english_secondary": [
+      "American Indian"
+    ],
+    "maori": [
+      "Tāngata-whenua ō Amerika"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Native_American.2830.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Native_American.2830.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3727,
+        2139,
+        1421,
+        1158,
+        2790,
+        "cl:gunning"
+      ],
+      "translation": "His favourite thing is to watch movies with Indians and cowboys."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "native_american-2830.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3692,
+  "gloss": {
+    "english": [
+      "suicide"
+    ],
+    "english_secondary": [
+      "commit suicide"
+    ],
+    "maori": [
+      "whakamomori"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "suicide.3692.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "suicide.3692.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        1533,
+        3276,
+        3682,
+        1083,
+        3692
+      ],
+      "translation": "She was upset because her best friend had committed suicide."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "suicide-3692.png"
+}

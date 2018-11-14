@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 4129,
+  "gloss": {
+    "english": [
+      "bleed",
+      "blood"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "toto"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "blood.4129.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blood.4129.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        3521,
+        "fall",
+        2134,
+        4129
+      ],
+      "translation": "The boy was riding his bike and fell off. He cut his arm and he was bleeding."
+    },
+    {
+      "video": "blood.4129.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        1806,
+        903,
+        4129,
+        3898
+      ],
+      "translation": "I'm going to the hospital for a blood test."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "bleed-4129.png"
+}

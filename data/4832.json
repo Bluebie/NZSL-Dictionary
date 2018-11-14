@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4832,
+  "gloss": {
+    "english": [
+      "constitution"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaupapa ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "constitution.4832.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "constitution.4832.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4832,
+        "cl:point-constitution",
+        2190,
+        5129,
+        1376,
+        5799,
+        2607,
+        1165,
+        2646
+      ],
+      "translation": "The constitution states that an AGM must be held every year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "constitution-4832.png"
+}

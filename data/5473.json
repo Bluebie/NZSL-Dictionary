@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5473,
+  "gloss": {
+    "english": [
+      "beware"
+    ],
+    "english_secondary": [
+      "be careful",
+      "keep away from",
+      "look out for"
+    ],
+    "maori": [
+      "kia tupato"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "beware.5473.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beware.5473.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4689,
+        1071,
+        5473,
+        578,
+        3462,
+        425
+      ],
+      "translation": "My father asked me to be careful driving and make sure I stop regularly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "beware-5473.png"
+}

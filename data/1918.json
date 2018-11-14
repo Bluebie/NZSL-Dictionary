@@ -1,0 +1,68 @@
+{
+  "nzsl_id": 1918,
+  "gloss": {
+    "english": [
+      "computer",
+      "type"
+    ],
+    "english_secondary": [
+      "keyboard",
+      "office",
+      "receptionist",
+      "reception",
+      "teleprinter",
+      "teletypewriter",
+      "TTY"
+    ],
+    "maori": [
+      "rorohiko",
+      "pato",
+      "patopato"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "computer.1918.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "computer.1918.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3016,
+        2583,
+        1376,
+        1918,
+        2321,
+        2145,
+        5510,
+        2583
+      ],
+      "translation": "That cafe has computers. You could try using the internet there."
+    },
+    {
+      "video": "computer.1918.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1178,
+        1298,
+        2297,
+        1766,
+        797,
+        1152,
+        3800,
+        1918
+      ],
+      "translation": "After she left school, she got an office job doing some typing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "computer-1918.png"
+}

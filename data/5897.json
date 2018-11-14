@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5897,
+  "gloss": {
+    "english": [
+      "grandchild"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mokopuna"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "grandchild.5897.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grandchild.5897.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        1636,
+        2281,
+        5897,
+        2297
+      ],
+      "translation": "He was the first grandchild in my family."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "grandchild-5897.png"
+}

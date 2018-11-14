@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4044,
+  "gloss": {
+    "english": [
+      "war"
+    ],
+    "english_secondary": [
+      "battle",
+      "conflict"
+    ],
+    "maori": [
+      "pakanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "war.4044.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "war.4044.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        967,
+        280,
+        4044,
+        5617,
+        2931,
+        5724,
+        727,
+        903,
+        3440,
+        2583
+      ],
+      "translation": "In the past, during the Second World War, Sumner school was closed so that the army could be there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "war-4044.png"
+}

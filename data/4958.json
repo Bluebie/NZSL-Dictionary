@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4958,
+  "gloss": {
+    "english": [
+      "devil"
+    ],
+    "english_secondary": [
+      "devilish",
+      "naughty"
+    ],
+    "maori": [
+      "rēwera"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "devil.4958.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "devil.4958.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2917,
+        2297,
+        1090,
+        4958,
+        2297
+      ],
+      "translation": "My nephew is a mischievous little devil."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "devil-4958.png"
+}

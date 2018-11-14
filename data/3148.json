@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 3148,
+  "gloss": {
+    "english": [
+      "pull up the covers",
+      "sheet"
+    ],
+    "english_secondary": [
+      "blanket",
+      "duvet",
+      "quilt"
+    ],
+    "maori": [
+      "kūmea ake ngā paraikete",
+      "hīti"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "blanket.3148.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blanket.3148.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1178,
+        347,
+        3148,
+        5420
+      ],
+      "translation": "I went to bed, pulled up the covers and went to sleep."
+    },
+    {
+      "video": "blanket.3148.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3148,
+        895,
+        1185,
+        1826
+      ],
+      "translation": "The sheets were dirty and needed to be washed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sheet-3148.png"
+}

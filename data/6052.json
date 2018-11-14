@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 6052,
+  "gloss": {
+    "english": [
+      "advice",
+      "advisor"
+    ],
+    "english_secondary": [
+      "adviser"
+    ],
+    "maori": [
+      "tohutohu",
+      "kaitohutohu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "advice.6052.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "advice.6052.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1220,
+        3658,
+        6052,
+        2410,
+        1849,
+        450
+      ],
+      "translation": "I was given some good advice to go to university and study."
+    },
+    {
+      "video": "advice.6052.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        6052,
+        4656,
+        5389,
+        5738,
+        3278
+      ],
+      "translation": "She works as an Advisor for Deaf Children in the Waikato area."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "advice-6052.png"
+}

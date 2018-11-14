@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3981,
+  "gloss": {
+    "english": [
+      "bring up",
+      "raise"
+    ],
+    "english_secondary": [
+      "rear"
+    ],
+    "maori": [
+      "whakaara",
+      "whakatipu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bring_up.3981.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bring_up.3981.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        2873,
+        721,
+        3981,
+        2607
+      ],
+      "translation": "I have an issue that I want to bring up at the meeting."
+    },
+    {
+      "video": "bring_up.3981.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3048,
+        1376,
+        5619,
+        5389,
+        2587,
+        856,
+        3981
+      ],
+      "translation": "She's married and has three children. She stays at home to raise them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bring_up-3981.png"
+}

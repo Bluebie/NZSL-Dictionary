@@ -1,0 +1,62 @@
+{
+  "nzsl_id": 4614,
+  "gloss": {
+    "english": [
+      "worse",
+      "even more"
+    ],
+    "english_secondary": [
+      "deteriorate",
+      "deterioration",
+      "even",
+      "even worse"
+    ],
+    "maori": [
+      "kino ake",
+      "kaha ake"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "worse.4614.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "worse.4614.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        1603,
+        4614,
+        977,
+        4602,
+        2297,
+        483,
+        6033
+      ],
+      "translation": "Her health has taken a turn for the worse and she might die soon."
+    },
+    {
+      "video": "worse.4614.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1775,
+        4614,
+        3636,
+        2804,
+        1376,
+        1667,
+        607
+      ],
+      "translation": "It rained even more yesterday. Roads were closed by floods."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "worse-4614.png"
+}

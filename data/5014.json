@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5014,
+  "gloss": {
+    "english": [
+      "brownie",
+      "scout"
+    ],
+    "english_secondary": [
+      "girl guide",
+      "scouting"
+    ],
+    "maori": [
+      "paraone",
+      "matakīrea tama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "brownie.5014.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brownie.5014.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1165,
+        2368,
+        1386,
+        3300,
+        2111,
+        2410,
+        5014,
+        1490
+      ],
+      "translation": "Every Thursday afternoon my sister goes to Brownies."
+    },
+    {
+      "video": "brownie.5014.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        3513,
+        2556,
+        2879,
+        4316,
+        5014,
+        3459,
+        5259,
+        2415
+      ],
+      "translation": "My brother and I used to be in the Scouts, doing things like tramping, canoeing and lots of other activities."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "brownie-5014.png"
+}

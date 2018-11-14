@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1309,
+  "gloss": {
+    "english": [
+      "rape"
+    ],
+    "english_secondary": [
+      "kidnap",
+      "rapist"
+    ],
+    "maori": [
+      "pawhera",
+      "pahera"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rape.1309.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rape.1309.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1522,
+        3823,
+        2943,
+        2427,
+        3677,
+        1309,
+        2297
+      ],
+      "translation": "A woman reported to the police that someone had raped her."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rape-1309.png"
+}

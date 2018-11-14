@@ -1,0 +1,63 @@
+{
+  "nzsl_id": 2912,
+  "gloss": {
+    "english": [
+      "fix",
+      "mechanic"
+    ],
+    "english_secondary": [
+      "repair",
+      "technician",
+      "tool"
+    ],
+    "maori": [
+      "whakatika",
+      "kaiwhakatika pūkaha"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "mechanic.2912.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mechanic.2912.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5467,
+        "cl:spill",
+        2339,
+        4446,
+        2533,
+        2912,
+        "pipe"
+      ],
+      "translation": "When the toilet overflowed we got someone to come and fix the pipe."
+    },
+    {
+      "video": "mechanic.2912.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        2912,
+        2297,
+        856,
+        1747,
+        5826,
+        539,
+        1185,
+        753
+      ],
+      "translation": "He works as a mechanic, so when he gets home he always needs to wash the grease off his hands."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "fix-2912.png"
+}

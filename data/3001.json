@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3001,
+  "gloss": {
+    "english": [
+      "bee"
+    ],
+    "english_secondary": [
+      "wasp"
+    ],
+    "maori": [
+      "pī"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bee.3001.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bee.3001.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3417,
+        2556,
+        2844,
+        3721,
+        3001,
+        1072,
+        "cl:bees-swarming"
+      ],
+      "translation": "In Spring I see plenty of bees flying around outside"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "bee-3001.png"
+}

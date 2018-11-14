@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2630,
+  "gloss": {
+    "english": [
+      "ounce"
+    ],
+    "english_secondary": [
+      "oz."
+    ],
+    "maori": [
+      "aunihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "ounce.2630.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ounce.2630.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3375,
+        1805,
+        1185,
+        5620,
+        2630,
+        641
+      ],
+      "translation": "To make the cake you will need four ounces of butter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "ounce-2630.png"
+}

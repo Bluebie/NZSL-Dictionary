@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1320,
+  "gloss": {
+    "english": [
+      "take in (information)"
+    ],
+    "english_secondary": [
+      "absorb",
+      "get it",
+      "pick up",
+      "take on board"
+    ],
+    "maori": [
+      "whakarongo",
+      "rongo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "take_in.1320.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "take_in.1320.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1637,
+        2297,
+        1320,
+        3618,
+        2266,
+        2743,
+        1050
+      ],
+      "translation": "I explained and he took in the information quickly. He knows what to do now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "take_in_information-1320.png"
+}

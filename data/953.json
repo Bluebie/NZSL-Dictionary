@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 953,
+  "gloss": {
+    "english": [
+      "hernia"
+    ],
+    "english_secondary": [
+      "rupture"
+    ],
+    "maori": [
+      "whaturama"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hernia.953.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hernia.953.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        4765,
+        1376,
+        953,
+        924,
+        2914,
+        3864
+      ],
+      "translation": "My mother had a hernia and went to hospital to get it operated on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "hernia-953.png"
+}

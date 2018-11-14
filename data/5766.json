@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5766,
+  "gloss": {
+    "english": [
+      "snub"
+    ],
+    "english_secondary": [
+      "arrogant",
+      "conceited",
+      "snob",
+      "snobbish",
+      "stuck-up"
+    ],
+    "maori": [
+      "whakahīhī"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "snob.5766.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "snob.5766.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5766,
+        3027,
+        1300,
+        2556
+      ],
+      "translation": "She snubbed me and didn't talk to me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "snub-5766.png"
+}

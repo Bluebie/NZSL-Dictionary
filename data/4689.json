@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4689,
+  "gloss": {
+    "english": [
+      "father"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "matua",
+      "pāpā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "father.4689.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "father.4689.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4216,
+        2297,
+        4689,
+        1220,
+        707,
+        3430
+      ],
+      "translation": "My father gave me the van for the weekend to drive around in."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "father-4689.png"
+}

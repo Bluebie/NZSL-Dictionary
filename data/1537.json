@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1537,
+  "gloss": {
+    "english": [
+      "catch"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "mau",
+      "hopu(kina)"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "catch.1537.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "catch.1537.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3892,
+        2297,
+        3160,
+        2556,
+        1537
+      ],
+      "translation": "He threw me the keys and I caught them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "catch-1537.png"
+}

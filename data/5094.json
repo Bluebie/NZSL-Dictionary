@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5094,
+  "gloss": {
+    "english": [
+      "matron"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaiwhakahaere tapuhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "matron.5094.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "matron.5094.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5094,
+        2328,
+        5818,
+        5389,
+        2707,
+        347,
+        5420
+      ],
+      "translation": "The matron was coming. All the children dashed to their beds to sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "matron-5094.png"
+}

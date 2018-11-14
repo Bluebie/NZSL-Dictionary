@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 3191,
+  "gloss": {
+    "english": [
+      "Anzac Day",
+      "Labour (weekend)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Rā Whakamahara ki ngā Hōia o Ahitereiria me Aotearoa",
+      "rā whakatā mō te hunga mahi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "anzac.3191.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "anzac.3191.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5716,
+        2867,
+        3885,
+        3191,
+        264
+      ],
+      "translation": "The 25th of April is Anzac Day."
+    },
+    {
+      "video": "anzac.3191.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        3191,
+        4656,
+        1436,
+        585,
+        1926,
+        3707,
+        2253
+      ],
+      "translation": "At Labour Weekend, Deaf people from all over New Zealand play sports and compete against each other."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "anzac_day-3191.png"
+}

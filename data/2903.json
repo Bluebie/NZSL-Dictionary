@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2903,
+  "gloss": {
+    "english": [
+      "lie down"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "takoto"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lie.2903.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lie.2903.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3430,
+        1031,
+        4022,
+        1697,
+        2903,
+        5420
+      ],
+      "translation": "I drove for ages. When I arrived I ate and showered. Then I lay down and went to sleep."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "lie_down-2903.png"
+}

@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2455,
+  "gloss": {
+    "english": [
+      "excuse",
+      "excuse me"
+    ],
+    "english_secondary": [
+      "make an excuse"
+    ],
+    "maori": [
+      "take tonu",
+      "inā koa"
+    ],
+    "attributes": [
+      "noun",
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "excuse_me.2455.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "excuse_me.2455.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3658,
+        2455,
+        373,
+        797,
+        2723,
+        2297,
+        3213,
+        2297
+      ],
+      "translation": "He had a good excuse for missing work: it was because he was sick."
+    },
+    {
+      "video": "excuse_me.2455.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4213,
+        2455,
+        4213,
+        2556,
+        2410,
+        5467
+      ],
+      "translation": "Excuse me, would you hold on for a moment while I just go to the toilet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "excuse-2455.png"
+}

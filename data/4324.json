@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4324,
+  "gloss": {
+    "english": [
+      "pavlova"
+    ],
+    "english_secondary": [
+      "marshmallow",
+      "sponge"
+    ],
+    "maori": [
+      "purini kahu tāhungahunga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pavlova.4324.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pavlova.4324.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4765,
+        3375,
+        3875,
+        4324,
+        903,
+        4546
+      ],
+      "translation": "My mother made pavlova for the party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pavlova-4324.png"
+}

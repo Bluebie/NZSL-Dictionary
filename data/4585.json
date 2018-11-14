@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 4585,
+  "gloss": {
+    "english": [
+      "rude"
+    ],
+    "english_secondary": [
+      "discourteous",
+      "impolite",
+      "obscene"
+    ],
+    "maori": [
+      "āhuaatua"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "rude.4585.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rude.4585.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        4585,
+        3027,
+        468,
+        3276,
+        1112,
+        2297,
+        1069,
+        335
+      ],
+      "translation": "She's rude! She has no respect for his rules and she never listens."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.3.1-955f1b7b2dd68423678e060d4ea6d2f3df450c634b679c54d365e0f239f206ac.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rude-4585.png"
+}

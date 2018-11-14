@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 2458,
+  "gloss": {
+    "english": [
+      "quick",
+      "urgent"
+    ],
+    "english_secondary": [
+      "fast",
+      "quickly",
+      "rapid",
+      "swift"
+    ],
+    "maori": [
+      "tere tonu",
+      "totoa"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "quick.2458.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "quick.2458.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1697,
+        2458,
+        6244,
+        924
+      ],
+      "translation": "I'll have a quick shower before going out."
+    },
+    {
+      "video": "quick.2458.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        485,
+        2583,
+        1376,
+        4096,
+        2458,
+        1238
+      ],
+      "translation": "Hey, there's a problem over there. It's urgent, so let's go."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "quick-2458.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4393,
+  "gloss": {
+    "english": [
+      "part-time"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "harangotengote"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "part_time.4393.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "part_time.4393.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        3250,
+        4393,
+        1171,
+        797,
+        6230,
+        5622,
+        3111,
+        2500,
+        5662,
+        5696
+      ],
+      "translation": "I work part-time at the post office. I start work at half-past six in the morning and work until nine o'clock."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "part_time-4393.png"
+}

@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6395,
+  "gloss": {
+    "english": [
+      "donkey"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāihe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "donkey.6395.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "donkey.6395.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6395,
+        2556,
+        5739,
+        "cl:grass"
+      ],
+      "translation": "I fed the donkey some grass."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "donkey-6395.png"
+}

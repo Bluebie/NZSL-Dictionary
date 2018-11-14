@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5209,
+  "gloss": {
+    "english": [
+      "know nothing about"
+    ],
+    "english_secondary": [
+      "ignorant",
+      "not know anything about it",
+      "oblivious",
+      "unaware",
+      "uninformed"
+    ],
+    "maori": [
+      "kūare",
+      "kāore ana mōhio"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "know_nothing_about.5209.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "know_nothing_about.5209.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        5209,
+        5488,
+        6207,
+        1300
+      ],
+      "translation": "In the past, she knew nothing about sign. Now she can sign fluently."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "know_nothing_about-5209.png"
+}

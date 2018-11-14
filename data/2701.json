@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2701,
+  "gloss": {
+    "english": [
+      "lucky"
+    ],
+    "english_secondary": [
+      "fortunate",
+      "fortunately",
+      "good luck",
+      "luck"
+    ],
+    "maori": [
+      "waimarie"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "lucky.2701.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lucky.2701.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        4817,
+        1766,
+        797,
+        2297,
+        3656,
+        2701,
+        2297
+      ],
+      "translation": "I failed to get the job. He was successful. He's lucky."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "lucky-2701.png"
+}

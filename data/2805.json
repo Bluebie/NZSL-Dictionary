@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2805,
+  "gloss": {
+    "english": [
+      "gravy"
+    ],
+    "english_secondary": [
+      "sauce"
+    ],
+    "maori": [
+      "wairanu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "gravy.2805.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gravy.2805.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        771,
+        4557,
+        2556,
+        3375,
+        2805
+      ],
+      "translation": "When I cook lamb, I make gravy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "gravy-2805.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3793,
+  "gloss": {
+    "english": [
+      "bell"
+    ],
+    "english_secondary": [
+      "handbell",
+      "ring (a bell)"
+    ],
+    "maori": [
+      "pere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bell.3793.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bell.3793.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        3793,
+        5662,
+        5619,
+        5818,
+        5389,
+        856
+      ],
+      "translation": "When the school bell rang at three o'clock, all the children went home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bell-3793.png"
+}

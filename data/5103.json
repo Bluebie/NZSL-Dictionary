@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5103,
+  "gloss": {
+    "english": [
+      "polish (shoes)"
+    ],
+    "english_secondary": [
+      "shine shoes",
+      "shoe polish"
+    ],
+    "maori": [
+      "parakena"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "polish.5103.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "polish.5103.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4307,
+        5876,
+        2556,
+        5103,
+        4139
+      ],
+      "translation": "The shoes were dull. I polished them to make them shiny."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "polish_shoes-5103.png"
+}

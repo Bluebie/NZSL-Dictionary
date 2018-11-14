@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2431,
+  "gloss": {
+    "english": [
+      "United Kingdom"
+    ],
+    "english_secondary": [
+      "UK"
+    ],
+    "maori": [
+      "Ngā Whenua Tōpū o Ingarangi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "United_Kingdom.2431.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "United_Kingdom.2431.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3276,
+        3337,
+        233,
+        2583,
+        2456,
+        2297,
+        4501,
+        1959,
+        2431,
+        5382
+      ],
+      "translation": "Her grandfather was born in England. She can get a United Kingdom passport."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "United_Kingdom-2431.png"
+}

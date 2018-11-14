@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 1490,
+  "gloss": {
+    "english": [
+      "group",
+      "team"
+    ],
+    "english_secondary": [
+      "body",
+      "get together",
+      "group together",
+      "party",
+      "reunion"
+    ],
+    "maori": [
+      "rōpu",
+      "tīma"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "group.1490.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "group.1490.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5455,
+        1490,
+        1171,
+        3700,
+        5662,
+        5624,
+        2500,
+        5662,
+        5609
+      ],
+      "translation": "The theatre group practices from eight o'clock to twelve o'clock."
+    },
+    {
+      "video": "group.1490.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        1926,
+        3597,
+        5816,
+        3355,
+        2117,
+        1490,
+        6173
+      ],
+      "translation": "I play hockey every Saturday in the hearing team competition."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "group-1490.png"
+}

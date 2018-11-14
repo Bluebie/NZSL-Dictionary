@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6165,
+  "gloss": {
+    "english": [
+      "tender"
+    ],
+    "english_secondary": [
+      "put in a bid"
+    ],
+    "maori": [
+      "tāpae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "tender.6165.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tender.6165.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2990,
+        2297,
+        748,
+        6165,
+        903,
+        5290,
+        4948
+      ],
+      "translation": "The council opened tenders for building apartments."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tender-6165.png"
+}

@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6151,
+  "gloss": {
+    "english": [
+      "spit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "spit.6151.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spit.6151.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        5536,
+        "cl:something-in-throat",
+        6151
+      ],
+      "translation": "He felt there was something in his throat so he spat it out."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.1-a4a36de78cb64a9d1f1f7487203efe7399d0d024d93788a37840688931501d56.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "spit-6151.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4781,
+  "gloss": {
+    "english": [
+      "gay"
+    ],
+    "english_secondary": [
+      "homosexual",
+      "homosexuality"
+    ],
+    "maori": [
+      "takatāpui"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "gay.4781.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gay.4781.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5607,
+        5471,
+        535,
+        858,
+        2583,
+        4781,
+        3727,
+        1388
+      ],
+      "translation": "The pub around the corner is a favourite with gay people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.2-9560da5b70a629407c4c4c241abff3548d7348e6108a579cdf2550c159731f0e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "gay-4781.png"
+}

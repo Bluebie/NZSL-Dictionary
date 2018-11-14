@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5044,
+  "gloss": {
+    "english": [
+      "hiccup"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tokomauri",
+      "tokopuhake"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "hiccup.5044.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hiccup.5044.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1171,
+        5044,
+        2556,
+        5785,
+        "cl:hold-breath",
+        3978
+      ],
+      "translation": "I started to hiccup. I tried holding my breath, but it didn't work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "hiccup-5044.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3433,
+  "gloss": {
+    "english": [
+      "exercise"
+    ],
+    "english_secondary": [
+      "keep fit",
+      "fitness"
+    ],
+    "maori": [
+      "kori tinana"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "exercise.3433.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "exercise.3433.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        5340,
+        783,
+        4249,
+        3658,
+        3433,
+        2215,
+        717
+      ],
+      "translation": "I'm thinking of joining swimming classes. It's good exercise and makes it easy to stay slim."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "exercise-3433.png"
+}

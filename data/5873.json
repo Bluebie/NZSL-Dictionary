@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 5873,
+  "gloss": {
+    "english": [
+      "deep"
+    ],
+    "english_secondary": [
+      "deeply",
+      "depth",
+      "in-depth"
+    ],
+    "maori": [
+      "hōhonu"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "deep.5873.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deep.5873.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        3706,
+        4501,
+        2894,
+        5873
+      ],
+      "translation": "He was boasting that he can dive really deep."
+    },
+    {
+      "video": "deep.5873.finalexample2.rp.r480x360.mp4",
+      "signs": [
+        2314,
+        1211,
+        1772,
+        2095,
+        975,
+        1211,
+        6022,
+        5873
+      ],
+      "translation": "We had talks with senior government people to discuss our policy in-depth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "deep-5873.png"
+}

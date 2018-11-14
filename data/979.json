@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 979,
+  "gloss": {
+    "english": [
+      "hierarchy"
+    ],
+    "english_secondary": [
+      "generations",
+      "order",
+      "ranking"
+    ],
+    "maori": [
+      "tātainga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hierarchy.979.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hierarchy.979.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2990,
+        2297,
+        1376,
+        979,
+        5497,
+        975,
+        2990,
+        2219,
+        979
+      ],
+      "translation": "There is a hierarchy at the council. The mayor is at the top, while the council staff are ranked lower."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hierarchy-979.png"
+}

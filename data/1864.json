@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1864,
+  "gloss": {
+    "english": [
+      "excited"
+    ],
+    "english_secondary": [
+      "eager",
+      "enthusiastic",
+      "exciting",
+      "keen",
+      "motivated",
+      "thrilled"
+    ],
+    "maori": [
+      "hiamo"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "excited.1864.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "excited.1864.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1152,
+        1427,
+        1864,
+        4794,
+        5663,
+        5784
+      ],
+      "translation": "I went in a helicopter. I was excited to have done that for the first time!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "excited-1864.png"
+}

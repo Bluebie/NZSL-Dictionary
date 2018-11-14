@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3795,
+  "gloss": {
+    "english": [
+      "hood"
+    ],
+    "english_secondary": [
+      "bonnet",
+      "hoodie"
+    ],
+    "maori": [
+      "pōtae"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bonnet.3795.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bonnet.3795.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1072,
+        3420,
+        1314,
+        2556,
+        2701,
+        1376,
+        3844,
+        3795
+      ],
+      "translation": "It's really cold and windy outside. Luckily I have a jacket with a hood."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "hood-3795.png"
+}

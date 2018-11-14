@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5125,
+  "gloss": {
+    "english": [
+      "bugger"
+    ],
+    "english_secondary": [
+      "damn",
+      "oh shit",
+      "screw it"
+    ],
+    "maori": [
+      "pokotiwha"
+    ],
+    "attributes": [
+      "interjection"
+    ]
+  },
+  "video": "fuck_it.5125.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fuck_it.5125.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        570,
+        3893,
+        2556,
+        "bugger",
+        3949,
+        5833,
+        "cl:put-form-under-door"
+      ],
+      "translation": "Bugger, the door was locked.  I wrote a note and put it under the door."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bugger-5125.png"
+}

@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 2589,
+  "gloss": {
+    "english": [
+      "today"
+    ],
+    "english_secondary": [
+      "now",
+      "to this day"
+    ],
+    "maori": [
+      "āianei",
+      "ākuanei",
+      "tēnei rā"
+    ],
+    "attributes": [
+      "adverb",
+      "noun"
+    ]
+  },
+  "video": "today.2589.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "today.2589.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2589,
+        4765,
+        3276,
+        937,
+        2099,
+        5708
+      ],
+      "translation": "Today is my mother's fiftieth birthday."
+    },
+    {
+      "video": "today.2589.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1553,
+        1083,
+        1178,
+        2480,
+        4808,
+        2310,
+        2589,
+        2457,
+        1291
+      ],
+      "translation": "Many friends have left and lead different lives, yet we still keep in touch today."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.2-e1261e91d7fcef7b3bacba3365b3a33556e02110fd520da0f95a140bdd1ba801.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "today-2589.png"
+}

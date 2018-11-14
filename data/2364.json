@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2364,
+  "gloss": {
+    "english": [
+      "pavlova"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "purini kahu tāhungahunga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pavlova.2364.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pavlova.2364.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2364,
+        5663,
+        5911,
+        5663,
+        3375,
+        1544,
+        2579,
+        585,
+        3127,
+        4790
+      ],
+      "translation": "The pavlova was invented here in New Zealand, not in Australia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "pavlova-2364.png"
+}

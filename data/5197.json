@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 5197,
+  "gloss": {
+    "english": [
+      "keep in mind"
+    ],
+    "english_secondary": [
+      "bear in mind",
+      "make a mental note",
+      "remember",
+      "take into account"
+    ],
+    "maori": [
+      "maumahara"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "keep_in_mind.5197.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "keep_in_mind.5197.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        3027,
+        3369,
+        4022,
+        2297,
+        5197,
+        6222,
+        5784,
+        6216,
+        6020,
+        2297
+      ],
+      "translation": "He didn't bring any food. She'll keep that in mind and won't invite him next time!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "keep_in_mind-5197.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1871,
+  "gloss": {
+    "english": [
+      "zoo"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whare kararehe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "zoo.1871.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "zoo.1871.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5389,
+        549,
+        2531,
+        1871,
+        2091,
+        5335,
+        1801,
+        1069,
+        2844,
+        1279
+      ],
+      "translation": "The children love to go to the zoo, to see various animals they've never seen before."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "zoo-1871.png"
+}

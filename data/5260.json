@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5260,
+  "gloss": {
+    "english": [
+      "wānanga"
+    ],
+    "english_secondary": [
+      "seminar",
+      "workshop",
+      "university"
+    ],
+    "maori": [
+      "wānanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "wananga.5260.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wananga.5260.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5260,
+        3204,
+        3409,
+        1388,
+        2583,
+        1513
+      ],
+      "translation": "Māori students attend a wānanga to study."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "wananga-5260.png"
+}

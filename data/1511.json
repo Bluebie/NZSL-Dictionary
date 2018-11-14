@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1511,
+  "gloss": {
+    "english": [
+      "free"
+    ],
+    "english_secondary": [
+      "at liberty",
+      "available",
+      "release"
+    ],
+    "maori": [
+      "wātea"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "free.1511.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "free.1511.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        5389,
+        5818,
+        959,
+        6207,
+        2556,
+        1511
+      ],
+      "translation": "My children are all grown up, so I'm free now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "free-1511.png"
+}

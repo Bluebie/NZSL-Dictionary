@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 4712,
+  "gloss": {
+    "english": [
+      "inject",
+      "injection"
+    ],
+    "english_secondary": [
+      "inoculation",
+      "vaccinate",
+      "vaccination"
+    ],
+    "maori": [
+      "wero",
+      "werohanga"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "inject.4712.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "inject.4712.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4423,
+        4712,
+        5389,
+        6215,
+        3380,
+        1745
+      ],
+      "translation": "The children were injected by the nurse to prevent measles."
+    },
+    {
+      "video": "inject.4712.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        3130,
+        4446,
+        2145,
+        5517,
+        1095,
+        4712,
+        5971,
+        5558
+      ],
+      "translation": "A scientist came up with a new injection in an attempt to stop HIV."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.1.4-21593501148eb3de6f3fb6e1c9a48b1bf03ae2f6b49bb7b84f07866ca5b1c936.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "inject-4712.png"
+}

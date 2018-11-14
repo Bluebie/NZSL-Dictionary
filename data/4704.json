@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4704,
+  "gloss": {
+    "english": [
+      "rice"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "raihi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rice.4704.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rice.4704.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        5626,
+        2583,
+        3727,
+        4022,
+        4704
+      ],
+      "translation": "Rice is a popular food in Asia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "rice-4704.png"
+}

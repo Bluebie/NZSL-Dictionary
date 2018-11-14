@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 2516,
+  "gloss": {
+    "english": [
+      "music"
+    ],
+    "english_secondary": [
+      "conduct"
+    ],
+    "maori": [
+      "pūoro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "music.2516.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "music.2516.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2516,
+        2556,
+        549,
+        1582
+      ],
+      "translation": "I love feeling the vibrations from music."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "music-2516.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3178,
+  "gloss": {
+    "english": [
+      "dickhead"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "heahea",
+      "rorirori"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "dickhead.3178.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dickhead.3178.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3220,
+        3462,
+        3430,
+        2707,
+        514,
+        4376,
+        3426,
+        3178,
+        2297
+      ],
+      "translation": "A guy was driving and sped up to overtake someone and nearly crashed. What a dickhead!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "dickhead-3178.png"
+}

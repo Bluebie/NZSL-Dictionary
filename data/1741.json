@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1741,
+  "gloss": {
+    "english": [
+      "astounded"
+    ],
+    "english_secondary": [
+      "amazed",
+      "astonished",
+      "dumbfounded",
+      "gobsmacked",
+      "lost for words",
+      "speechless"
+    ],
+    "maori": [
+      "ohorere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "attracted.1741.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "attracted.1741.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3009,
+        4097,
+        1741,
+        5624,
+        386,
+        4224
+      ],
+      "translation": "I asked how much - it was eight hundred dollars! I was astounded."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "astounded-1741.png"
+}

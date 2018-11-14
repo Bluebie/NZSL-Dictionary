@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 585,
+  "gloss": {
+    "english": [
+      "New Zealand"
+    ],
+    "english_secondary": [
+      "New Zealander"
+    ],
+    "maori": [
+      "Aotearoa"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "new_zealand.585.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "new_zealand.585.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        "family",
+        5498,
+        702,
+        585,
+        1095,
+        4806,
+        484
+      ],
+      "translation": "My family decided to move to New Zealand and lead a new life from that time on."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "New_Zealand-585.png"
+}

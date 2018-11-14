@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4356,
+  "gloss": {
+    "english": [
+      "flower"
+    ],
+    "english_secondary": [
+      "rose"
+    ],
+    "maori": [
+      "putiputi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rose.4356.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rose.4356.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        970,
+        2560,
+        264,
+        2556,
+        3299,
+        "cl:give-flower",
+        367,
+        4356
+      ],
+      "translation": "My partner gave me a lovely flower for Valentine's Day recently."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "flower-4356.png"
+}

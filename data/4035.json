@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4035,
+  "gloss": {
+    "english": [
+      "food processor"
+    ],
+    "english_secondary": [
+      "blender",
+      "mixer"
+    ],
+    "maori": [
+      "nakunaku kai"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "food_processor.4035.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "food_processor.4035.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3082,
+        2556,
+        4138,
+        4035
+      ],
+      "translation": "I put a banana through the food processor."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "food_processor-4035.png"
+}

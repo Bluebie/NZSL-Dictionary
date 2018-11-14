@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 3536,
+  "gloss": {
+    "english": [
+      "advertise",
+      "advertisement"
+    ],
+    "english_secondary": [
+      "ad",
+      "advert",
+      "publicity"
+    ],
+    "maori": [
+      "pānui"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "advertise.3536.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "advertise.3536.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        908,
+        2556,
+        3536,
+        3437,
+        3261,
+        4249
+      ],
+      "translation": "I am now advertising NZSL class/es."
+    },
+    {
+      "video": "advertise.3536.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2091,
+        3536,
+        5953,
+        4097,
+        5413,
+        903,
+        3462
+      ],
+      "translation": "I saw an advertisement for a car at a special discounted price."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "advertise-3536.png"
+}

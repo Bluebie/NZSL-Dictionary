@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6117,
+  "gloss": {
+    "english": [
+      "logo"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waitohu"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "logo.6117.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "logo.6117.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2297,
+        1306,
+        1376,
+        1523,
+        6117,
+        "cl:logo-on-shirt"
+      ],
+      "translation": "That school has a uniform with their logo on the shirt."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "logo-6117.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4668,
+  "gloss": {
+    "english": [
+      "normal"
+    ],
+    "english_secondary": [
+      "normally",
+      "ordinary",
+      "typical",
+      "usually"
+    ],
+    "maori": [
+      "te āhua tonu"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "normal.4668.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "normal.4668.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        499,
+        3898,
+        5536,
+        5449,
+        3885,
+        4668
+      ],
+      "translation": "Prior to the exam I felt stressed. That's normal."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "normal-4668.png"
+}

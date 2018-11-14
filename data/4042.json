@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4042,
+  "gloss": {
+    "english": [
+      "bark"
+    ],
+    "english_secondary": [
+      "yap"
+    ],
+    "maori": [
+      "auau",
+      "pahupahu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bark.4042.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bark.4042.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1124,
+        4042,
+        4835,
+        2556,
+        3618,
+        2427,
+        3257,
+        570
+      ],
+      "translation": "If the dog barks, I know someone is knocking at the door."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "bark-4042.png"
+}

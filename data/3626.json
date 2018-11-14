@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 3626,
+  "gloss": {
+    "english": [
+      "turn on hearing aid"
+    ],
+    "english_secondary": [
+      "hearing aid amplifier"
+    ],
+    "maori": [
+      "whakakāngia ō taringa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "amplifier.3626.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "amplifier.3626.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        721,
+        335,
+        2516,
+        3626
+      ],
+      "translation": "Turn on your hearing aids if you want to hear the music."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "turn_on_hearing_aid-3626.png"
+}

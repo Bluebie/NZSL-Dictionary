@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5387,
+  "gloss": {
+    "english": [
+      "(rest) break"
+    ],
+    "english_secondary": [
+      "interval",
+      "smoko"
+    ],
+    "maori": [
+      "whakangā",
+      "whakatā"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "break.5387.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "break.5387.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        5425,
+        5621,
+        5971,
+        1185,
+        5387,
+        3089,
+        4347
+      ],
+      "translation": "I worked for five hours and then I stopped. I needed a break and a cup of tea to wake me up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "rest_break-5387.png"
+}

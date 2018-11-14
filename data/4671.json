@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4671,
+  "gloss": {
+    "english": [
+      "green"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kākāriki"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "green.4671.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "green.4671.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        4189,
+        2556,
+        1279,
+        1376,
+        4671,
+        6271,
+        2841,
+        1239
+      ],
+      "translation": "I remember I used to have a green dress. It was old and I got rid of it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "green-4671.png"
+}

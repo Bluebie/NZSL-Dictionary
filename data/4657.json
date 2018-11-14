@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4657,
+  "gloss": {
+    "english": [
+      "Deaf Club"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Karapu Turi"
+    ],
+    "attributes": [
+      "noun",
+      "phrase"
+    ]
+  },
+  "video": "deaf_club.4657.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deaf_club.4657.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4316,
+        2108,
+        4657,
+        3871,
+        1553,
+        2646
+      ],
+      "translation": "She has been involved with Hawke's Bay Deaf Club as a secretary for many years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_club-4657.png"
+}

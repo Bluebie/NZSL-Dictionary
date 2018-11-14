@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3479,
+  "gloss": {
+    "english": [
+      "warm"
+    ],
+    "english_secondary": [
+      "snug",
+      "warmth"
+    ],
+    "maori": [
+      "mahana"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "warm.3479.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "warm.3479.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1072,
+        2982,
+        2556,
+        1114,
+        1923,
+        3479
+      ],
+      "translation": "It was snowing outside. I was warm inside with the fire going."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "warm-3479.png"
+}

@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6498,
+  "gloss": {
+    "english": [
+      "wolf"
+    ],
+    "english_secondary": [
+      "fox"
+    ],
+    "maori": [
+      "wuruhi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "wolf.6498.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "wolf.6498.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6498,
+        2583,
+        5798,
+        2831,
+        4022
+      ],
+      "translation": "The wolf walked through the forest looking for food."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "wolf-6498.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4289,
+  "gloss": {
+    "english": [
+      "duck"
+    ],
+    "english_secondary": [
+      "duck (cricket)"
+    ],
+    "maori": [
+      "rakiraki",
+      "pārera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "duck.4289.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "duck.4289.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        5389,
+        1864,
+        924,
+        785,
+        730,
+        780,
+        5739,
+        4289
+      ],
+      "translation": "The children were excited about going to the park. They brought bread to feed the ducks."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "duck-4289.png"
+}

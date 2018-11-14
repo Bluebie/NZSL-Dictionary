@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1615,
+  "gloss": {
+    "english": [
+      "loan"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūtea taurewa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "loan.1615.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "loan.1615.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3720,
+        3368,
+        3782,
+        1615,
+        2556,
+        1126,
+        5632,
+        6000
+      ],
+      "translation": "Now that the bank has finally approved the loan, I can go ahead and buy the land."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "loan-1615.png"
+}

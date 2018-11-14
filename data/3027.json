@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 3027,
+  "gloss": {
+    "english": [
+      "nothing",
+      "not have"
+    ],
+    "english_secondary": [
+      "no",
+      "none",
+      "not"
+    ],
+    "maori": [
+      "kāore he aha",
+      "kāore"
+    ],
+    "attributes": [
+      "negator",
+      "pronoun",
+      "verb"
+    ]
+  },
+  "video": "nothing.3027.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nothing.3027.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3264,
+        3027,
+        4022,
+        1257,
+        2556,
+        5632,
+        1897
+      ],
+      "translation": "There was no food in the fridge so I had to buy some more."
+    },
+    {
+      "video": "nothing.3027.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        1715,
+        1522,
+        1231,
+        233,
+        1714,
+        3027
+      ],
+      "translation": "Long ago, women didn't have gas during childbirth."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "nothing-3027.png"
+}

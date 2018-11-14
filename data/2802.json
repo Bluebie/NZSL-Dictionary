@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 2802,
+  "gloss": {
+    "english": [
+      "elbow pad"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakapuru tuke"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pads.2802.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pads.2802.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        944,
+        5129,
+        2802,
+        5480
+      ],
+      "translation": "When roller skating you must wear elbow pads to be safe."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "elbow_pad-2802.png"
+}

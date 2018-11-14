@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1127,
+  "gloss": {
+    "english": [
+      "kangaroo"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rūpeke"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kangaroo.1127.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kangaroo.1127.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4790,
+        2946,
+        2844,
+        3721,
+        1127,
+        2583
+      ],
+      "translation": "On the Australian tour I saw lots of kangaroos."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "kangaroo-1127.png"
+}

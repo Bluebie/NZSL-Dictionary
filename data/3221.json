@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3221,
+  "gloss": {
+    "english": [
+      "hang"
+    ],
+    "english_secondary": [
+      "hanging"
+    ],
+    "maori": [
+      "tārona"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "hang.3221.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hang.3221.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        415,
+        3221,
+        2579,
+        585,
+        5702,
+        5621,
+        5691,
+        6207,
+        5971,
+        640
+      ],
+      "translation": "The last time someone was hung in New Zealand was in nineteen hundred and fifty-seven. There haven't been any hangings since then."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.4.10.neck_throat-69a8044eb6b082d09bf0cb5b2ae17bc4cbdcc3cfdea70e50438cc54998b5df14.png"
+    ]
+  },
+  "image": "hang-3221.png"
+}

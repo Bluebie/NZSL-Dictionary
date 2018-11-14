@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5573,
+  "gloss": {
+    "english": [
+      "beard"
+    ],
+    "english_secondary": [
+      "bearded"
+    ],
+    "maori": [
+      "pāhau"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "beard.5573.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beard.5573.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2091,
+        3220,
+        2297,
+        5573,
+        3300,
+        4689,
+        2297
+      ],
+      "translation": "See that man with the beard? He's my father."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "beard-5573.png"
+}

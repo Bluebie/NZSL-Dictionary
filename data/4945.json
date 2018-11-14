@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4945,
+  "gloss": {
+    "english": [
+      "bomb (aerial)"
+    ],
+    "english_secondary": [
+      "drop a bomb"
+    ],
+    "maori": [
+      "pahū"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bomb.4945.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bomb.4945.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1647,
+        2583,
+        4945,
+        1553,
+        2095,
+        483
+      ],
+      "translation": "During the war, many people died because of bombing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "bomb_aerial-4945.png"
+}

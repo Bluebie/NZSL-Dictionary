@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 849,
+  "gloss": {
+    "english": [
+      "their"
+    ],
+    "english_secondary": [
+      "their own",
+      "theirs"
+    ],
+    "maori": [
+      "ā rāua",
+      "ō rāua",
+      "ā rātou",
+      "ō rātou"
+    ],
+    "attributes": [
+      "pronoun"
+    ]
+  },
+  "video": "their.849.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "their.849.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        2190,
+        1083,
+        730,
+        849,
+        4022,
+        580
+      ],
+      "translation": "I told my friends to bring their food to share."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "their-849.png"
+}

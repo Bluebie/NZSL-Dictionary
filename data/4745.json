@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4745,
+  "gloss": {
+    "english": [
+      "moko"
+    ],
+    "english_secondary": [
+      "tattoo"
+    ],
+    "maori": [
+      "moko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "moko.4745.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "moko.4745.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        519,
+        1553,
+        3204,
+        3220,
+        1376,
+        4745
+      ],
+      "translation": "In the past, many Māori men had moko."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "moko-4745.png"
+}

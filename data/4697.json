@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4697,
+  "gloss": {
+    "english": [
+      "Norway"
+    ],
+    "english_secondary": [
+      "Norwegian"
+    ],
+    "maori": [
+      "Nōwei"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Norway.4697.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Norway.4697.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4697,
+        3420,
+        3721,
+        2982,
+        740
+      ],
+      "translation": "Norway is cold. There's lots of snow on the mountains."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.4-4c77c19ca22dd451cbf550efd728663e0f473a55aab8beb0de65518638db9897.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "Norway-4697.png"
+}

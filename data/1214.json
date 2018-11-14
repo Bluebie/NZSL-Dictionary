@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1214,
+  "gloss": {
+    "english": [
+      "negotiate"
+    ],
+    "english_secondary": [
+      "bargain",
+      "compromise",
+      "give and take",
+      "make a deal",
+      "negotiation"
+    ],
+    "maori": [
+      "whakawhiti whakaaro"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "negotiate.1214.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "negotiate.1214.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        824,
+        3925,
+        964,
+        2556,
+        1214,
+        5413
+      ],
+      "translation": "The flat rent was high so I negotiated a reduction."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "negotiate-1214.png"
+}

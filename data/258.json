@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 258,
+  "gloss": {
+    "english": [
+      "refuse"
+    ],
+    "english_secondary": [
+      "decline",
+      "disobey",
+      "won't"
+    ],
+    "maori": [
+      "kore rawa"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "refuse.258.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "refuse.258.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        954,
+        2297,
+        258,
+        4022,
+        1908,
+        2297
+      ],
+      "translation": "My child refuses to eat cabbage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "refuse-258.png"
+}

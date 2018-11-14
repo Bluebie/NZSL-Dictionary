@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 3637,
+  "gloss": {
+    "english": [
+      "back",
+      "go back"
+    ],
+    "english_secondary": [
+      "backwards",
+      "behind"
+    ],
+    "maori": [
+      "muri",
+      "hoki tuarā"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "backwards.3637.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "backwards.3637.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        648,
+        1170,
+        570,
+        1464,
+        648,
+        3637,
+        570
+      ],
+      "translation": "Don't enter through the front door, use the back door."
+    },
+    {
+      "video": "backwards.3637.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3430,
+        2556,
+        4006,
+        3583,
+        856,
+        2556,
+        3637
+      ],
+      "translation": "I was driving along when I realised I'd forgotten my bag at home, so I went back."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "back-3637.png"
+}

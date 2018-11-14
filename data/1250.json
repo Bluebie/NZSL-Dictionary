@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1250,
+  "gloss": {
+    "english": [
+      "rugby"
+    ],
+    "english_secondary": [
+      "football",
+      "rugby football",
+      "rugby union"
+    ],
+    "maori": [
+      "whutupōro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "rugby.1250.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rugby.1250.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3658,
+        1926,
+        1250,
+        2297,
+        3658
+      ],
+      "translation": "He is a good rugby player."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.2-2682d4160ded65a3ad4b0e36ab3c7bac4b1da2de7da71feb879dbd58d82de078.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "rugby-1250.png"
+}

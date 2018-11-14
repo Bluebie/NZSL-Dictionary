@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 6213,
+  "gloss": {
+    "english": [
+      "items"
+    ],
+    "english_secondary": [
+      "components",
+      "features",
+      "ingredients",
+      "things"
+    ],
+    "maori": [
+      "mea",
+      "hanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "items.6213.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "items.6213.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1805,
+        2297,
+        2163,
+        771,
+        4316,
+        6213,
+        2266
+      ],
+      "translation": "The cake is delicious! What are the ingredients?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "items-6213.png"
+}

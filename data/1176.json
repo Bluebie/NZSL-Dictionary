@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 1176,
+  "gloss": {
+    "english": [
+      "under"
+    ],
+    "english_secondary": [
+      "at the base of",
+      "below",
+      "beneath",
+      "underneath"
+    ],
+    "maori": [
+      "raro"
+    ],
+    "attributes": [
+      "adjective",
+      "preposition"
+    ]
+  },
+  "video": "under.1176.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "under.1176.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        4138,
+        3892,
+        1176,
+        6013,
+        260,
+        570
+      ],
+      "translation": "She put the keys under the front door mat."
+    },
+    {
+      "video": "under.1176.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        1176,
+        2841,
+        2096,
+        648,
+        5471
+      ],
+      "translation": "They were under age and could not get into the pub."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "under-1176.png"
+}

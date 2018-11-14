@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2077,
+  "gloss": {
+    "english": [
+      "work out"
+    ],
+    "english_secondary": [
+      "figure out",
+      "puzzle over",
+      "rack one's brain",
+      "think about"
+    ],
+    "maori": [
+      "whiriwhiri"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "work_out.2077.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "work_out.2077.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4128,
+        656,
+        2556,
+        2077,
+        1544
+      ],
+      "translation": "I've lost my wallet and I'm trying to work out where it could be."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "work_out-2077.png"
+}

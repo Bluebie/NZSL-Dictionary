@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2914,
+  "gloss": {
+    "english": [
+      "hospital"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hōhipera"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "hospital.2914.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hospital.2914.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        233,
+        1231,
+        2281,
+        5784,
+        2556,
+        5405,
+        2914,
+        1463,
+        5607,
+        1465
+      ],
+      "translation": "When I gave birth for the first time, I stayed in the hospital for about a week."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "hospital-2914.png"
+}

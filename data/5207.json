@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5207,
+  "gloss": {
+    "english": [
+      "nosy"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ihu",
+      "haki nohi"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "nosy.5207.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "nosy.5207.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        5207,
+        3009,
+        1553,
+        6010
+      ],
+      "translation": "That woman is nosy. She always asks a lot of questions."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "nosy-5207.png"
+}

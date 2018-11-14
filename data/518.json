@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 518,
+  "gloss": {
+    "english": [
+      "improve"
+    ],
+    "english_secondary": [
+      "get better",
+      "improvement",
+      "recover"
+    ],
+    "maori": [
+      "piki te ora",
+      "pai haere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "improve.518.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "improve.518.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        4972,
+        2320,
+        2297,
+        518
+      ],
+      "translation": "He was sick but has since improved."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "improve-518.png"
+}

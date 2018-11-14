@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2090,
+  "gloss": {
+    "english": [
+      "watch"
+    ],
+    "english_secondary": [
+      "keep an eye on",
+      "look at",
+      "observation",
+      "observe",
+      "observer",
+      "watch out"
+    ],
+    "maori": [
+      "tiaki"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "watch.2090.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "watch.2090.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5389,
+        783,
+        1072,
+        2321,
+        2090
+      ],
+      "translation": "While  the children are swimming outside, you should watch them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "watch-2090.png"
+}

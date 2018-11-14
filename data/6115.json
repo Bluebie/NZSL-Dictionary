@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6115,
+  "gloss": {
+    "english": [
+      "Latvia"
+    ],
+    "english_secondary": [
+      "Latvian"
+    ],
+    "maori": [
+      "Rāwhia"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "latvia.6115.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "latvia.6115.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        6115,
+        2583,
+        3775,
+        3158,
+        2583
+      ],
+      "translation": "Latvia is next to Russia."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Latvia-6115.png"
+}

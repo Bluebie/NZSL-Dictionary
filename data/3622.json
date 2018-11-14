@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 3622,
+  "gloss": {
+    "english": [
+      "clever"
+    ],
+    "english_secondary": [
+      "bright",
+      "intelligent",
+      "knowledgeable",
+      "smart",
+      "well-informed",
+      "wise"
+    ],
+    "maori": [
+      "mātau",
+      "mōhio",
+      "ngaio",
+      "ihumanea"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "clever.3622.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clever.3622.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2128,
+        2297,
+        3622,
+        2297,
+        407,
+        4249,
+        2297
+      ],
+      "translation": "That girl's clever. She's top of her class."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "clever-3622.png"
+}

@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5750,
+  "gloss": {
+    "english": [
+      "click (computer mouse button)"
+    ],
+    "english_secondary": [
+      "mouse button"
+    ],
+    "maori": [
+      "pāwhiria"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "click.5750.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "click.5750.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5750,
+        5340,
+        5510
+      ],
+      "translation": "I clicked the mouse to connect to the internet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "click-5750.png"
+}

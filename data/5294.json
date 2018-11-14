@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 5294,
+  "gloss": {
+    "english": [
+      "eye contact"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "karu ki te karu"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "eye_contact.5294.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "eye_contact.5294.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5285,
+        5509,
+        5294,
+        4261
+      ],
+      "translation": "In Deaf culture, eye contact is important for communication."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "eye_contact-5294.png"
+}

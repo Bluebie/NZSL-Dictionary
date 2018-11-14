@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5285,
+  "gloss": {
+    "english": [
+      "Deaf culture"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "taringa turi",
+      "ahurea turi"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "Deaf_culture.5285.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Deaf_culture.5285.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5818,
+        2410,
+        2844,
+        5285,
+        972
+      ],
+      "translation": "They are all are going to see a presentation about Deaf culture."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deaf_culture-5285.png"
+}

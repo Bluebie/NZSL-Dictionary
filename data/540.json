@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 540,
+  "gloss": {
+    "english": [
+      "heart"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "manawa",
+      "ngākau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "heart.540.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heart.540.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2068,
+        2556,
+        1376,
+        1561,
+        540,
+        1165
+      ],
+      "translation": "I'm worried as I have recurring heart pain."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "heart-540.png"
+}

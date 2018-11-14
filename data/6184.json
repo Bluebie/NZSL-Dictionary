@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6184,
+  "gloss": {
+    "english": [
+      "Facebook"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Pukamata"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "facebook.6184.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "facebook.6184.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3276,
+        "wedding",
+        2677,
+        1036,
+        5579,
+        6184
+      ],
+      "translation": "She's put her wedding photos on Facebook."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "Facebook-6184.png"
+}

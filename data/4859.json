@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4859,
+  "gloss": {
+    "english": [
+      "law"
+    ],
+    "english_secondary": [
+      "legal"
+    ],
+    "maori": [
+      "ture"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "law.4859.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "law.4859.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1772,
+        2297,
+        3919,
+        1095,
+        4859,
+        3462,
+        2841,
+        898,
+        2099,
+        5613
+      ],
+      "translation": "The government has changed the law. Under the new law, the driving age has gone up to sixteen."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "law-4859.png"
+}

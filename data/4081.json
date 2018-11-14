@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 4081,
+  "gloss": {
+    "english": [
+      "banana"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "panana"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "banana.4081.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "banana.4081.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3111,
+        3089,
+        2556,
+        4022,
+        4081
+      ],
+      "translation": "At morning tea I ate a banana."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "banana-4081.png"
+}

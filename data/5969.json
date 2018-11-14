@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 5969,
+  "gloss": {
+    "english": [
+      "replace"
+    ],
+    "english_secondary": [
+      "relieve",
+      "substitute"
+    ],
+    "maori": [
+      "whakahou"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "replace.5969.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "replace.5969.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2382,
+        3571,
+        5969,
+        1095
+      ],
+      "translation": "The TV was broken so we replaced it with a new one."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "replace-5969.png"
+}

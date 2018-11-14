@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 4765,
+  "gloss": {
+    "english": [
+      "mother"
+    ],
+    "english_secondary": [
+      "mum",
+      "mummy"
+    ],
+    "maori": [
+      "whaea",
+      "māmā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "mother.4765.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mother.4765.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        4765,
+        1747,
+        3523,
+        2556,
+        1585,
+        1306,
+        5814
+      ],
+      "translation": "My mother always supported and encouraged me with my schoolwork."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.7.3.1-a36314e9fdb4e8ef70d9d24f3f2e96591b6651f449a65a757b295fd40ee5df50.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "mother-4765.png"
+}

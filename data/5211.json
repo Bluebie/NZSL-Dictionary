@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 5211,
+  "gloss": {
+    "english": [
+      "digress"
+    ],
+    "english_secondary": [
+      "be distracted",
+      "digression",
+      "get off track",
+      "irrelevant",
+      "off task"
+    ],
+    "maori": [
+      "tīweka",
+      "kotiti"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "digress.5211.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "digress.5211.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        601,
+        2879,
+        5211,
+        1300,
+        3027,
+        282,
+        797,
+        557
+      ],
+      "translation": "We were naughty and digressed, just chatting away. We didn't concentrate on getting on with our work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "digress-5211.png"
+}

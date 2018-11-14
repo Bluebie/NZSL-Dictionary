@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 516,
+  "gloss": {
+    "english": [
+      "pass"
+    ],
+    "english_secondary": [
+      "overtake",
+      "past"
+    ],
+    "maori": [
+      "hipa"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "pass.516.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pass.516.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        2883,
+        514,
+        1069,
+        "notice",
+        1376,
+        5471,
+        2583
+      ],
+      "translation": "I passed the pub. I had never noticed it was there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "pass-516.png"
+}

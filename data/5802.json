@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 5802,
+  "gloss": {
+    "english": [
+      "oral",
+      "speaking"
+    ],
+    "english_secondary": [
+      "communicate through speech",
+      "oralism",
+      "oralist",
+      "speech"
+    ],
+    "maori": [
+      "ā-waha",
+      "kōrero"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "oral.5802.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "oral.5802.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3885,
+        5784,
+        1279,
+        2021,
+        3027,
+        5488,
+        "cl:slap-hand",
+        5802
+      ],
+      "translation": "At that time, teachers would slap our hands if we signed. They used the oral method."
+    },
+    {
+      "video": "oral.5802.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5802,
+        4293,
+        3658,
+        4501,
+        2297
+      ],
+      "translation": "He can speak well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.3-9da74166f87ab1cbe47efbab811640da8d8be77bee2fe815419f5e099b6f2fae.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "oral-5802.png"
+}

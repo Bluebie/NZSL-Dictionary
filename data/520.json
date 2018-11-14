@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 520,
+  "gloss": {
+    "english": [
+      "arm"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ringa",
+      "ringaringa"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "arm.520.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "arm.520.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        954,
+        2583,
+        1298,
+        4680,
+        3571,
+        520
+      ],
+      "translation": "A child at school fell and broke his arm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "arm-520.png"
+}

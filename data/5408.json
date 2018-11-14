@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5408,
+  "gloss": {
+    "english": [
+      "population"
+    ],
+    "english_secondary": [
+      "multitude"
+    ],
+    "maori": [
+      "nui o te tāngata",
+      "taupori"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "population.5408.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "population.5408.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        5408,
+        2579,
+        585,
+        1087,
+        5620,
+        1109
+      ],
+      "translation": "The population here in New Zealand is over four million."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "population-5408.png"
+}

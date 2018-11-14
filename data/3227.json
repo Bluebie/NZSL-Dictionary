@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 3227,
+  "gloss": {
+    "english": [
+      "protest",
+      "strike"
+    ],
+    "english_secondary": [
+      "demonstrate",
+      "demonstration",
+      "stop work"
+    ],
+    "maori": [
+      "mautohe",
+      "auporo"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "protest.3227.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "protest.3227.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2095,
+        1388,
+        2804,
+        3227,
+        4597,
+        1772,
+        1602,
+        2866
+      ],
+      "translation": "People gathered  on the street. They were protesting because they objected to government service cuts."
+    },
+    {
+      "video": "protest.3227.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        2540,
+        3227,
+        797,
+        3027
+      ],
+      "translation": "We were on strike and didn't work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "protest-3227.png"
+}

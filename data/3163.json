@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3163,
+  "gloss": {
+    "english": [
+      "sheep"
+    ],
+    "english_secondary": [
+      "ram"
+    ],
+    "maori": [
+      "hipi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sheep.3163.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sheep.3163.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        585,
+        2579,
+        3721,
+        3163,
+        1436
+      ],
+      "translation": "There are plenty of sheep all around New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sheep-3163.png"
+}

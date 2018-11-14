@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5247,
+  "gloss": {
+    "english": [
+      "kaumātua"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kaumātua"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "kaumatua.5247.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "kaumatua.5247.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        5247,
+        2297,
+        764,
+        2540,
+        648,
+        5919
+      ],
+      "translation": "The kaumātua welcomed us on to the marae."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "kaumatua-5247.png"
+}

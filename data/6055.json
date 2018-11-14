@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6055,
+  "gloss": {
+    "english": [
+      "essay"
+    ],
+    "english_secondary": [
+      "assignment",
+      "dissertation",
+      "journal",
+      "writing"
+    ],
+    "maori": [
+      "tuhinga roa"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "essay.6055.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "essay.6055.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2556,
+        1376,
+        4054,
+        6055,
+        2556,
+        496,
+        5785,
+        4271
+      ],
+      "translation": "I have an education essay I'm very behind on. I'm trying to catch up."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.2-da7f1059c73c29642bc3148a7fc38d1049d3ec2517d2089a713f1193df95cab6.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "essay-6055.png"
+}

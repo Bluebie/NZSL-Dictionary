@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 2905,
+  "gloss": {
+    "english": [
+      "get off"
+    ],
+    "english_secondary": [
+      "disembark",
+      "dismount",
+      "get down"
+    ],
+    "maori": [
+      "makere",
+      "heke",
+      "tuku"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "off_get_off.2905.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "off_get_off.2905.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2410,
+        797,
+        2926,
+        1031,
+        2905,
+        2883,
+        2299,
+        797
+      ],
+      "translation": "I travel to work by train. When the train gets there, I get off and walk the rest of the way."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "get_off-2905.png"
+}

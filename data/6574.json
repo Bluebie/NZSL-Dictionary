@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 6574,
+  "gloss": {
+    "english": [
+      "warm up"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamahana"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "warm_up.6574.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "warm_up.6574.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4022,
+        4138,
+        5532,
+        6574
+      ],
+      "translation": "I put the food in the oven to warm up."
+    },
+    {
+      "video": "warm_up.6574.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        499,
+        1926,
+        3707,
+        5509,
+        6574
+      ],
+      "translation": "It is important to warm up before you play sports."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.2-cdb9bd075fd3efae535e48cb764922dc8b2ee8b5372de94566add0fc158ac5fe.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "warm_up-6574.png"
+}

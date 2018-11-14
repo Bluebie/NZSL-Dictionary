@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 1888,
+  "gloss": {
+    "english": [
+      "frightened"
+    ],
+    "english_secondary": [
+      "afraid",
+      "get a fright",
+      "scared",
+      "startled",
+      "terrified"
+    ],
+    "maori": [
+      "mataku",
+      "wehi"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "frightened.1888.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "frightened.1888.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4503,
+        2297,
+        2215,
+        1888,
+        2363
+      ],
+      "translation": "That cat is easily frightened and will run away."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "frightened-1888.png"
+}

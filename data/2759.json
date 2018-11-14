@@ -1,0 +1,54 @@
+{
+  "nzsl_id": 2759,
+  "gloss": {
+    "english": [
+      "drill"
+    ],
+    "english_secondary": [
+      "power drill"
+    ],
+    "maori": [
+      "wiri",
+      "hōrete"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "drill.2759.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "drill.2759.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        4471,
+        2556,
+        2759,
+        3375,
+        523,
+        6003
+      ],
+      "translation": "I drilled through a plank to make a set of book shelves."
+    },
+    {
+      "video": "drill.2759.finalexample2.spa.r480x360.mp4",
+      "signs": [
+        4501,
+        2556,
+        5448,
+        3274,
+        2759
+      ],
+      "translation": "Can I use your drill?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "drill-2759.png"
+}

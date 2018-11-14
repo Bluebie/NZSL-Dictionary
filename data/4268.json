@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4268,
+  "gloss": {
+    "english": [
+      "plaster cast"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pāpāuku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "plaster_cast.4268.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plaster_cast.4268.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2184,
+        3521,
+        4680,
+        3571,
+        "arm",
+        4268
+      ],
+      "translation": "The boy was riding his bike when he fell off and broke his arm. He needed a plaster cast."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "plaster_cast-4268.png"
+}

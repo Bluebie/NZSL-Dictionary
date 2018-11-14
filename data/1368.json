@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 1368,
+  "gloss": {
+    "english": [
+      "traffic"
+    ],
+    "english_secondary": [
+      "busy road"
+    ],
+    "maori": [
+      "waka haere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "traffic.1368.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "traffic.1368.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        707,
+        2583,
+        2406,
+        1021,
+        1368
+      ],
+      "translation": "In the weekends, there isn't much traffic in the city."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "traffic-1368.png"
+}

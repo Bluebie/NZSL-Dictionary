@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1900,
+  "gloss": {
+    "english": [
+      "claim"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kerēme"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "claim.1900.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "claim.1900.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        845,
+        5857,
+        5398,
+        1900,
+        889,
+        5621,
+        386,
+        2290
+      ],
+      "translation": "He claimed a total of five hundred thousands dollars from the insurance for the house fire."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "claim-1900.png"
+}

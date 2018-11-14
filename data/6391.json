@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6391,
+  "gloss": {
+    "english": [
+      "Deafblind"
+    ],
+    "english_secondary": [
+      "deafblind",
+      "deaf-blind",
+      "deafblind person",
+      "deafblindness"
+    ],
+    "maori": [
+      "he tangata turi me kāpō"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "deafblind.6391.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deafblind.6391.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        3276,
+        4454,
+        6391,
+        2297,
+        5488,
+        2297
+      ],
+      "translation": "His daughter is Deafblind. She signs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "deafblind-6391.png"
+}

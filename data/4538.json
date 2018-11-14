@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4538,
+  "gloss": {
+    "english": [
+      "pedestrian crossing"
+    ],
+    "english_secondary": [
+      "crossing",
+      "zebra crossing"
+    ],
+    "maori": [
+      "whakawhitinga",
+      "rewarangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "pedestrian_crossing.4538.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pedestrian_crossing.4538.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1298,
+        2583,
+        1376,
+        4538,
+        5389,
+        2883,
+        5480
+      ],
+      "translation": "The school has a pedestrian crossing where children can walk across safely."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.1-dcd9588ea6ee15e8803fe065abe20ed507d51878efede2fa9516d8f155abca5a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "pedestrian_crossing-4538.png"
+}

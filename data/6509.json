@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6509,
+  "gloss": {
+    "english": [
+      "cocoon"
+    ],
+    "english_secondary": [
+      "chrysalis",
+      "pupa"
+    ],
+    "maori": [
+      "tūngoungou"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cocoon.6509.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cocoon.6509.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        2519,
+        2297,
+        3919,
+        6509,
+        4376,
+        4950
+      ],
+      "translation": "The caterpillar has changed into a cocoon. Soon it will be a butterfly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "cocoon-6509.png"
+}

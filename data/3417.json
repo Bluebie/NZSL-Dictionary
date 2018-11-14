@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3417,
+  "gloss": {
+    "english": [
+      "spring"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "spring.3417.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "spring.3417.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1463,
+        4625,
+        3417,
+        3721,
+        1190,
+        3542,
+        3437
+      ],
+      "translation": "Plenty of lambs are born in spring time around September."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "spring-3417.png"
+}

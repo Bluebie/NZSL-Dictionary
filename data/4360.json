@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4360,
+  "gloss": {
+    "english": [
+      "shirt"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hāte"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "shirt.4360.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shirt.4360.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5619,
+        4360,
+        4160,
+        4785,
+        3885,
+        707,
+        2946
+      ],
+      "translation": "He packed three shirts ready for his travels over the weekend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "shirt-4360.png"
+}

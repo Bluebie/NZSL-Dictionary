@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 3952,
+  "gloss": {
+    "english": [
+      "come back"
+    ],
+    "english_secondary": [
+      "back",
+      "return"
+    ],
+    "maori": [
+      "hoki mai"
+    ],
+    "attributes": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "video": "come_back.3952.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "come_back.3952.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        555,
+        797,
+        903,
+        1231,
+        3811,
+        3952,
+        6222,
+        2646
+      ],
+      "translation": "She's off work on maternity leave. She'll come back next year."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "come_back-3952.png"
+}

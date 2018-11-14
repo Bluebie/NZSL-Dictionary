@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3042,
+  "gloss": {
+    "english": [
+      "model"
+    ],
+    "english_secondary": [
+      "fashion"
+    ],
+    "maori": [
+      "whakakite kahu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "model.3042.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "model.3042.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        4051,
+        2645,
+        2135,
+        721,
+        797,
+        3042,
+        1523,
+        2677
+      ],
+      "translation": "Some young girls want to work as models with all the clothes, and cameras flashing."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "model-3042.png"
+}

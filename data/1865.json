@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1865,
+  "gloss": {
+    "english": [
+      "interested"
+    ],
+    "english_secondary": [
+      "fascinating",
+      "interesting",
+      "intriguing"
+    ],
+    "maori": [
+      "hiahia",
+      "kaingākau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "interest.1865.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "interest.1865.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3409,
+        2287,
+        1865,
+        1513,
+        3261
+      ],
+      "translation": "The students were interested in learning New Zealand Sign Language."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.3-7ce978a298f8d0b8a644c3df376eaefc49630be509964c9df4544d967e0ac4dc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "interested-1865.png"
+}

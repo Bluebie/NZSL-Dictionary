@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1682,
+  "gloss": {
+    "english": [
+      "ghost"
+    ],
+    "english_secondary": [
+      "spooky"
+    ],
+    "maori": [
+      "kēhua"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "ghost.1682.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ghost.1682.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        2532,
+        2844,
+        1421,
+        1682,
+        2532,
+        2556
+      ],
+      "translation": "I watched a scary movie. The ghost really scared me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ghost-1682.png"
+}

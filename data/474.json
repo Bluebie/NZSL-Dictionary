@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 474,
+  "gloss": {
+    "english": [
+      "goal (rugby)"
+    ],
+    "english_secondary": [
+      "score a goal"
+    ],
+    "maori": [
+      "piro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "goal.474.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "goal.474.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        415,
+        6298,
+        3278,
+        474,
+        4135,
+        2259
+      ],
+      "translation": "Waikato scored a goal in the last minute and beat Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "goal_rugby-474.png"
+}

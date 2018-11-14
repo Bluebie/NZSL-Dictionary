@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6180,
+  "gloss": {
+    "english": [
+      "with"
+    ],
+    "english_secondary": [
+      "accompany",
+      "combine",
+      "together"
+    ],
+    "maori": [
+      "me"
+    ],
+    "attributes": [
+      "adverb",
+      "preposition",
+      "verb"
+    ]
+  },
+  "video": "with.6180.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "with.6180.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        6180,
+        4689,
+        3954
+      ],
+      "translation": "I work with my father as a builder."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "with-6180.png"
+}

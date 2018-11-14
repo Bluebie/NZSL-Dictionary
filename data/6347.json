@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6347,
+  "gloss": {
+    "english": [
+      "beach"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ākau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "beach.6347.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beach.6347.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4790,
+        6347,
+        3658,
+        662
+      ],
+      "translation": "The beaches in Australia are good for surfing"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "beach-6347.png"
+}

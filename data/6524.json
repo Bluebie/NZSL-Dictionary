@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6524,
+  "gloss": {
+    "english": [
+      "meerkat"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      ""
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "meerkat.6524.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "meerkat.6524.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        6524,
+        2297,
+        565,
+        4298,
+        6000
+      ],
+      "translation": "Meerkats live in the desert."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "meerkat-6524.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5201,
+  "gloss": {
+    "english": [
+      "make up"
+    ],
+    "english_secondary": [
+      "dream up",
+      "fabricate",
+      "fictional",
+      "made up",
+      "think up"
+    ],
+    "maori": [
+      "kōrero hangahanga"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "make_up.5201.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "make_up.5201.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        2466,
+        5201,
+        440,
+        3027
+      ],
+      "translation": "She was just making it up. What she said wasn't true."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "make_up-5201.png"
+}

@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 3653,
+  "gloss": {
+    "english": [
+      "finish",
+      "then"
+    ],
+    "english_secondary": [
+      "complete",
+      "conclude",
+      "conclusion",
+      "done",
+      "end",
+      "over"
+    ],
+    "maori": [
+      "oti",
+      "kātahi ka"
+    ],
+    "attributes": [
+      "conjunction",
+      "verb"
+    ]
+  },
+  "video": "finish.3653.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "finish.3653.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2917,
+        2297,
+        3653,
+        857,
+        2297
+      ],
+      "translation": "My son finished his homework."
+    },
+    {
+      "video": "finish.3653.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        1926,
+        3907,
+        3653,
+        2844,
+        2382
+      ],
+      "translation": "I played cards and then I watched TV."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "finish-3653.png"
+}

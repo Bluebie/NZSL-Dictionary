@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 2445,
+  "gloss": {
+    "english": [
+      "maths"
+    ],
+    "english_secondary": [
+      "arithmetic",
+      "mathematics"
+    ],
+    "maori": [
+      "pāngarau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "maths.2445.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "maths.2445.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        407,
+        4249,
+        2445,
+        2297
+      ],
+      "translation": "That boy is top of the class in maths."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "maths-2445.png"
+}

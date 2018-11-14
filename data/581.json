@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 581,
+  "gloss": {
+    "english": [
+      "trailer"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tauaru"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "trailer.581.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "trailer.581.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2807,
+        5731,
+        2583,
+        2556,
+        2410,
+        3925,
+        581,
+        903,
+        5607,
+        264
+      ],
+      "translation": "I hired a trailer for the day from the petrol station."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.19.wrist-67b57ce0f81f3be61745b3296d3623fcb831c619fec1c7c7dc09032547a4a8fc.png"
+    ]
+  },
+  "image": "trailer-581.png"
+}

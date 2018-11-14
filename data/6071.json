@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6071,
+  "gloss": {
+    "english": [
+      "cocktail"
+    ],
+    "english_secondary": [
+      "make cocktails"
+    ],
+    "maori": [
+      "waipiro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "cocktail.6071.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cocktail.6071.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2879,
+        6071,
+        "cl:pour-drink",
+        4264
+      ],
+      "translation": "We made a cocktail, poured it and drank it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cocktail-6071.png"
+}

@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5008,
+  "gloss": {
+    "english": [
+      "belt"
+    ],
+    "english_secondary": [
+      "buckle",
+      "fasten seat belt",
+      "lap belt",
+      "put on belt",
+      "seat belt"
+    ],
+    "maori": [
+      "tātua",
+      "whītiki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "belt.5008.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "belt.5008.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3684,
+        5008,
+        3642,
+        3027,
+        4490,
+        "cl:trousers-fall"
+      ],
+      "translation": "It's better to wear a belt - without it your trousers will fall down."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.13.abdomen-5e276b5ad7e85c6b41b845c31853415339b9d72ecac8d5f90c54d6bf48a61059.png"
+    ]
+  },
+  "image": "belt-5008.png"
+}

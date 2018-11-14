@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2758,
+  "gloss": {
+    "english": [
+      "late"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tōmuri"
+    ],
+    "attributes": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  "video": "late.2758.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "late.2758.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1708,
+        2556,
+        2758,
+        3741,
+        2831,
+        3462,
+        603
+      ],
+      "translation": "Sorry I'm late. I had difficulty finding a car park."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.22.back_of_hand-5ddfa8aa48b87ddc88a7e3a49b605476c623390b0ddbd9f7637ee47f821d9727.png"
+    ]
+  },
+  "image": "late-2758.png"
+}

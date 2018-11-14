@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6205,
+  "gloss": {
+    "english": [
+      "powder"
+    ],
+    "english_secondary": [
+      "baby powder",
+      "powder (something)",
+      "talcum powder"
+    ],
+    "maori": [
+      "paura"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "powder.6205.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "powder.6205.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        1231,
+        4720,
+        3970,
+        3677,
+        5448,
+        6205
+      ],
+      "translation": "Use powder after changing the baby's nappy."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "powder-6205.png"
+}

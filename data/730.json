@@ -1,0 +1,60 @@
+{
+  "nzsl_id": 730,
+  "gloss": {
+    "english": [
+      "bring",
+      "deliver"
+    ],
+    "english_secondary": [
+      "convey",
+      "serve",
+      "service",
+      "supply",
+      "transport"
+    ],
+    "maori": [
+      "mauria mai",
+      "mau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "bring.730.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bring.730.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2321,
+        730,
+        3274,
+        5389,
+        2556,
+        5523
+      ],
+      "translation": "You bring your children here and I'll look after them."
+    },
+    {
+      "video": "bring.730.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        797,
+        3587,
+        730,
+        4022,
+        564,
+        4093
+      ],
+      "translation": "He works as a truck driver, delivering and storing boxes of food."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bring-730.png"
+}

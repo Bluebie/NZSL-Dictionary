@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 3524,
+  "gloss": {
+    "english": [
+      "appointment",
+      "book"
+    ],
+    "english_secondary": [
+      "make a booking",
+      "reservation",
+      "reserve"
+    ],
+    "maori": [
+      "whakaritenga",
+      "whakaritea"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "book.3524.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "book.3524.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        "wednesday",
+        2556,
+        1376,
+        3524,
+        2829
+      ],
+      "translation": "I have a hairdresser's appointment this Wednesday."
+    },
+    {
+      "video": "book.3524.finalexample2.jo.r480x360.mp4",
+      "signs": [
+        2556,
+        3653,
+        3524,
+        4573,
+        4214,
+        707
+      ],
+      "translation": "I've booked a flight to Christchurch for the weekend."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "appointment-3524.png"
+}

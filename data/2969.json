@@ -1,0 +1,65 @@
+{
+  "nzsl_id": 2969,
+  "gloss": {
+    "english": [
+      "barrier",
+      "stuck"
+    ],
+    "english_secondary": [
+      "blocked",
+      "get stuck",
+      "obstacle"
+    ],
+    "maori": [
+      "tauārai",
+      "mau"
+    ],
+    "attributes": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "stuck.2969.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stuck.2969.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        1636,
+        2096,
+        5488,
+        2556,
+        1376,
+        2969,
+        4261
+      ],
+      "translation": "My family can't sign and there is a communication barrier."
+    },
+    {
+      "video": "stuck.2969.finalexample2.vs.r480x360.mp4",
+      "signs": [
+        5731,
+        4809,
+        748,
+        2197,
+        5662,
+        5697,
+        3111,
+        2297,
+        2969,
+        3518
+      ],
+      "translation": "The shop didn't open until nine o'clock in the morning, so he was stuck waiting."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.3-d2dbffd5d38b909f9566baa6b7d16acf8b7505f5cc73e5bbe717e4d9bbce5835.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "barrier-2969.png"
+}

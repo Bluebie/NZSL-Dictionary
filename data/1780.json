@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 1780,
+  "gloss": {
+    "english": [
+      "branch"
+    ],
+    "english_secondary": [
+      "campus",
+      "department",
+      "division"
+    ],
+    "maori": [
+      "pekanga",
+      "wāhanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "branch.1780.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "branch.1780.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        3368,
+        2583,
+        1279,
+        2406,
+        908,
+        1571,
+        560,
+        2348,
+        1780
+      ],
+      "translation": "I work at the bank. I used to work in the city and now I've been transferred to a branch in South Auckland."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "branch-1780.png"
+}

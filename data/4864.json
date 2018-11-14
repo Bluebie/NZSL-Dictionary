@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 4864,
+  "gloss": {
+    "english": [
+      "Ministry (government)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "Manatū"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "Ministry.4864.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Ministry.4864.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        4864,
+        4054,
+        2297,
+        5962,
+        1095,
+        1306,
+        5283,
+        3437
+      ],
+      "translation": "The Ministry of Education published a new school curriculum and disseminated it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Ministry_government-4864.png"
+}

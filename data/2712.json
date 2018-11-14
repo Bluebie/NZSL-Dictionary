@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2712,
+  "gloss": {
+    "english": [
+      "corn"
+    ],
+    "english_secondary": [
+      "corn on the cob",
+      "maize",
+      "sweetcorn"
+    ],
+    "maori": [
+      "kānga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "corn.2712.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "corn.2712.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        549,
+        "eat",
+        2712,
+        6180,
+        641
+      ],
+      "translation": "I love eating corn with butter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "corn-2712.png"
+}

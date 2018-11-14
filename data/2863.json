@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 2863,
+  "gloss": {
+    "english": [
+      "get the impression"
+    ],
+    "english_secondary": [
+      "appear to be",
+      "looks like",
+      "seems to me"
+    ],
+    "maori": [
+      "kite iho",
+      "whakapae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "get_the_impression.2863.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "get_the_impression.2863.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2879,
+        3434,
+        2863,
+        2297,
+        1651,
+        2297
+      ],
+      "translation": "We visited him and got the impression he wasn't well."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "get_the_impression-2863.png"
+}

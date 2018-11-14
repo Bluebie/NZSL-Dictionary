@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 4000,
+  "gloss": {
+    "english": [
+      "sky"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rangi"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sky.4000.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sky.4000.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        5832,
+        6075,
+        2844,
+        4000,
+        1732,
+        4501,
+        924,
+        6000
+      ],
+      "translation": "I opened the curtains and looked at the sky. It was sunny, so I could go to the beach."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sky-4000.png"
+}

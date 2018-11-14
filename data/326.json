@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 326,
+  "gloss": {
+    "english": [
+      "blind"
+    ],
+    "english_secondary": [
+      "blindness",
+      "not notice",
+      "not see"
+    ],
+    "maori": [
+      "kāpō"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "blind.326.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blind.326.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        326,
+        3220,
+        2482,
+        1287,
+        "read",
+        523,
+        1424
+      ],
+      "translation": "The blind man learned how to read books using braille."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.5.eyes-3a8f5fa7a63a6ad0674242d7667229210a2faf1629b9483fdbeb0cc988c6c6f8.png"
+    ]
+  },
+  "image": "blind-326.png"
+}

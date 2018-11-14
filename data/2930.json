@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2930,
+  "gloss": {
+    "english": [
+      "day pupil"
+    ],
+    "english_secondary": [
+      "pupil",
+      "school pupil"
+    ],
+    "maori": [
+      "ākonga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "day_pupil.2930.main_glosses.sh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "day_pupil.2930.finalexample1.sh.r480x360.mp4",
+      "signs": [
+        762,
+        2121,
+        5724,
+        1069,
+        3193,
+        762,
+        1636,
+        5995,
+        810,
+        2930
+      ],
+      "translation": "I was never a boarder at the deaf school. My family lived nearby so I was a day pupil."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "day_pupil-2930.png"
+}

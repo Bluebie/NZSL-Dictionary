@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6077,
+  "gloss": {
+    "english": [
+      "deposit"
+    ],
+    "english_secondary": [
+      "pay (a sum)"
+    ],
+    "maori": [
+      "moni whakatakoto"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "deposit.6077.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "deposit.6077.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3368,
+        5399,
+        1185,
+        5618,
+        2979,
+        6077,
+        903,
+        845
+      ],
+      "translation": "To get a bank loan, I needed a 20 percent deposit for a house."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "deposit-6077.png"
+}

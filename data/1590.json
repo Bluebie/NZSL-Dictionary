@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1590,
+  "gloss": {
+    "english": [
+      "retire"
+    ],
+    "english_secondary": [
+      "retired",
+      "retirement"
+    ],
+    "maori": [
+      "ahungarua",
+      "ritaia"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "retire.1590.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "retire.1590.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        3300,
+        4766,
+        1590,
+        970,
+        908,
+        2946,
+        280
+      ],
+      "translation": "My parents retired recently. They are now travelling around the world."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "retire-1590.png"
+}

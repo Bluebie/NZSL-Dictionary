@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 3747,
+  "gloss": {
+    "english": [
+      "start"
+    ],
+    "english_secondary": [
+      "begin",
+      "beginning"
+    ],
+    "maori": [
+      "tīmata"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "start.3747.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "start.3747.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        3747,
+        1298,
+        2556,
+        2099,
+        5619,
+        2556
+      ],
+      "translation": "I started school when I was three years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "start-3747.png"
+}

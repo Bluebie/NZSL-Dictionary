@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6069,
+  "gloss": {
+    "english": [
+      "clown"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "hako"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "clown.6069.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clown.6069.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        6069,
+        2297,
+        5002,
+        "cl:twist-balloon",
+        3375,
+        1124,
+        1220,
+        954
+      ],
+      "translation": "The clown made a dog from a balloon and gave it to a child."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "clown-6069.png"
+}

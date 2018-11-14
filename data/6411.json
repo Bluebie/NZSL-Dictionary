@@ -1,0 +1,39 @@
+{
+  "nzsl_id": 6411,
+  "gloss": {
+    "english": [
+      "grasshopper"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kōhiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "grasshopper.6411.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grasshopper.6411.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        485,
+        2844,
+        6411,
+        2583
+      ],
+      "translation": "Hey, look, there's a grasshopper!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "grasshopper-6411.png"
+}

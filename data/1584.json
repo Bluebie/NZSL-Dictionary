@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1584,
+  "gloss": {
+    "english": [
+      "mainstream school"
+    ],
+    "english_secondary": [
+      "hearing school",
+      "inclusive education",
+      "integrated education",
+      "mainstreamed",
+      "mainstreaming"
+    ],
+    "maori": [
+      "kura auraki"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "mainstream.1584.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "mainstream.1584.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        959,
+        1584,
+        2117,
+        1228,
+        1069,
+        6180,
+        4656
+      ],
+      "translation": "I grew up in a mainstream school, in the hearing world. I was never with deaf people."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "mainstream_school-1584.png"
+}

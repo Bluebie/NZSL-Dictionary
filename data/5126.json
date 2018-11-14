@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5126,
+  "gloss": {
+    "english": [
+      "go for it"
+    ],
+    "english_secondary": [
+      "dare",
+      "take the plunge",
+      "why not"
+    ],
+    "maori": [
+      "haere tonu",
+      "tohe tonu"
+    ],
+    "attributes": [
+      "phrase"
+    ]
+  },
+  "video": "go_for_it.5126.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_for_it.5126.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        4204,
+        5126,
+        2410,
+        5731,
+        6163,
+        3687,
+        2297,
+        1938
+      ],
+      "translation": "My cousin went for it and got a tattoo. My aunt was angry."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "go_for_it-5126.png"
+}

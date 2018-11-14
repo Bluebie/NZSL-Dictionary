@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6160,
+  "gloss": {
+    "english": [
+      "tackle (football)"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rutu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "tackle.6160.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tackle.6160.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2297,
+        2303,
+        2556,
+        6160,
+        "cl:two-people-fall-ground"
+      ],
+      "translation": "He came up to me and I tackled him to the ground."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tackle_football-6160.png"
+}

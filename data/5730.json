@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 5730,
+  "gloss": {
+    "english": [
+      "ninety"
+    ],
+    "english_secondary": [
+      "90"
+    ],
+    "maori": [
+      "iwa tekau"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "ninety.5730.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ninety.5730.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1545,
+        3587,
+        1376,
+        2707,
+        5641,
+        5730
+      ],
+      "translation": "If you drive a big truck you need to drive below the speed limit of ninety kilometres."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "ninety-5730.png"
+}

@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 3589,
+  "gloss": {
+    "english": [
+      "award"
+    ],
+    "english_secondary": [
+      "present",
+      "presentation"
+    ],
+    "maori": [
+      "tohu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "award.3589.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "award.3589.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        3848,
+        3589,
+        3682,
+        1926,
+        1949
+      ],
+      "translation": "He won the award for being the best player in basketball."
+    },
+    {
+      "video": "award.3589.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4657,
+        6037,
+        3589,
+        2297,
+        4806,
+        4740
+      ],
+      "translation": "The Deaf Club president awarded him life membership."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "award-3589.png"
+}

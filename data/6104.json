@@ -1,0 +1,52 @@
+{
+  "nzsl_id": 6104,
+  "gloss": {
+    "english": [
+      "blow-dry",
+      "hair dryer"
+    ],
+    "english_secondary": [
+      "blow dryer"
+    ],
+    "maori": [
+      "whakamaroke makawe"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "hair_dryer.6104.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hair_dryer.6104.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        1730,
+        3677,
+        2556,
+        6104
+      ],
+      "translation": "I washed my hair and then I blow-dried it."
+    },
+    {
+      "video": "hair_dryer.6104.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        2984,
+        4317,
+        1376,
+        6104,
+        2321
+      ],
+      "translation": "My hair is wet. Do you have a hair dryer?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.4.1-40ec71082c44f1a04a5096b0ce8077544efc0d1b07a9d459c382eed9443ca583.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "blow_dry-6104.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 1938,
+  "gloss": {
+    "english": [
+      "angry"
+    ],
+    "english_secondary": [
+      "furious",
+      "mad"
+    ],
+    "maori": [
+      "riri",
+      "wheke"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "angry.1938.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "angry.1938.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        954,
+        2297,
+        "won't",
+        "eat",
+        2888,
+        4689,
+        2297,
+        1938
+      ],
+      "translation": "The father was angry because the child wouldn't eat his vegetables."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "angry-1938.png"
+}

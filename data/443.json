@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 443,
+  "gloss": {
+    "english": [
+      "confirm"
+    ],
+    "english_secondary": [
+      "verify"
+    ],
+    "maori": [
+      "whakaū"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "confirm.443.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "confirm.443.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        5736,
+        4765,
+        443,
+        2297,
+        2946,
+        1080
+      ],
+      "translation": "He told his mother it's been confirmed that he'll travel overseas."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "confirm-443.png"
+}

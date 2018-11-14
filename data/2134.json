@@ -1,0 +1,57 @@
+{
+  "nzsl_id": 2134,
+  "gloss": {
+    "english": [
+      "cut (on body)",
+      "scar"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "motu",
+      "nawe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cut.2134.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cut.2134.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        3521,
+        4680,
+        1299,
+        5478,
+        "cl:branch-poke-face",
+        2134
+      ],
+      "translation": "I fell off my bike. A tree branch poked into my face and I got a cut."
+    },
+    {
+      "video": "cut.2134.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2184,
+        2297,
+        2134,
+        1505,
+        1279,
+        1124,
+        1895
+      ],
+      "translation": "The boy has a scar from where a dog bit him in the past."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "cut_on_body-2134.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 6147,
+  "gloss": {
+    "english": [
+      "shiny"
+    ],
+    "english_secondary": [
+      "gleaming",
+      "glittering",
+      "glossy",
+      "lustre",
+      "sparkling"
+    ],
+    "maori": [
+      "pīataata"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "shiny.6147.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shiny.6147.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3300,
+        3462,
+        "fs:wax",
+        3449,
+        1050,
+        6147
+      ],
+      "translation": "I waxed and polished my car. Now it's shiny."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shiny-6147.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1754,
+  "gloss": {
+    "english": [
+      "growl"
+    ],
+    "english_secondary": [
+      "nag",
+      "snap at"
+    ],
+    "maori": [
+      "kohete"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "growl.1754.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "growl.1754.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        1717,
+        1754,
+        5389,
+        2582,
+        753
+      ],
+      "translation": "She was grumpy and growled at the children to go and wash their hands."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "growl-1754.png"
+}

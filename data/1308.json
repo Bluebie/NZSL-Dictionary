@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1308,
+  "gloss": {
+    "english": [
+      "shut up"
+    ],
+    "english_secondary": [
+      "be quiet",
+      "hold your tongue",
+      "keep quiet",
+      "stop talking"
+    ],
+    "maori": [
+      "hoihoi tō waha",
+      "e kopi tō waha",
+      "turituri koe"
+    ],
+    "attributes": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "shut_up.1308.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shut_up.1308.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1308,
+        2556,
+        4809,
+        3653,
+        2466,
+        2556
+      ],
+      "translation": "Shut up. I haven't finished talking yet."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "shut_up-1308.png"
+}

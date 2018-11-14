@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5404,
+  "gloss": {
+    "english": [
+      "patronise"
+    ],
+    "english_secondary": [
+      "patronising"
+    ],
+    "maori": [
+      "whakaparahako"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "patronise.5404.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "patronise.5404.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1279,
+        277,
+        5404,
+        4656,
+        3409,
+        2287,
+        5736,
+        2287,
+        2096,
+        2410,
+        1849
+      ],
+      "translation": "In the past, the nuns were very patronising towards deaf students, and said they couldn't go to university."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "patronise-5404.png"
+}

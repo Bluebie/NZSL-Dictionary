@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5424,
+  "gloss": {
+    "english": [
+      "bridge"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "piriti",
+      "arawhiti"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bridge.5424.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bridge.5424.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        3050,
+        797,
+        4088,
+        3103,
+        3375,
+        5424
+      ],
+      "translation": "Her husband works for a business, designing and making bridges."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.1.2-9f3cd25fcefedd16aaacf288ec5b1994247f245fd7e3f6feb579dc1a100467d5.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bridge-5424.png"
+}

@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3339,
+  "gloss": {
+    "english": [
+      "grandson"
+    ],
+    "english_secondary": [
+      "grandchild",
+      "granddaughter"
+    ],
+    "maori": [
+      "mokopuna"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "grandson.3339.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "grandson.3339.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        233,
+        2184,
+        2953,
+        3300,
+        4766,
+        3428,
+        2281,
+        3339
+      ],
+      "translation": "I gave birth to a boy. He was my parents' first grandson."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "grandson-3339.png"
+}

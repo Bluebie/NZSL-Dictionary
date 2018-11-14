@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5525,
+  "gloss": {
+    "english": [
+      "lion"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "raiona"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "lion.5525.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lion.5525.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1231,
+        5525,
+        2583,
+        2095,
+        1367,
+        721,
+        436
+      ],
+      "translation": "There was a baby lion, and people were lining up because they wanted to stroke it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "lion-5525.png"
+}

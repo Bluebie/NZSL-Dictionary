@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2428,
+  "gloss": {
+    "english": [
+      "sometimes"
+    ],
+    "english_secondary": [
+      "at times",
+      "from time to time",
+      "in some cases",
+      "occasionally"
+    ],
+    "maori": [
+      "i ōna wā"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "sometimes.2428.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sometimes.2428.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2117,
+        4293,
+        2428,
+        2556,
+        4370,
+        2556,
+        3230,
+        2556
+      ],
+      "translation": "When hearing people talk to me, sometimes it goes over my head and I don't understand them."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "sometimes-2428.png"
+}

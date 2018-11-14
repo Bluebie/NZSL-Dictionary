@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 3737,
+  "gloss": {
+    "english": [
+      "shit"
+    ],
+    "english_secondary": [
+      "bowel movement",
+      "defecate"
+    ],
+    "maori": [
+      "tiko",
+      "tūtae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "shit.3737.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "shit.3737.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5467,
+        497,
+        3741,
+        3737
+      ],
+      "translation": "She was in the toilet for a long time. It was hard to shit."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "shit-3737.png"
+}

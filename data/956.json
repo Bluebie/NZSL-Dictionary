@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 956,
+  "gloss": {
+    "english": [
+      "pocket"
+    ],
+    "english_secondary": [
+      "put in pocket"
+    ],
+    "maori": [
+      "pūkoro"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "pocket.956.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "pocket.956.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3027,
+        4097,
+        956
+      ],
+      "translation": "I have no money in my pocket."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "pocket-956.png"
+}

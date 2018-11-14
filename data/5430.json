@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5430,
+  "gloss": {
+    "english": [
+      "beard"
+    ],
+    "english_secondary": [
+      "bearded"
+    ],
+    "maori": [
+      "pāhau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "beard.5430.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "beard.5430.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        3050,
+        1376,
+        5430,
+        2556,
+        5736,
+        3809
+      ],
+      "translation": "My husband has a beard. I've told him to shave it off!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "beard-5430.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5880,
+  "gloss": {
+    "english": [
+      "dye"
+    ],
+    "english_secondary": [
+      "bleach",
+      "colour"
+    ],
+    "maori": [
+      "tae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "dye.5880.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "dye.5880.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1298,
+        2583,
+        2984,
+        5880,
+        "bright",
+        1539,
+        6202
+      ],
+      "translation": "At that school dying your hair a bright colour is not allowed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.2-4b94b2eaba37124971a87400fed656cf54f00460ba992b425229dffa0b1d6cce.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "dye-5880.png"
+}

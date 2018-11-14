@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5398,
+  "gloss": {
+    "english": [
+      "insurance"
+    ],
+    "english_secondary": [
+      "insure"
+    ],
+    "maori": [
+      "inihua"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "insurance.5398.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "insurance.5398.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1376,
+        4092,
+        5398,
+        4501,
+        2410,
+        5402,
+        1806
+      ],
+      "translation": "If you have medical insurance, you can go to a private hospital."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "insurance-5398.png"
+}

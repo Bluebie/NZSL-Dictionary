@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 6128,
+  "gloss": {
+    "english": [
+      "penguin"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kororā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "penguin.6128.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "penguin.6128.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4501,
+        2091,
+        6128,
+        5426,
+        585,
+        2453,
+        560,
+        3140,
+        2583
+      ],
+      "translation": "Penguins can be seen here in New Zealand, mostly in the South Island."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.3-9297ea6f3f05cdefe74238c4620c413704838967bb27bbf62097bf26afe62406.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "penguin-6128.png"
+}

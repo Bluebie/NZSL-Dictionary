@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3124,
+  "gloss": {
+    "english": [
+      "office"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tari"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "office.3124.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "office.3124.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        1220,
+        797,
+        3620,
+        5622,
+        1465,
+        5785,
+        3124,
+        797
+      ],
+      "translation": "She gave me six weeks of work experience to try office work."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "office-3124.png"
+}

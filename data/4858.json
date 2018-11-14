@@ -1,0 +1,67 @@
+{
+  "nzsl_id": 4858,
+  "gloss": {
+    "english": [
+      "interfere",
+      "interrupt"
+    ],
+    "english_secondary": [
+      "butt in",
+      "disrupt",
+      "disruptive",
+      "interference",
+      "interruption",
+      "intervention",
+      "intrude",
+      "intrusion"
+    ],
+    "maori": [
+      "whakararu",
+      "haukoti"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "interfere.4858.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "interfere.4858.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1637,
+        696,
+        2314,
+        1490,
+        827,
+        4858,
+        3276,
+        3912
+      ],
+      "translation": "I explained and made it clear that our group were not to interfere with their club."
+    },
+    {
+      "video": "interfere.4858.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2953,
+        1300,
+        2556,
+        4858,
+        1071,
+        1185,
+        3462,
+        3892
+      ],
+      "translation": "They were talking when I interrupted asking for the car keys."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "interfere-4858.png"
+}

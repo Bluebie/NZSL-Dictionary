@@ -1,0 +1,61 @@
+{
+  "nzsl_id": 6092,
+  "gloss": {
+    "english": [
+      "flop",
+      "run out of steam"
+    ],
+    "english_secondary": [
+      "collapse",
+      "fall through",
+      "unsuccessful event"
+    ],
+    "maori": [
+      "hinga",
+      "pau te hau"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "flop.6092.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "flop.6092.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        2645,
+        2287,
+        566,
+        4656,
+        5861,
+        3027,
+        4097,
+        6092
+      ],
+      "translation": "They organised a Deaf youth camp but without any money, it flopped."
+    },
+    {
+      "video": "flop.6092.finalexample2.jt.r480x360.mp4",
+      "signs": [
+        4546,
+        5662,
+        5619,
+        3111,
+        2314,
+        6092,
+        856
+      ],
+      "translation": "We partied until we ran out of steam at 3 o'clock in the morning, and went home."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "flop-6092.png"
+}

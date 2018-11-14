@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 5656,
+  "gloss": {
+    "english": [
+      "cycle"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakamutu i tēnei tikanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "cycle.5656.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "cycle.5656.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        3300,
+        1636,
+        2540,
+        2846,
+        2479,
+        2556,
+        2556,
+        5785,
+        4178,
+        3571,
+        5656
+      ],
+      "translation": "My family are all smokers and I'm the same. I'm trying to give up, to break the cycle."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "cycle-5656.png"
+}

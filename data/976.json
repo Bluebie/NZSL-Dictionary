@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 976,
+  "gloss": {
+    "english": [
+      "stroke"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ikura roro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "stroke.976.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stroke.976.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        4616,
+        2297,
+        976,
+        3741,
+        5448,
+        778,
+        "cl:arm-move"
+      ],
+      "translation": "My uncle had a stroke and found it hard to move his arm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.3.1-16f0d0492a2864eee2780cefcf5cd6a23f4b619bd913edfd050b36c416a5f6c6.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "stroke-976.png"
+}

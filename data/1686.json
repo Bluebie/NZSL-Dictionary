@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 1686,
+  "gloss": {
+    "english": [
+      "halloween"
+    ],
+    "english_secondary": [
+      "monster"
+    ],
+    "maori": [
+      "harawiwini"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "monster.1686.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "monster.1686.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        4657,
+        566,
+        1686,
+        4546,
+        4656,
+        1388
+      ],
+      "translation": "The Deaf club organised a halloween party. Lots of Deaf people attended."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.2.1-c6109ad6736b8b93dd6a7ce5dad19347ebd9cfcd1694ed94fe6363216345e225.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "halloween-1686.png"
+}

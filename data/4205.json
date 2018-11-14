@@ -1,0 +1,38 @@
+{
+  "nzsl_id": 4205,
+  "gloss": {
+    "english": [
+      "biscuit"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pihikete"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "biscuit.4205.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "biscuit.4205.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        721,
+        4205,
+        2321
+      ],
+      "translation": "Do you want a biscuit?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "biscuit-4205.png"
+}

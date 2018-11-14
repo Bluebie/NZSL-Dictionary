@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4672,
+  "gloss": {
+    "english": [
+      "Switzerland"
+    ],
+    "english_secondary": [
+      "Swiss"
+    ],
+    "maori": [
+      "Huiterangi"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "Switzerland.4672.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "Switzerland.4672.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4672,
+        2583,
+        4030,
+        740,
+        2982
+      ],
+      "translation": "In Switzerland there are beautiful mountains, covered with snow."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "Switzerland-4672.png"
+}

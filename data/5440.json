@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 5440,
+  "gloss": {
+    "english": [
+      "light"
+    ],
+    "english_secondary": [
+      "switch on light",
+      "turn on light"
+    ],
+    "maori": [
+      "mārama kē atu"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "light.5440.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "light.5440.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2879,
+        5964,
+        2583,
+        3684,
+        5440,
+        4501,
+        2844,
+        1300
+      ],
+      "translation": "Let's sit over there. There's better light there so we can see each other talking."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "light-5440.png"
+}

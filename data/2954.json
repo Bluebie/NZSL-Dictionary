@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 2954,
+  "gloss": {
+    "english": [
+      "couple"
+    ],
+    "english_secondary": [
+      "pair"
+    ],
+    "maori": [
+      "tokorua"
+    ],
+    "attributes": [
+      "noun",
+      "pronoun"
+    ]
+  },
+  "video": "couple.2954.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "couple.2954.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3638,
+        5391,
+        4656,
+        2954,
+        4331,
+        3434,
+        3300,
+        845,
+        3460
+      ],
+      "translation": "Last night a Deaf couple from Sweden came to my house for dinner."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "couple-2954.png"
+}

@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4953,
+  "gloss": {
+    "english": [
+      "clock"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "karaka",
+      "matawā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "clock.4953.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "clock.4953.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        6014,
+        3027,
+        4953,
+        1071,
+        2552,
+        4996
+      ],
+      "translation": "The room didn't have a clock, so I asked what the time was."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "clock-4953.png"
+}

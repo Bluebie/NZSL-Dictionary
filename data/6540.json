@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6540,
+  "gloss": {
+    "english": [
+      "windmill"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pūrere kapohau"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "windmill.6540.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "windmill.6540.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        3701,
+        2583,
+        4501,
+        2844,
+        6540
+      ],
+      "translation": "You can see a windmill on the farm."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "windmill-6540.png"
+}

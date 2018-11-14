@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 4111,
+  "gloss": {
+    "english": [
+      "develop (film)"
+    ],
+    "english_secondary": [
+      "process (film)"
+    ],
+    "maori": [
+      "whakaahua"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "develop_films.4111.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "develop_films.4111.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2677,
+        777,
+        2410,
+        5731,
+        4111
+      ],
+      "translation": "After I had taken the photos, I went to the shop to get the film developed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "develop_film-4111.png"
+}

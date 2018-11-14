@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5187,
+  "gloss": {
+    "english": [
+      "gullible"
+    ],
+    "english_secondary": [
+      "fell for it",
+      "susceptible"
+    ],
+    "maori": [
+      "kūare"
+    ],
+    "attributes": [
+      ""
+    ]
+  },
+  "video": "gullible.5187.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "gullible.5187.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1432,
+        2556,
+        5643,
+        2297,
+        5187,
+        2050,
+        440
+      ],
+      "translation": "I teased her that I was pregnant. She's gullible and thought it was true."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "gullible-5187.png"
+}

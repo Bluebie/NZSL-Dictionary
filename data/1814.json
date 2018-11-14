@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 1814,
+  "gloss": {
+    "english": [
+      "one-handed fingerspelling"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tuhi ki te mati kotahi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "ASL_fingerspelling.1814.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "ASL_fingerspelling.1814.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2461,
+        1482,
+        4656,
+        "they",
+        1814,
+        2556,
+        4370
+      ],
+      "translation": "I met American Deaf people and they were using one-handed fingerspelling fast. I didn't understand anything."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "one_handed_fingerspelling-1814.png"
+}

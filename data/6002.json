@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 6002,
+  "gloss": {
+    "english": [
+      "platform"
+    ],
+    "english_secondary": [
+      "board",
+      "plank",
+      "stage",
+      "wharf"
+    ],
+    "maori": [
+      "atamira"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "platform.6002.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "platform.6002.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        6002,
+        3063,
+        "cl:person-stand-left",
+        5488
+      ],
+      "translation": "The interpreter stood on the platform and signed."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "platform-6002.png"
+}

@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1685,
+  "gloss": {
+    "english": [
+      "haka"
+    ],
+    "english_secondary": [
+      "Māori posture dance"
+    ],
+    "maori": [
+      "haka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "haka.1685.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "haka.1685.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2095,
+        2287,
+        549,
+        2844,
+        851,
+        1685,
+        6244,
+        5654
+      ],
+      "translation": "People love watching the All Blacks do the haka before a game."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "haka-1685.png"
+}

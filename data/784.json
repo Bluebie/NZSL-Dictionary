@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 784,
+  "gloss": {
+    "english": [
+      "north"
+    ],
+    "english_secondary": [
+      "northern",
+      "up north"
+    ],
+    "maori": [
+      "raki"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "north.784.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "north.784.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3787,
+        2583,
+        5385,
+        5425,
+        784,
+        2583
+      ],
+      "translation": "Rotorua is one hour north of Taupo."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.2-685ab198673bb0e4528ce1f76ae86fad8e1fe0b34bdca6a2d95d9a1e9c68e1da.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "north-784.png"
+}

@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2279,
+  "gloss": {
+    "english": [
+      "switch on"
+    ],
+    "english_secondary": [
+      "put on",
+      "turn on"
+    ],
+    "maori": [
+      "whakakā"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "switch_on.2279.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "switch_on.2279.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6014,
+        "cl:dim",
+        385,
+        5440,
+        2279
+      ],
+      "translation": "The room is too dim. Please switch on the lights."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "switch_on-2279.png"
+}

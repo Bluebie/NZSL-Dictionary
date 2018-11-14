@@ -1,0 +1,50 @@
+{
+  "nzsl_id": 2751,
+  "gloss": {
+    "english": [
+      "laugh"
+    ],
+    "english_secondary": [
+      "amusing",
+      "comical",
+      "funny",
+      "humour",
+      "humorous",
+      "laughter"
+    ],
+    "maori": [
+      "kata"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "laugh.2751.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "laugh.2751.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1071,
+        4765,
+        1071,
+        2556,
+        5632,
+        3358,
+        4765,
+        2751,
+        1317
+      ],
+      "translation": "I told mum I bought a motorbike. She laughed because she didn't believe me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.2-b37d334ddde6f66040e8480ff754f259c86217ceed38f4767deafef8f9700586.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "laugh-2751.png"
+}

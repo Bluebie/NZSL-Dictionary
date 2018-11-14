@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 5418,
+  "gloss": {
+    "english": [
+      "muscle"
+    ],
+    "english_secondary": [
+      "powerful",
+      "tough"
+    ],
+    "maori": [
+      "io",
+      "uaua"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "muscle.5418.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "muscle.5418.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4918,
+        2297,
+        5418,
+        5155
+      ],
+      "translation": "Wow, that man man has large arm muscles!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.4.15.upper_leg-e28a0fd735a34bd9a7df8537c8b6c7eb1d073ab82e633146d4462c48cd991c66.png"
+    ]
+  },
+  "image": "muscle-5418.png"
+}

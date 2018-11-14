@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5070,
+  "gloss": {
+    "english": [
+      "tail"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "waero",
+      "whiore"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "tail.5070.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "tail.5070.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        570,
+        2427,
+        3257,
+        1124,
+        2297,
+        5070,
+        "cl:wag-excitedly"
+      ],
+      "translation": "Someone knocked at the door and the dog wagged its tail excitedly."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.4.14.hips_pelvis_groin-1da1be697c0eebdaa413f465b1cd0c7ae22520d024ae28f381820f7ce952278a.png"
+    ]
+  },
+  "image": "tail-5070.png"
+}

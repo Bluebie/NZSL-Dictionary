@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6252,
+  "gloss": {
+    "english": [
+      "right"
+    ],
+    "english_secondary": [
+      "accurate",
+      "be right",
+      "correct",
+      "that's right"
+    ],
+    "maori": [
+      "tika"
+    ],
+    "attributes": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "video": "right.6252.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "right.6252.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3898,
+        1372,
+        6252,
+        2321
+      ],
+      "translation": "How many did you get right in the exam?"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "right-6252.png"
+}

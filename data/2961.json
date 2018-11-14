@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 2961,
+  "gloss": {
+    "english": [
+      "same"
+    ],
+    "english_secondary": [
+      "alike",
+      "both of us",
+      "identical",
+      "similar",
+      "resemble"
+    ],
+    "maori": [
+      "rite tonu",
+      "ōrite"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "same.2961.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "same.2961.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2961,
+        4249,
+        5620,
+        2646,
+        2583,
+        1306
+      ],
+      "translation": "At school, we were both in the same class for four years."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "same-2961.png"
+}

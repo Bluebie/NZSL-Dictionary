@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 1224,
+  "gloss": {
+    "english": [
+      "can't"
+    ],
+    "english_secondary": [
+      "cannot",
+      "don't know how",
+      "never",
+      "unable to"
+    ],
+    "maori": [
+      "kāore e taea"
+    ],
+    "attributes": [
+      "negator",
+      "verb"
+    ]
+  },
+  "video": "can_t.1224.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "can_t.1224.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        1224,
+        2895,
+        2556,
+        2083,
+        5746,
+        3518,
+        1095,
+        4191
+      ],
+      "translation": "I can't read because my eyesight is deteriorating. I'm waiting for new glasses."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "can_t-1224.png"
+}

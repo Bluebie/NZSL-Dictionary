@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 2880,
+  "gloss": {
+    "english": [
+      "professional"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "ngaio"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "professional.2880.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "professional.2880.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        291,
+        2556,
+        2178,
+        2880,
+        2677
+      ],
+      "translation": "For the wedding, I ordered professional photos."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.2-e011f80ad994950d36ea67d124d3941c2c3190c9c8123a5ca82e36248211448f.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "professional-2880.png"
+}

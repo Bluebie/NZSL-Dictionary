@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5632,
+  "gloss": {
+    "english": [
+      "buy"
+    ],
+    "english_secondary": [
+      "purchase"
+    ],
+    "maori": [
+      "hoko"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "buy.5632.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "buy.5632.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2297,
+        5632,
+        2926,
+        4472,
+        3278,
+        2602,
+        5623,
+        5621,
+        4224
+      ],
+      "translation": "She bought a return train ticket to Hamilton for seventy-five dollars."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.5.1-a69a2dd728a19aa1e5cc34bbd982b86f56a41ce018d6a6198d5bc462ec427559.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "buy-5632.png"
+}

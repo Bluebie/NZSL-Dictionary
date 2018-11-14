@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 766,
+  "gloss": {
+    "english": [
+      "coffin"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "kāwhena",
+      "waka tūpāpaku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "coffin.766.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "coffin.766.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        3337,
+        766,
+        482,
+        "cl:lie-down",
+        2556,
+        2844,
+        2076
+      ],
+      "translation": "As my grandfather laid in the coffin, I looked at him and thought about him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "coffin-766.png"
+}

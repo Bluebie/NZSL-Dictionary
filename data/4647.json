@@ -1,0 +1,55 @@
+{
+  "nzsl_id": 4647,
+  "gloss": {
+    "english": [
+      "bless",
+      "wish someone luck"
+    ],
+    "english_secondary": [
+      "blessing",
+      "bless you"
+    ],
+    "maori": [
+      "whakapai(ngia)"
+    ],
+    "attributes": [
+      "phrase",
+      "verb"
+    ]
+  },
+  "video": "bless.4647.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bless.4647.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4439,
+        4647,
+        2954,
+        3055,
+        606,
+        611
+      ],
+      "translation": "The priest blessed the couple and wished them a long-lasting happy marriage."
+    },
+    {
+      "video": "bless.4647.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1090,
+        2844,
+        6007,
+        4647
+      ],
+      "translation": "You're in trouble. Good luck when you see the principal!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "bless-4647.png"
+}

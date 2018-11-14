@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 482,
+  "gloss": {
+    "english": [
+      "corpse"
+    ],
+    "english_secondary": [
+      "the deceased"
+    ],
+    "maori": [
+      "tūpāpaku"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "corpse.482.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "corpse.482.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3300,
+        3337,
+        766,
+        "cl:lie-down",
+        482,
+        2556,
+        2844,
+        2076
+      ],
+      "translation": "I looked at the corpse of my grandfather laid out in the coffin, and thought about him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "corpse-482.png"
+}

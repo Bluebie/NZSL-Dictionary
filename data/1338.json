@@ -1,0 +1,53 @@
+{
+  "nzsl_id": 1338,
+  "gloss": {
+    "english": [
+      "when"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "āhea"
+    ],
+    "attributes": [
+      "conjunction",
+      "interrogative"
+    ]
+  },
+  "video": "when.1338.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "when.1338.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2321,
+        1031,
+        1338,
+        2321
+      ],
+      "translation": "When do you arrive?"
+    },
+    {
+      "video": "when.1338.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        1171,
+        1298,
+        1338,
+        2556,
+        2099,
+        5620
+      ],
+      "translation": "I started school when I was four years old."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.8.cheek-723c26a71e19cac15a2903917e33a0bde4f663a93f9554f13607fc82571215b5.png"
+    ]
+  },
+  "image": "when-1338.png"
+}

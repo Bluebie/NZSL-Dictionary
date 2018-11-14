@@ -1,0 +1,56 @@
+{
+  "nzsl_id": 1501,
+  "gloss": {
+    "english": [
+      "fade away"
+    ],
+    "english_secondary": [
+      "die out",
+      "heal",
+      "wane",
+      "wear off"
+    ],
+    "maori": [
+      "memeha"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "fade.1501.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fade.1501.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        1095,
+        723,
+        4122,
+        2201,
+        1826,
+        908,
+        1501
+      ],
+      "translation": "My new bright red top has faded after going through the wash."
+    },
+    {
+      "video": "fade.1501.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        2841,
+        1298,
+        5789,
+        1291,
+        1501
+      ],
+      "translation": "My contact with old school friends has faded."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.1-002f876344a5373d704772e3c70636d11d1f890fa8625c6dac2508514cc94c2b.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "fade_away-1501.png"
+}

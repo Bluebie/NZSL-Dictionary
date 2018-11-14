@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 6199,
+  "gloss": {
+    "english": [
+      "distribute"
+    ],
+    "english_secondary": [
+      "hand out"
+    ],
+    "maori": [
+      "tohatoha",
+      "tuari"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "distibute.6199.main_glosses.spa.r480x360.mp4",
+  "usage": [
+    {
+      "video": "distibute.6199.finalexample1.spa.r480x360.mp4",
+      "signs": [
+        5833,
+        2297,
+        385,
+        2321,
+        6199,
+        4657,
+        2583
+      ],
+      "translation": "Please distribute this report to all the Deaf clubs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "distribute-6199.png"
+}

@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 1803,
+  "gloss": {
+    "english": [
+      "association"
+    ],
+    "english_secondary": [
+      "agency",
+      "body",
+      "institution",
+      "organisation"
+    ],
+    "maori": [
+      "rōpū",
+      "tōpūtanga"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "association.1803.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "association.1803.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2297,
+        4316,
+        3261,
+        2021,
+        1803,
+        4844,
+        860,
+        1279,
+        2297
+      ],
+      "translation": "She used to be on the New Zealand Sign Language Teachers Association executive board."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "association-1803.png"
+}

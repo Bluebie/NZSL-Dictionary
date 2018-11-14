@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 1870,
+  "gloss": {
+    "english": [
+      "plump"
+    ],
+    "english_secondary": [
+      "large build",
+      "solid",
+      "stocky"
+    ],
+    "maori": [
+      "mōmona"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "plump.1870.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "plump.1870.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        3687,
+        2297,
+        5572,
+        1870
+      ],
+      "translation": "My aunt is short and plump."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "plump-1870.png"
+}

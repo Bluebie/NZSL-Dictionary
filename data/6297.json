@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6297,
+  "gloss": {
+    "english": [
+      "hereditary"
+    ],
+    "english_secondary": [
+      "passed on"
+    ],
+    "maori": [
+      "tuku iho"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "hereditary.6297.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "hereditary.6297.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1636,
+        4656,
+        669,
+        5582,
+        6297
+      ],
+      "translation": "My family is Deaf due to a hereditary gene."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.2-923b138fb10c52e38bda045e984394cb97372e8149790f31dff4e41d0b6bf075.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "hereditary-6297.png"
+}

@@ -1,0 +1,49 @@
+{
+  "nzsl_id": 5210,
+  "gloss": {
+    "english": [
+      "go wild"
+    ],
+    "english_secondary": [
+      "let one's hair down",
+      "let oneself go",
+      "loosen up"
+    ],
+    "maori": [
+      "kua pōrangi noa iho",
+      "kua heahea noa iho"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "go_wild.5210.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "go_wild.5210.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        967,
+        2297,
+        1747,
+        5405,
+        5995,
+        2895,
+        523,
+        908,
+        3919,
+        5210,
+        4546
+      ],
+      "translation": "In the past she always stayed home and read books, but now she goes wild and parties a lot."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.8.1.1-bf9e500efb5880c77316d89bb5694e17723d8fe2cb4c9abf8c70543e485a981b.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "go_wild-5210.png"
+}

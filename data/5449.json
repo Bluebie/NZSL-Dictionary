@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 5449,
+  "gloss": {
+    "english": [
+      "stress"
+    ],
+    "english_secondary": [
+      "burdened",
+      "stressed"
+    ],
+    "maori": [
+      "ahotea"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "stress.5449.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stress.5449.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        1494,
+        5449,
+        566,
+        804,
+        6033,
+        3653
+      ],
+      "translation": "It's a lot of stress doing the organising, but I have to be patient - it will be over soon."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "stress-5449.png"
+}

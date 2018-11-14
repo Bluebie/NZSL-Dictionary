@@ -1,0 +1,46 @@
+{
+  "nzsl_id": 2276,
+  "gloss": {
+    "english": [
+      "crane"
+    ],
+    "english_secondary": [
+      "lift (by crane)"
+    ],
+    "maori": [
+      "wakahiki"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "crane.2276.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "crane.2276.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        797,
+        2276,
+        2556,
+        5129,
+        2088,
+        797,
+        2463,
+        4859,
+        5480
+      ],
+      "translation": "I work as a crane operator. I have to be careful and follow the law regarding safety."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.2.1-e5943cb1cdec6e3b6926914d650a9b5a595e4d54cc69d0a2891a114f2812083a.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "crane-2276.png"
+}

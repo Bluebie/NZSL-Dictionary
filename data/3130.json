@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 3130,
+  "gloss": {
+    "english": [
+      "science"
+    ],
+    "english_secondary": [
+      "chemical",
+      "chemistry",
+      "experiment",
+      "laboratory work",
+      "scientific",
+      "scientist"
+    ],
+    "maori": [
+      "pūtaiao"
+    ],
+    "attributes": [
+      "adjective",
+      "noun"
+    ]
+  },
+  "video": "experiment.3130.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "experiment.3130.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2117,
+        4249,
+        3130,
+        2445
+      ],
+      "translation": "I'm in a hearing class for science and mathematics."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "science-3130.png"
+}

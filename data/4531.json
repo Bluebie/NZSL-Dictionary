@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4531,
+  "gloss": {
+    "english": [
+      "heading"
+    ],
+    "english_secondary": [
+      "caption",
+      "footer",
+      "header",
+      "headline",
+      "letterhead",
+      "title"
+    ],
+    "maori": [
+      "upoko"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "heading.4531.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "heading.4531.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2844,
+        3943,
+        4531,
+        1669,
+        2583,
+        2767
+      ],
+      "translation": "I saw a newspaper heading which said that there was an earthquake in Japan."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.5.1-1cdfbaa62a27088783a9aced1556526610667eb5b2ad3d2c4ea1a3b070f8be28.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "heading-4531.png"
+}

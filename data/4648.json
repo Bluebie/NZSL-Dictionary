@@ -1,0 +1,58 @@
+{
+  "nzsl_id": 4648,
+  "gloss": {
+    "english": [
+      "art",
+      "paint"
+    ],
+    "english_secondary": [
+      "painting"
+    ],
+    "maori": [
+      "toi",
+      "peita"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "art.4648.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "art.4648.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5632,
+        1558,
+        4648,
+        4163,
+        5622,
+        2290
+      ],
+      "translation": "I bought expensive art worth six thousand dollars!"
+    },
+    {
+      "video": "art.4648.finalexample2.sp.r480x360.mp4",
+      "signs": [
+        5789,
+        4648,
+        367,
+        1983,
+        1220,
+        2515,
+        872
+      ],
+      "translation": "A friend painted a lovely picture and gave it to me for a birthday present."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.2.1-0b3d519882b56215e106ef116942a26a0ddcefc445375764b8e66d555694b02f.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "art-4648.png"
+}

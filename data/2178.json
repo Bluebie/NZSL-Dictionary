@@ -1,0 +1,59 @@
+{
+  "nzsl_id": 2178,
+  "gloss": {
+    "english": [
+      "order"
+    ],
+    "english_secondary": [
+      "command"
+    ],
+    "maori": [
+      "tono"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "order.2178.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "order.2178.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2556,
+        2178,
+        1752,
+        2776,
+        1478,
+        4097,
+        5622,
+        4224,
+        5707,
+        5790
+      ],
+      "translation": "I ordered hot chips and coke. It cost six dollars and forty cents."
+    },
+    {
+      "video": "order.2178.finalexample2.mb.r480x360.mp4",
+      "signs": [
+        4765,
+        2178,
+        2953,
+        2533,
+        1123,
+        4160,
+        564
+      ],
+      "translation": "Mum ordered them both to come back and help pack boxes."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "order-2178.png"
+}

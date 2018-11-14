@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3999,
+  "gloss": {
+    "english": [
+      "sunglasses"
+    ],
+    "english_secondary": [
+      "shades"
+    ],
+    "maori": [
+      "mōhiti rā"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "sunglasses.3999.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "sunglasses.3999.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        4001,
+        3741,
+        2091,
+        1257,
+        3999,
+        3684
+      ],
+      "translation": "It was bright which made it hard to see, so I put on sunglasses. That was better."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "sunglasses-3999.png"
+}

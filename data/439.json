@@ -1,0 +1,45 @@
+{
+  "nzsl_id": 439,
+  "gloss": {
+    "english": [
+      "stick"
+    ],
+    "english_secondary": [
+      "adhere",
+      "stick on",
+      "stick to"
+    ],
+    "maori": [
+      "whakamau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "stick.439.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stick.439.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1640,
+        6307,
+        4472,
+        2556,
+        3462,
+        5832,
+        2556,
+        439
+      ],
+      "translation": "I stuck a sign language week card on the windscreen of the car."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.6.21.palm_of_hand-1b89a4c20ce1f16745b11e34622395c669bbeb0e97c17d0c0871d5babdcc55a6.png"
+    ]
+  },
+  "image": "stick-439.png"
+}

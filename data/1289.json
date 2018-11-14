@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1289,
+  "gloss": {
+    "english": [
+      "up to now"
+    ],
+    "english_secondary": [
+      "as time goes by",
+      "eventually",
+      "so far"
+    ],
+    "maori": [
+      "ināianei"
+    ],
+    "attributes": [
+      "adverb"
+    ]
+  },
+  "video": "up_to_now.1289.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "up_to_now.1289.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        3513,
+        565,
+        2456,
+        1289,
+        2865,
+        2646
+      ],
+      "translation": "My brother has lived in England for twelve years up to now."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.4.11.shoulders-0fcb9ac0335e2e9acbb6281a3ba9e0381716f6e8c64f56fa0f89964b745fd904.png"
+    ]
+  },
+  "image": "up_to_now-1289.png"
+}

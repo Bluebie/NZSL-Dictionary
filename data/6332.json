@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 6332,
+  "gloss": {
+    "english": [
+      "Te Reo Māori"
+    ],
+    "english_secondary": [
+      "Te Reo"
+    ],
+    "maori": [
+      "Te Reo Māori"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "te_reo_maori.6332.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "te_reo_maori.6332.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        6332,
+        2297,
+        3084,
+        2789,
+        2579,
+        6245
+      ],
+      "translation": "Te Reo Māori is an official language of New Zealand."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.1.1-3a16a71271f82e8202c941f21658c4673c13141d9c14787ff306cbd132226083.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "Te_Reo_Maori-6332.png"
+}

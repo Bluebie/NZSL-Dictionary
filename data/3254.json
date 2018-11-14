@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3254,
+  "gloss": {
+    "english": [
+      "blame"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "whakapae"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "blame.3254.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "blame.3254.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        3300,
+        3521,
+        1901,
+        2556,
+        3254,
+        2297,
+        4006,
+        811,
+        3893
+      ],
+      "translation": "My bike got stolen. I blame him because he forgot to lock the garage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "blame-3254.png"
+}

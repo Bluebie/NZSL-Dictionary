@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 3618,
+  "gloss": {
+    "english": [
+      "know"
+    ],
+    "english_secondary": [
+      "aware",
+      "knowledge"
+    ],
+    "maori": [
+      "mōhio"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "know.3618.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "know.3618.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        1522,
+        2297,
+        3618,
+        3261
+      ],
+      "translation": "The woman knows NZSL."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.1.1-05f350e971e1e1b531fe1933540356df1186933bcd0a76d05c96c82ff55a650e.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "know-3618.png"
+}

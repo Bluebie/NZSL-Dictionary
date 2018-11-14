@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6478,
+  "gloss": {
+    "english": [
+      "stethoscope"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "pārongo"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "stethoscope.6478.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "stethoscope.6478.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        4520,
+        6478,
+        335,
+        2556,
+        1595
+      ],
+      "translation": "The doctor listened to my breathing with a stethoscope."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.3.2-6037d72a6023b8a9a1ad477da7350bb6766787fa7793ecb08add65ce73ef8766.png"
+    ],
+    "locations": [
+      "location.3.7.ear-216b008ffc98425165ec5dcb6ee2548f891263fcc98f05a443237ffb8dc9a8f4.png"
+    ]
+  },
+  "image": "stethoscope-6478.png"
+}

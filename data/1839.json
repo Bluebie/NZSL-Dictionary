@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1839,
+  "gloss": {
+    "english": [
+      "fancy dress"
+    ],
+    "english_secondary": [
+      "dress up"
+    ],
+    "maori": [
+      "kaka pohewa",
+      "kaka rerehua"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "fancy_dress.1839.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "fancy_dress.1839.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        4657,
+        2583,
+        3658,
+        2552,
+        1839,
+        4546,
+        1388
+      ],
+      "translation": "We had a good time at the Deaf club. Lots of people came to the fancy dress party."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.2-3a2bc7298d40a83f90c6a3a50dcaf3599237b7c6a339bb312c37b44353ca7cfc.png"
+    ],
+    "locations": [
+      "location.4.12.chest-84f478d072f988fe85378a7a8849e857c03b164977b514510ff5f548035c3d67.png"
+    ]
+  },
+  "image": "fancy_dress-1839.png"
+}

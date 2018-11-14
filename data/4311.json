@@ -1,0 +1,42 @@
+{
+  "nzsl_id": 4311,
+  "gloss": {
+    "english": [
+      "congratulate"
+    ],
+    "english_secondary": [
+      "congratulations",
+      "good on you",
+      "shake hands"
+    ],
+    "maori": [
+      "mihi",
+      "whakamihi"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "congratulate.4311.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "congratulate.4311.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        2491,
+        1220,
+        2775,
+        4311
+      ],
+      "translation": "My boss gave me a certificate and congratulated me."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.2.2-49548e7bfa2714106d29f673502939d8e071f7000409d92b3195025906d5d6c9.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "congratulate-4311.png"
+}

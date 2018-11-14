@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 6384,
+  "gloss": {
+    "english": [
+      "chimney"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tumere"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "chimney.6384.main_glosses.dh.r480x360.mp4",
+  "usage": [
+    {
+      "video": "chimney.6384.finalexample1.dh.r480x360.mp4",
+      "signs": [
+        6384,
+        2297,
+        895,
+        1185,
+        "cl:sweep-chimney"
+      ],
+      "translation": "The chimney is dirty and needs to be swept."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.4.1-59303b4a4c17b12d85de524784585ec37554ee65ee9f8a5a8d3a2afc57481341.png"
+    ],
+    "locations": [
+      "location.6.23.blades_of_hand-37d2c205c9bf7e324c84869f2298c37d292ac34e68471f7fa0bfeaa4d5ea021f.png"
+    ]
+  },
+  "image": "chimney-6384.png"
+}

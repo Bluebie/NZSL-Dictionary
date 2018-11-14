@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 5722,
+  "gloss": {
+    "english": [
+      "false"
+    ],
+    "english_secondary": [
+      "artificial",
+      "fake",
+      "not real",
+      "trick"
+    ],
+    "maori": [
+      "kāore i tūturu"
+    ],
+    "attributes": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "video": "false.5722.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "false.5722.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1923,
+        2291,
+        2297,
+        5722,
+        5818,
+        3700,
+        1175,
+        4948
+      ],
+      "translation": "The fire alarm was fake. It was so that we could practice getting out of the building."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.3.6.nose-ba005e5d9c5953d12b5a12bc6a56a6ddc96acd11b97e6ef966e5244949ae453b.png"
+    ]
+  },
+  "image": "false-5722.png"
+}

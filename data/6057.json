@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 6057,
+  "gloss": {
+    "english": [
+      "avoid"
+    ],
+    "english_secondary": [
+      "stay away",
+      "steer clear of"
+    ],
+    "maori": [
+      "karo"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "avoid.6057.main_glosses.jt.r480x360.mp4",
+  "usage": [
+    {
+      "video": "avoid.6057.finalexample1.jt.r480x360.mp4",
+      "signs": [
+        3587,
+        425,
+        2297,
+        6057,
+        5607,
+        2841,
+        3220,
+        1747,
+        1052,
+        721,
+        4097
+      ],
+      "translation": "I avoid that bus stop, because there is always an old man there who pesters people for money."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "avoid-6057.png"
+}

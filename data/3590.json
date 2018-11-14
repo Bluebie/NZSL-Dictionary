@@ -1,0 +1,41 @@
+{
+  "nzsl_id": 3590,
+  "gloss": {
+    "english": [
+      "swing"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "tārere"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "garden_swing.3590.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "garden_swing.3590.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        6000,
+        2583,
+        3590,
+        5389,
+        1447
+      ],
+      "translation": "The park there has swings. The children like it."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.3.1-d18f27d6d81099e10a6218bc2ddbe4ec593c7af02265d63b9b6b6df1764d8630.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "swing-3590.png"
+}

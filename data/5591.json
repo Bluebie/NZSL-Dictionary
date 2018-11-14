@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5591,
+  "gloss": {
+    "english": [
+      "withdraw"
+    ],
+    "english_secondary": [
+      "pull out of",
+      "log off (computer)",
+      "quit"
+    ],
+    "maori": [
+      "makere"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "withdraw.5591.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "withdraw.5591.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2297,
+        5591,
+        721,
+        1130,
+        "involve",
+        2990
+      ],
+      "translation": "He didn't want to continue his involvement in the committee and withdrew."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.4-cc3e709e9bc455eeb730b21e55dde174012256be44544f6a66a652ef9a2e4e36.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "withdraw-5591.png"
+}

@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 283,
+  "gloss": {
+    "english": [
+      "upright"
+    ],
+    "english_secondary": [
+      "straight",
+      "straighten up",
+      "vertical"
+    ],
+    "maori": [
+      "tūtika"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "upright.283.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "upright.283.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        5634,
+        "cl:stumps",
+        "cl:lean-over",
+        1464,
+        1885,
+        283
+      ],
+      "translation": "The cricket stumps should not be at an angle. They must be precisely upright."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "upright-283.png"
+}

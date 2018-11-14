@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5442,
+  "gloss": {
+    "english": [
+      "lobby"
+    ],
+    "english_secondary": [
+      "advocacy",
+      "advocate",
+      "campaign",
+      "promote"
+    ],
+    "maori": [
+      "whakahau"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "lobby.5442.main_glosses.sp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "lobby.5442.finalexample1.sp.r480x360.mp4",
+      "signs": [
+        2556,
+        5442,
+        721,
+        3063,
+        571
+      ],
+      "translation": "I'm lobbying for a full-time interpreter."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.3.2.1-c7492f52cdbdc01778e01991cd55de007fd039bc0454716ec3c59d56ca49c998.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "lobby-5442.png"
+}

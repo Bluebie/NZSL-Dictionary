@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 3100,
+  "gloss": {
+    "english": [
+      "tear"
+    ],
+    "english_secondary": [
+      "rip"
+    ],
+    "maori": [
+      "tīhae"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "rip.3100.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "rip.3100.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        2556,
+        1959,
+        "fs:bill",
+        3653,
+        3850,
+        2556,
+        3100,
+        3248
+      ],
+      "translation": "I received a bill, but I'd already paid it. I tore it up and threw it in the rubbish."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.3.1-1558aa1bdc1bf7e2a85642d1f2313aa0229fea8cf6bed2430a9bd38672fd2976.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "tear-3100.png"
+}

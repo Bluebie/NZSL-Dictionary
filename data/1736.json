@@ -1,0 +1,44 @@
+{
+  "nzsl_id": 1736,
+  "gloss": {
+    "english": [
+      "brain"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "roro"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "brain.1736.main_glosses.vs.r480x360.mp4",
+  "usage": [
+    {
+      "video": "brain.1736.finalexample1.vs.r480x360.mp4",
+      "signs": [
+        3220,
+        2297,
+        3462,
+        3426,
+        5403,
+        4806,
+        2438,
+        1736,
+        1364
+      ],
+      "translation": "The man was in a car accident and he's still alive, but he has brain damage."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.2.3.1-a0c390692837f71d03a1b8f9b4e7f89933c8fdcbbe1e13aae5b24d826c6fe7c0.png"
+    ],
+    "locations": [
+      "location.3.4.top_of_head-82d3a3eed074de09469be9f1162fefbc417e1652b831b9a38535fb03676e12af.png"
+    ]
+  },
+  "image": "brain-1736.png"
+}

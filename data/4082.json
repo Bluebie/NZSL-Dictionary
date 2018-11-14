@@ -1,0 +1,47 @@
+{
+  "nzsl_id": 4082,
+  "gloss": {
+    "english": [
+      "bullshit"
+    ],
+    "english_secondary": [
+      "nonsense",
+      "rubbish"
+    ],
+    "maori": [
+      "rūkahu",
+      "horihori",
+      "teka"
+    ],
+    "attributes": [
+      "noun",
+      "verb"
+    ]
+  },
+  "video": "bullshit.4082.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bullshit.4082.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        1244,
+        2297,
+        2466,
+        2297,
+        4082,
+        1464,
+        1317,
+        2297
+      ],
+      "translation": "He's bullshitting you - he's talking rubbish. Don't believe him."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.4.2.1-8ed09e2990a7a5795644f3e42be6f766fadfe0b1f568a451eb21f3d2824b9318.png"
+    ],
+    "locations": [
+      "location.5.17.elbow-02d3e59c901329377858ed9ab6aae53048a0f086d008a40939a885cb4395a888.png"
+    ]
+  },
+  "image": "bullshit-4082.png"
+}

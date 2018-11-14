@@ -1,0 +1,48 @@
+{
+  "nzsl_id": 5149,
+  "gloss": {
+    "english": [
+      "contradict oneself"
+    ],
+    "english_secondary": [
+      "change one's story",
+      "falsify",
+      "lie"
+    ],
+    "maori": [
+      "takahia ana tana kupu"
+    ],
+    "attributes": [
+      "verb"
+    ]
+  },
+  "video": "contradict_oneself.5149.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "contradict_oneself.5149.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2556,
+        2050,
+        440,
+        2297,
+        2556,
+        5450,
+        2297,
+        5149,
+        2297,
+        2213,
+        2297
+      ],
+      "translation": "I thought it was true, but I found out she was contradicting herself, so she was lying."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.3.9.lower_head-2b610f84a3f375d3f10d61e583917ccf748ce2dd25ace90295edeac7406168ba.png"
+    ]
+  },
+  "image": "contradict_oneself-5149.png"
+}

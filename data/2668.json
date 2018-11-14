@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 2668,
+  "gloss": {
+    "english": [
+      "other"
+    ],
+    "english_secondary": [
+      "another"
+    ],
+    "maori": [
+      "tētahi atu"
+    ],
+    "attributes": [
+      "adjective"
+    ]
+  },
+  "video": "other.2668.main_glosses.jo.r480x360.mp4",
+  "usage": [
+    {
+      "video": "other.2668.finalexample1.jo.r480x360.mp4",
+      "signs": [
+        2297,
+        5498,
+        2410,
+        2623,
+        1766,
+        2668,
+        3585,
+        "stay"
+      ],
+      "translation": "She decided to go back to Auckland, get another job and stay there."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.5.1.1-02977492004179c516d6dfcd51cfe65bf12b5916c630988c4eeb5883a8ba5c92.png"
+    ],
+    "locations": [
+      "location.6.20.fingers_thumb-fab9dea356b74e11a42f0ed85996865879ca32720f2c79cc535809b46137e63d.png"
+    ]
+  },
+  "image": "other-2668.png"
+}

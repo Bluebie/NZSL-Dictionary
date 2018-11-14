@@ -1,0 +1,40 @@
+{
+  "nzsl_id": 242,
+  "gloss": {
+    "english": [
+      "bedroom"
+    ],
+    "english_secondary": [
+      ""
+    ],
+    "maori": [
+      "rūma moe"
+    ],
+    "attributes": [
+      "noun"
+    ]
+  },
+  "video": "bedroom.242.main_glosses.rp.r480x360.mp4",
+  "usage": [
+    {
+      "video": "bedroom.242.finalexample1.rp.r480x360.mp4",
+      "signs": [
+        2321,
+        601,
+        2321,
+        2582,
+        242
+      ],
+      "translation": "You're naughty! Go to your bedroom!"
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.1.1.1-f5d9aca796fcb8a045553fa69be32b9a3f2cb2abcbe9639923f8a00189ea3da8.png"
+    ],
+    "locations": [
+      "location.3.3.head-37d7b61acefcf7c9899690a01e026a8b910ccdf58d3ed27bdc9069ab7abb6286.png"
+    ]
+  },
+  "image": "bedroom-242.png"
+}

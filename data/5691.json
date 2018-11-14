@@ -1,0 +1,43 @@
+{
+  "nzsl_id": 5691,
+  "gloss": {
+    "english": [
+      "seven"
+    ],
+    "english_secondary": [
+      "7"
+    ],
+    "maori": [
+      "whitu"
+    ],
+    "attributes": [
+      "numeral"
+    ]
+  },
+  "video": "seven.5691.main_glosses.mb.r480x360.mp4",
+  "usage": [
+    {
+      "video": "numbers_7.5691.finalexample1.mb.r480x360.mp4",
+      "signs": [
+        3300,
+        856,
+        1376,
+        5691,
+        950,
+        903,
+        1190,
+        "cl:herd-sheep"
+      ],
+      "translation": "At home we have seven sheep dogs."
+    }
+  ],
+  "attributes": {
+    "handshapes": [
+      "handshape.6.1.1-e3e3a4005fafd87816d6721fd3a66539ec8195715f551f3bc72e1424e3268132.png"
+    ],
+    "locations": [
+      "location.1.1.in_front_of_body-9dd4eb3a77c2bc0fc515de633c0b0cc4d5b11fb1cabcb2d5578dc9d7a8b03ff2.png"
+    ]
+  },
+  "image": "seven-5691.png"
+}
