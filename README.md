@@ -73,8 +73,8 @@ Where are the videos?!
 ======================
 
 Github doesn't love having gigabytes of files synced to it, so I've excluded the
-contents of /video/ from the repo. You can download the video archive from
-TODO: Add link
+contents of /video/ from the repo. A complete copy of the dataset including
+video is available from Archive: https://archive.org/details/nzsl-dict-2018-11-14
 
 Copyright
 =========
